@@ -2,16 +2,14 @@ FULL CURRICULUM DRAFT
 VISUAL ARTS (Дүрслэх урлаг)
 LOWER SECONDARY GRADES 6–8
 (Early-Exit Subject — Not Allocated in Grade 9)
-Total hours
-99 (33 + 33 + 33 + 0)
-Weekly pattern
-1 → 1 → 1 → 0 lessons/week
-Cluster
-5: Creative, Aesthetic, and Design Formation
-Partners
-Хөгжим (Music), Дизайн технологи (Design & Technology)
-Upstream basis
-Steps 1–5C + Step 6 Subject Design Brief
+
+| Total hours | 99 (33 + 33 + 33 + 0) |
+| --- | --- |
+| Weekly pattern | 1 → 1 → 1 → 0 lessons/week |
+| Cluster | 5: Creative, Aesthetic, and Design Formation |
+| Partners | Хөгжим (Music), Дизайн технологи (Design & Technology) |
+| Upstream basis | Steps 1–5C + Step 6 Subject Design Brief |
+
 Based on Mongolia’s Pre-Primary Curriculum (2025), Primary Curriculum (2025), and the Cross-Level Competence Analysis (Steps 1–6). Working Document — March 2026.
 A. Subject Purpose and Role in Lower Secondary Education
 Visual Arts (Дүрслэх урлаг) develops learners’ capacity to perceive, interpret, create, and communicate through visual form. It is the lower secondary continuation of the pre-primary Зураг, урлал (Art and Craft) direction and the primary Дүрслэх урлаг, дизайн (Visual Arts and Design) subject. Within Cluster 5 (Creative, Aesthetic, and Design Formation), it carries the primary responsibility for visual literacy, aesthetic perception, compositional reasoning, and artistic expression.
@@ -24,61 +22,31 @@ Cross-curricular contribution: developing creative thinking, spatial reasoning, 
 As an early-exit subject (absent from Grade 9), Visual Arts must deliver all its developmental contributions within a 99-hour, three-year programme. Grade 8 functions as the capstone year, and the entire sequence is designed as a complete programme with intentional culmination.
 B. Curriculum Strands
 The curriculum is organised around two essential strands and one integrated supporting strand. These operate concurrently within each lesson, not as separate teaching blocks.
-Strand
-Status
-Time
-Scope
-Strand 1
-Art-Making and Composition
-Essential
-55–60%
-Practical studio work: drawing, painting, mixed media, and craft. Developing technical skill, compositional reasoning, and creative expression through hands-on practice. Continues the primary Урлан бүтээхүй strand.
-Strand 2
-Visual Perception and Cultural Analysis
-Essential
-25–30%
-Observing, interpreting, and evaluating artworks and visual culture. Engaging with Mongolian and world art heritage. Continues the primary Дүрслэлийн хэл and Соёлын үнэт зүйл strands.
-Strand 3
-Reflective Creative Practice
-Supporting
-(integrated)
-10–15%
-Self-assessment, peer critique, portfolio development, articulation of creative process. Integrated into studio and analysis work, not a separate block. Carries metacognitive and self-regulation competences.
+
+| Strand | Status | Time | Scope |
+| --- | --- | --- | --- |
+| Strand 1
+Art-Making and Composition | Essential | 55–60% | Practical studio work: drawing, painting, mixed media, and craft. Developing technical skill, compositional reasoning, and creative expression through hands-on practice. Continues the primary Урлан бүтээхүй strand. |
+| Strand 2
+Visual Perception and Cultural Analysis | Essential | 25–30% | Observing, interpreting, and evaluating artworks and visual culture. Engaging with Mongolian and world art heritage. Continues the primary Дүрслэлийн хэл and Соёлын үнэт зүйл strands. |
+| Strand 3
+Reflective Creative Practice | Supporting
+(integrated) | 10–15% | Self-assessment, peer critique, portfolio development, articulation of creative process. Integrated into studio and analysis work, not a separate block. Carries metacognitive and self-regulation competences. |
+
 The typical lesson integrates all three strands: a brief perceptual engagement or cultural discussion (Strand 2, five to eight minutes), an extended studio making period (Strand 1, twenty-five to thirty minutes), and a closing reflection or sharing moment (Strand 3, three to five minutes). This integrated model ensures that art-making is always grounded in perception and always accompanied by reflection, even within the single weekly lesson.
 C. Overall Progression Across Grades 6–8
 The three-year sequence follows the Step 2 developmental transformation logic, progressing from consolidation through extension to culmination. The following table summarises the progression across key dimensions.
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Role
-Transition and consolidation
-Extension and structured growth
-Capstone integration
-Cognitive demand
-Describe, apply, explore
-Explain, compare, interpret
-Analyse, synthesise, evaluate
-Creative stance
-Guided exploration with structured choice
-Intentional composition with expanding range
-Independent creative practice with reflective critique
-Cultural engagement
-Recognition and appreciation
-Interpretation and contextualisation
-Reflective engagement and creative application
-Learner autonomy
-Guided autonomy: teacher-structured tasks with some choice
-Structured choice: learner selects within set parameters
-Managed independence: learner plans and executes projects
-Assessment
-Formative observation; process portfolio begins
-Formative plus 1–2 structured reflective tasks
-Culminating portfolio or project with self-evaluation
-Art-making tasks
-8–10 guided tasks across media
-8–10 tasks with increasing compositional intention
-6–8 tasks including sustained capstone project
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 |
+| --- | --- | --- | --- |
+| Role | Transition and consolidation | Extension and structured growth | Capstone integration |
+| Cognitive demand | Describe, apply, explore | Explain, compare, interpret | Analyse, synthesise, evaluate |
+| Creative stance | Guided exploration with structured choice | Intentional composition with expanding range | Independent creative practice with reflective critique |
+| Cultural engagement | Recognition and appreciation | Interpretation and contextualisation | Reflective engagement and creative application |
+| Learner autonomy | Guided autonomy: teacher-structured tasks with some choice | Structured choice: learner selects within set parameters | Managed independence: learner plans and executes projects |
+| Assessment | Formative observation; process portfolio begins | Formative plus 1–2 structured reflective tasks | Culminating portfolio or project with self-evaluation |
+| Art-making tasks | 8–10 guided tasks across media | 8–10 tasks with increasing compositional intention | 6–8 tasks including sustained capstone project |
+
 Grade 9 is not allocated. Cross-curricular connections are designed so that visual literacy, creative thinking, and cultural awareness carry into other Grade 9 subjects, particularly Уран зохиол (Literature), Түүх (History), and Дизайн технологи (Design and Technology).
 D. Grade 6 Curriculum
 D.1 Role of the Grade
@@ -234,34 +202,16 @@ Self-assessment and peer feedback are integral components, not optional extras.
 Assessment must never dominate available studio time.
 I.2 Assessment Dimensions
 The following dimensions should be assessed across the programme, with increasing sophistication from Grade 6 to Grade 8:
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Creative process
-Engages with tasks; uses materials appropriately; attempts to follow the creative inquiry cycle
-Plans compositions intentionally; experiments with techniques; reflects on process
-Plans and manages sustained projects independently; iterates and improves; articulates creative reasoning
-Compositional reasoning
-Uses elements and principles with growing awareness
-Makes intentional compositional choices and can explain them
-Integrates multiple elements and principles to achieve complex visual effects
-Technical skill
-Demonstrates control in at least three media
-Expands media range; applies techniques with growing confidence
-Uses accumulated skills flexibly to serve creative intentions
-Visual analysis
-Describes what they see in artworks using basic vocabulary
-Analyses artworks using structured framework; identifies artist’s choices
-Analyses independently; makes argued evaluative judgements
-Cultural engagement
-Recognises and names Mongolian visual forms
-Interprets cultural content; explains symbolic meaning
-Reflects on how heritage connects to contemporary identity
-Reflective capacity
-Makes simple observations about own work
-Writes structured reflections on intention and outcome
-Evaluates own three-year development; articulates creative growth
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 |
+| --- | --- | --- | --- |
+| Creative process | Engages with tasks; uses materials appropriately; attempts to follow the creative inquiry cycle | Plans compositions intentionally; experiments with techniques; reflects on process | Plans and manages sustained projects independently; iterates and improves; articulates creative reasoning |
+| Compositional reasoning | Uses elements and principles with growing awareness | Makes intentional compositional choices and can explain them | Integrates multiple elements and principles to achieve complex visual effects |
+| Technical skill | Demonstrates control in at least three media | Expands media range; applies techniques with growing confidence | Uses accumulated skills flexibly to serve creative intentions |
+| Visual analysis | Describes what they see in artworks using basic vocabulary | Analyses artworks using structured framework; identifies artist’s choices | Analyses independently; makes argued evaluative judgements |
+| Cultural engagement | Recognises and names Mongolian visual forms | Interprets cultural content; explains symbolic meaning | Reflects on how heritage connects to contemporary identity |
+| Reflective capacity | Makes simple observations about own work | Writes structured reflections on intention and outcome | Evaluates own three-year development; articulates creative growth |
+
 I.3 Assessment Events
 Grade 6: ongoing formative observation; end-of-year portfolio review with brief self-assessment (select strongest piece with one to two sentences of explanation).
 Grade 7: mid-year structured self-assessment (select and reflect on strongest work); end-of-year portfolio review by teacher with criterion-referenced feedback.

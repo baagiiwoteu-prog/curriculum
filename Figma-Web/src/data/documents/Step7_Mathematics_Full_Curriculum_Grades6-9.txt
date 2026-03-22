@@ -3,20 +3,16 @@ MATHEMATICS (МАТЕМАТИК)
 Lower Secondary Grades 6–9
 Mongolia Curriculum Reform — Step 7
 Working Document — March 2026
-Subject
-Математик / Mathematics
-Cluster
-Cluster 2: Mathematical and Computational Reasoning
-Weight
-FLAGSHIP — 561 total hours
-Weekly Pattern
-Grade 6: 5 lessons | Grades 7–9: 4 lessons
-Annual Hours
-Gr 6: 165 | Gr 7: 132 | Gr 8: 132 | Gr 9: 132
-Partner Subject
-Компьютерын ухаан (Computer Science)
-Upstream Docs
-Steps 1–6 of Cross-Level Competence Analysis
+
+| Subject | Математик / Mathematics |
+| --- | --- |
+| Cluster | Cluster 2: Mathematical and Computational Reasoning |
+| Weight | FLAGSHIP — 561 total hours |
+| Weekly Pattern | Grade 6: 5 lessons | Grades 7–9: 4 lessons |
+| Annual Hours | Gr 6: 165 | Gr 7: 132 | Gr 8: 132 | Gr 9: 132 |
+| Partner Subject | Компьютерын ухаан (Computer Science) |
+| Upstream Docs | Steps 1–6 of Cross-Level Competence Analysis |
+
 A. Subject Purpose and Role in Lower Secondary Education
 A.1 Educational Purpose
 Mathematics in Grades 6–9 serves as the principal vehicle for developing quantitative reasoning, spatial-logical thinking, abstract symbolic representation, and systematic problem-solving across Mongolia’s lower secondary education. It accomplishes three interconnected purposes: (a) it transforms the concrete arithmetic and geometric competences built in pre-primary and primary into the algebraic, deductive, and statistical reasoning capacities required for further education and adult life; (b) it provides the quantitative language and analytical tools that all other lower secondary subjects depend upon—physics, chemistry, biology, geography, computer science, and social studies all require mathematical competences that this subject must develop; and (c) it cultivates the general cognitive capacities of logical reasoning, evidence-based argumentation, and critical evaluation of quantitative claims that are essential for informed citizenship in contemporary Mongolia.
@@ -26,117 +22,42 @@ A.3 Continuation from Prior Learning
 This curriculum is explicitly designed as a continuation of the mathematical development begun in pre-primary (ages 2–5, across four domains: Тоо тоолол / Number, Хэмжигдэхүүн / Measurement, Геометр / Geometry, and Цахим ертөнц ба алхам / Digital World and Steps) and extended through primary Grades 1–5 (arithmetic operations through hundreds of millions; fractions and decimals; two-step equations; geometry through coordinate plane Quadrant I; measurement with standard units; data handling through line graphs and measures of central tendency; probability through likelihood ranking; and structured five-step problem-solving). It does not begin afresh. It builds on eleven years of prior mathematical experience while acknowledging that PISA 2022 data shows approximately half of Mongolian 15-year-olds score below the mathematics baseline, requiring deliberate bridging and remediation alongside progression.
 B. Curriculum Strands
 The curriculum is organised around five strands: four content strands and one transversal process strand that operates across all content.
-#
-Strand
-Scope
-Primary Root
-Key Transition
-1
-Number and Algebra
-Rational numbers; integers; expressions and equations; inequalities; linear and quadratic functions; proportional reasoning; financial literacy
-Тоо тоолол
-Arithmetic → Algebraic thinking
-2
-Geometry
-Properties of figures; angle relationships; congruence and similarity; transformations; coordinate geometry; circles; introductory trigonometry
-Геометр
-Description → Deduction
-3
-Measurement
-Unit systems and conversion; perimeter, area, surface area, volume; compound measures; precision and estimation
-Хэмжигдэхүүн
-Measuring → Calculating → Modelling
-4
-Statistics and Probability
-Data collection and representation; central tendency and spread; experimental and theoretical probability; sampling; correlation
-Магадлал, статистик
-Recording → Analysing → Inferring
-5
-Mathematical Processes
-Problem-solving; reasoning and proof; modelling; communication; tool use and representation
-Cross-cutting
-Following → Selecting → Justifying methods
+
+| # | Strand | Scope | Primary Root | Key Transition |
+| --- | --- | --- | --- | --- |
+| 1 | Number and Algebra | Rational numbers; integers; expressions and equations; inequalities; linear and quadratic functions; proportional reasoning; financial literacy | Тоо тоолол | Arithmetic → Algebraic thinking |
+| 2 | Geometry | Properties of figures; angle relationships; congruence and similarity; transformations; coordinate geometry; circles; introductory trigonometry | Геометр | Description → Deduction |
+| 3 | Measurement | Unit systems and conversion; perimeter, area, surface area, volume; compound measures; precision and estimation | Хэмжигдэхүүн | Measuring → Calculating → Modelling |
+| 4 | Statistics and Probability | Data collection and representation; central tendency and spread; experimental and theoretical probability; sampling; correlation | Магадлал, статистик | Recording → Analysing → Inferring |
+| 5 | Mathematical Processes | Problem-solving; reasoning and proof; modelling; communication; tool use and representation | Cross-cutting | Following → Selecting → Justifying methods |
+
 B.1 Strand Relationships
 Number and Algebra provides the symbolic language and computational tools for all other strands. Geometry and Measurement are deeply interconnected: measurement quantifies geometric objects while geometry structures measurement contexts. Statistics and Probability draws on computation from Number and Algebra and on real-world data contexts. Mathematical Processes is not a separate content strand but a transversal competence strand describing how learners engage with content across all four content strands—it must be embedded in every unit, not taught in isolation.
 B.2 Indicative Strand Weighting
-Strand
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Number and Algebra
-~40%
-~38%
-~35%
-~35%
-Geometry
-~20%
-~22%
-~25%
-~25%
-Measurement
-~18%
-~15%
-~13%
-~10%
-Statistics & Probability
-~12%
-~15%
-~17%
-~20%
-Mathematical Processes
-~10%
-~10%
-~10%
-~10%
+
+| Strand | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Number and Algebra | ~40% | ~38% | ~35% | ~35% |
+| Geometry | ~20% | ~22% | ~25% | ~25% |
+| Measurement | ~18% | ~15% | ~13% | ~10% |
+| Statistics & Probability | ~12% | ~15% | ~17% | ~20% |
+| Mathematical Processes | ~10% | ~10% | ~10% | ~10% |
+
 Note: Mathematical Processes time is largely embedded within content strand teaching; the 10% represents dedicated investigation and modelling tasks. Actual process development permeates all instruction.
 C. Overall Progression Across Grades 6–9
 C.1 Progression Summary Table
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Role
-Bridging year
-Structured extension
-Analytical deepening
-Synthesis & preparation
-Hours
-165 (5/wk)
-132 (4/wk)
-132 (4/wk)
-132 (4/wk)
-Cognitive mode
-Concrete → bridging
-Structured abstract
-Analytical-integrative
-Evaluative-synthetic
-Algebraic level
-Patterns → expressions; variable as unknown; simple equations
-Integer operations; linear equations; rational number system
-Systems of equations; functions; inequalities
-Quadratics; function families; modelling
-Geometric level
-Property-based classification; angle basics; constructions
-Angle relationships; triangle properties; transformations
-Pythagorean theorem; congruence/similarity; deductive proof
-Circle theorems; trigonometry; coordinate proofs
-Statistical level
-Data collection; graphs; mean/median/mode
-Data comparison; experimental probability
-Spread; theoretical probability; sampling
-Correlation; inference; statistical projects
-Reasoning
-Describing & applying
-Explaining & justifying
-Proving & analysing
-Synthesising & evaluating
-Learner agency
-Guided practice
-Structured choice
-Managed independence
-Responsible autonomy
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Role | Bridging year | Structured extension | Analytical deepening | Synthesis & preparation |
+| Hours | 165 (5/wk) | 132 (4/wk) | 132 (4/wk) | 132 (4/wk) |
+| Cognitive mode | Concrete → bridging | Structured abstract | Analytical-integrative | Evaluative-synthetic |
+| Algebraic level | Patterns → expressions; variable as unknown; simple equations | Integer operations; linear equations; rational number system | Systems of equations; functions; inequalities | Quadratics; function families; modelling |
+| Geometric level | Property-based classification; angle basics; constructions | Angle relationships; triangle properties; transformations | Pythagorean theorem; congruence/similarity; deductive proof | Circle theorems; trigonometry; coordinate proofs |
+| Statistical level | Data collection; graphs; mean/median/mode | Data comparison; experimental probability | Spread; theoretical probability; sampling | Correlation; inference; statistical projects |
+| Reasoning | Describing & applying | Explaining & justifying | Proving & analysing | Synthesising & evaluating |
+| Learner agency | Guided practice | Structured choice | Managed independence | Responsible autonomy |
+
 C.2 The Three Critical Transitions
 The entire Grades 6–9 curriculum is organised around three intellectual transitions that must be explicitly scaffolded:
 Arithmetic to Algebra. Learners move from computing with known numbers to reasoning about unknowns and variables, expressing generalisations symbolically, and understanding functions as relationships. This begins in Grade 6 with variable-as-unknown in concrete contexts and culminates in Grade 9 with quadratic functions and mathematical modelling.
@@ -479,31 +400,14 @@ Adaptive reasoning: Can the learner think logically, explain, justify, and prove
 Productive disposition: Does the learner see mathematics as sensible, useful, and worthwhile, and does the learner persist with mathematical challenges?
 Assessment that captures only procedural fluency fails to measure mathematical competence. The curriculum requires all five dimensions to be assessed, with increasing emphasis on reasoning and modelling as learners progress through the grades.
 I.2 Assessment Progression Across Grades
-Feature
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Primary mode
-Formative; frequent short checks
-Formative + periodic summative
-Balanced formative/summative
-Summative + portfolio + project
-Task types
-Concrete/visual + symbolic; short tasks
-Multi-step problems; investigation reports
-Extended reasoning; modelling; proof
-Capstone project; exam; portfolio
-Explanation expected
-Oral + brief written
-Written justification
-Structured argument
-Sustained proof/reasoning
-Competence balance
-50% procedural, 30% conceptual, 20% application
-40% procedural, 30% conceptual, 30% application
-40% procedural, 30% conceptual, 30% reasoning/modelling
-30% procedural, 25% conceptual, 25% modelling, 20% proof
+
+| Feature | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Primary mode | Formative; frequent short checks | Formative + periodic summative | Balanced formative/summative | Summative + portfolio + project |
+| Task types | Concrete/visual + symbolic; short tasks | Multi-step problems; investigation reports | Extended reasoning; modelling; proof | Capstone project; exam; portfolio |
+| Explanation expected | Oral + brief written | Written justification | Structured argument | Sustained proof/reasoning |
+| Competence balance | 50% procedural, 30% conceptual, 20% application | 40% procedural, 30% conceptual, 30% application | 40% procedural, 30% conceptual, 30% reasoning/modelling | 30% procedural, 25% conceptual, 25% modelling, 20% proof |
+
 I.3 Formative Assessment Practices
 Ongoing formative assessment is the primary mechanism for managing the wide ability range in Mongolian classrooms. It should include: regular diagnostic checks at strand transitions (not just end-of-unit tests); structured observation of mathematical reasoning during collaborative tasks; analysis of written explanations for depth of understanding (not just answer correctness); exit tickets capturing conceptual understanding; and learner self-assessment of problem-solving processes. Formative assessment information must actively inform subsequent teaching, not merely be recorded.
 I.4 Summative Assessment Guidance

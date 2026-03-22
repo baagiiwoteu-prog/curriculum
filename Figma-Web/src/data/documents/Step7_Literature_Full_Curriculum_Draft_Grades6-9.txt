@@ -32,51 +32,18 @@ Strand Interrelationship
 The three strands are interdependent, not sequential compartments. Reading informs writing: learners write creatively using techniques encountered in their reading. Heritage texts provide the material for interpretive work. Creative expression deepens understanding of literary craft. Oral engagement permeates all three. In practice, a single unit will typically activate all three strands and the oral dimension simultaneously—a folk tale unit, for example, involves reading and interpretation (close reading of the text), heritage and cultural reflection (understanding the oral tradition), creative writing (composing an original tale or retelling), and oral engagement (storytelling, dramatic reading, discussion).
 C. Overall Progression Across Grades 6–9
 The four-year progression follows the Developmental Transformation Logic established in Step 2. Each grade is qualitatively different—not merely harder content at higher volume but a genuine developmental shift in the kind of literary thinking, responding, and creating expected.
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Developmental role
-Bridging year: engagement, confidence, personal response
-Structured-growth year: interpretation, expanding range
-Analytical-depth year: critical reading, ethical engagement
-Consolidation year: synthesis, independence, capstone
-Reading mode
-Comprehension → personal response
-Interpretation: meaning, purpose, technique
-Analysis: how and why texts work; comparison
-Evaluation: critique, synthesis, independent judgement
-Writing mode
-Personal narrative, imaginative retelling, reading journal
-Structured literary response, guided creative writing
-Analytical essay, deliberate creative craft, comparative writing
-Extended critical essay, creative portfolio, independent project
-Heritage engagement
-Folk tales, riddles, proverbs, accessible Mongolian stories
-Oral epic tradition, classical poetry, early modern prose
-Modern Mongolian literature, social-change themes, world literature
-Contemporary writing, literary traditions in dialogue, personal synthesis
-Oral dimension
-Storytelling, guided discussion, recitation
-Literary circles, structured debate, dramatic reading
-Oral analysis, debate on literary-ethical questions, performance
-Independent oral literary defence, presentation, public sharing
-Learner agency
-Guided autonomy; teacher selects most texts; structured response
-Structured choice; some text selection; varied response modes
-Managed independence; self-directed investigation; peer feedback
-Responsible autonomy; independent project; self-assessment
-Text complexity
-Short, accessible, emotionally engaging; mostly Mongolian
-Medium-length; mixed genre; Mongolian + selected world texts
-Longer, more complex; ambiguous; challenging perspectives
-Extended texts; multiple interpretive layers; mature themes
-Assessment character
-Predominantly formative; low-stakes; builds confidence
-Formative-dominant; structured summative introduced
-Balanced formative/summative; analytical + creative
-Summative includes capstone; self-assessment of growth
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Developmental role | Bridging year: engagement, confidence, personal response | Structured-growth year: interpretation, expanding range | Analytical-depth year: critical reading, ethical engagement | Consolidation year: synthesis, independence, capstone |
+| Reading mode | Comprehension → personal response | Interpretation: meaning, purpose, technique | Analysis: how and why texts work; comparison | Evaluation: critique, synthesis, independent judgement |
+| Writing mode | Personal narrative, imaginative retelling, reading journal | Structured literary response, guided creative writing | Analytical essay, deliberate creative craft, comparative writing | Extended critical essay, creative portfolio, independent project |
+| Heritage engagement | Folk tales, riddles, proverbs, accessible Mongolian stories | Oral epic tradition, classical poetry, early modern prose | Modern Mongolian literature, social-change themes, world literature | Contemporary writing, literary traditions in dialogue, personal synthesis |
+| Oral dimension | Storytelling, guided discussion, recitation | Literary circles, structured debate, dramatic reading | Oral analysis, debate on literary-ethical questions, performance | Independent oral literary defence, presentation, public sharing |
+| Learner agency | Guided autonomy; teacher selects most texts; structured response | Structured choice; some text selection; varied response modes | Managed independence; self-directed investigation; peer feedback | Responsible autonomy; independent project; self-assessment |
+| Text complexity | Short, accessible, emotionally engaging; mostly Mongolian | Medium-length; mixed genre; Mongolian + selected world texts | Longer, more complex; ambiguous; challenging perspectives | Extended texts; multiple interpretive layers; mature themes |
+| Assessment character | Predominantly formative; low-stakes; builds confidence | Formative-dominant; structured summative introduced | Balanced formative/summative; analytical + creative | Summative includes capstone; self-assessment of growth |
+
 The progression is cumulative: each grade builds on the competences established in the previous one. It is also non-linear: not all learners advance at the same pace, and the curriculum must accommodate variation through differentiated text selection, flexible response modes, and varied levels of scaffolding.
 D. Grade 6 Curriculum: Literary Engagement and Transition
 D.1 Role of the Grade
@@ -215,56 +182,27 @@ Assessment in Literature must capture the subject’s distinctive competences: t
 I.2 What Assessment Must Avoid
 Reduction to plot summary recall; memorisation of author biographies and publication dates; multiple-choice testing of literary ‘facts’; penalising subjective response in favour of a single ‘correct’ interpretation; assessing only written output while ignoring oral literary competence; testing literary terminology as isolated vocabulary. These assessment pathologies would transform Literature from an interpretive, creative discipline into a memorisation exercise.
 I.3 Assessment Modes
-Assessment Mode
-What It Captures
-When to Use
-Reading journal / response log
-Ongoing engagement with texts; developing critical voice; personal response quality
-Throughout all grades; formative; reviewed quarterly
-Close reading annotation
-Attention to textual detail; ability to identify significant features; analytical observation
-Grades 7–9; formative and summative; regular practice
-Interpretive/analytical essay
-Argument quality; evidence use; analytical depth; written expression
-Grades 7–9 (scaffolded at 7, independent at 9); summative
-Comparative analysis
-Ability to connect texts; thematic and formal comparison; synthesis
-Grades 7–9; summative; 1–2 per year
-Creative writing portfolio
-Creative voice; craft awareness; range; capacity for revision; self-assessment
-All grades; summative at year-end; cumulative at Grade 9
-Oral interpretation / performance
-Interpretive understanding expressed through voice and performance; engagement with oral tradition
-All grades; summative; 1–2 per year
-Oral literary presentation
-Analytical argument; evidence use; oral communication; response to questions
-Grades 8–9; summative; 1 per year
-Discussion participation
-Engagement; listening; contribution quality; respect for others’ ideas
-All grades; formative; teacher observation
-Capstone project (Grade 9)
-Independence; synthesis; sustained literary engagement; self-direction; reflective self-assessment
-Grade 9 only; summative; the culminating assessment of the four-year programme
+
+| Assessment Mode | What It Captures | When to Use |
+| --- | --- | --- |
+| Reading journal / response log | Ongoing engagement with texts; developing critical voice; personal response quality | Throughout all grades; formative; reviewed quarterly |
+| Close reading annotation | Attention to textual detail; ability to identify significant features; analytical observation | Grades 7–9; formative and summative; regular practice |
+| Interpretive/analytical essay | Argument quality; evidence use; analytical depth; written expression | Grades 7–9 (scaffolded at 7, independent at 9); summative |
+| Comparative analysis | Ability to connect texts; thematic and formal comparison; synthesis | Grades 7–9; summative; 1–2 per year |
+| Creative writing portfolio | Creative voice; craft awareness; range; capacity for revision; self-assessment | All grades; summative at year-end; cumulative at Grade 9 |
+| Oral interpretation / performance | Interpretive understanding expressed through voice and performance; engagement with oral tradition | All grades; summative; 1–2 per year |
+| Oral literary presentation | Analytical argument; evidence use; oral communication; response to questions | Grades 8–9; summative; 1 per year |
+| Discussion participation | Engagement; listening; contribution quality; respect for others’ ideas | All grades; formative; teacher observation |
+| Capstone project (Grade 9) | Independence; synthesis; sustained literary engagement; self-direction; reflective self-assessment | Grade 9 only; summative; the culminating assessment of the four-year programme |
+
 I.4 Assessment Load per Year
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Formative
-Dominant: journal, observation, discussion
-Dominant: journal, annotation, circles
-Balanced: journal, annotation, peer feedback
-Ongoing: journal, annotation, self-assessment
-Summative
-2–3 low-stakes tasks
-3–4 structured tasks
-4–5 tasks including analytical + creative
-4–6 tasks + capstone project
-Oral assessment
-Storytelling, recitation (formative)
-Oral interpretation (summative)
-Analytical presentation (summative)
-Oral defence of capstone (summative)
+
+|  | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Formative | Dominant: journal, observation, discussion | Dominant: journal, annotation, circles | Balanced: journal, annotation, peer feedback | Ongoing: journal, annotation, self-assessment |
+| Summative | 2–3 low-stakes tasks | 3–4 structured tasks | 4–5 tasks including analytical + creative | 4–6 tasks + capstone project |
+| Oral assessment | Storytelling, recitation (formative) | Oral interpretation (summative) | Analytical presentation (summative) | Oral defence of capstone (summative) |
+
 I.5 Coordination with Cluster Partners
 Assessment in Literature must be coordinated with Монгол хэл and Үндэсний бичиг to avoid over-testing writing skills while under-assessing interpretive and creative competences. The three subjects should coordinate assessment calendars so that major summative tasks do not cluster in the same weeks. Literature assessment should focus on what is distinctive to literature—interpretation, creative expression, cultural-literary reflection—rather than duplicating the language mechanics assessment that Монгол хэл handles.
 J. Inclusion, Feasibility, and Implementation Considerations

@@ -4,20 +4,16 @@ Lower Secondary Education — Grades 6–9
 Mongolia Curriculum Reform — Step 7
 Building on: Steps 1–6 of the Cross-Level Competence Analysis
 Working Document — March 2026
-Subject
-Хими (Chemistry)
-Cluster
-3 — Scientific and Environmental Inquiry
-Weight Category
-PROGRESSIVE-ENTRY MEDIUM — 231 total hours
-Hours (Gr 6 / 7 / 8 / 9)
-33 / 66 / 66 / 66
-Weekly Pattern
-1 → 2 → 2 → 2
-Coordination Partners
-Biology, Physics, Geography
-Primary Predecessor
-Байгаль шинжлэл (Natural Science)
+
+| Subject | Хими (Chemistry) |
+| --- | --- |
+| Cluster | 3 — Scientific and Environmental Inquiry |
+| Weight Category | PROGRESSIVE-ENTRY MEDIUM — 231 total hours |
+| Hours (Gr 6 / 7 / 8 / 9) | 33 / 66 / 66 / 66 |
+| Weekly Pattern | 1 → 2 → 2 → 2 |
+| Coordination Partners | Biology, Physics, Geography |
+| Primary Predecessor | Байгаль шинжлэл (Natural Science) |
+
 A. Subject Purpose and Role in Lower Secondary Education
 Chemistry in Grades 6–9 serves the educational purpose of transforming the intuitive, sensory, and observational understanding of matter acquired in pre-primary and primary education into a coherent, evidence-based, and increasingly abstract understanding of chemical composition, structure, and change—grounded in Mongolian material life and environmental realities.
 The subject fulfils three irreplaceable functions within the seventeen-subject lower secondary architecture. First, Chemistry is the discipline of matter and its transformations. While Physics addresses forces and energy and Biology addresses living systems, Chemistry addresses the substance-level reality that underlies both: what things are made of, how they interact, and why they change. Second, Chemistry is the gateway to understanding everyday material life. The cooking, cleaning, building, mining, manufacturing, and environmental processes that surround Mongolian learners are fundamentally chemical phenomena. Third, Chemistry provides the particulate and atomic framework that links observable macro-phenomena to the invisible world of atoms and molecules—a critical step in the concrete-to-abstract cognitive transition of early adolescence.
@@ -37,78 +33,28 @@ Strand relationships
 Strand 4 (Inquiry) provides the method by which Strands 1 and 2 are investigated. Strand 3 (Context) provides the motivation and application for Strands 1 and 2. Strands 1 and 2 together provide the conceptual substance of the discipline. In practice, a typical lesson or sequence will draw on two or three strands simultaneously. For example, investigating water quality in a local river (Strand 3) requires testing for dissolved substances (Strand 1) using filtration and indicator techniques (Strand 4) and understanding dissolution and pH (Strand 2).
 C. Overall Progression Across Grades 6–9
 The four-year progression follows the developmental transformation logic established in Step 2, moving from concrete to abstract, from guided to autonomous, and from description to evaluation.
-Dimension
-Grade 6 (33 hrs)
-Grade 7 (66 hrs)
-Grade 8 (66 hrs)
-Grade 9 (66 hrs)
-Grade designation
-Bridge and orientation year
-Foundation-building year
-Analytical depth year
-Synthesis and readiness year
-Cognitive mode
-Concrete observation → bridging
-Structured model-building
-Analytical and integrative
-Evaluative and synthetic
-Content focus
-Everyday substances, states of matter, simple changes
-Particles, elements, compounds, mixtures, reaction evidence
-Atomic structure, reaction types, rates, solutions, periodic table
-Carbon chemistry, energy in reactions, electrochemistry, sustainability
-Inquiry stance
-Guided observation and simple testing
-Structured investigation with hypothesis
-Semi-independent investigation with data analysis
-Independent research design and evaluation
-Chemical language
-Everyday descriptions; basic safety vocabulary
-Scientific terms; word equations; chemical symbols introduced
-Formulae; balanced equations; periodic table as tool
-Full symbolic language; quantitative reasoning; research communication
-Mongolian grounding
-Household substances, water, traditional dairy, seasonal changes
-Mining materials, water sources, ger-district fuel
-Air pollution chemistry, mineral resources, industrial processes
-Climate change, sustainable development, traditional ecological knowledge
-Assessment
-Formative only: journals, observation checklists
-Formative + 2–4 summative; guided lab reports
-4–6 summative; data interpretation; investigation assessment
-All types + extended research project; evaluation tasks
-Learner autonomy
-Fully guided
-Structured choice within parameters
-Managed independence with coaching
-Responsible autonomy
+
+| Dimension | Grade 6 (33 hrs) | Grade 7 (66 hrs) | Grade 8 (66 hrs) | Grade 9 (66 hrs) |
+| --- | --- | --- | --- | --- |
+| Grade designation | Bridge and orientation year | Foundation-building year | Analytical depth year | Synthesis and readiness year |
+| Cognitive mode | Concrete observation → bridging | Structured model-building | Analytical and integrative | Evaluative and synthetic |
+| Content focus | Everyday substances, states of matter, simple changes | Particles, elements, compounds, mixtures, reaction evidence | Atomic structure, reaction types, rates, solutions, periodic table | Carbon chemistry, energy in reactions, electrochemistry, sustainability |
+| Inquiry stance | Guided observation and simple testing | Structured investigation with hypothesis | Semi-independent investigation with data analysis | Independent research design and evaluation |
+| Chemical language | Everyday descriptions; basic safety vocabulary | Scientific terms; word equations; chemical symbols introduced | Formulae; balanced equations; periodic table as tool | Full symbolic language; quantitative reasoning; research communication |
+| Mongolian grounding | Household substances, water, traditional dairy, seasonal changes | Mining materials, water sources, ger-district fuel | Air pollution chemistry, mineral resources, industrial processes | Climate change, sustainable development, traditional ecological knowledge |
+| Assessment | Formative only: journals, observation checklists | Formative + 2–4 summative; guided lab reports | 4–6 summative; data interpretation; investigation assessment | All types + extended research project; evaluation tasks |
+| Learner autonomy | Fully guided | Structured choice within parameters | Managed independence with coaching | Responsible autonomy |
+
 Strand weighting across grades
 The relative emphasis of each strand shifts across the four years to reflect changing developmental priorities and time availability.
-Strand
-Grade 6 (33 hrs)
-Grade 7 (66 hrs)
-Grade 8 (66 hrs)
-Grade 9 (66 hrs)
-S1: Substances & Properties
-~35%
-~30%
-~25%
-~20%
-S2: Reactions & Change
-~20%
-~25%
-~30%
-~25%
-S3: Context & Application
-~20%
-~20%
-~20%
-~30%
-S4: Inquiry & Lab Practice
-~25%
-~25%
-~25%
-~25%
+
+| Strand | Grade 6 (33 hrs) | Grade 7 (66 hrs) | Grade 8 (66 hrs) | Grade 9 (66 hrs) |
+| --- | --- | --- | --- | --- |
+| S1: Substances & Properties | ~35% | ~30% | ~25% | ~20% |
+| S2: Reactions & Change | ~20% | ~25% | ~30% | ~25% |
+| S3: Context & Application | ~20% | ~20% | ~20% | ~30% |
+| S4: Inquiry & Lab Practice | ~25% | ~25% | ~25% | ~25% |
+
 These are indicative weightings, not rigid allocations. Strand 4 (Inquiry) maintains a constant ~25% because practical and investigative work is foundational at every grade. Strand 3 (Context) increases toward Grade 9 as the capstone year emphasises real-world application and synthesis.
 D. Grade 6 Curriculum — Bridge and Orientation Year
 D.1 Role of the Grade
@@ -257,36 +203,15 @@ Assessment in Chemistry must capture the full range of chemical competence and m
 I.1 What should be assessed
 Assessment must cover five dimensions of chemical competence across all four years: knowledge and understanding (facts, concepts, models); application (using chemical knowledge in new contexts); inquiry skills (practical and investigative competence); chemical communication (writing, diagrams, equations, oral explanation); and chemical reasoning (explanation, analysis, evaluation, argumentation). No single assessment method can capture all five dimensions; multiple methods are required.
 I.2 How assessment evolves
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Mode
-Formative only
-Formative + 2–4 summative
-Formative + 4–6 summative
-Formative + summative + capstone project
-Cognitive demand
-Describe, identify, classify
-Explain using models, apply to familiar contexts
-Analyse, interpret data, predict, apply to unfamiliar contexts
-Evaluate, synthesise, argue, design, critique
-Practical assessment
-Observation checklists: safety, handling, recording
-Guided lab report + practical skills
-Semi-independent investigation + data analysis
-Independent research design, execution, and communication
-Written assessment
-Learning journals, short descriptions
-Short-answer + structured explanation
-Extended response, balanced equations, data interpretation
-Full range + research report + evaluation of chemical claims
-Self/peer assessment
-Simple reflection prompts
-Checklist-based self-assessment
-Peer feedback on lab reports
-Peer review of research drafts; reflective evaluation
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Mode | Formative only | Formative + 2–4 summative | Formative + 4–6 summative | Formative + summative + capstone project |
+| Cognitive demand | Describe, identify, classify | Explain using models, apply to familiar contexts | Analyse, interpret data, predict, apply to unfamiliar contexts | Evaluate, synthesise, argue, design, critique |
+| Practical assessment | Observation checklists: safety, handling, recording | Guided lab report + practical skills | Semi-independent investigation + data analysis | Independent research design, execution, and communication |
+| Written assessment | Learning journals, short descriptions | Short-answer + structured explanation | Extended response, balanced equations, data interpretation | Full range + research report + evaluation of chemical claims |
+| Self/peer assessment | Simple reflection prompts | Checklist-based self-assessment | Peer feedback on lab reports | Peer review of research drafts; reflective evaluation |
+
 I.3 Assessment principles
 Assessment must be aligned with teaching: if the curriculum aims for explanation, analysis, and application, assessment must demand these—not just factual recall.
 Practical and investigative competence must be assessed through practical means, not written proxies. Observing a student conduct an experiment tells you what a written test cannot.

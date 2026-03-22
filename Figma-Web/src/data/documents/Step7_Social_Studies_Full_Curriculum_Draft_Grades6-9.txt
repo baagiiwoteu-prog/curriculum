@@ -32,38 +32,17 @@ Grade 9: Evaluating one’s own role as an emerging citizen — social responsib
 Strand Relationships and Integration
 The three strands are mutually reinforcing. Institutional understanding (Strand 1) provides the structural context for understanding culture (Strand 2) and participation (Strand 3). Cultural analysis (Strand 2) illuminates why institutions take particular forms and how participation is culturally shaped. Participation (Strand 3) connects the analytical work of the other two strands to the learner’s own agency. Assessment and inquiry tasks should frequently draw on more than one strand, particularly in Grades 8–9.
 C. Overall Progression Across Grades 6–9
-Dimension
-Grade 7: INTRODUCE
-Grade 8: DEVELOP
-Grade 9: CONSOLIDATE
-Cognitive mode
-Describe and explain
-Analyse and interpret
-Synthesise and evaluate
-Inquiry stance
-Guided inquiry (teacher provides question and sources)
-Structured inquiry (teacher provides question, learner selects sources)
-Open inquiry (learner formulates question and designs investigation)
-Knowledge use
-Identify and describe social phenomena in familiar contexts
-Explain causes, compare perspectives, connect to wider systems
-Evaluate social issues, form and defend reasoned positions
-Cultural orientation
-Reflective familiarity with Mongolian practices
-Understanding diversity and change within and beyond Mongolia
-Positioned cultural identity in a changing world
-Participation
-Understand rights, responsibilities, and rules in immediate settings
-Examine civic processes, media influence, and community engagement
-Evaluate one’s own civic role; capstone social inquiry
-Digital stance
-Guided use of social information sources
-Evaluating online information quality and media influence
-Critical digital citizenship; independent source evaluation
-Assessment focus
-Description, explanation, basic source use
-Analysis, comparison, structured inquiry
-Synthesis, evaluation, independent inquiry project
+
+| Dimension | Grade 7: INTRODUCE | Grade 8: DEVELOP | Grade 9: CONSOLIDATE |
+| --- | --- | --- | --- |
+| Cognitive mode | Describe and explain | Analyse and interpret | Synthesise and evaluate |
+| Inquiry stance | Guided inquiry (teacher provides question and sources) | Structured inquiry (teacher provides question, learner selects sources) | Open inquiry (learner formulates question and designs investigation) |
+| Knowledge use | Identify and describe social phenomena in familiar contexts | Explain causes, compare perspectives, connect to wider systems | Evaluate social issues, form and defend reasoned positions |
+| Cultural orientation | Reflective familiarity with Mongolian practices | Understanding diversity and change within and beyond Mongolia | Positioned cultural identity in a changing world |
+| Participation | Understand rights, responsibilities, and rules in immediate settings | Examine civic processes, media influence, and community engagement | Evaluate one’s own civic role; capstone social inquiry |
+| Digital stance | Guided use of social information sources | Evaluating online information quality and media influence | Critical digital citizenship; independent source evaluation |
+| Assessment focus | Description, explanation, basic source use | Analysis, comparison, structured inquiry | Synthesis, evaluation, independent inquiry project |
+
 The progression follows the Step 2 Developmental Transformation Logic: Grade 7 corresponds to structured-growth (grounded, concrete, relevance-driven); Grade 8 to analytical-depth (systematic, comparative, multi-perspective); Grade 9 to evaluative-synthesis (independent, position-forming, capstone). Each grade is qualitatively different, not simply a harder version of the same content.
 C.1 Time Allocation Across Strands
 With 33 lessons per year and three strands, each strand receives approximately 10–11 lessons per year. Within each grade, approximately 8–9 lessons per strand are devoted to learning and application, with 2–3 lessons reserved for cross-strand inquiry tasks, review, and assessment. This allocation is indicative, not prescriptive—teachers should adjust based on learner needs while maintaining roughly equal strand weighting.
@@ -246,34 +225,16 @@ Analytical thinking: Can the learner identify causes and consequences, compare p
 Communicative competence: Can the learner express social-scientific reasoning clearly in Mongolian, both orally and in writing? Assessed through presentations, discussion participation, and written reports.
 Participatory disposition: Does the learner engage constructively with social questions, respect diverse perspectives, and demonstrate awareness of their own role in social life? Assessed through observation of discussion behaviour and reflective tasks.
 I.2 Assessment Progression
-Dimension
-Grade 7
-Grade 8
-Grade 9
-Primary cognitive demand
-Describe and explain
-Analyse and interpret
-Synthesise and evaluate
-Source work
-Use 2–3 given sources to find information
-Select from multiple sources; evaluate reliability
-Independent source selection; critical evaluation
-Inquiry task
-Guided mini-inquiry (1–2 lessons)
-Structured inquiry (2–3 lessons)
-Open capstone inquiry (6–8 lessons)
-Position-forming
-Distinguish fact from opinion
-Identify multiple perspectives
-Form and defend reasoned position with evidence
-Communication
-Oral presentation; simple written response
-Structured inquiry report; discussion contribution
-Extended analytical writing; project presentation; debate
-Summative tasks/year
-2
-2–3
-2–3 (including capstone)
+
+| Dimension | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- |
+| Primary cognitive demand | Describe and explain | Analyse and interpret | Synthesise and evaluate |
+| Source work | Use 2–3 given sources to find information | Select from multiple sources; evaluate reliability | Independent source selection; critical evaluation |
+| Inquiry task | Guided mini-inquiry (1–2 lessons) | Structured inquiry (2–3 lessons) | Open capstone inquiry (6–8 lessons) |
+| Position-forming | Distinguish fact from opinion | Identify multiple perspectives | Form and defend reasoned position with evidence |
+| Communication | Oral presentation; simple written response | Structured inquiry report; discussion contribution | Extended analytical writing; project presentation; debate |
+| Summative tasks/year | 2 | 2–3 | 2–3 (including capstone) |
+
 I.3 Formative Assessment
 Formative assessment is continuous and embedded in learning. Teachers should: observe and note discussion participation quality; review inquiry notebooks and work-in-progress; use exit tickets to check understanding after key lessons; provide feedback on draft inquiry work before final submission; use self-assessment and peer-assessment rubrics for collaborative tasks. Formative assessment informs teaching: if learners struggle with source evaluation, additional scaffolded practice is needed before progressing.
 I.4 Summative Assessment Principles

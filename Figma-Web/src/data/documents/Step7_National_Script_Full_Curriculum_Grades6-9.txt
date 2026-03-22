@@ -22,100 +22,47 @@ A.3 Graduate outcome
 By the end of Grade 9, a learner who has completed the National Script curriculum should be able to: read connected prose of moderate complexity in the traditional script with reasonable fluency; compose coherent paragraphs and short texts in the traditional script; transliterate between Cyrillic and traditional script with accuracy; engage with heritage documents, inscriptions, and classical literary excerpts in the original script; and articulate the cultural and historical significance of the traditional script in Mongolian identity. This is functional dual-script literacy, not native-equivalent fluency—a realistic and valuable outcome within 264 hours.
 B. Curriculum Strands
 The curriculum is organised into four strands that operate in a developmental hierarchy. Each strand has a distinct focus, but all four are interconnected and mutually reinforcing.
-Strand
-Scope and focus
-Relationship to other strands
-Strand 1
+
+| Strand | Scope and focus | Relationship to other strands |
+| --- | --- | --- |
+| Strand 1
 Script Literacy
-(Бичгийн чадвар)
-Letter forms and stroke order; positional variants; connected writing; orthographic rules; handwriting fluency and legibility; calligraphic awareness (not as art but as disciplined writing practice)
-Foundation for all other strands. Without script literacy, reading and composition are impossible. Dominates in Grades 6–7, reduces to maintenance in Grades 8–9.
-Strand 2
+(Бичгийн чадвар) | Letter forms and stroke order; positional variants; connected writing; orthographic rules; handwriting fluency and legibility; calligraphic awareness (not as art but as disciplined writing practice) | Foundation for all other strands. Without script literacy, reading and composition are impossible. Dominates in Grades 6–7, reduces to maintenance in Grades 8–9. |
+| Strand 2
 Reading
-(Уншлага)
-Decoding traditional script texts; reading fluency (speed and accuracy); comprehension of adapted, graded, and authentic texts; reading classical and contemporary texts written in traditional script
-Depends on Strand 1 for decoding. Feeds into Strand 4 by providing access to heritage texts. Coordinates with Literature subject for shared texts.
-Strand 3
+(Уншлага) | Decoding traditional script texts; reading fluency (speed and accuracy); comprehension of adapted, graded, and authentic texts; reading classical and contemporary texts written in traditional script | Depends on Strand 1 for decoding. Feeds into Strand 4 by providing access to heritage texts. Coordinates with Literature subject for shared texts. |
+| Strand 3
 Composition
-(Найруулга)
-Writing words, sentences, paragraphs, and extended texts in traditional script; transliteration (Cyrillic ↔ traditional); guided and independent composition; formal and creative writing
-Applies Strand 1 skills productively. Connects to Mongolian Language through shared compositional practices. Introduced gradually from Grade 7, expands through Grades 8–9.
-Strand 4
+(Найруулга) | Writing words, sentences, paragraphs, and extended texts in traditional script; transliteration (Cyrillic ↔ traditional); guided and independent composition; formal and creative writing | Applies Strand 1 skills productively. Connects to Mongolian Language through shared compositional practices. Introduced gradually from Grade 7, expands through Grades 8–9. |
+| Strand 4
 Cultural and Heritage
 Engagement
-(Өв соёлын оролцоо)
-Historical significance of the script; reading inscriptions and classical documents; proverbs and literary excerpts in original script; script in contemporary public life; identity and heritage reflection
-Integrative strand drawing on Strands 1–3. Connects to History, Literature, Civic Education. Provides cultural purpose and meaning for script learning.
+(Өв соёлын оролцоо) | Historical significance of the script; reading inscriptions and classical documents; proverbs and literary excerpts in original script; script in contemporary public life; identity and heritage reflection | Integrative strand drawing on Strands 1–3. Connects to History, Literature, Civic Education. Provides cultural purpose and meaning for script learning. |
+
 B.1 Strand weighting across grades
 The relative weight of each strand shifts across the four-year progression to reflect developmental readiness and cumulative skill:
-Strand
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-1. Script Literacy
-~50%
-~35%
-~20%
-~15%
-2. Reading
-~25%
-~30%
-~30%
-~30%
-3. Composition
-~10%
-~15%
-~25%
-~30%
-4. Cultural Heritage
-~15%
-~20%
-~25%
-~25%
+
+| Strand | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| 1. Script Literacy | ~50% | ~35% | ~20% | ~15% |
+| 2. Reading | ~25% | ~30% | ~30% | ~30% |
+| 3. Composition | ~10% | ~15% | ~25% | ~30% |
+| 4. Cultural Heritage | ~15% | ~20% | ~25% | ~25% |
+
 Note: These are indicative proportions, not rigid time prescriptions. Teachers should adjust based on learner needs while maintaining the overall developmental trajectory: front-load script literacy, then progressively shift toward reading, composition, and cultural engagement.
 C. Overall Progression Across Grades 6–9
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Grade role
-Transition & foundation: bridging from Cyrillic-only literacy to dual-script awareness
-Consolidation: systematic mastery, word-to-sentence level fluency
-Expansion: paragraph-level competence, analytical engagement with heritage texts
-Integration: confident functional literacy, cultural-intellectual ownership
-Script literacy
-All 35 base letters; basic stroke order; isolated and initial-position forms; simple words
-All positional variants; connected writing; sentence-level handwriting; orthographic rules
-Fluent connected writing; accuracy and speed; calligraphic awareness; self-correction
-Maintenance and refinement; stylistic awareness; formal handwriting for presentation
-Reading
-Letter/word recognition; short familiar phrases; environmental print (signs, currency)
-Sentence-level reading; adapted short texts; proverbs; graded passages
-Paragraph-level reading; adapted classical excerpts; information texts; comparison reading
-Extended text reading; classical literary passages; formal documents; independent reading
-Composition
-Copying; dictation of words and short phrases; name and basic word writing
-Guided sentence writing; simple transliteration; dictation of sentences
-Paragraph composition; extended transliteration; guided creative writing
-Extended composition; formal writing; independent creative and analytical writing
-Cultural heritage
-Script in the environment; brief history; emotional connection to heritage
-Script history and significance; proverbs as cultural texts; heritage awareness
-Classical inscriptions; historical documents; heritage interpretation and discussion
-Script and national identity; contemporary revitalisation; reflective cultural engagement
-Cognitive mode
-(Step 2 aligned)
-Concrete-guided: imitative, pattern-based, teacher-led
-Structured practice: rule-applying, systematic, semi-independent
-Analytical: comparative, error-correcting, evidence-using
-Evaluative-synthetic: independent, reflective, self-directed
-Assessment mode
-Formative only: observation, portfolio
-Formative-dominant; 2–3 summative tasks
-Balanced formative/summative; 3–4 summative tasks
-Summative portfolio + assessment; 4–5 summative tasks
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Grade role | Transition & foundation: bridging from Cyrillic-only literacy to dual-script awareness | Consolidation: systematic mastery, word-to-sentence level fluency | Expansion: paragraph-level competence, analytical engagement with heritage texts | Integration: confident functional literacy, cultural-intellectual ownership |
+| Script literacy | All 35 base letters; basic stroke order; isolated and initial-position forms; simple words | All positional variants; connected writing; sentence-level handwriting; orthographic rules | Fluent connected writing; accuracy and speed; calligraphic awareness; self-correction | Maintenance and refinement; stylistic awareness; formal handwriting for presentation |
+| Reading | Letter/word recognition; short familiar phrases; environmental print (signs, currency) | Sentence-level reading; adapted short texts; proverbs; graded passages | Paragraph-level reading; adapted classical excerpts; information texts; comparison reading | Extended text reading; classical literary passages; formal documents; independent reading |
+| Composition | Copying; dictation of words and short phrases; name and basic word writing | Guided sentence writing; simple transliteration; dictation of sentences | Paragraph composition; extended transliteration; guided creative writing | Extended composition; formal writing; independent creative and analytical writing |
+| Cultural heritage | Script in the environment; brief history; emotional connection to heritage | Script history and significance; proverbs as cultural texts; heritage awareness | Classical inscriptions; historical documents; heritage interpretation and discussion | Script and national identity; contemporary revitalisation; reflective cultural engagement |
+| Cognitive mode
+(Step 2 aligned) | Concrete-guided: imitative, pattern-based, teacher-led | Structured practice: rule-applying, systematic, semi-independent | Analytical: comparative, error-correcting, evidence-using | Evaluative-synthetic: independent, reflective, self-directed |
+| Assessment mode | Formative only: observation, portfolio | Formative-dominant; 2–3 summative tasks | Balanced formative/summative; 3–4 summative tasks | Summative portfolio + assessment; 4–5 summative tasks |
+
 The progression is cumulative: each grade builds on the previous. It is also non-linear: not all competences advance at the same pace, and individual learners will show variation. The logic provides developmental aspiration, not rigid gatekeeping.
 D. Grade 6 Curriculum
 D.1 Role of the grade
@@ -430,41 +377,16 @@ Reading competence: Can the learner read and comprehend texts of appropriate com
 Composition competence: Can the learner compose original, coherent text in the traditional script? (Strand 3)
 Cultural understanding: Does the learner understand the significance, history, and contemporary relevance of the traditional script? (Strand 4)
 I.2 How assessment evolves across grades
-Assessment element
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Dominant mode
-Formative only
-Formative-dominant; 2–3 summative tasks
-Balanced; 3–4 summative tasks
-Summative-significant; 4–5 tasks + portfolio
-Script production
-Observation of letter formation; portfolio samples
-Dictation accuracy; sentence writing; timed practice
-Paragraph accuracy; speed + accuracy; self-correction
-Extended text quality; formal writing; stylistic control
-Reading
-Word recognition checks; environmental print identification
-Sentence reading fluency; short text comprehension
-Paragraph comprehension; adapted classical text interpretation
-Extended text comprehension; independent reading response
-Composition
-Copying accuracy; simple dictation
-Guided sentence writing; basic transliteration
-Paragraph composition; extended transliteration
-Extended composition; formal and creative writing
-Cultural understanding
-Oral responses about the script in daily life
-Explanation of script history and significance
-Heritage text interpretation and discussion
-Reflective essay; capstone heritage project
-Portfolio role
-Primary evidence: handwriting development
-Ongoing evidence + summative supplement
-Curated collection showing range and growth
-Culminating portfolio: best work from all 4 years
+
+| Assessment element | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Dominant mode | Formative only | Formative-dominant; 2–3 summative tasks | Balanced; 3–4 summative tasks | Summative-significant; 4–5 tasks + portfolio |
+| Script production | Observation of letter formation; portfolio samples | Dictation accuracy; sentence writing; timed practice | Paragraph accuracy; speed + accuracy; self-correction | Extended text quality; formal writing; stylistic control |
+| Reading | Word recognition checks; environmental print identification | Sentence reading fluency; short text comprehension | Paragraph comprehension; adapted classical text interpretation | Extended text comprehension; independent reading response |
+| Composition | Copying accuracy; simple dictation | Guided sentence writing; basic transliteration | Paragraph composition; extended transliteration | Extended composition; formal and creative writing |
+| Cultural understanding | Oral responses about the script in daily life | Explanation of script history and significance | Heritage text interpretation and discussion | Reflective essay; capstone heritage project |
+| Portfolio role | Primary evidence: handwriting development | Ongoing evidence + summative supplement | Curated collection showing range and growth | Culminating portfolio: best work from all 4 years |
+
 I.3 Assessment principles
 Formative assessment is continuous and inseparable from teaching. Every practice session is an assessment opportunity.
 Summative assessment increases gradually across grades, reflecting learners’ developing capacity for formal demonstration of competence.

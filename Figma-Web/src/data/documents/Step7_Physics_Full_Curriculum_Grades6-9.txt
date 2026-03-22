@@ -22,79 +22,29 @@ This strand unifies two primary-level content areas—electricity and magnetism 
 Integrating Strand: Scientific Inquiry and the Physical World (Шинжлэн судлал ба физик ертөнц)
 This strand is not a separate content block but an integrating dimension embedded across all three content strands. It ensures the continuity of the inquiry competence inherited from primary and develops it into disciplinary scientific method. It covers: asking investigable questions; planning controlled experiments; measuring accurately with appropriate instruments and units; recording, processing, and displaying data; drawing evidence-based conclusions; evaluating experimental reliability; communicating scientific findings; understanding the nature of scientific knowledge; and applying physics to real-world technological, environmental, and social contexts. This strand must be explicitly coordinated with Biology, Chemistry, and Geography to maintain shared inquiry language and methodology across the science cluster.
 Indicative Strand Weighting
-Strand
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Forces and Motion
-~30%
-~30%
-~30%
-~25%
-Energy and Heat
-~35%
-~30%
-~30%
-~30%
-Electricity, Magnetism, Waves
-~20%
-~25%
-~25%
-~25%
-Inquiry (integrated)
-~15%
-~15%
-~15%
-~20%
+
+| Strand | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Forces and Motion | ~30% | ~30% | ~30% | ~25% |
+| Energy and Heat | ~35% | ~30% | ~30% | ~30% |
+| Electricity, Magnetism, Waves | ~20% | ~25% | ~25% | ~25% |
+| Inquiry (integrated) | ~15% | ~15% | ~15% | ~20% |
+
 Note: Percentages are indicative, not prescriptive. The integrating strand is embedded across content strands, not taught separately. Grade 9 increases the inquiry weighting to accommodate the culminating investigation.
 C. Overall Progression Across Grades 6–9
 The four-year Physics progression follows the developmental transformation logic established in Step 2: each grade carries a distinct developmental role, and competences transform qualitatively across the sequence. The progression is cumulative and spiral—each strand is revisited at increasing depth—not linear-block (one strand per year).
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Designation
-Curiosity and Bridging
-Foundation and Structure
-Analytical Depth
-Synthesis and Application
-Hours/week
-1 lesson (33h total)
-2 lessons (66h total)
-2 lessons (66h total)
-2 lessons (66h total)
-Cognitive mode
-Concrete → bridging
-Structured abstract
-Analytical-integrative
-Evaluative-synthetic
-Knowledge use
-Recall → describe
-Apply → explain
-Explain → analyse
-Interpret → evaluate
-Inquiry stance
-Guided observation
-Structured investigation
-Disciplined inquiry
-Independent research design
-Maths demand
-Qualitative; simple measurement
-Arithmetic; units; simple graphs
-Proportional reasoning; formulas
-Algebraic manipulation; multi-step
-Assessment
-Formative only
-Formative + 4–6 summative
-Formative + 4–6 summative
-Formative + 4–6 summative + project
-Practical work
-4–6 demos/guided
-8–10 structured
-8–10 with student design
-8–10 + independent investigation
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Designation | Curiosity and Bridging | Foundation and Structure | Analytical Depth | Synthesis and Application |
+| Hours/week | 1 lesson (33h total) | 2 lessons (66h total) | 2 lessons (66h total) | 2 lessons (66h total) |
+| Cognitive mode | Concrete → bridging | Structured abstract | Analytical-integrative | Evaluative-synthetic |
+| Knowledge use | Recall → describe | Apply → explain | Explain → analyse | Interpret → evaluate |
+| Inquiry stance | Guided observation | Structured investigation | Disciplined inquiry | Independent research design |
+| Maths demand | Qualitative; simple measurement | Arithmetic; units; simple graphs | Proportional reasoning; formulas | Algebraic manipulation; multi-step |
+| Assessment | Formative only | Formative + 4–6 summative | Formative + 4–6 summative | Formative + 4–6 summative + project |
+| Practical work | 4–6 demos/guided | 8–10 structured | 8–10 with student design | 8–10 + independent investigation |
+
 D. Grade 6 Curriculum: The Curiosity and Bridging Year
 D.1 Role of the Grade
 Grade 6 is the transition year from primary Natural Science to disciplinary Physics. With only 33 hours (1 lesson per week), it cannot function as a compressed introduction to the Grades 7–9 curriculum. Instead, it serves four purposes: consolidating and extending the physical-science foundations built in primary; awakening curiosity about the physical world through phenomena-driven exploration; introducing the idea that physics explains ‘why’ and ‘how’ through observation and experiment; and establishing safe, respectful, collaborative inquiry habits for subsequent years.
@@ -252,31 +202,14 @@ I.1 Assessment Principles
 Assessment in Physics should capture what matters: the ability to understand, explain, investigate, and apply physics—not merely to recall facts and substitute into formulas. All assessment should be constructively aligned with the learning outcomes and the pedagogical approach.
 I.2 Assessment Dimensions
 Physics assessment should capture four dimensions across Grades 7–9, with increasing sophistication:
-Dimension
-Grade 7
-Grade 8
-Grade 9
-Weight
-Conceptual understanding
-Describe and explain phenomena
-Analyse using physics principles
-Evaluate and synthesise
-~35%
-Scientific inquiry
-Follow structured method; record data
-Design experiments; evaluate reliability
-Independent investigation
-~25%
-Quantitative reasoning
-Simple calculations with given formula
-Select and apply formulas; graph analysis
-Multi-step problems; select method
-~20%
-Application and communication
-Apply to familiar contexts; brief reports
-Apply to new contexts; structured reports
-Evaluate real-world systems; full reports
-~20%
+
+| Dimension | Grade 7 | Grade 8 | Grade 9 | Weight |
+| --- | --- | --- | --- | --- |
+| Conceptual understanding | Describe and explain phenomena | Analyse using physics principles | Evaluate and synthesise | ~35% |
+| Scientific inquiry | Follow structured method; record data | Design experiments; evaluate reliability | Independent investigation | ~25% |
+| Quantitative reasoning | Simple calculations with given formula | Select and apply formulas; graph analysis | Multi-step problems; select method | ~20% |
+| Application and communication | Apply to familiar contexts; brief reports | Apply to new contexts; structured reports | Evaluate real-world systems; full reports | ~20% |
+
 I.3 Assessment Methods by Grade
 Grade 6: Formative only
 Teacher observation, oral questioning, observation journals, short descriptive writing, peer discussion. No grades, no examinations. Purpose: diagnostic and motivational.

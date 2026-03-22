@@ -25,58 +25,25 @@ This strand builds understanding of how digital systems process, store, and tran
 Cross-cutting dimension: Digital Responsibility
 Digital ethics, safety, and responsible practice are woven into both strands rather than taught as separate content. When programming, learners consider the effects of their code on users. When working with data, they address privacy, consent, and representation. When studying AI, they evaluate bias, fairness, and transparency. This embedded approach reflects the Step 5B architecture: Civic Ethics Education leads digital ethics across the curriculum; Computer Science contributes domain-specific ethical reasoning within its own practice.
 Strand weighting across grades
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Strand 1
-≈ 60% (block-based consolidation, problem decomposition)
-≈ 60% (Python introduction, basic programmes)
-≈ 55% (functions, data structures, multi-step programmes)
-≈ 50% (capstone project, code review)
-Strand 2
-≈ 40% (data classification, AI in daily life)
-≈ 40% (data collection/representation, how AI learns)
-≈ 45% (data analysis, digital systems, AI evaluation)
-≈ 50% (data-driven project, ethical AI reasoning, systems)
+
+|  | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Strand 1 | ≈ 60% (block-based consolidation, problem decomposition) | ≈ 60% (Python introduction, basic programmes) | ≈ 55% (functions, data structures, multi-step programmes) | ≈ 50% (capstone project, code review) |
+| Strand 2 | ≈ 40% (data classification, AI in daily life) | ≈ 40% (data collection/representation, how AI learns) | ≈ 45% (data analysis, digital systems, AI evaluation) | ≈ 50% (data-driven project, ethical AI reasoning, systems) |
+
 The two strands converge across grades: by Grade 9, the capstone project integrates both strands, and the distinction becomes one of emphasis rather than separation.
 C. Overall Progression Across Grades 6–9
 The four-year progression follows the developmental transformation logic established in Steps 2 and 6: from consolidation through extension and analysis to synthesis and autonomy.
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Role
-Bridge and consolidate
-Extend and formalise
-Deepen and analyse
-Synthesise and create independently
-Programming
-Block-based: sequences, conditions, loops, variables; structured decomposition
-Text-based (Python): variables, input/output, conditionals, loops; simple programmes
-Functions, lists/dictionaries; 20–40 line programmes; systematic debugging
-Independent project; modular design; code review; 40–80 lines
-Data & AI
-Classify data; explore AI in daily life; data as information source
-Collect and represent data; how AI learns from data; patterns in datasets
-Analyse data critically; algorithmic bias; how the internet works; evaluate AI outputs
-Data-driven project; ethical AI reasoning; algorithms shaping society; digital systems
-Cognitive demand
-Recall and apply
-Explain and compare
-Analyse and interpret
-Synthesise and evaluate
-Autonomy
-Guided practice with scaffolding
-Structured choice within parameters
-Managed independence; teacher as coach
-Responsible autonomy; self-directed project
-Assessment focus
-Formative observation; completed activities
-Mini-projects; portfolio entries; code explanation
-Project assessment; code review; data analysis tasks
-Capstone project; portfolio review; reflective assessment
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Role | Bridge and consolidate | Extend and formalise | Deepen and analyse | Synthesise and create independently |
+| Programming | Block-based: sequences, conditions, loops, variables; structured decomposition | Text-based (Python): variables, input/output, conditionals, loops; simple programmes | Functions, lists/dictionaries; 20–40 line programmes; systematic debugging | Independent project; modular design; code review; 40–80 lines |
+| Data & AI | Classify data; explore AI in daily life; data as information source | Collect and represent data; how AI learns from data; patterns in datasets | Analyse data critically; algorithmic bias; how the internet works; evaluate AI outputs | Data-driven project; ethical AI reasoning; algorithms shaping society; digital systems |
+| Cognitive demand | Recall and apply | Explain and compare | Analyse and interpret | Synthesise and evaluate |
+| Autonomy | Guided practice with scaffolding | Structured choice within parameters | Managed independence; teacher as coach | Responsible autonomy; self-directed project |
+| Assessment focus | Formative observation; completed activities | Mini-projects; portfolio entries; code explanation | Project assessment; code review; data analysis tasks | Capstone project; portfolio review; reflective assessment |
+
 The progression is cumulative: each grade builds explicitly on the previous year's achievements. Grade 6 consolidates primary foundations; Grade 7 introduces the key technical transition (block to text); Grade 8 develops genuine disciplinary depth; Grade 9 integrates everything into independent, contextually grounded computational work.
 D. Grade 6 Curriculum
 Annual allocation: 33 hours (1 lesson per week × 33 weeks). Effective teaching time: ≈ 25–28 hours.
@@ -302,26 +269,14 @@ Formative (dominant mode): Observation of problem-solving process; predict-the-o
 Summative (limited): Maximum 2–3 per year. Primarily project-based: assessed programme, data analysis project, or critical evaluation task. Rubric-assessed against clear, known criteria.
 Portfolio (continuous): Each learner maintains a computational portfolio across all four grades, collecting: programmes with annotations, data projects, flowcharts, reflections, and self-assessments. The portfolio is the primary evidence of progression and the basis for end-of-year summative judgement.
 I.3 Assessment progression
-Grade
-What is assessed
-How
-Summative events
-6
-Block-based programming competence; problem decomposition; data classification; basic AI awareness
-Observation; completed programmes; data displays; self-assessment
-1 programming task + 1 data activity (max 2)
-7
-Python basics (variables, conditionals, loops); debugging; data collection/representation; AI learning concepts
-Practical coding tasks; mini-projects; data project; code explanation
-1 programming task + 1 data project + optional AI explanation (max 3)
-8
-Functions, data structures, multi-step programmes; data analysis; digital systems understanding; AI evaluation
-Programming project; data analysis with real dataset; critical AI evaluation; code review
-1 programming project + 1 data analysis + 1 critical evaluation (max 3)
-9
-Independent project integrating both strands; data investigation; ethical reasoning; reflective self-evaluation
-Capstone project with presentation; data investigation; portfolio review; reflective statement
-Capstone project + data investigation (2 major assessments)
+
+| Grade | What is assessed | How | Summative events |
+| --- | --- | --- | --- |
+| 6 | Block-based programming competence; problem decomposition; data classification; basic AI awareness | Observation; completed programmes; data displays; self-assessment | 1 programming task + 1 data activity (max 2) |
+| 7 | Python basics (variables, conditionals, loops); debugging; data collection/representation; AI learning concepts | Practical coding tasks; mini-projects; data project; code explanation | 1 programming task + 1 data project + optional AI explanation (max 3) |
+| 8 | Functions, data structures, multi-step programmes; data analysis; digital systems understanding; AI evaluation | Programming project; data analysis with real dataset; critical AI evaluation; code review | 1 programming project + 1 data analysis + 1 critical evaluation (max 3) |
+| 9 | Independent project integrating both strands; data investigation; ethical reasoning; reflective self-evaluation | Capstone project with presentation; data investigation; portfolio review; reflective statement | Capstone project + data investigation (2 major assessments) |
+
 I.4 What assessment must NOT do
 Must NOT rely on written examinations testing factual recall (name parts of a computer, define terms, list steps of a methodology).
 Must NOT assess only the final product — the process of problem-solving, debugging, and iteration is equally important.

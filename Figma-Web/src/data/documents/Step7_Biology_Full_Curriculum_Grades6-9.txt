@@ -28,46 +28,17 @@ Strand relationships
 Strand 4 (Inquiry) provides the methods through which Strands 1–3 are studied. Strand 1 (Diversity) provides the organisms that Strand 2 (Processes) analyses functionally. Strand 3 (Ecology) provides the environmental context in which Strand 1’s organisms live and Strand 2’s processes operate. By Grade 9, learners should perceive these connections as an integrated view of biological science.
 C. Overall Progression Across Grades 6–9
 The four-year progression follows the developmental transformation logic established in the upstream architecture. It is not simply ‘more content each year’ but a qualitative shift in how learners engage with biological knowledge.
-Dimension
-Grade 6 (33 hrs)
-Grade 7 (66 hrs)
-Grade 8 (66 hrs)
-Grade 9 (66 hrs)
-Role
-Bridging year
-Foundation year
-Analytical depth year
-Synthesis & readiness year
-Cognitive mode
-Observe → describe → classify
-Describe → explain
-Explain → analyse
-Analyse → evaluate → synthesise
-Inquiry mode
-Guided exploration
-Structured investigation
-Controlled experimentation
-Semi-independent research
-Learner agency
-Teacher-guided curiosity
-Structured choice
-Managed independence
-Responsible autonomy
-Content level
-Organisms, habitats, observable features
-Organ systems, classification, food chains
-Cells, system interactions, ecosystem dynamics
-Genetics, evolution, conservation science
-Assessment
-Entirely formative
-Formative-dominant + 2–3 summative
-Balanced formative-summative + project
-Evaluative tasks + extended project + portfolio
-Mongolian grounding
-Local organisms, five animals, seasonal nature
-Mongolian ecosystems, traditional knowledge
-Environmental challenges, pastoral ecology
-Conservation policy, sustainability, national issues
+
+| Dimension | Grade 6 (33 hrs) | Grade 7 (66 hrs) | Grade 8 (66 hrs) | Grade 9 (66 hrs) |
+| --- | --- | --- | --- | --- |
+| Role | Bridging year | Foundation year | Analytical depth year | Synthesis & readiness year |
+| Cognitive mode | Observe → describe → classify | Describe → explain | Explain → analyse | Analyse → evaluate → synthesise |
+| Inquiry mode | Guided exploration | Structured investigation | Controlled experimentation | Semi-independent research |
+| Learner agency | Teacher-guided curiosity | Structured choice | Managed independence | Responsible autonomy |
+| Content level | Organisms, habitats, observable features | Organ systems, classification, food chains | Cells, system interactions, ecosystem dynamics | Genetics, evolution, conservation science |
+| Assessment | Entirely formative | Formative-dominant + 2–3 summative | Balanced formative-summative + project | Evaluative tasks + extended project + portfolio |
+| Mongolian grounding | Local organisms, five animals, seasonal nature | Mongolian ecosystems, traditional knowledge | Environmental challenges, pastoral ecology | Conservation policy, sustainability, national issues |
+
 This progression is cumulative: each grade builds on the previous. It is also non-linear: individual learners develop at different rates, and teachers must accommodate variation through differentiated scaffolding rather than by lowering expectations.
 D. Grade 6 Curriculum (33 Hours — 1 Lesson Per Week)
 D.1 Role of the Grade
@@ -329,31 +300,14 @@ Scientific communication: Can the learner present biological understanding clear
 Applied reasoning: Can the learner use biological knowledge to analyse real-world situations and make informed judgements?
 Assessment that rewards only factual recall is incompatible with this curriculum. Every summative task must include explanation, application, or evaluation.
 I.2 Assessment Progression
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Balance
-100% formative
-70% formative, 30% summative
-50% formative, 50% summative
-40% formative, 60% summative
-Summative events
-None
-2–3 per year
-2–3 per year + project
-2–3 per year + research project + portfolio
-Cognitive demand
-Describe, identify, classify
-Describe, explain, interpret data
-Explain, analyse, evaluate evidence
-Evaluate, synthesise, construct arguments
-Key formats
-Journal, oral, observation
-Structured questions, diagrams, practical rubric
-Extended questions, data analysis, project report
-Evaluative essays, research report, peer-reviewed portfolio
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Balance | 100% formative | 70% formative, 30% summative | 50% formative, 50% summative | 40% formative, 60% summative |
+| Summative events | None | 2–3 per year | 2–3 per year + project | 2–3 per year + research project + portfolio |
+| Cognitive demand | Describe, identify, classify | Describe, explain, interpret data | Explain, analyse, evaluate evidence | Evaluate, synthesise, construct arguments |
+| Key formats | Journal, oral, observation | Structured questions, diagrams, practical rubric | Extended questions, data analysis, project report | Evaluative essays, research report, peer-reviewed portfolio |
+
 I.3 Practical Assessment
 Inquiry competence is not adequately assessed through written tests alone. Each year from Grade 7, at least one summative assessment should evaluate practical investigation skills directly, using a rubric that covers: question formulation, procedure design, data quality, conclusion quality, and evaluation/reflection. In Grade 9, the extended research project serves this function comprehensively.
 I.4 Assessment Time Budget

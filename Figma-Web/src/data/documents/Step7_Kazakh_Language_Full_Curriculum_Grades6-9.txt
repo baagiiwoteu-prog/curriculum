@@ -17,105 +17,40 @@ A.3 Who This Curriculum Serves
 This curriculum is designed for learners who arrive at Grade 6 with oral Kazakh fluency from the home and community environment, plus primary-level Kazakh literacy from the dedicated primary Kazakh Language subject. It is a heritage language curriculum, not a foreign language curriculum. Learners are expected to have basic communicative competence in Kazakh; the lower secondary task is to extend that competence into academic, literary, and reflective domains.
 B. Curriculum Strands
 The curriculum is organised around four strands. Three are core and essential; one is integrating and supporting. All four operate in every grade, with shifting emphasis and increasing complexity.
-Strand
-Share
-Purpose
-Strand 1: Kazakh Language Competence (Тіл дағдысы)
-~35%
-Develop listening, speaking, reading, and writing skills in Kazakh. Grammar, vocabulary, spelling, punctuation, and register. The skills engine that enables all other strands.
-Strand 2: Kazakh Literature & Oral Tradition (Әдебиет және ауыз әдебиеті)
-~30%
-Read, interpret, perform, and respond to Kazakh literary and oral texts: poetry, prose, folk tales, epics (zhyr), proverbs (maqal-mәtel), oral debate (aitys), terme. The content and cultural heart of the subject.
-Strand 3: Kazakh Cultural Knowledge & Identity (Мәдениет және тұлға тану)
-~20%
-Explore Kazakh heritage, traditions, values, contemporary life, and identity—studied through the medium of Kazakh language. The identity formation strand.
-Strand 4: Integrated Communication Projects (Жобалық жұмыс)
-~15%
-Extended tasks integrating language, literature, and culture: presentations, portfolios, research, community projects. The application and synthesis strand.
+
+| Strand | Share | Purpose |
+| --- | --- | --- |
+| Strand 1: Kazakh Language Competence (Тіл дағдысы) | ~35% | Develop listening, speaking, reading, and writing skills in Kazakh. Grammar, vocabulary, spelling, punctuation, and register. The skills engine that enables all other strands. |
+| Strand 2: Kazakh Literature & Oral Tradition (Әдебиет және ауыз әдебиеті) | ~30% | Read, interpret, perform, and respond to Kazakh literary and oral texts: poetry, prose, folk tales, epics (zhyr), proverbs (maqal-mәtel), oral debate (aitys), terme. The content and cultural heart of the subject. |
+| Strand 3: Kazakh Cultural Knowledge & Identity (Мәдениет және тұлға тану) | ~20% | Explore Kazakh heritage, traditions, values, contemporary life, and identity—studied through the medium of Kazakh language. The identity formation strand. |
+| Strand 4: Integrated Communication Projects (Жобалық жұмыс) | ~15% | Extended tasks integrating language, literature, and culture: presentations, portfolios, research, community projects. The application and synthesis strand. |
+
 Integration principle: The four strands are designed to be taught integrally, not in isolation. A typical lesson will simultaneously develop language skills (Strand 1) through engagement with a literary text (Strand 2) in a cultural context (Strand 3). Strand 4 projects draw explicitly on all three core strands. The strand structure organises curriculum design and assessment—it does not dictate lesson segmentation.
 C. Overall Progression Across Grades 6–9
 C.1 Transformation Logic
 The four-year progression follows the Step 2 Developmental Transformation Logic, applied to heritage language development:
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Cognitive mode
-Concrete → bridging: describe, narrate, retell
-Structured abstract: explain, compare, interpret
-Analytical-integrative: analyse, argue, evaluate
-Evaluative-synthetic: synthesise, critique, create
-Language use
-Consolidate primary literacy; develop reading fluency; basic academic writing
-Expand genre range; structured essays; formal oral discourse
-Argumentative and analytical writing; close reading; debate
-Extended independent writing; critical analysis; reflective and persuasive discourse
-Literary engagement
-Guided reading and retelling; folk tales, simple poems, proverbs
-Interpretive reading; expanded genres; aitys introduction; author study
-Critical literary analysis; epic tradition (zhyr); thematic comparison; creative response
-Independent literary evaluation; personal critical response; creative literary production
-Cultural orientation
-Familiarity → recognition: family, traditions, community life
-Recognition → understanding: history, values, intercultural comparison
-Understanding → reflection: identity questions, contemporary challenges
-Reflection → positioned identity: personal cultural stance, bilingual citizenship
-Learner autonomy
-Guided: teacher-structured tasks, clear models, scaffolded choice
-Structured choice: topic selection, format options, peer collaboration
-Managed independence: extended tasks, self-monitoring, peer editing
-Responsible autonomy: independent research, self-directed learning, capstone projects
-Assessment
-Diagnostic + formative; portfolio-based; teacher-assessed
-Formative + summative; structured tasks; peer assessment introduced
-Summative with rigour; analytical tasks; self- and peer-assessment regular
-Capstone assessment; independent projects; oral examination; reflective portfolio
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Cognitive mode | Concrete → bridging: describe, narrate, retell | Structured abstract: explain, compare, interpret | Analytical-integrative: analyse, argue, evaluate | Evaluative-synthetic: synthesise, critique, create |
+| Language use | Consolidate primary literacy; develop reading fluency; basic academic writing | Expand genre range; structured essays; formal oral discourse | Argumentative and analytical writing; close reading; debate | Extended independent writing; critical analysis; reflective and persuasive discourse |
+| Literary engagement | Guided reading and retelling; folk tales, simple poems, proverbs | Interpretive reading; expanded genres; aitys introduction; author study | Critical literary analysis; epic tradition (zhyr); thematic comparison; creative response | Independent literary evaluation; personal critical response; creative literary production |
+| Cultural orientation | Familiarity → recognition: family, traditions, community life | Recognition → understanding: history, values, intercultural comparison | Understanding → reflection: identity questions, contemporary challenges | Reflection → positioned identity: personal cultural stance, bilingual citizenship |
+| Learner autonomy | Guided: teacher-structured tasks, clear models, scaffolded choice | Structured choice: topic selection, format options, peer collaboration | Managed independence: extended tasks, self-monitoring, peer editing | Responsible autonomy: independent research, self-directed learning, capstone projects |
+| Assessment | Diagnostic + formative; portfolio-based; teacher-assessed | Formative + summative; structured tasks; peer assessment introduced | Summative with rigour; analytical tasks; self- and peer-assessment regular | Capstone assessment; independent projects; oral examination; reflective portfolio |
+
 C.2 Continuity with Primary
 The Grade 6 curriculum is explicitly designed as a bridge from primary, not a new beginning. Learners arrive with primary-level Kazakh literacy (reading, basic writing, grammar foundations), oral fluency, and familiarity with simple literary forms (folk tales, poems, proverbs). The lower secondary curriculum honours these foundations by beginning with diagnostic assessment, consolidation of existing competences, and gradual extension into new demands. The first semester of Grade 6 should feel like a supported deepening of familiar territory, not an abrupt encounter with unfamiliar academic requirements.
 C.3 Time Allocation Summary
-Strand
-Gr 6
-Gr 7
-Gr 8
-Gr 9
-Total
-Share
-1. Language Competence
-~23 hrs
-~23 hrs
-~23 hrs
-~23 hrs
-~92
-~35%
-2. Literature & Oral Tradition
-~20 hrs
-~20 hrs
-~20 hrs
-~20 hrs
-~79
-~30%
-3. Cultural Knowledge & Identity
-~13 hrs
-~13 hrs
-~13 hrs
-~13 hrs
-~53
-~20%
-4. Integrated Projects
-~10 hrs
-~10 hrs
-~10 hrs
-~10 hrs
-~40
-~15%
-TOTAL
-66 hrs
-66 hrs
-66 hrs
-66 hrs
-264
-100%
+
+| Strand | Gr 6 | Gr 7 | Gr 8 | Gr 9 | Total | Share |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. Language Competence | ~23 hrs | ~23 hrs | ~23 hrs | ~23 hrs | ~92 | ~35% |
+| 2. Literature & Oral Tradition | ~20 hrs | ~20 hrs | ~20 hrs | ~20 hrs | ~79 | ~30% |
+| 3. Cultural Knowledge & Identity | ~13 hrs | ~13 hrs | ~13 hrs | ~13 hrs | ~53 | ~20% |
+| 4. Integrated Projects | ~10 hrs | ~10 hrs | ~10 hrs | ~10 hrs | ~40 | ~15% |
+| TOTAL | 66 hrs | 66 hrs | 66 hrs | 66 hrs | 264 | 100% |
+
 Note: These allocations are indicative, not rigid. In practice, most lessons integrate multiple strands. The percentages guide planning emphasis, not lesson-by-lesson segmentation.
 D. Grade 6 Curriculum
 D.1 Role of the Grade
@@ -126,40 +61,34 @@ D.2 Progression Focus
 From primary consolidation to confident, fluent use. By the end of Grade 6, learners should be able to: read age-appropriate Kazakh texts with comprehension and fluency; write coherent paragraphs and short compositions in Kazakh; speak confidently in classroom discussions and structured oral tasks; listen to and comprehend spoken Kazakh at natural pace including narratives, instructions, and simple presentations; demonstrate secure knowledge of core Kazakh grammar and vocabulary appropriate to their stage; and retell and respond to Kazakh folk tales, poems, and proverbs studied.
 D.3 Expected Learning by Strand
 Strand 1: Language Competence (~23 hours)
-Skill Area
-Expected Learning
-Reading
-Read age-appropriate Kazakh texts (narrative, informational, poetry) with fluency and literal comprehension. Identify main ideas and supporting details. Use context to infer unfamiliar vocabulary. Read aloud with appropriate pronunciation and expression.
-Writing
-Write coherent paragraphs on familiar topics: personal narrative, descriptive, simple letter. Use correct spelling of common Kazakh words. Apply basic punctuation and sentence structure. Begin using the writing process (plan, draft, revise) with teacher guidance.
-Speaking
-Participate in classroom discussion in Kazakh with confidence. Retell stories and events in sequence. Present short prepared talks on familiar topics. Use appropriate register for classroom discourse.
-Listening
-Comprehend spoken Kazakh at natural pace in classroom instruction, narratives, and simple presentations. Follow multi-step oral instructions. Identify key information in listened texts.
-Grammar & vocabulary
-Consolidate primary grammar: noun cases, basic verb conjugation, adjective agreement, question formation, basic sentence patterns. Build academic vocabulary for classroom communication. Begin systematic vocabulary extension through reading.
+
+| Skill Area | Expected Learning |
+| --- | --- |
+| Reading | Read age-appropriate Kazakh texts (narrative, informational, poetry) with fluency and literal comprehension. Identify main ideas and supporting details. Use context to infer unfamiliar vocabulary. Read aloud with appropriate pronunciation and expression. |
+| Writing | Write coherent paragraphs on familiar topics: personal narrative, descriptive, simple letter. Use correct spelling of common Kazakh words. Apply basic punctuation and sentence structure. Begin using the writing process (plan, draft, revise) with teacher guidance. |
+| Speaking | Participate in classroom discussion in Kazakh with confidence. Retell stories and events in sequence. Present short prepared talks on familiar topics. Use appropriate register for classroom discourse. |
+| Listening | Comprehend spoken Kazakh at natural pace in classroom instruction, narratives, and simple presentations. Follow multi-step oral instructions. Identify key information in listened texts. |
+| Grammar & vocabulary | Consolidate primary grammar: noun cases, basic verb conjugation, adjective agreement, question formation, basic sentence patterns. Build academic vocabulary for classroom communication. Begin systematic vocabulary extension through reading. |
+
 Strand 2: Literature & Oral Tradition (~20 hours)
 Guided reading and response to Kazakh literary texts. Indicative content direction:
-Genre/Form
-Indicative Content
-Folk tales (ертегі)
-3–4 traditional Kazakh folk tales selected for narrative clarity and cultural themes (e.g., animal tales, trickster tales, moral tales). Retelling, character identification, simple theme discussion.
-Poetry (өлең)
-4–6 accessible Kazakh poems: traditional and modern. Focus on rhythm, imagery, and feeling. Recitation and memorisation of selected short poems.
-Proverbs (maқal-mәtel)
-15–20 Kazakh proverbs organised thematically (family, nature, wisdom, work). Meaning discussion, comparison with Mongolian proverbs, use in context.
-Oral tradition introduction
-Introduction to the concept of Kazakh oral literary heritage: who are the zhyrau, aqyn, and terme performers? Listening to recordings or live performance if available.
+
+| Genre/Form | Indicative Content |
+| --- | --- |
+| Folk tales (ертегі) | 3–4 traditional Kazakh folk tales selected for narrative clarity and cultural themes (e.g., animal tales, trickster tales, moral tales). Retelling, character identification, simple theme discussion. |
+| Poetry (өлең) | 4–6 accessible Kazakh poems: traditional and modern. Focus on rhythm, imagery, and feeling. Recitation and memorisation of selected short poems. |
+| Proverbs (maқal-mәtel) | 15–20 Kazakh proverbs organised thematically (family, nature, wisdom, work). Meaning discussion, comparison with Mongolian proverbs, use in context. |
+| Oral tradition introduction | Introduction to the concept of Kazakh oral literary heritage: who are the zhyrau, aqyn, and terme performers? Listening to recordings or live performance if available. |
+
 Strand 3: Cultural Knowledge & Identity (~13 hours)
 Exploration of familiar Kazakh cultural themes through language:
-Theme
-Indicative Content Direction
-Family and community (отбасы, қауым)
-Family structures, kinship terms, roles and relationships in Kazakh families. Discussion of own family heritage stories. Community life in Bayan-Ölgii.
-Traditions and celebrations
-Nauryz, Kazakh wedding customs, hospitality traditions, seasonal practices. Descriptive writing and oral accounts of celebrations experienced.
-Living in Mongolia as Kazakh
-What does it mean to be Kazakh in Mongolia? Bilingual life. Kazakh and Mongolian neighbours. Positive identity: pride in heritage and belonging in Mongolia.
+
+| Theme | Indicative Content Direction |
+| --- | --- |
+| Family and community (отбасы, қауым) | Family structures, kinship terms, roles and relationships in Kazakh families. Discussion of own family heritage stories. Community life in Bayan-Ölgii. |
+| Traditions and celebrations | Nauryz, Kazakh wedding customs, hospitality traditions, seasonal practices. Descriptive writing and oral accounts of celebrations experienced. |
+| Living in Mongolia as Kazakh | What does it mean to be Kazakh in Mongolia? Bilingual life. Kazakh and Mongolian neighbours. Positive identity: pride in heritage and belonging in Mongolia. |
+
 Strand 4: Integrated Projects (~10 hours)
 One to two guided group projects per year:
 Project option A — “My Family Story”: Learners interview a family member in Kazakh about a family tradition, story, or experience. They produce a written account (1–2 pages) and present it orally to the class. Integrates speaking, listening, writing, and cultural content.
@@ -185,38 +114,32 @@ E.2 Progression Focus
 From consolidation to structured application and explanation. By the end of Grade 7, learners should be able to: read and explain the meaning of a range of Kazakh literary and informational texts; write structured essays and compositions of 2–3 paragraphs with clear organisation; deliver prepared oral presentations of 3–5 minutes on topics of personal or cultural interest; compare features of different text types in Kazakh; explain basic grammatical patterns and apply them with increasing accuracy; and engage with Kazakh literary tradition through guided interpretive response.
 E.3 Expected Learning by Strand
 Strand 1: Language Competence (~23 hours)
-Skill Area
-Expected Learning
-Reading
-Read a wider range of text types: short stories, biographical texts, news-style articles, instructional texts. Identify purpose, audience, and key structural features. Make inferences from textual evidence. Compare two short texts on a related topic.
-Writing
-Write structured multi-paragraph compositions: narrative, descriptive, expository, and simple persuasive. Use topic sentences, supporting details, and concluding statements. Apply the writing process with increasing independence. Begin writing for different audiences.
-Speaking
-Deliver prepared oral presentations (3–5 minutes) using notes. Participate in structured classroom discussions with supporting evidence. Begin formal register use in presentations. Explain ideas and opinions with reasons.
-Listening
-Comprehend extended spoken texts: teacher explanations, peer presentations, audio recordings. Identify speaker’s purpose and main argument. Take simple notes from listened Kazakh-language input.
-Grammar & vocabulary
-Extend grammar: complex sentence structures (compound and complex sentences), verb tense system consolidation, reported speech introduction, comparative/superlative forms. Systematic vocabulary expansion through thematic word study and reading.
+
+| Skill Area | Expected Learning |
+| --- | --- |
+| Reading | Read a wider range of text types: short stories, biographical texts, news-style articles, instructional texts. Identify purpose, audience, and key structural features. Make inferences from textual evidence. Compare two short texts on a related topic. |
+| Writing | Write structured multi-paragraph compositions: narrative, descriptive, expository, and simple persuasive. Use topic sentences, supporting details, and concluding statements. Apply the writing process with increasing independence. Begin writing for different audiences. |
+| Speaking | Deliver prepared oral presentations (3–5 minutes) using notes. Participate in structured classroom discussions with supporting evidence. Begin formal register use in presentations. Explain ideas and opinions with reasons. |
+| Listening | Comprehend extended spoken texts: teacher explanations, peer presentations, audio recordings. Identify speaker’s purpose and main argument. Take simple notes from listened Kazakh-language input. |
+| Grammar & vocabulary | Extend grammar: complex sentence structures (compound and complex sentences), verb tense system consolidation, reported speech introduction, comparative/superlative forms. Systematic vocabulary expansion through thematic word study and reading. |
+
 Strand 2: Literature & Oral Tradition (~20 hours)
-Genre/Form
-Indicative Content
-Short stories
-2–3 Kazakh short stories (modern and classic). Guided analysis: plot structure, character motivation, setting, theme. Written responses: summary and personal reflection.
-Poetry deepening
-5–7 poems of increasing complexity. Introduction to poetic devices: metaphor, simile, personification, rhyme, rhythm. Interpretive questions: What does the poet mean? Why these images?
-Aitys introduction
-Introduction to the aitys (oral poetry debate) tradition: its history, cultural role, and performance conventions. Listening to recorded aitys. Simple classroom aitys exercises in pairs.
-Author/performer study
-Brief study of 1–2 significant Kazakh literary figures (e.g., Abai Qunanbaev, Shakarim Qudayberdiuli). Reading selected accessible works. Biographical context.
+
+| Genre/Form | Indicative Content |
+| --- | --- |
+| Short stories | 2–3 Kazakh short stories (modern and classic). Guided analysis: plot structure, character motivation, setting, theme. Written responses: summary and personal reflection. |
+| Poetry deepening | 5–7 poems of increasing complexity. Introduction to poetic devices: metaphor, simile, personification, rhyme, rhythm. Interpretive questions: What does the poet mean? Why these images? |
+| Aitys introduction | Introduction to the aitys (oral poetry debate) tradition: its history, cultural role, and performance conventions. Listening to recorded aitys. Simple classroom aitys exercises in pairs. |
+| Author/performer study | Brief study of 1–2 significant Kazakh literary figures (e.g., Abai Qunanbaev, Shakarim Qudayberdiuli). Reading selected accessible works. Biographical context. |
+
 Strand 3: Cultural Knowledge & Identity (~13 hours)
-Theme
-Indicative Content Direction
-Kazakh history and heritage
-Key episodes in Kazakh cultural history studied through literary and oral sources (not as a parallel History curriculum). The Kazakh presence in Mongolia: origins, settlement, community development.
-Traditional practices as living culture
-Eagle hunting (bürkitshi), dombra music, felt-making (kiíz), traditional embroidery. Studied through descriptive and narrative texts in Kazakh, with oral accounts from community practitioners where possible.
-Kazakh and Mongolian cultural comparison
-Similarities and differences between Kazakh and Mongolian nomadic heritage, celebrations, family values. Develops intercultural awareness and metalinguistic skills. Emphasises shared values and mutual respect.
+
+| Theme | Indicative Content Direction |
+| --- | --- |
+| Kazakh history and heritage | Key episodes in Kazakh cultural history studied through literary and oral sources (not as a parallel History curriculum). The Kazakh presence in Mongolia: origins, settlement, community development. |
+| Traditional practices as living culture | Eagle hunting (bürkitshi), dombra music, felt-making (kiíz), traditional embroidery. Studied through descriptive and narrative texts in Kazakh, with oral accounts from community practitioners where possible. |
+| Kazakh and Mongolian cultural comparison | Similarities and differences between Kazakh and Mongolian nomadic heritage, celebrations, family values. Develops intercultural awareness and metalinguistic skills. Emphasises shared values and mutual respect. |
+
 Strand 4: Integrated Projects (~10 hours)
 Project option A — “Kazakh Cultural Profile”: Learners research one aspect of Kazakh cultural practice (food, music, craft, celebration), write an informational text (2–3 paragraphs), and present their findings to the class with visual aids. May include simple digital slides if available, or hand-drawn posters.
 Project option B — “Classroom Aitys”: In pairs, learners prepare and perform a simple aitys (structured oral poetry exchange) on a given theme (e.g., town vs. countryside, winter vs. summer). Develops oral fluency, creative thinking, cultural understanding, and collaborative skills.
@@ -238,38 +161,32 @@ F.2 Progression Focus
 From structured application to analysis and integration. By the end of Grade 8, learners should be able to: analyse Kazakh literary texts for authorial choices, themes, and cultural significance; write argumentative and analytical essays of 3–5 paragraphs with evidence and reasoning; participate in structured debates in Kazakh; interpret extended oral and written texts critically; research cultural topics using multiple Kazakh-language sources; and reflect in writing on their own relationship to Kazakh cultural identity.
 F.3 Expected Learning by Strand
 Strand 1: Language Competence (~23 hours)
-Skill Area
-Expected Learning
-Reading
-Read complex Kazakh texts including literary criticism extracts, journalistic writing, and extended literary texts. Analyse text structure and authorial purpose. Evaluate arguments in informational texts. Compare perspectives across multiple texts.
-Writing
-Write argumentative essays presenting a thesis with supporting evidence and counterargument acknowledgement. Write analytical responses to literary texts. Write reflective essays connecting personal experience with cultural themes. Use paragraph transitions and cohesive devices.
-Speaking
-Participate in structured debates in Kazakh. Deliver substantive presentations (5–7 minutes) with clear argument structure. Respond to questions and challenges fluently. Use formal register consistently in academic contexts.
-Listening
-Comprehend extended Kazakh discourse: lectures, debates, media content. Identify bias and perspective in spoken texts. Take structured notes from Kazakh-language oral input. Evaluate the strength of spoken arguments.
-Grammar & vocabulary
-Advanced grammar: subordinate clauses, conditional structures, passive constructions, indirect speech. Academic vocabulary for argumentation and analysis. Self-correction strategies. Stylistic register awareness.
+
+| Skill Area | Expected Learning |
+| --- | --- |
+| Reading | Read complex Kazakh texts including literary criticism extracts, journalistic writing, and extended literary texts. Analyse text structure and authorial purpose. Evaluate arguments in informational texts. Compare perspectives across multiple texts. |
+| Writing | Write argumentative essays presenting a thesis with supporting evidence and counterargument acknowledgement. Write analytical responses to literary texts. Write reflective essays connecting personal experience with cultural themes. Use paragraph transitions and cohesive devices. |
+| Speaking | Participate in structured debates in Kazakh. Deliver substantive presentations (5–7 minutes) with clear argument structure. Respond to questions and challenges fluently. Use formal register consistently in academic contexts. |
+| Listening | Comprehend extended Kazakh discourse: lectures, debates, media content. Identify bias and perspective in spoken texts. Take structured notes from Kazakh-language oral input. Evaluate the strength of spoken arguments. |
+| Grammar & vocabulary | Advanced grammar: subordinate clauses, conditional structures, passive constructions, indirect speech. Academic vocabulary for argumentation and analysis. Self-correction strategies. Stylistic register awareness. |
+
 Strand 2: Literature & Oral Tradition (~20 hours)
-Genre/Form
-Indicative Content
-Epic tradition (zhyr)
-Introduction to Kazakh epic poetry: selected passages from major epics (e.g., Qoblandy Batyr, Alpamys). Narrative analysis, cultural values embodied in epic heroes, oral performance conventions. Connection to Central Asian epic tradition.
-Extended prose
-1–2 longer Kazakh prose works (novellas or novel excerpts). Close reading for character development, thematic depth, narrative technique. Written analytical response.
-Terme and philosophical poetry
-Terme (didactic/philosophical oral poetry): selected examples exploring wisdom, ethics, and life guidance. Analysis of persuasive and rhetorical techniques. Connection to ethical reasoning.
-Comparative literary study
-Thematic comparison between a Kazakh text and a Mongolian or world literature text (read in translation if necessary). Develops comparative analytical skills and intercultural literary awareness.
+
+| Genre/Form | Indicative Content |
+| --- | --- |
+| Epic tradition (zhyr) | Introduction to Kazakh epic poetry: selected passages from major epics (e.g., Qoblandy Batyr, Alpamys). Narrative analysis, cultural values embodied in epic heroes, oral performance conventions. Connection to Central Asian epic tradition. |
+| Extended prose | 1–2 longer Kazakh prose works (novellas or novel excerpts). Close reading for character development, thematic depth, narrative technique. Written analytical response. |
+| Terme and philosophical poetry | Terme (didactic/philosophical oral poetry): selected examples exploring wisdom, ethics, and life guidance. Analysis of persuasive and rhetorical techniques. Connection to ethical reasoning. |
+| Comparative literary study | Thematic comparison between a Kazakh text and a Mongolian or world literature text (read in translation if necessary). Develops comparative analytical skills and intercultural literary awareness. |
+
 Strand 3: Cultural Knowledge & Identity (~13 hours)
-Theme
-Indicative Content Direction
-Contemporary Kazakh identity
-What does it mean to be Kazakh in contemporary Mongolia? Language shift and preservation. Urbanisation and community change. Return migration and its effects. Youth identity questions. Studied through discussion, reading, and reflective writing.
-Kazakh across borders
-The Kazakh community in Mongolia, Kazakhstan, China, and Central Asia. Unity and diversity of Kazakh experience. The role of language in maintaining connection across borders. (Studied through the lens of language and texts, not as geography.)
-Gender, change, and tradition
-Changing roles in Kazakh families and communities. Women in Kazakh literature and society. Tension and dialogue between tradition and modernity. Explored through literary texts and structured discussion.
+
+| Theme | Indicative Content Direction |
+| --- | --- |
+| Contemporary Kazakh identity | What does it mean to be Kazakh in contemporary Mongolia? Language shift and preservation. Urbanisation and community change. Return migration and its effects. Youth identity questions. Studied through discussion, reading, and reflective writing. |
+| Kazakh across borders | The Kazakh community in Mongolia, Kazakhstan, China, and Central Asia. Unity and diversity of Kazakh experience. The role of language in maintaining connection across borders. (Studied through the lens of language and texts, not as geography.) |
+| Gender, change, and tradition | Changing roles in Kazakh families and communities. Women in Kazakh literature and society. Tension and dialogue between tradition and modernity. Explored through literary texts and structured discussion. |
+
 Strand 4: Integrated Projects (~10 hours)
 Project option A — “Cultural Research Presentation”: Learners independently research a topic in Kazakh cultural life (traditional craft, musical tradition, historical episode, contemporary issue), using 2–3 Kazakh-language sources. They produce a written research report (3–5 paragraphs) and deliver an oral presentation with visual support. Integrates research skills, analytical writing, formal oral discourse, and cultural knowledge.
 Project option B — “Creative Literary Response”: Learners produce an original creative work in Kazakh (short story, poem, or dramatic scene) inspired by the literary texts studied during the year. They present their work to the class with a brief commentary explaining their creative choices and cultural connections.
@@ -292,38 +209,32 @@ G.2 Progression Focus
 From analysis to synthesis, evaluation, and autonomy. By the end of Grade 9, learners should be able to: read and critically evaluate a wide range of Kazakh texts with independence and insight; write extended, well-structured essays (argumentative, analytical, reflective, creative) in Kazakh; deliver formal oral presentations and participate confidently in sustained academic discussion and debate; conduct independent research using Kazakh-language sources; articulate a reflective, personally meaningful position on their Kazakh cultural identity as bilingual Mongolian citizens; and demonstrate readiness for continued independent Kazakh language learning and use.
 G.3 Expected Learning by Strand
 Strand 1: Language Competence (~23 hours)
-Skill Area
-Expected Learning
-Reading
-Read independently across genres: literary, journalistic, academic, digital. Evaluate arguments and perspectives critically. Synthesise information from multiple texts. Identify stylistic choices and their effects. Read for pleasure and self-directed learning in Kazakh.
-Writing
-Write extended essays (5+ paragraphs) with sophisticated structure, evidence integration, and stylistic control. Produce original creative writing (poetry, fiction, personal essay). Write reflectively on identity, culture, and values. Edit and revise own work independently.
-Speaking
-Deliver formal presentations (7–10 minutes) with confidence and rhetorical skill. Participate in sustained academic discussion, defending and adjusting positions with evidence. Perform literary texts (poetry recitation, dramatic reading, aitys) with expressive skill.
-Listening
-Comprehend complex spoken Kazakh across registers: academic, literary, media, community. Critically evaluate spoken arguments. Engage in sustained note-taking from Kazakh-language oral sources. Appreciate aesthetic qualities of spoken Kazakh.
-Grammar & vocabulary
-Grammar as a tool for stylistic control: sentence variety, emphasis, precision. Advanced academic and literary vocabulary. Independent self-correction. Metalinguistic awareness: explain differences between Kazakh and Mongolian grammatical systems.
+
+| Skill Area | Expected Learning |
+| --- | --- |
+| Reading | Read independently across genres: literary, journalistic, academic, digital. Evaluate arguments and perspectives critically. Synthesise information from multiple texts. Identify stylistic choices and their effects. Read for pleasure and self-directed learning in Kazakh. |
+| Writing | Write extended essays (5+ paragraphs) with sophisticated structure, evidence integration, and stylistic control. Produce original creative writing (poetry, fiction, personal essay). Write reflectively on identity, culture, and values. Edit and revise own work independently. |
+| Speaking | Deliver formal presentations (7–10 minutes) with confidence and rhetorical skill. Participate in sustained academic discussion, defending and adjusting positions with evidence. Perform literary texts (poetry recitation, dramatic reading, aitys) with expressive skill. |
+| Listening | Comprehend complex spoken Kazakh across registers: academic, literary, media, community. Critically evaluate spoken arguments. Engage in sustained note-taking from Kazakh-language oral sources. Appreciate aesthetic qualities of spoken Kazakh. |
+| Grammar & vocabulary | Grammar as a tool for stylistic control: sentence variety, emphasis, precision. Advanced academic and literary vocabulary. Independent self-correction. Metalinguistic awareness: explain differences between Kazakh and Mongolian grammatical systems. |
+
 Strand 2: Literature & Oral Tradition (~20 hours)
-Genre/Form
-Indicative Content
-Independent literary study
-Learner-selected extended text for independent reading and critical response. May include novels, story collections, or poetry anthologies. Written critical essay as assessment. Teacher conference for guidance.
-Contemporary Kazakh literature
-Works by contemporary Kazakh writers (from Mongolia and Kazakhstan). Themes relevant to adolescent experience: identity, migration, modernity, tradition. Discussion of how literature reflects and shapes cultural identity.
-Oral tradition mastery
-Deeper engagement with aitys, zhyr, and terme. Performance component: learners prepare and perform a piece from the oral tradition or compose an original work in a traditional form. Understanding oral tradition as living, evolving practice.
-Literary criticism introduction
-Simple critical frameworks: How do we evaluate literature? What makes a text culturally significant? Learners write a brief critical evaluation of a studied text, arguing for its importance.
+
+| Genre/Form | Indicative Content |
+| --- | --- |
+| Independent literary study | Learner-selected extended text for independent reading and critical response. May include novels, story collections, or poetry anthologies. Written critical essay as assessment. Teacher conference for guidance. |
+| Contemporary Kazakh literature | Works by contemporary Kazakh writers (from Mongolia and Kazakhstan). Themes relevant to adolescent experience: identity, migration, modernity, tradition. Discussion of how literature reflects and shapes cultural identity. |
+| Oral tradition mastery | Deeper engagement with aitys, zhyr, and terme. Performance component: learners prepare and perform a piece from the oral tradition or compose an original work in a traditional form. Understanding oral tradition as living, evolving practice. |
+| Literary criticism introduction | Simple critical frameworks: How do we evaluate literature? What makes a text culturally significant? Learners write a brief critical evaluation of a studied text, arguing for its importance. |
+
 Strand 3: Cultural Knowledge & Identity (~13 hours)
-Theme
-Indicative Content Direction
-Personal cultural identity
-Reflective exploration: Who am I as a Kazakh-Mongolian person? What is my relationship to my heritage language and culture? How do I navigate bilingual, bicultural life? Extended reflective writing and discussion.
-Language, rights, and citizenship
-Minority language rights in Mongolia and internationally. The value of linguistic diversity. Heritage language preservation as a community and individual responsibility. Studied through informational texts and structured discussion, not political advocacy.
-Looking forward: Kazakh heritage in a changing world
-Globalisation, technology, and cultural change. How do Kazakh traditions adapt and endure? What is the role of young people in cultural continuity? Forward-looking discussion and writing.
+
+| Theme | Indicative Content Direction |
+| --- | --- |
+| Personal cultural identity | Reflective exploration: Who am I as a Kazakh-Mongolian person? What is my relationship to my heritage language and culture? How do I navigate bilingual, bicultural life? Extended reflective writing and discussion. |
+| Language, rights, and citizenship | Minority language rights in Mongolia and internationally. The value of linguistic diversity. Heritage language preservation as a community and individual responsibility. Studied through informational texts and structured discussion, not political advocacy. |
+| Looking forward: Kazakh heritage in a changing world | Globalisation, technology, and cultural change. How do Kazakh traditions adapt and endure? What is the role of young people in cultural continuity? Forward-looking discussion and writing. |
+
 Strand 4: Integrated Projects (~10 hours)
 Capstone Project: An independent or paired capstone project that represents the culmination of four years of Kazakh Language study. Learners choose a topic that integrates language competence, literary understanding, and cultural identity. Options include:
 • Extended research essay (5+ pages) on a Kazakh cultural or literary topic
@@ -352,24 +263,15 @@ H.1 Foundational Pedagogical Principles
 5. Community as classroom. The Kazakh-speaking community is a learning resource. Community elders, cultural practitioners, dombra players, aitys performers, and family members are invited into the learning process through interviews, visits, performances, and collaborative projects. The classroom extends into the community, and the community into the classroom.
 6. Graduated autonomy. Teacher scaffolding is high in Grade 6 and progressively withdrawn through Grades 7–9, with learners taking increasing responsibility for their own learning. By Grade 9, learners are managing independent projects, self-assessing their work, and making autonomous choices about what and how they learn in Kazakh.
 H.2 Teaching Approaches by Learning Mode
-Learning Mode
-Recommended Approaches
-Approaches to Avoid
-Reading
-Shared reading, guided reading, independent reading. Pre-reading vocabulary and context. Post-reading discussion and written response. Reading aloud for fluency. Silent sustained reading for pleasure.
-Round-robin reading without preparation. Comprehension questions only at literal level. Reading texts far above learners’ independent reading level without scaffolding.
-Writing
-Process writing (plan, draft, revise, edit). Modelled writing by teacher. Peer editing with criteria. Writing for real purposes and audiences. Genre-specific instruction.
-Copying from the board. Grammar exercises as writing. Writing without models. Single-draft submission without revision process.
-Speaking & Listening
-Structured discussion protocols. Prepared presentations with rehearsal. Debate with formal procedures. Storytelling and retelling. Pair and group discussion tasks.
-Teacher-dominated talk with minimal student speaking. Unprepared forced oral production. Correcting every error mid-speech. Speaking only in response to teacher questions.
-Grammar
-Grammar in context: noticed in reading, practised in writing, discussed in editing. Focus on meaning before form. Mini-lessons targeted to common errors in student writing.
-Decontextualised grammar drill. Grammar as separate lesson content. Memorising rules without application. Grammar-translation methodology.
-Vocabulary
-Vocabulary through reading and thematic study. Word walls and personal dictionaries. Multiple encounters in context. Kazakh-Mongolian comparison for metalinguistic awareness.
-Isolated word lists for memorisation. Vocabulary tests without contextual use. Translation lists as primary vocabulary tool.
+
+| Learning Mode | Recommended Approaches | Approaches to Avoid |
+| --- | --- | --- |
+| Reading | Shared reading, guided reading, independent reading. Pre-reading vocabulary and context. Post-reading discussion and written response. Reading aloud for fluency. Silent sustained reading for pleasure. | Round-robin reading without preparation. Comprehension questions only at literal level. Reading texts far above learners’ independent reading level without scaffolding. |
+| Writing | Process writing (plan, draft, revise, edit). Modelled writing by teacher. Peer editing with criteria. Writing for real purposes and audiences. Genre-specific instruction. | Copying from the board. Grammar exercises as writing. Writing without models. Single-draft submission without revision process. |
+| Speaking & Listening | Structured discussion protocols. Prepared presentations with rehearsal. Debate with formal procedures. Storytelling and retelling. Pair and group discussion tasks. | Teacher-dominated talk with minimal student speaking. Unprepared forced oral production. Correcting every error mid-speech. Speaking only in response to teacher questions. |
+| Grammar | Grammar in context: noticed in reading, practised in writing, discussed in editing. Focus on meaning before form. Mini-lessons targeted to common errors in student writing. | Decontextualised grammar drill. Grammar as separate lesson content. Memorising rules without application. Grammar-translation methodology. |
+| Vocabulary | Vocabulary through reading and thematic study. Word walls and personal dictionaries. Multiple encounters in context. Kazakh-Mongolian comparison for metalinguistic awareness. | Isolated word lists for memorisation. Vocabulary tests without contextual use. Translation lists as primary vocabulary tool. |
+
 H.3 The Teacher’s Role
 The Kazakh Language teacher is a language model, a cultural mediator, and a learning facilitator—not primarily a knowledge transmitter. The teacher speaks Kazakh consistently throughout lessons, models fluent reading and writing, shares their own relationship with Kazakh culture and language, and creates a classroom environment where Kazakh is the natural medium of communication. The teacher’s most important professional skills are: selecting and adapting texts for appropriate difficulty and interest; facilitating meaningful discussion that develops both language and thinking; providing constructive feedback that supports language development without undermining confidence; and connecting classroom learning with the living Kazakh community.
 I. Whole-Subject Assessment Framework
@@ -381,31 +283,14 @@ I.1 Assessment Principles
 5. Progressive sophistication. Assessment tasks become more open-ended, analytical, and independent across the four grades, mirroring the cognitive and autonomy progression of the curriculum.
 6. Include cultural engagement. Assessment should capture not only linguistic competence but also cultural knowledge, identity reflection, and engagement with literary and oral traditions.
 I.2 Assessment Plan by Grade
-Grade
-Formative
-Summative Tasks (per year)
-Skills Assessed
-Learner Role
-6
-Diagnostic entry assessment; reading fluency checks; guided writing with feedback; oral observation; vocabulary in context; self-reflection prompts
-2 portfolio-based assessments: (1) oral + writing + vocabulary (Sem 1); (2) project + reading comprehension (Sem 2)
-All four skills + cultural knowledge. Emphasis on reading fluency and oral confidence.
-Mostly teacher-assessed. Simple self-assessment introduced.
-7
-Criteria-based writing feedback; structured discussion observation; reading response journals; peer feedback on presentations
-2–3 tasks: structured essay + reading comprehension; oral presentation + literary response; integrated project
-All four skills + literary response. Emphasis on structured writing and oral presentation.
-Peer assessment for oral work. Criteria shared in advance.
-8
-Analytical writing with detailed feedback; debate observation with rubric; research process monitoring; regular peer editing
-2–3 tasks: analytical essay on literary text; debate/presentation performance; research project
-All four skills + analytical thinking + cultural reflection. Emphasis on argumentation and analysis.
-Self- and peer-assessment regular. Extended response tasks.
-9
-Conference-based feedback on capstone; self-directed reading logs; peer review of creative work; reflective journal
-Capstone project (product + oral defence); analytical essay (exam); oral examination; reflective portfolio
-All four skills + critical evaluation + independent learning + identity reflection. Full range of competences.
-Self-assessment integral. Independent task management assessed.
+
+| Grade | Formative | Summative Tasks (per year) | Skills Assessed | Learner Role |
+| --- | --- | --- | --- | --- |
+| 6 | Diagnostic entry assessment; reading fluency checks; guided writing with feedback; oral observation; vocabulary in context; self-reflection prompts | 2 portfolio-based assessments: (1) oral + writing + vocabulary (Sem 1); (2) project + reading comprehension (Sem 2) | All four skills + cultural knowledge. Emphasis on reading fluency and oral confidence. | Mostly teacher-assessed. Simple self-assessment introduced. |
+| 7 | Criteria-based writing feedback; structured discussion observation; reading response journals; peer feedback on presentations | 2–3 tasks: structured essay + reading comprehension; oral presentation + literary response; integrated project | All four skills + literary response. Emphasis on structured writing and oral presentation. | Peer assessment for oral work. Criteria shared in advance. |
+| 8 | Analytical writing with detailed feedback; debate observation with rubric; research process monitoring; regular peer editing | 2–3 tasks: analytical essay on literary text; debate/presentation performance; research project | All four skills + analytical thinking + cultural reflection. Emphasis on argumentation and analysis. | Self- and peer-assessment regular. Extended response tasks. |
+| 9 | Conference-based feedback on capstone; self-directed reading logs; peer review of creative work; reflective journal | Capstone project (product + oral defence); analytical essay (exam); oral examination; reflective portfolio | All four skills + critical evaluation + independent learning + identity reflection. Full range of competences. | Self-assessment integral. Independent task management assessed. |
+
 I.3 Assessment Formats
 The following assessment formats are used across the curriculum, with different emphasis at different grades:
 Written: Guided writing, structured essays, analytical essays, reflective essays, creative writing, research reports, reading comprehension responses.

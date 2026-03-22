@@ -4,16 +4,14 @@ Lower Secondary Curriculum — Grades 7–9
 Cross-Level Competence Analysis — Step 7
 Building on Steps 1–6 of the Upstream Design Architecture
 Working Document — March 2026
-Subject
-Газар зүй (Geography)
-Cluster
-Cluster 3: Scientific and Environmental Inquiry
-Weight category
-DELAYED-ENTRY — 99 total hrs, 0→1→1→1/wk
-Hours: Gr 6/7/8/9
-0 / 33 / 33 / 33
-Upstream brief
-Step 6: Geography Subject Design Brief
+
+| Subject | Газар зүй (Geography) |
+| --- | --- |
+| Cluster | Cluster 3: Scientific and Environmental Inquiry |
+| Weight category | DELAYED-ENTRY — 99 total hrs, 0→1→1→1/wk |
+| Hours: Gr 6/7/8/9 | 0 / 33 / 33 / 33 |
+| Upstream brief | Step 6: Geography Subject Design Brief |
+
 A. Subject Purpose and Role in Lower Secondary Education
 Geography (Газар зүй) develops geographic literacy: the capacity to think spatially, understand places, analyse human–environment interactions, and make informed judgements about territorial, environmental, and resource issues. It is the only subject in the lower secondary curriculum that systematically integrates physical and human dimensions of the world through a spatial lens, connecting natural systems (climate, landforms, water, ecosystems) with human systems (settlement, livelihood, resource use, governance) through the organising concepts of place, space, scale, and interconnection.
 In Mongolia, Geography carries special significance. The country’s vast continental interior, extreme climate, rapid urbanisation, desertification pressures, mining-dependent economy, nomadic heritage, and sparse population distribution are not merely background context but substantive educational content. Geography is where learners develop the capacity to understand, analyse, and engage with these defining national realities.
@@ -39,38 +37,17 @@ C. Overall Progression Across Grades 6–9
 C.1 Grade 6: No Formal Geography
 Geography is absent from Grade 6. Geographic competences are sustained through other subjects (science, social studies). The Grade 7 curriculum assumes a Grade 5 Байгаль шинжлэл foundation with a one-year gap.
 C.2 Progression Summary
-Dimension
-Grade 7
-Grade 8
-Grade 9
-Role
-Foundation & orientation
-Analysis & connection
-Synthesis & engagement
-Cognitive mode
-Describe and explain
-Analyse and compare
-Evaluate and synthesise
-Strand emphasis
-Physical geography ~45%
-Human geography ~45%
-Environment/sustainability ~40%
-Scale focus
-Local → Mongolia
-Mongolia → comparative
-Mongolia → global systems
-Inquiry mode
-Teacher-guided
-Structured investigation
-Semi-independent research
-Map skills
-Reading & interpreting
-Analysing & constructing
-Evaluating & communicating
-Assessment peak
-Knowledge + basic skills
-+ analytical tasks
-+ evaluative tasks + investigation
+
+| Dimension | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- |
+| Role | Foundation & orientation | Analysis & connection | Synthesis & engagement |
+| Cognitive mode | Describe and explain | Analyse and compare | Evaluate and synthesise |
+| Strand emphasis | Physical geography ~45% | Human geography ~45% | Environment/sustainability ~40% |
+| Scale focus | Local → Mongolia | Mongolia → comparative | Mongolia → global systems |
+| Inquiry mode | Teacher-guided | Structured investigation | Semi-independent research |
+| Map skills | Reading & interpreting | Analysing & constructing | Evaluating & communicating |
+| Assessment peak | Knowledge + basic skills | + analytical tasks | + evaluative tasks + investigation |
+
 D. Grade 6 Curriculum
 D.1 Role of the Grade
 Geography does not appear in the Grade 6 timetable. This is a deliberate system-level decision to protect the primary-to-secondary transition year (Step 5A). Grade 6 carries 15 subjects at a lighter overall load (26 lessons/week) to allow adjustment, consolidation, and community-building.
@@ -233,24 +210,15 @@ Geography develops disciplinary literacy in Mongolian. Teachers should explicitl
 I. Whole-Subject Assessment Framework
 I.1 What Should Be Assessed
 Geographic assessment captures five dimensions, all of which must be represented across the three years:
-Dimension
-What it means
-Grade progression
-Geographic knowledge
-Understanding of places, processes, patterns
-Gr7: recall & describe; Gr8: explain & connect; Gr9: apply & synthesise
-Map & data skills
-Reading, interpreting, creating geographic representations
-Gr7: read & interpret; Gr8: analyse & construct; Gr9: evaluate & communicate
-Geographic reasoning
-Explaining phenomena, analysing patterns, connecting systems
-Gr7: single-factor explanation; Gr8: multi-factor analysis; Gr9: evaluative reasoning
-Geographic inquiry
-Asking questions, gathering evidence, presenting findings
-Gr7: guided investigation; Gr8: structured investigation; Gr9: semi-independent research
-Geographic judgement
-Evaluating issues, making reasoned arguments
-Gr7: not assessed; Gr8: emerging; Gr9: central
+
+| Dimension | What it means | Grade progression |
+| --- | --- | --- |
+| Geographic knowledge | Understanding of places, processes, patterns | Gr7: recall & describe; Gr8: explain & connect; Gr9: apply & synthesise |
+| Map & data skills | Reading, interpreting, creating geographic representations | Gr7: read & interpret; Gr8: analyse & construct; Gr9: evaluate & communicate |
+| Geographic reasoning | Explaining phenomena, analysing patterns, connecting systems | Gr7: single-factor explanation; Gr8: multi-factor analysis; Gr9: evaluative reasoning |
+| Geographic inquiry | Asking questions, gathering evidence, presenting findings | Gr7: guided investigation; Gr8: structured investigation; Gr9: semi-independent research |
+| Geographic judgement | Evaluating issues, making reasoned arguments | Gr7: not assessed; Gr8: emerging; Gr9: central |
+
 I.2 Assessment Methods
 With only 3–4 formal assessment opportunities per year, assessment must be efficient and aligned with the subject’s spatial and visual character:
 Map-based tasks: Annotating, interpreting, constructing maps. Must appear in every year’s assessment.

@@ -1,5 +1,83 @@
-import React, { useMemo, useRef, useEffect, useState } from 'react';
+import React, { useMemo, useRef, useEffect, useState, type ReactNode } from 'react';
 import { parseSections, type Section } from '../../data/documentMap';
+
+function renderContent(text: string, color: string): ReactNode[] {
+  const lines = text.split('\n');
+  const elements: ReactNode[] = [];
+  let i = 0;
+  let key = 0;
+
+  while (i < lines.length) {
+    const line = lines[i];
+
+    // Detect markdown table (starts with "| ")
+    if (line.trim().startsWith('| ')) {
+      const tableLines: string[] = [];
+      while (i < lines.length && lines[i].trim().startsWith('|')) {
+        tableLines.push(lines[i].trim());
+        i++;
+      }
+
+      // Parse table: first row = header, second row = separator, rest = body
+      if (tableLines.length >= 2) {
+        const parseRow = (row: string) =>
+          row.split('|').slice(1, -1).map((c) => c.trim());
+
+        const headerCells = parseRow(tableLines[0]);
+        const bodyRows = tableLines.slice(2).map(parseRow); // skip separator
+
+        elements.push(
+          <div key={key++} className="my-4 overflow-x-auto">
+            <table className="w-full border-collapse text-xs">
+              <thead>
+                <tr>
+                  {headerCells.map((cell, ci) => (
+                    <th
+                      key={ci}
+                      className="border border-gray-300 px-3 py-2 text-left font-semibold text-gray-900"
+                      style={{ backgroundColor: `${color}12` }}
+                    >
+                      {cell}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {bodyRows.map((row, ri) => (
+                  <tr key={ri} className={ri % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                    {row.map((cell, ci) => (
+                      <td
+                        key={ci}
+                        className="border border-gray-200 px-3 py-2 text-gray-700"
+                      >
+                        {cell}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        );
+      }
+      continue;
+    }
+
+    // Regular text line
+    if (line.trim()) {
+      elements.push(
+        <p key={key++} className="mb-2">
+          {line}
+        </p>
+      );
+    } else {
+      elements.push(<div key={key++} className="h-2" />);
+    }
+    i++;
+  }
+
+  return elements;
+}
 
 interface DocumentViewerProps {
   title: string;
@@ -140,8 +218,8 @@ export function DocumentViewer({ title, content, color, onClose }: DocumentViewe
                   >
                     {section.title}
                   </h3>
-                  <div className="text-sm text-gray-700 leading-relaxed whitespace-pre-wrap">
-                    {section.content}
+                  <div className="text-sm text-gray-700 leading-relaxed">
+                    {renderContent(section.content, color)}
                   </div>
                 </div>
               ))}

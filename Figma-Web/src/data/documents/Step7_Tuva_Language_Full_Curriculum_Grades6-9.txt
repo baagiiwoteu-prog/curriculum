@@ -26,34 +26,16 @@ Strand Integration Principle
 The literature-based methodology provides the integrating mechanism. A single literary or cultural text simultaneously develops listening (hearing the text read aloud), speaking (discussing and debating its meaning), reading (engaging with the written form), writing (responding to it in composition), and language knowledge (analysing its grammatical and lexical features). In practice, a typical lesson sequence of 8–10 lessons around one core text will develop all four strands. The strands are separated in this curriculum document for clarity of planning and assessment, but teachers should understand that effective Tuva Language teaching is always multi-strand.
 C. Overall Progression Across Grades 6–9
 The four-year progression follows the developmental transformation logic established in Step 2, adapted for the specific characteristics of a heritage mother-tongue subject. Each grade carries a distinct developmental role:
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Bridging and Reactivation
-Extension and Comparison
-Analytical Depth
-Synthesis and Identity
-Consolidate primary competences; rebuild oral and reading confidence; re-establish literature-based cycle in new setting
-Extend to interpretation; begin Tuvan–Mongolian–world comparison; structured independent production
-Interpretive and analytical engagement; metalinguistic awareness; persuasive writing; non-literary texts
-Synthesise competences; articulate bilingual identity; capstone projects; readiness for upper secondary
-Concrete–bridging
-Structured abstract
-Analytical–integrative
-Evaluative–synthetic
-Guided autonomy
-Structured choice
-Managed independence
-Responsible autonomy
-Describing and recounting
-Explaining and comparing
-Interpreting and arguing
-Synthesising and persuading
-Familiar genres: folktales, legends, proverbs, short stories
-Extended genres: comparative texts, poetry, historical narratives
-Complex genres: essays, analytical texts, sociolinguistic inquiry
-Capstone genres: extended composition, cultural documentation, reflective essay
+
+| Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- |
+| Bridging and Reactivation | Extension and Comparison | Analytical Depth | Synthesis and Identity |
+| Consolidate primary competences; rebuild oral and reading confidence; re-establish literature-based cycle in new setting | Extend to interpretation; begin Tuvan–Mongolian–world comparison; structured independent production | Interpretive and analytical engagement; metalinguistic awareness; persuasive writing; non-literary texts | Synthesise competences; articulate bilingual identity; capstone projects; readiness for upper secondary |
+| Concrete–bridging | Structured abstract | Analytical–integrative | Evaluative–synthetic |
+| Guided autonomy | Structured choice | Managed independence | Responsible autonomy |
+| Describing and recounting | Explaining and comparing | Interpreting and arguing | Synthesising and persuading |
+| Familiar genres: folktales, legends, proverbs, short stories | Extended genres: comparative texts, poetry, historical narratives | Complex genres: essays, analytical texts, sociolinguistic inquiry | Capstone genres: extended composition, cultural documentation, reflective essay |
+
 C.1 Progression in Strand 1: Oral Language
 Grade 6: Rebuild confidence in Tuva oral expression; retell and discuss familiar texts; recite proverbs and short poems; participate in guided classroom discussion in Tuva. Grade 7: Structured oral presentations on texts and cultural topics; debate on text-based issues; storytelling with attention to performance quality; compare Tuvan and Mongolian oral forms. Grade 8: Extended oral argumentation; persuasive speaking; interview elders and community members; analyse oral tradition as a cultural practice. Grade 9: Formal presentation and debate; performative storytelling for an audience; reflective oral discourse on language, identity, and culture; oral component of capstone project.
 C.2 Progression in Strand 2: Reading and Literary Interpretation
@@ -63,86 +45,65 @@ Grade 6: Consolidate accurate sentence and paragraph writing in Tuva; structured
 C.4 Progression in Strand 4: Language Knowledge
 Grade 6: Consolidate primary grammar (parts of speech, cases, sentence types, orthographic rules); expand vocabulary through text-based learning; review and deepen Tuva-specific orthographic conventions (ъ-marking, vowel harmony). Grade 7: Functional grammar—how grammatical choices shape meaning and register; compound and complex sentences; systematic vocabulary expansion including loanword awareness; begin Tuvan–Mongolian grammatical comparison. Grade 8: Metalinguistic awareness—Tuva as a Turkic language; etymology and word formation; dialectal variation; register and style; loanwords from Mongolian and other languages; language change over time. Grade 9: Sociolinguistic awareness—language status, bilingualism, language shift, digital presence of minority languages; consolidate grammatical accuracy; vocabulary for abstract and analytical discourse; capstone metalinguistic reflection.
 D. Grade 6 Curriculum
-Role of the grade
-Bridging and Reactivation — the transition year
-Core developmental task
-Consolidate primary foundations; rebuild oral and literacy confidence; re-establish literature-based methodology in the lower secondary context
-Cognitive stance
-Concrete–bridging: familiar genres with increasing attention to structure, meaning, and purpose
-Learner agency
-Guided autonomy: teacher-directed with structured participation
-Hours available
-66 hours (2 lessons/week × 33 weeks)
-Thematic units
-6–7 units of approximately 8–10 lessons each, plus transition diagnostic activities in weeks 1–2
-Annual project
-One community-connected mini-project (e.g., class collection of family proverbs and sayings)
+
+| Role of the grade | Bridging and Reactivation — the transition year |
+| --- | --- |
+| Core developmental task | Consolidate primary foundations; rebuild oral and literacy confidence; re-establish literature-based methodology in the lower secondary context |
+| Cognitive stance | Concrete–bridging: familiar genres with increasing attention to structure, meaning, and purpose |
+| Learner agency | Guided autonomy: teacher-directed with structured participation |
+| Hours available | 66 hours (2 lessons/week × 33 weeks) |
+| Thematic units | 6–7 units of approximately 8–10 lessons each, plus transition diagnostic activities in weeks 1–2 |
+| Annual project | One community-connected mini-project (e.g., class collection of family proverbs and sayings) |
+
 D.1 Grade 6 Progression Focus
 Grade 6 must accomplish five tasks: (a) diagnose and address any gaps in Tuva-language literacy and grammar from the primary–lower secondary transition; (b) rebuild oral confidence in Tuva within a new peer group and institutional setting; (c) re-establish the literature-based methodology cycle (prepare–read–vocabulary–comprehend–write–reflect) as the normal mode of learning; (d) maintain and extend reading fluency and writing accuracy in Tuva; and (e) signal that Tuva Language is a subject of genuine intellectual engagement, not merely heritage nostalgia.
 The transition weeks (weeks 1–2) should include informal diagnostic activities: oral conversation in Tuva, reading aloud from a familiar text type, a short writing task, and a brief grammar review. These are not formal tests but teacher-observation opportunities to identify learners who need additional support.
 D.2 Grade 6 Learning Outcomes
 Strand 1: Oral Language and Communication
-Code
-Learning Outcome: Strand 1 — Grade 6
-6.1.1
-Listen to a Tuvan narrative text read aloud and retell the main events in correct sequence.
-6.1.2
-Ask and answer questions about a text’s characters, events, and moral lessons using complete Tuvan sentences.
-6.1.3
-Express a personal opinion about a character’s actions or a story’s message, supporting it with a reason from the text.
-6.1.4
-Recite from memory at least 5 Tuvan proverbs (züir tsetsen üg) and explain their meaning in classroom discussion.
-6.1.5
-Participate in paired and small-group discussion in Tuva, listening respectfully and building on others’ contributions.
-6.1.6
-Retell a Tuvan folktale or legend to the class with clear structure (beginning–middle–end) and expressive delivery.
+
+| Code | Learning Outcome: Strand 1 — Grade 6 |
+| --- | --- |
+| 6.1.1 | Listen to a Tuvan narrative text read aloud and retell the main events in correct sequence. |
+| 6.1.2 | Ask and answer questions about a text’s characters, events, and moral lessons using complete Tuvan sentences. |
+| 6.1.3 | Express a personal opinion about a character’s actions or a story’s message, supporting it with a reason from the text. |
+| 6.1.4 | Recite from memory at least 5 Tuvan proverbs (züir tsetsen üg) and explain their meaning in classroom discussion. |
+| 6.1.5 | Participate in paired and small-group discussion in Tuva, listening respectfully and building on others’ contributions. |
+| 6.1.6 | Retell a Tuvan folktale or legend to the class with clear structure (beginning–middle–end) and expressive delivery. |
+
 Strand 2: Reading and Literary Interpretation
-Code
-Learning Outcome: Strand 2 — Grade 6
-6.2.1
-Read Tuvan narrative texts (folktales, legends, short stories) fluently and with appropriate intonation.
-6.2.2
-Identify the beginning, middle, and end of a text and explain how events are connected.
-6.2.3
-Identify and describe the main characters in a text, including their actions, qualities, and motivations.
-6.2.4
-Infer the meaning of unfamiliar Tuvan words using context clues (surrounding words, illustrations, sentence meaning).
-6.2.5
-Identify the moral lesson or cultural message of a Tuvan folktale or proverb and explain it in own words.
-6.2.6
-Distinguish between a literary text (story, poem) and a non-literary text (letter, instruction, announcement) and describe their different purposes.
-6.2.7
-Read aloud a Tuvan poem or proverb selection with clarity, correct pronunciation, and appropriate expression.
+
+| Code | Learning Outcome: Strand 2 — Grade 6 |
+| --- | --- |
+| 6.2.1 | Read Tuvan narrative texts (folktales, legends, short stories) fluently and with appropriate intonation. |
+| 6.2.2 | Identify the beginning, middle, and end of a text and explain how events are connected. |
+| 6.2.3 | Identify and describe the main characters in a text, including their actions, qualities, and motivations. |
+| 6.2.4 | Infer the meaning of unfamiliar Tuvan words using context clues (surrounding words, illustrations, sentence meaning). |
+| 6.2.5 | Identify the moral lesson or cultural message of a Tuvan folktale or proverb and explain it in own words. |
+| 6.2.6 | Distinguish between a literary text (story, poem) and a non-literary text (letter, instruction, announcement) and describe their different purposes. |
+| 6.2.7 | Read aloud a Tuvan poem or proverb selection with clarity, correct pronunciation, and appropriate expression. |
+
 Strand 3: Writing and Composition
-Code
-Learning Outcome: Strand 3 — Grade 6
-6.3.1
-Write grammatically correct Tuvan sentences demonstrating accurate use of case suffixes, verb tenses, and punctuation.
-6.3.2
-Compose a structured short text (8–12 sentences) with a clear beginning, middle, and end on a familiar topic (family, home, nature, school life).
-6.3.3
-Write a response to a reading: describe a favourite character, explain a story’s message, or express a personal reaction.
-6.3.4
-Write a creative continuation or alternative ending for a Tuvan folktale studied in class.
-6.3.5
-Use at least 3 proverbs or idiomatic expressions appropriately in written compositions during the year.
-6.3.6
-Copy and organise a collection of at least 10 family or community proverbs/sayings with brief explanations (annual mini-project).
+
+| Code | Learning Outcome: Strand 3 — Grade 6 |
+| --- | --- |
+| 6.3.1 | Write grammatically correct Tuvan sentences demonstrating accurate use of case suffixes, verb tenses, and punctuation. |
+| 6.3.2 | Compose a structured short text (8–12 sentences) with a clear beginning, middle, and end on a familiar topic (family, home, nature, school life). |
+| 6.3.3 | Write a response to a reading: describe a favourite character, explain a story’s message, or express a personal reaction. |
+| 6.3.4 | Write a creative continuation or alternative ending for a Tuvan folktale studied in class. |
+| 6.3.5 | Use at least 3 proverbs or idiomatic expressions appropriately in written compositions during the year. |
+| 6.3.6 | Copy and organise a collection of at least 10 family or community proverbs/sayings with brief explanations (annual mini-project). |
+
 Strand 4: Language Knowledge and Metalinguistic Awareness
-Code
-Learning Outcome: Strand 4 — Grade 6
-6.4.1
-Identify and correctly use the major Tuvan parts of speech (nouns, adjectives, verbs, pronouns, numerals) in sentences.
-6.4.2
-Apply Tuvan noun case suffixes correctly in written and oral expression.
-6.4.3
-Distinguish and correctly use declarative, interrogative, and exclamatory sentence types.
-6.4.4
-Apply Tuvan orthographic rules accurately, including ъ-marking, vowel harmony, and compound proper noun spelling.
-6.4.5
-Expand active vocabulary by learning and using at least 40 new Tuvan words encountered in reading texts during the year.
-6.4.6
-Identify whether a word is a Tuvan-origin word or a loanword from Mongolian, and use both correctly.
+
+| Code | Learning Outcome: Strand 4 — Grade 6 |
+| --- | --- |
+| 6.4.1 | Identify and correctly use the major Tuvan parts of speech (nouns, adjectives, verbs, pronouns, numerals) in sentences. |
+| 6.4.2 | Apply Tuvan noun case suffixes correctly in written and oral expression. |
+| 6.4.3 | Distinguish and correctly use declarative, interrogative, and exclamatory sentence types. |
+| 6.4.4 | Apply Tuvan orthographic rules accurately, including ъ-marking, vowel harmony, and compound proper noun spelling. |
+| 6.4.5 | Expand active vocabulary by learning and using at least 40 new Tuvan words encountered in reading texts during the year. |
+| 6.4.6 | Identify whether a word is a Tuvan-origin word or a loanword from Mongolian, and use both correctly. |
+
 D.3 Grade 6 Indicative Content Direction
 Texts should be drawn primarily from familiar Tuvan folk-literary genres that provide continuity with primary: folktales (тоол), legends, animal fables, riddles (оньсого), proverbs (зүйр цэцэн үг), and ‘world triads’ (ертөнцийн гурав). At least one text should be a short contemporary Tuvan narrative (set in a recognisable modern context) to signal that the language is living and current, not solely historical. One non-literary text (e.g., a simple community announcement, a letter, a description of a local place) should be included to develop awareness of text-type variation.
 Thematic domains for Grade 6 content include: family and home life; Tuvan herding traditions and seasonal practices; the natural environment of western Mongolia (mountains, rivers, animals); Tuvan customs of hospitality and respect for elders; and the value of language as a connection between generations.
@@ -161,85 +122,64 @@ Grade 6 content is grounded primarily in Tuvan cultural contexts: Tuvan family l
 D.7 Grade 6 Assessment Notes
 Assessment in Grade 6 is predominantly formative and diagnostic. The first two weeks should include informal diagnostic observation of oral fluency, reading aloud, and a short writing sample to identify learners needing additional support. Throughout the year, assessment is integrated into the literature-based cycle: teacher observation of oral participation; reading-response journals (maintained in a simple notebook); writing samples collected in a portfolio; vocabulary quizzes embedded in unit activities. One mid-year and one end-of-year structured assessment should capture reading comprehension (guided questions on an unseen short text) and writing (a short composition on a given topic). Oral competence is assessed through observation and one oral retelling task per semester. All assessment is in Tuva.
 E. Grade 7 Curriculum
-Role of the grade
-Extension and Comparison — the structured-growth year
-Core developmental task
-Extend from comprehension to interpretation; begin systematic Tuvan–Mongolian–world comparison; develop structured independent production
-Cognitive stance
-Structured abstract: explain why a text works, not just what it says
-Learner agency
-Structured choice: students select from options in reading and writing tasks
-Hours available
-66 hours (2 lessons/week × 33 weeks)
-Thematic units
-6–7 units of approximately 8–10 lessons each
-Annual project
-One cross-strand project (e.g., comparative study of a Tuvan and Mongolian folktale presented orally and in writing)
+
+| Role of the grade | Extension and Comparison — the structured-growth year |
+| --- | --- |
+| Core developmental task | Extend from comprehension to interpretation; begin systematic Tuvan–Mongolian–world comparison; develop structured independent production |
+| Cognitive stance | Structured abstract: explain why a text works, not just what it says |
+| Learner agency | Structured choice: students select from options in reading and writing tasks |
+| Hours available | 66 hours (2 lessons/week × 33 weeks) |
+| Thematic units | 6–7 units of approximately 8–10 lessons each |
+| Annual project | One cross-strand project (e.g., comparative study of a Tuvan and Mongolian folktale presented orally and in writing) |
+
 E.1 Grade 7 Progression Focus
 Grade 7 builds on the consolidated foundations of Grade 6 by extending three dimensions: (a) from comprehension to interpretation—learners now explain why a text conveys meaning, not merely what it says; (b) from Tuvan-internal study to comparative engagement—systematic comparison with Mongolian oral and literary traditions develops both analytical skill and intercultural awareness; (c) from guided composition to structured independent writing—students plan, draft, and revise their own texts with decreasing teacher scaffolding. Oral competence extends to formal presentation, structured debate, and storytelling with attention to performance quality.
 E.2 Grade 7 Learning Outcomes
 Strand 1: Oral Language and Communication
-Code
-Learning Outcome: Strand 1 — Grade 7
-7.1.1
-Listen to a Tuvan text and identify not only events but underlying themes, character motivations, and the author’s/storyteller’s purpose.
-7.1.2
-Deliver a structured oral presentation (2–3 minutes) on a text-related topic, with clear introduction, main points, and conclusion.
-7.1.3
-Participate in a structured classroom debate on a text-based issue, presenting an argued position and responding to counterarguments.
-7.1.4
-Perform a Tuvan folktale or legend with attention to vocal expression, pacing, and audience engagement.
-7.1.5
-Compare a Tuvan oral tradition (e.g., a proverb, a tale type) with a Mongolian equivalent, explaining similarities and differences orally.
-7.1.6
-Recite from memory at least 3 Tuvan poems or extended proverb sequences with expressive delivery.
+
+| Code | Learning Outcome: Strand 1 — Grade 7 |
+| --- | --- |
+| 7.1.1 | Listen to a Tuvan text and identify not only events but underlying themes, character motivations, and the author’s/storyteller’s purpose. |
+| 7.1.2 | Deliver a structured oral presentation (2–3 minutes) on a text-related topic, with clear introduction, main points, and conclusion. |
+| 7.1.3 | Participate in a structured classroom debate on a text-based issue, presenting an argued position and responding to counterarguments. |
+| 7.1.4 | Perform a Tuvan folktale or legend with attention to vocal expression, pacing, and audience engagement. |
+| 7.1.5 | Compare a Tuvan oral tradition (e.g., a proverb, a tale type) with a Mongolian equivalent, explaining similarities and differences orally. |
+| 7.1.6 | Recite from memory at least 3 Tuvan poems or extended proverb sequences with expressive delivery. |
+
 Strand 2: Reading and Literary Interpretation
-Code
-Learning Outcome: Strand 2 — Grade 7
-7.2.1
-Read Tuvan narrative and poetic texts with fluency and interpret their themes, explaining how events, characters, and language choices contribute to meaning.
-7.2.2
-Identify and describe genre features of different Tuvan text types: folktale, legend, poem, proverb collection, non-literary text.
-7.2.3
-Compare a Tuvan literary text with a Mongolian or world literature text on a similar theme, identifying similarities and differences in treatment.
-7.2.4
-Identify how a poet uses repetition, imagery, or structure to create meaning and rhythm in a Tuvan poem.
-7.2.5
-Read a non-literary Tuvan text (e.g., a descriptive article, a community notice, a simple report) and extract key information.
-7.2.6
-Use a Tuvan–Mongolian dictionary or reference source independently to clarify unfamiliar words.
-7.2.7
-Select and read a Tuvan text independently from a class library or collection, and share a brief oral or written response.
+
+| Code | Learning Outcome: Strand 2 — Grade 7 |
+| --- | --- |
+| 7.2.1 | Read Tuvan narrative and poetic texts with fluency and interpret their themes, explaining how events, characters, and language choices contribute to meaning. |
+| 7.2.2 | Identify and describe genre features of different Tuvan text types: folktale, legend, poem, proverb collection, non-literary text. |
+| 7.2.3 | Compare a Tuvan literary text with a Mongolian or world literature text on a similar theme, identifying similarities and differences in treatment. |
+| 7.2.4 | Identify how a poet uses repetition, imagery, or structure to create meaning and rhythm in a Tuvan poem. |
+| 7.2.5 | Read a non-literary Tuvan text (e.g., a descriptive article, a community notice, a simple report) and extract key information. |
+| 7.2.6 | Use a Tuvan–Mongolian dictionary or reference source independently to clarify unfamiliar words. |
+| 7.2.7 | Select and read a Tuvan text independently from a class library or collection, and share a brief oral or written response. |
+
 Strand 3: Writing and Composition
-Code
-Learning Outcome: Strand 3 — Grade 7
-7.3.1
-Plan, draft, and revise a structured composition (12–18 sentences) with clear paragraphing, using a planning framework.
-7.3.2
-Write a comparative response to two texts studied in class, identifying at least two similarities and two differences.
-7.3.3
-Write a formal letter or invitation in Tuva using appropriate register and conventions.
-7.3.4
-Compose a creative text inspired by a traditional genre: a proverb imitation, a legend continuation, or a poem modelled on a studied example.
-7.3.5
-Use synonyms, antonyms, and at least 5 idiomatic expressions accurately in written compositions during the year.
-7.3.6
-Complete a written component of the annual comparative project: a structured comparison of a Tuvan and Mongolian text.
+
+| Code | Learning Outcome: Strand 3 — Grade 7 |
+| --- | --- |
+| 7.3.1 | Plan, draft, and revise a structured composition (12–18 sentences) with clear paragraphing, using a planning framework. |
+| 7.3.2 | Write a comparative response to two texts studied in class, identifying at least two similarities and two differences. |
+| 7.3.3 | Write a formal letter or invitation in Tuva using appropriate register and conventions. |
+| 7.3.4 | Compose a creative text inspired by a traditional genre: a proverb imitation, a legend continuation, or a poem modelled on a studied example. |
+| 7.3.5 | Use synonyms, antonyms, and at least 5 idiomatic expressions accurately in written compositions during the year. |
+| 7.3.6 | Complete a written component of the annual comparative project: a structured comparison of a Tuvan and Mongolian text. |
+
 Strand 4: Language Knowledge and Metalinguistic Awareness
-Code
-Learning Outcome: Strand 4 — Grade 7
-7.4.1
-Identify and use compound and complex sentences in written Tuva, employing coordinating and subordinating connectors.
-7.4.2
-Analyse how verb tense choices (past, present, future) and pronoun use affect meaning and perspective in a text.
-7.4.3
-Identify at least 10 Mongolian loanwords in Tuvan texts studied during the year and explain how they have been adapted into Tuvan phonology and grammar.
-7.4.4
-Compare a specific grammatical feature (e.g., case system, verb conjugation) between Tuvan and Mongolian, noting similarities and differences.
-7.4.5
-Expand active vocabulary by learning and using at least 50 new Tuvan words from reading texts during the year, including abstract and descriptive terms.
-7.4.6
-Apply all Tuvan orthographic conventions accurately in extended writing, including punctuation of direct speech.
+
+| Code | Learning Outcome: Strand 4 — Grade 7 |
+| --- | --- |
+| 7.4.1 | Identify and use compound and complex sentences in written Tuva, employing coordinating and subordinating connectors. |
+| 7.4.2 | Analyse how verb tense choices (past, present, future) and pronoun use affect meaning and perspective in a text. |
+| 7.4.3 | Identify at least 10 Mongolian loanwords in Tuvan texts studied during the year and explain how they have been adapted into Tuvan phonology and grammar. |
+| 7.4.4 | Compare a specific grammatical feature (e.g., case system, verb conjugation) between Tuvan and Mongolian, noting similarities and differences. |
+| 7.4.5 | Expand active vocabulary by learning and using at least 50 new Tuvan words from reading texts during the year, including abstract and descriptive terms. |
+| 7.4.6 | Apply all Tuvan orthographic conventions accurately in extended writing, including punctuation of direct speech. |
+
 E.3 Grade 7 Indicative Content Direction
 Texts should extend beyond familiar folk genres to include: Tuvan legends with historical or geographic settings (connected to the Altai region); Tuvan poetry (both traditional and contemporary where available); one or two Mongolian literary texts for comparison (e.g., a Mongolian folktale, a Mongolian proverb set); one world literature selection in Tuvan translation or accessible adaptation (to broaden perspective); and at least one non-literary text type (community description, simple report, letter). Thematic domains include: Tuvan historical figures and places; the relationship between humans and nature in Tuvan tradition; hospitality, courage, and wisdom as cultural values; the shared nomadic heritage of Tuvan and Mongolian peoples; and the experience of growing up in a bilingual community.
 E.4 Grade 7 Pedagogy Notes
@@ -251,81 +191,62 @@ Grade 7 introduces systematic Tuvan–Mongolian comparison as a core analytical 
 E.7 Grade 7 Assessment Notes
 Assessment becomes more structured while remaining predominantly formative. The reading-response journal continues and is reviewed twice per year. Writing portfolios include at least four substantive compositions (two text responses, one functional text, one creative piece). Oral assessment includes one formal presentation and one storytelling performance per semester, assessed using simple criteria (clarity, structure, expression, language accuracy). One mid-year and one end-of-year structured assessment test reading comprehension (interpretive questions on an unseen text) and writing (a structured composition with planning expected). The annual comparative project is assessed as a combined oral-written product. All assessment in Tuva.
 F. Grade 8 Curriculum
-Role of the grade
-Analytical Depth and Metalinguistic Awareness — the deepening year
-Core developmental task
-Engage with texts at interpretive and analytical level; develop metalinguistic awareness of Tuva as a language system; extend to persuasive and analytical writing
-Cognitive stance
-Analytical–integrative: identify assumptions, cultural references, and stylistic choices in texts
-Learner agency
-Managed independence: students manage extended tasks with periodic teacher check-ins
-Hours available
-66 hours (2 lessons/week × 33 weeks)
-Thematic units
-6–7 units of approximately 8–10 lessons each
-Annual project
-One extended project (e.g., oral history documentation from a community elder, or a written analysis of a Tuvan cultural practice)
+
+| Role of the grade | Analytical Depth and Metalinguistic Awareness — the deepening year |
+| --- | --- |
+| Core developmental task | Engage with texts at interpretive and analytical level; develop metalinguistic awareness of Tuva as a language system; extend to persuasive and analytical writing |
+| Cognitive stance | Analytical–integrative: identify assumptions, cultural references, and stylistic choices in texts |
+| Learner agency | Managed independence: students manage extended tasks with periodic teacher check-ins |
+| Hours available | 66 hours (2 lessons/week × 33 weeks) |
+| Thematic units | 6–7 units of approximately 8–10 lessons each |
+| Annual project | One extended project (e.g., oral history documentation from a community elder, or a written analysis of a Tuvan cultural practice) |
+
 F.1 Grade 8 Progression Focus
 Grade 8 represents the deepening phase. Three new dimensions are introduced: (a) interpretive analysis—learners identify not just what a text means but what assumptions, values, and cultural contexts underlie it; (b) explicit metalinguistic awareness—the Tuvan language itself becomes an object of study (its Turkic roots, loanwords, dialectal variation, sociolinguistic status); (c) persuasive and analytical writing—students move from describing and narrating to arguing, evaluating, and defending positions. Non-literary Tuvan texts (community documents, informational texts) receive increased attention alongside literature.
 F.2 Grade 8 Learning Outcomes
 Strand 1: Oral Language and Communication
-Code
-Learning Outcome: Strand 1 — Grade 8
-8.1.1
-Deliver a structured persuasive oral argument (3–4 minutes) on a cultural, social, or text-related topic, supported by evidence and reasoning.
-8.1.2
-Conduct a guided interview with a community elder or family member about a Tuvan tradition, custom, or historical memory, recording key information.
-8.1.3
-Participate in extended classroom discussion analysing the cultural significance of a Tuvan oral tradition (e.g., why certain proverbs persist, what values they encode).
-8.1.4
-Explain in oral presentation how the Tuvan language is related to other Turkic languages and what makes it distinctive.
-8.1.5
-Perform a Tuvan oral tradition (story, song, or poem) for a school or community audience with confident, expressive delivery.
+
+| Code | Learning Outcome: Strand 1 — Grade 8 |
+| --- | --- |
+| 8.1.1 | Deliver a structured persuasive oral argument (3–4 minutes) on a cultural, social, or text-related topic, supported by evidence and reasoning. |
+| 8.1.2 | Conduct a guided interview with a community elder or family member about a Tuvan tradition, custom, or historical memory, recording key information. |
+| 8.1.3 | Participate in extended classroom discussion analysing the cultural significance of a Tuvan oral tradition (e.g., why certain proverbs persist, what values they encode). |
+| 8.1.4 | Explain in oral presentation how the Tuvan language is related to other Turkic languages and what makes it distinctive. |
+| 8.1.5 | Perform a Tuvan oral tradition (story, song, or poem) for a school or community audience with confident, expressive delivery. |
+
 Strand 2: Reading and Literary Interpretation
-Code
-Learning Outcome: Strand 2 — Grade 8
-8.2.1
-Analyse a Tuvan literary text to identify underlying themes, cultural assumptions, and the relationship between content and historical/social context.
-8.2.2
-Compare the treatment of a theme (e.g., courage, nature, justice) across a Tuvan text, a Mongolian text, and a world literature text, explaining how cultural context shapes interpretation.
-8.2.3
-Read and extract key information from non-literary Tuvan texts: informational articles, community documents, biographical texts, descriptive accounts.
-8.2.4
-Identify and analyse the author’s/storyteller’s use of stylistic devices (imagery, repetition, metaphor, dialogue) in a Tuvan text and explain their effect.
-8.2.5
-Identify how a text’s meaning changes depending on the reader’s cultural context, explaining how a Tuvan reader and a non-Tuvan reader might interpret the same text differently.
-8.2.6
-Read independently from a range of Tuvan texts (literary and non-literary) and maintain a reading log with brief reflective entries.
+
+| Code | Learning Outcome: Strand 2 — Grade 8 |
+| --- | --- |
+| 8.2.1 | Analyse a Tuvan literary text to identify underlying themes, cultural assumptions, and the relationship between content and historical/social context. |
+| 8.2.2 | Compare the treatment of a theme (e.g., courage, nature, justice) across a Tuvan text, a Mongolian text, and a world literature text, explaining how cultural context shapes interpretation. |
+| 8.2.3 | Read and extract key information from non-literary Tuvan texts: informational articles, community documents, biographical texts, descriptive accounts. |
+| 8.2.4 | Identify and analyse the author’s/storyteller’s use of stylistic devices (imagery, repetition, metaphor, dialogue) in a Tuvan text and explain their effect. |
+| 8.2.5 | Identify how a text’s meaning changes depending on the reader’s cultural context, explaining how a Tuvan reader and a non-Tuvan reader might interpret the same text differently. |
+| 8.2.6 | Read independently from a range of Tuvan texts (literary and non-literary) and maintain a reading log with brief reflective entries. |
+
 Strand 3: Writing and Composition
-Code
-Learning Outcome: Strand 3 — Grade 8
-8.3.1
-Write a persuasive essay (250–350 words) arguing a position on a text-related or cultural issue, using evidence and structured reasoning.
-8.3.2
-Write a comparative analysis of two texts studied in class, organised by theme, character, or stylistic feature.
-8.3.3
-Produce a written report based on an interview or community investigation (annual project component).
-8.3.4
-Write a creative text in a deliberately chosen genre (poem, short story, legend adaptation) with attention to language style and cultural authenticity.
-8.3.5
-Revise and edit own writing for grammatical accuracy, coherence, vocabulary precision, and stylistic effectiveness, using a revision checklist.
-8.3.6
-Use at least 8 idiomatic expressions, proverbs, or culturally specific vocabulary items accurately in written work during the year.
+
+| Code | Learning Outcome: Strand 3 — Grade 8 |
+| --- | --- |
+| 8.3.1 | Write a persuasive essay (250–350 words) arguing a position on a text-related or cultural issue, using evidence and structured reasoning. |
+| 8.3.2 | Write a comparative analysis of two texts studied in class, organised by theme, character, or stylistic feature. |
+| 8.3.3 | Produce a written report based on an interview or community investigation (annual project component). |
+| 8.3.4 | Write a creative text in a deliberately chosen genre (poem, short story, legend adaptation) with attention to language style and cultural authenticity. |
+| 8.3.5 | Revise and edit own writing for grammatical accuracy, coherence, vocabulary precision, and stylistic effectiveness, using a revision checklist. |
+| 8.3.6 | Use at least 8 idiomatic expressions, proverbs, or culturally specific vocabulary items accurately in written work during the year. |
+
 Strand 4: Language Knowledge and Metalinguistic Awareness
-Code
-Learning Outcome: Strand 4 — Grade 8
-8.4.1
-Explain that Tuvan is a Turkic language and identify at least 3 features it shares with other Turkic languages and at least 3 features that make it distinctive.
-8.4.2
-Analyse the etymology of at least 10 Tuvan words, identifying roots, suffixes, and whether they are Turkic-origin, Mongolian loanwords, or international borrowings.
-8.4.3
-Identify examples of dialectal variation within Tuvan (e.g., Tsengel dialect features vs. standard forms) and discuss their significance.
-8.4.4
-Analyse how register varies in Tuvan texts: formal vs. informal, respectful vs. casual, ceremonial vs. everyday language.
-8.4.5
-Expand active vocabulary by learning and using at least 60 new Tuvan words during the year, including analytical, descriptive, and evaluative terms.
-8.4.6
-Maintain grammatical accuracy in extended writing, demonstrating control of complex sentence structures, appropriate case usage, and verb-form consistency.
+
+| Code | Learning Outcome: Strand 4 — Grade 8 |
+| --- | --- |
+| 8.4.1 | Explain that Tuvan is a Turkic language and identify at least 3 features it shares with other Turkic languages and at least 3 features that make it distinctive. |
+| 8.4.2 | Analyse the etymology of at least 10 Tuvan words, identifying roots, suffixes, and whether they are Turkic-origin, Mongolian loanwords, or international borrowings. |
+| 8.4.3 | Identify examples of dialectal variation within Tuvan (e.g., Tsengel dialect features vs. standard forms) and discuss their significance. |
+| 8.4.4 | Analyse how register varies in Tuvan texts: formal vs. informal, respectful vs. casual, ceremonial vs. everyday language. |
+| 8.4.5 | Expand active vocabulary by learning and using at least 60 new Tuvan words during the year, including analytical, descriptive, and evaluative terms. |
+| 8.4.6 | Maintain grammatical accuracy in extended writing, demonstrating control of complex sentence structures, appropriate case usage, and verb-form consistency. |
+
 F.3 Grade 8 Indicative Content Direction
 Texts should include: Tuvan literary texts with historical or social depth (stories set during significant periods, narratives about cultural practices under change); Tuvan poetry with more complex imagery and structure; non-literary Tuvan texts (biographical accounts, descriptions of cultural practices, informational texts about the Altai region); Mongolian and world literature texts for three-way comparison; and one metalinguistic text or activity sequence about the Tuvan language itself (its family, its script, its speakers, its status). Thematic domains include: cultural change and continuity in Tuvan life; the Altai ecosystem and its cultural significance; wisdom, justice, and social responsibility in Tuvan oral tradition; language as cultural identity; and the bilingual experience.
 F.4 Grade 8 Pedagogy Notes
@@ -337,79 +258,61 @@ Grade 8 extends cultural grounding to include explicit engagement with questions
 F.7 Grade 8 Assessment Notes
 Assessment balances formative and structured components. The reading log replaces the reading-response journal, requiring brief reflective entries for each text read. The writing portfolio includes at least five substantive pieces (one persuasive essay, one comparative analysis, one project report, one creative text, one other). Oral assessment includes one persuasive presentation and one performance per semester. The annual project is assessed as a multi-component product (interview evidence, written report, oral presentation). One mid-year and one end-of-year structured assessment test analytical reading comprehension and extended writing. Metalinguistic knowledge is assessed through integrated tasks (not isolated grammar tests). All assessment in Tuva.
 G. Grade 9 Curriculum
-Role of the grade
-Synthesis, Identity, and Readiness — the consolidation-for-transition year
-Core developmental task
-Synthesise linguistic, literary, cultural, and analytical competences into a coherent bilingual identity; demonstrate readiness for upper secondary
-Cognitive stance
-Evaluative–synthetic: evaluate, synthesise, and articulate reasoned positions
-Learner agency
-Responsible autonomy: plan and execute extended tasks with minimal guidance
-Hours available
-66 hours (2 lessons/week × 33 weeks)
-Thematic units
-5–6 units of approximately 8–10 lessons, plus capstone project period (6–8 lessons)
-Capstone project
-One extended capstone project integrating all strands (e.g., cultural documentation portfolio, extended literary analysis, bilingual community resource)
+
+| Role of the grade | Synthesis, Identity, and Readiness — the consolidation-for-transition year |
+| --- | --- |
+| Core developmental task | Synthesise linguistic, literary, cultural, and analytical competences into a coherent bilingual identity; demonstrate readiness for upper secondary |
+| Cognitive stance | Evaluative–synthetic: evaluate, synthesise, and articulate reasoned positions |
+| Learner agency | Responsible autonomy: plan and execute extended tasks with minimal guidance |
+| Hours available | 66 hours (2 lessons/week × 33 weeks) |
+| Thematic units | 5–6 units of approximately 8–10 lessons, plus capstone project period (6–8 lessons) |
+| Capstone project | One extended capstone project integrating all strands (e.g., cultural documentation portfolio, extended literary analysis, bilingual community resource) |
+
 G.1 Grade 9 Progression Focus
 Grade 9 is the culminating year of the lower secondary Tuva Language programme. It must accomplish three tasks: (a) synthesis—bring together the linguistic, literary, cultural, and analytical competences developed across Grades 6–8 into consolidated, transferable capacities; (b) identity articulation—help learners articulate their own relationship to the Tuvan language, culture, and bilingual identity with reflective maturity; (c) readiness—prepare learners for the demands of upper secondary education, where independent reading, analytical writing, and critical thinking will be expected across all subjects. The capstone project is the signature assessment, requiring learners to demonstrate integrated competence across all four strands.
 G.2 Grade 9 Learning Outcomes
 Strand 1: Oral Language and Communication
-Code
-Learning Outcome: Strand 1 — Grade 9
-9.1.1
-Deliver a formal presentation (4–5 minutes) on a self-selected topic related to Tuvan language, culture, or identity, structured with introduction, evidence, analysis, and conclusion.
-9.1.2
-Participate in and sustain an extended formal debate, constructing counter-arguments, responding to challenges, and maintaining respectful discourse.
-9.1.3
-Perform a Tuvan oral tradition (extended narrative, poem, or song) for a public or school audience, demonstrating mastery of oral performance conventions.
-9.1.4
-Lead a small-group discussion on a complex text, facilitating contributions from peers, summarising different viewpoints, and synthesising conclusions.
-9.1.5
-Articulate in oral discourse a personal reflection on the significance of the Tuvan language in their own life and in the broader context of Mongolia’s cultural diversity.
+
+| Code | Learning Outcome: Strand 1 — Grade 9 |
+| --- | --- |
+| 9.1.1 | Deliver a formal presentation (4–5 minutes) on a self-selected topic related to Tuvan language, culture, or identity, structured with introduction, evidence, analysis, and conclusion. |
+| 9.1.2 | Participate in and sustain an extended formal debate, constructing counter-arguments, responding to challenges, and maintaining respectful discourse. |
+| 9.1.3 | Perform a Tuvan oral tradition (extended narrative, poem, or song) for a public or school audience, demonstrating mastery of oral performance conventions. |
+| 9.1.4 | Lead a small-group discussion on a complex text, facilitating contributions from peers, summarising different viewpoints, and synthesising conclusions. |
+| 9.1.5 | Articulate in oral discourse a personal reflection on the significance of the Tuvan language in their own life and in the broader context of Mongolia’s cultural diversity. |
+
 Strand 2: Reading and Literary Interpretation
-Code
-Learning Outcome: Strand 2 — Grade 9
-9.2.1
-Read and critically analyse a complex Tuvan literary text, evaluating its themes, cultural significance, and literary quality with supported evidence.
-9.2.2
-Synthesise ideas from multiple Tuvan and non-Tuvan texts to develop an argued interpretation of a theme, value, or cultural question.
-9.2.3
-Evaluate the quality and reliability of different text types (literary, informational, opinion), distinguishing fact from interpretation and evidence from assertion.
-9.2.4
-Read independently an extended Tuvan text (narrative or non-fiction) over several weeks and produce a substantive written response.
-9.2.5
-Analyse how Tuvan oral literature encodes cultural knowledge, values, and identity, and discuss whether and how this function is changing in the modern world.
-9.2.6
-Read and respond to a text in which Tuvan and Mongolian cultural perspectives intersect, analysing points of convergence and distinction.
+
+| Code | Learning Outcome: Strand 2 — Grade 9 |
+| --- | --- |
+| 9.2.1 | Read and critically analyse a complex Tuvan literary text, evaluating its themes, cultural significance, and literary quality with supported evidence. |
+| 9.2.2 | Synthesise ideas from multiple Tuvan and non-Tuvan texts to develop an argued interpretation of a theme, value, or cultural question. |
+| 9.2.3 | Evaluate the quality and reliability of different text types (literary, informational, opinion), distinguishing fact from interpretation and evidence from assertion. |
+| 9.2.4 | Read independently an extended Tuvan text (narrative or non-fiction) over several weeks and produce a substantive written response. |
+| 9.2.5 | Analyse how Tuvan oral literature encodes cultural knowledge, values, and identity, and discuss whether and how this function is changing in the modern world. |
+| 9.2.6 | Read and respond to a text in which Tuvan and Mongolian cultural perspectives intersect, analysing points of convergence and distinction. |
+
 Strand 3: Writing and Composition
-Code
-Learning Outcome: Strand 3 — Grade 9
-9.3.1
-Write a sustained analytical essay (400–500 words) presenting a reasoned interpretation of a literary or cultural question, with structured argument and textual evidence.
-9.3.2
-Write a reflective personal essay on bilingual identity, cultural belonging, or the role of the Tuvan language in their life, demonstrating self-awareness and linguistic sophistication.
-9.3.3
-Produce the written component of the capstone project: a substantial documented text (cultural description, literary analysis, community resource, or creative collection).
-9.3.4
-Compose a creative text in a self-selected genre (short story, poem, dramatic scene, personal narrative) demonstrating stylistic control and cultural authenticity.
-9.3.5
-Edit and refine extended written work through multiple drafts, demonstrating control of grammar, vocabulary, coherence, and style.
+
+| Code | Learning Outcome: Strand 3 — Grade 9 |
+| --- | --- |
+| 9.3.1 | Write a sustained analytical essay (400–500 words) presenting a reasoned interpretation of a literary or cultural question, with structured argument and textual evidence. |
+| 9.3.2 | Write a reflective personal essay on bilingual identity, cultural belonging, or the role of the Tuvan language in their life, demonstrating self-awareness and linguistic sophistication. |
+| 9.3.3 | Produce the written component of the capstone project: a substantial documented text (cultural description, literary analysis, community resource, or creative collection). |
+| 9.3.4 | Compose a creative text in a self-selected genre (short story, poem, dramatic scene, personal narrative) demonstrating stylistic control and cultural authenticity. |
+| 9.3.5 | Edit and refine extended written work through multiple drafts, demonstrating control of grammar, vocabulary, coherence, and style. |
+
 Strand 4: Language Knowledge and Metalinguistic Awareness
-Code
-Learning Outcome: Strand 4 — Grade 9
-9.4.1
-Explain the sociolinguistic position of the Tuvan language in Mongolia: its speaker population, geographic distribution, institutional support, and contemporary challenges.
-9.4.2
-Discuss the concept of language shift and identify factors that support or threaten the maintenance of minority languages, using Tuvan as a case study.
-9.4.3
-Demonstrate consolidated grammatical accuracy in all extended writing and oral production, with control of complex structures, appropriate register, and precise vocabulary.
-9.4.4
-Use metalinguistic vocabulary to describe features of the Tuvan language (e.g., agglutination, vowel harmony, case system, Turkic family membership) in oral and written discourse.
-9.4.5
-Expand active vocabulary to include analytical, evaluative, and abstract terms necessary for academic discourse in Tuva, using at least 60 new words during the year.
-9.4.6
-Reflect on personal language use across Tuvan and Mongolian, identifying contexts in which each language is used and explaining the significance of maintaining bilingual competence.
+
+| Code | Learning Outcome: Strand 4 — Grade 9 |
+| --- | --- |
+| 9.4.1 | Explain the sociolinguistic position of the Tuvan language in Mongolia: its speaker population, geographic distribution, institutional support, and contemporary challenges. |
+| 9.4.2 | Discuss the concept of language shift and identify factors that support or threaten the maintenance of minority languages, using Tuvan as a case study. |
+| 9.4.3 | Demonstrate consolidated grammatical accuracy in all extended writing and oral production, with control of complex structures, appropriate register, and precise vocabulary. |
+| 9.4.4 | Use metalinguistic vocabulary to describe features of the Tuvan language (e.g., agglutination, vowel harmony, case system, Turkic family membership) in oral and written discourse. |
+| 9.4.5 | Expand active vocabulary to include analytical, evaluative, and abstract terms necessary for academic discourse in Tuva, using at least 60 new words during the year. |
+| 9.4.6 | Reflect on personal language use across Tuvan and Mongolian, identifying contexts in which each language is used and explaining the significance of maintaining bilingual competence. |
+
 G.3 Grade 9 Indicative Content Direction
 Texts should include: Tuvan literary texts of greater length, complexity, and thematic depth (including, where available, contemporary Tuvan writing); Tuvan non-literary texts of analytical or informational character (e.g., a text about the Tuvan language, a description of cultural change, a biographical account); Mongolian and world literature texts for synthesising comparison; and sociolinguistic content (the status of the Tuvan language, bilingualism, language preservation). Thematic domains include: identity and belonging in a multilingual society; cultural continuity and change; the responsibility of language-holders to their community; wisdom and ethical reasoning in Tuvan tradition; and the relationship between local, national, and global cultural frameworks.
 G.4 Grade 9 Pedagogy Notes
@@ -446,30 +349,15 @@ Summative assessment is limited to two structured assessments per year (mid-year
 Assessment instruments must never be translated from Mongolian; they must be authored in Tuva.
 Assessment should capture performance (oral delivery, written accuracy), understanding (comprehension, interpretation), inquiry (investigation, comparison), expression (creative writing, cultural performance), and application (functional text production, community-connected work).
 I.2 Assessment Strand Weightings
-Strand
-Grades 6–7
-Grade 8
-Grade 9
-Strand 1: Oral Language
-25%
-25%
-25%
-Strand 2: Reading
-30%
-30%
-25%
-Strand 3: Writing
-25%
-25%
-25%
-Strand 4: Language Knowledge
-20%
-20%
-15%
-Capstone Project (all strands)
-—
-—
-10% (additional)
+
+| Strand | Grades 6–7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- |
+| Strand 1: Oral Language | 25% | 25% | 25% |
+| Strand 2: Reading | 30% | 30% | 25% |
+| Strand 3: Writing | 25% | 25% | 25% |
+| Strand 4: Language Knowledge | 20% | 20% | 15% |
+| Capstone Project (all strands) | — | — | 10% (additional) |
+
 These weightings are indicative, not prescriptive. They ensure that oral competence is never marginalised and that no single strand dominates assessment.
 I.3 Assessment Methods by Grade
 Grade 6: Informal diagnostic (weeks 1–2); teacher observation of oral participation; reading-response journal; writing portfolio (4+ samples); vocabulary quizzes; 2 structured assessments (mid-year, end-of-year); 1 oral retelling per semester; mini-project assessed as integrated product.

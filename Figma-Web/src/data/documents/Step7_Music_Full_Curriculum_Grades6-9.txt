@@ -4,20 +4,16 @@ Lower Secondary Education — Grades 6–9
 Mongolia Curriculum Reform
 Working Document — March 2026
 Based on: Master Inherited Competence Architecture • Developmental Transformation Logic • Cross-Curricular Design Framework • Subject-Cluster Architecture • Lesson-Time Architecture • Digital Integration Architecture • Standardised Subject Analytical Template • Music Subject Design Brief
-Field
-Detail
-Subject
-Хөгжим / Music
-Cluster
-5: Creative, Aesthetic, and Design Formation
-Weight category
-LIGHT CONTINUOUS — 132 total hours
-Weekly lessons
-1 per week across all grades (33 hrs/year)
-Strands
-3: Listening & Understanding; Performance & Expression; Creating & Composing
-Coordination partners
-Дүрслэх урлаг (Visual Arts), Дизайн технологи (Design Technology)
+
+| Field | Detail |
+| --- | --- |
+| Subject | Хөгжим / Music |
+| Cluster | 5: Creative, Aesthetic, and Design Formation |
+| Weight category | LIGHT CONTINUOUS — 132 total hours |
+| Weekly lessons | 1 per week across all grades (33 hrs/year) |
+| Strands | 3: Listening & Understanding; Performance & Expression; Creating & Composing |
+| Coordination partners | Дүрслэх урлаг (Visual Arts), Дизайн технологи (Design Technology) |
+
 A. Subject Purpose and Role in Lower Secondary Education
 Music in Grades 6–9 develops learners’ capacities to perceive, perform, create, and critically understand music as both an art form and a cultural practice. It is the only subject in the lower secondary curriculum whose central medium is organised sound and whose primary learning mode is embodied, participatory practice.
 The subject serves five interconnected purposes across the four-year cycle. First, it develops creative thinking (Бүтээлчээр сэтгэх) as a general competence, through composition, improvisation, arrangement, and interpretive performance. Second, it sustains and deepens Mongolian intangible cultural heritage—including khoomei, urtyn duu, morin khuur, biyelgee, folk songs, and magtaal—ensuring that young Mongolians develop informed, practised, and reflective relationships with their musical traditions. Third, it supports socio-emotional development through ensemble collaboration, expressive performance, and the emotional regulation that disciplined music-making requires. Fourth, it contributes to language development through song texts, diction, vocabulary, and the close relationship between musical and linguistic prosody in Mongolian. Fifth, it provides adolescents with a structured creative outlet during a period when self-expression and identity formation are developmentally urgent.
@@ -37,56 +33,19 @@ Strand Weighting
 Within the 33 annual hours, the approximate strand distribution is: Performance and Expression 40–45%, Listening and Understanding 25–30%, Creating and Composing 20–25%. However, most effective lessons integrate two or three strands simultaneously (for example, learning a Mongolian folk song involves listening, performing, and understanding cultural context). The weighting guides planning, not rigid time-boxing.
 C. Overall Progression Across Grades 6–9
 The four-year progression follows the developmental transformation logic established in Step 2 of the upstream architecture. Each grade carries a distinct developmental role while building cumulatively toward the Grade 9 exit profile.
-Dimension
-Grade 6
-Grade 7
-Grade 8
-Grade 9
-Grade role
-Bridge and consolidate
-Expand and deepen
-Integrate and analyse
-Synthesise and express
-Cognitive mode
-Concrete → bridging
-Structured abstract
-Analytical-integrative
-Evaluative-synthetic
-Learner agency
-Guided autonomy
-Structured choice
-Managed independence
-Responsible autonomy
-Listening
-Identify and describe
-Compare and contextualise
-Analyse and interpret
-Evaluate and position
-Performing
-Consolidate ensemble skills
-Extend technique and range
-Interpret with style awareness
-Perform with artistic intent
-Creating
-Guided creation within constraints
-Structured composition with choice
-Independent creation with criteria
-Autonomous creative projects
-Cultural orientation
-Familiarity → recognition
-Recognition → understanding
-Understanding → reflection
-Reflection → positioned identity
-Digital stance
-Encounter digital tools
-Use tools with guidance
-Apply tools purposefully
-Integrate tools independently
-Assessment mode
-Teacher-led formative
-Criteria-based; portfolio begins
-Self-assessment; rubric-based
-Culminating portfolio/performance
+
+| Dimension | Grade 6 | Grade 7 | Grade 8 | Grade 9 |
+| --- | --- | --- | --- | --- |
+| Grade role | Bridge and consolidate | Expand and deepen | Integrate and analyse | Synthesise and express |
+| Cognitive mode | Concrete → bridging | Structured abstract | Analytical-integrative | Evaluative-synthetic |
+| Learner agency | Guided autonomy | Structured choice | Managed independence | Responsible autonomy |
+| Listening | Identify and describe | Compare and contextualise | Analyse and interpret | Evaluate and position |
+| Performing | Consolidate ensemble skills | Extend technique and range | Interpret with style awareness | Perform with artistic intent |
+| Creating | Guided creation within constraints | Structured composition with choice | Independent creation with criteria | Autonomous creative projects |
+| Cultural orientation | Familiarity → recognition | Recognition → understanding | Understanding → reflection | Reflection → positioned identity |
+| Digital stance | Encounter digital tools | Use tools with guidance | Apply tools purposefully | Integrate tools independently |
+| Assessment mode | Teacher-led formative | Criteria-based; portfolio begins | Self-assessment; rubric-based | Culminating portfolio/performance |
+
 Exit Profile: End of Grade 9
 By the end of Grade 9, a learner who has engaged fully with the Music curriculum should be able to: listen to unfamiliar music and offer a structured analytical response identifying key musical features, stylistic characteristics, and cultural context; perform confidently in ensemble settings and with basic solo competence, demonstrating technical control, expressive intent, and stylistic awareness; create original musical work (composition, arrangement, or improvisation) that shows intentional use of musical concepts and personal creative voice; articulate a reflective understanding of Mongolian musical heritage and its significance in contemporary life; engage with diverse musical traditions respectfully and critically; and use digital tools for musical creation and documentation where available, with awareness of responsible digital practice.
 D. Grade 6 Curriculum: Bridging and Consolidation
@@ -96,50 +55,31 @@ D.2 Progression Focus
 From identifying musical elements to describing and comparing them. From imitative performance to expressive performance. From teacher-directed creation to guided collaborative creation. From knowing about Mongolian music to beginning to understand its significance.
 D.3 Learning Outcomes
 Strand 1: Listening and Understanding
-Code
-Learning Outcome
-Indicative Content
-6.L.1
-Listen attentively to musical works from Mongolian and world repertoire and identify key musical elements (melody, rhythm, tempo, dynamics, timbre, simple form).
-Mongolian folk songs (bogino duu, urtyn duu excerpts); orchestral excerpts; children’s songs by Mongolian composers
-6.L.2
-Describe the character, mood, and expressive qualities of music heard, using appropriate musical vocabulary in Mongolian.
-Guided listening response frameworks; vocabulary building for musical description
-6.L.3
-Recognise and name common Mongolian musical genres (urtyn duu, bogino duu, magtaal) and at least three Mongolian traditional instruments (morin khuur, yatga, limbe).
-Audio and visual examples; instrument demonstrations where possible
-6.L.4
-Compare two contrasting musical works, identifying similarities and differences in musical features and cultural origin.
-Paired listening exercises: Mongolian vs. Western, vocal vs. instrumental, fast vs. slow
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 6.L.1 | Listen attentively to musical works from Mongolian and world repertoire and identify key musical elements (melody, rhythm, tempo, dynamics, timbre, simple form). | Mongolian folk songs (bogino duu, urtyn duu excerpts); orchestral excerpts; children’s songs by Mongolian composers |
+| 6.L.2 | Describe the character, mood, and expressive qualities of music heard, using appropriate musical vocabulary in Mongolian. | Guided listening response frameworks; vocabulary building for musical description |
+| 6.L.3 | Recognise and name common Mongolian musical genres (urtyn duu, bogino duu, magtaal) and at least three Mongolian traditional instruments (morin khuur, yatga, limbe). | Audio and visual examples; instrument demonstrations where possible |
+| 6.L.4 | Compare two contrasting musical works, identifying similarities and differences in musical features and cultural origin. | Paired listening exercises: Mongolian vs. Western, vocal vs. instrumental, fast vs. slow |
+
 Strand 2: Performance and Expression
-Code
-Learning Outcome
-Indicative Content
-6.P.1
-Sing in unison and two-part harmony with accurate pitch, clear diction, and appropriate expression, drawing on repertoire that includes Mongolian folk songs and children’s songs.
-Review of primary repertoire; new Mongolian folk songs appropriate for changing voices; songs in C1–D2 range
-6.P.2
-Demonstrate awareness of vocal health and the physical changes affecting the adolescent voice, adapting singing technique accordingly.
-Warm-up routines; breathing exercises; voice change discussion; range-appropriate repertoire selection
-6.P.3
-Play simple melodies and accompaniment patterns on classroom instruments (recorder, pianica, or available percussion) as part of a class ensemble.
-Consolidation of primary instrument skills; simple two-part arrangements; introduction to classroom ensemble discipline
-6.P.4
-Perform rhythmic patterns with body percussion and movement, including elements drawn from Mongolian biyelgee tradition.
-Clapping, stepping, body percussion in 2/4, 3/4, 4/4; guided biyelgee-inspired seated movement
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 6.P.1 | Sing in unison and two-part harmony with accurate pitch, clear diction, and appropriate expression, drawing on repertoire that includes Mongolian folk songs and children’s songs. | Review of primary repertoire; new Mongolian folk songs appropriate for changing voices; songs in C1–D2 range |
+| 6.P.2 | Demonstrate awareness of vocal health and the physical changes affecting the adolescent voice, adapting singing technique accordingly. | Warm-up routines; breathing exercises; voice change discussion; range-appropriate repertoire selection |
+| 6.P.3 | Play simple melodies and accompaniment patterns on classroom instruments (recorder, pianica, or available percussion) as part of a class ensemble. | Consolidation of primary instrument skills; simple two-part arrangements; introduction to classroom ensemble discipline |
+| 6.P.4 | Perform rhythmic patterns with body percussion and movement, including elements drawn from Mongolian biyelgee tradition. | Clapping, stepping, body percussion in 2/4, 3/4, 4/4; guided biyelgee-inspired seated movement |
+
 Strand 3: Creating and Composing
-Code
-Learning Outcome
-Indicative Content
-6.C.1
-Create short rhythmic patterns (4–8 bars) using known rhythmic values and perform them for the class.
-Composition within given time signatures; use of notation or graphic notation
-6.C.2
-Collaborate with peers to create a simple group arrangement of a known song, adding rhythmic accompaniment or a second vocal part.
-Group creative tasks; collaborative decision-making; presentation to class
-6.C.3
-Improvise short melodic or rhythmic responses within guided musical activities (e.g., call-and-response, question-and-answer phrases).
-Call-and-response singing; rhythmic echo games; pentatonic improvisation
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 6.C.1 | Create short rhythmic patterns (4–8 bars) using known rhythmic values and perform them for the class. | Composition within given time signatures; use of notation or graphic notation |
+| 6.C.2 | Collaborate with peers to create a simple group arrangement of a known song, adding rhythmic accompaniment or a second vocal part. | Group creative tasks; collaborative decision-making; presentation to class |
+| 6.C.3 | Improvise short melodic or rhythmic responses within guided musical activities (e.g., call-and-response, question-and-answer phrases). | Call-and-response singing; rhythmic echo games; pentatonic improvisation |
+
 D.4 Pedagogy Notes
 Lessons should follow a warm-up → core activity → consolidation/reflection structure. Begin every lesson with singing or rhythmic activity that revisits known material.
 The first 3–4 weeks should include diagnostic assessment: what can learners actually do from primary? Adjust subsequent pacing accordingly.
@@ -170,53 +110,32 @@ E.2 Progression Focus
 From description to comparison and contextualisation in listening. From consolidated group performance to developing individual technique and interpretive expression. From guided creation to structured composition with increasing choice. From recognition of Mongolian traditions to understanding their cultural significance.
 E.3 Learning Outcomes
 Strand 1: Listening and Understanding
-Code
-Learning Outcome
-Indicative Content
-7.L.1
-Analyse musical works by identifying how musical elements (melody, harmony, rhythm, texture, timbre, form) contribute to the overall character and expressive effect.
-Guided analytical listening using structured frameworks; works from Mongolian and world repertoire
-7.L.2
-Compare musical works from different cultural traditions, identifying both musical and contextual differences and similarities.
-Mongolian long song vs. Western art song; Mongolian folk vs. Central Asian traditions; traditional vs. contemporary Mongolian pop
-7.L.3
-Explain the cultural and social context of at least two Mongolian musical traditions, including their role in community life.
-Urtyn duu and its UNESCO recognition; khoomei and its regional variations; music in Naadam; morin khuur as national symbol
-7.L.4
-Begin to articulate personal aesthetic responses to music, supporting opinions with reference to specific musical features.
-Listening journals; pair discussions; structured oral responses
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 7.L.1 | Analyse musical works by identifying how musical elements (melody, harmony, rhythm, texture, timbre, form) contribute to the overall character and expressive effect. | Guided analytical listening using structured frameworks; works from Mongolian and world repertoire |
+| 7.L.2 | Compare musical works from different cultural traditions, identifying both musical and contextual differences and similarities. | Mongolian long song vs. Western art song; Mongolian folk vs. Central Asian traditions; traditional vs. contemporary Mongolian pop |
+| 7.L.3 | Explain the cultural and social context of at least two Mongolian musical traditions, including their role in community life. | Urtyn duu and its UNESCO recognition; khoomei and its regional variations; music in Naadam; morin khuur as national symbol |
+| 7.L.4 | Begin to articulate personal aesthetic responses to music, supporting opinions with reference to specific musical features. | Listening journals; pair discussions; structured oral responses |
+
 Strand 2: Performance and Expression
-Code
-Learning Outcome
-Indicative Content
-7.P.1
-Sing in two and three parts with attention to blend, balance, and expressive interpretation, engaging with repertoire from multiple traditions including Mongolian folk songs.
-Three-part singing where ability allows; expressive dynamics; Mongolian and world repertoire; attention to stylistic character
-7.P.2
-Develop individual instrumental skills on at least one classroom instrument, performing simple pieces with musical accuracy and expression.
-Recorder, pianica, or percussion; independent practice encouraged; simple solo and ensemble parts
-7.P.3
-Perform ensemble music with awareness of balance, timing, and the need to listen to other parts while maintaining one’s own.
-Classroom ensemble arrangements; listening across parts; conductor signals; start/stop discipline
-7.P.4
-Explore vocal techniques beyond standard singing, including elements of Mongolian traditional vocal production where appropriate (e.g., resonance, chest voice, ornamentation in folk song style).
-Introduction to Mongolian vocal characteristics; stylistic imitation; guest demonstrations where possible
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 7.P.1 | Sing in two and three parts with attention to blend, balance, and expressive interpretation, engaging with repertoire from multiple traditions including Mongolian folk songs. | Three-part singing where ability allows; expressive dynamics; Mongolian and world repertoire; attention to stylistic character |
+| 7.P.2 | Develop individual instrumental skills on at least one classroom instrument, performing simple pieces with musical accuracy and expression. | Recorder, pianica, or percussion; independent practice encouraged; simple solo and ensemble parts |
+| 7.P.3 | Perform ensemble music with awareness of balance, timing, and the need to listen to other parts while maintaining one’s own. | Classroom ensemble arrangements; listening across parts; conductor signals; start/stop discipline |
+| 7.P.4 | Explore vocal techniques beyond standard singing, including elements of Mongolian traditional vocal production where appropriate (e.g., resonance, chest voice, ornamentation in folk song style). | Introduction to Mongolian vocal characteristics; stylistic imitation; guest demonstrations where possible |
+
 Strand 3: Creating and Composing
-Code
-Learning Outcome
-Indicative Content
-7.C.1
-Compose a short melody (8–16 bars) within a given structure (e.g., pentatonic scale, ABA form), notating it using staff or graphic notation.
-Composition within constraints; pentatonic scale work (connecting to Mongolian melodic practice); notation as a tool for recording ideas
-7.C.2
-Arrange a known song for classroom ensemble, making decisions about instrumentation, dynamics, and texture.
-Collaborative or individual arrangement tasks; presentation and performance of arrangements
-7.C.3
-Improvise melodic and rhythmic ideas within structured musical activities, developing confidence in spontaneous musical expression.
-Pentatonic improvisation; rhythmic improvisation over ostinato; call-and-response extension
-7.C.4
-Where digital tools are available, use simple composition software to create or notate musical ideas.
-MuseScore, BandLab, GarageBand, or equivalent; offline alternative: paper notation with classroom performance
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 7.C.1 | Compose a short melody (8–16 bars) within a given structure (e.g., pentatonic scale, ABA form), notating it using staff or graphic notation. | Composition within constraints; pentatonic scale work (connecting to Mongolian melodic practice); notation as a tool for recording ideas |
+| 7.C.2 | Arrange a known song for classroom ensemble, making decisions about instrumentation, dynamics, and texture. | Collaborative or individual arrangement tasks; presentation and performance of arrangements |
+| 7.C.3 | Improvise melodic and rhythmic ideas within structured musical activities, developing confidence in spontaneous musical expression. | Pentatonic improvisation; rhythmic improvisation over ostinato; call-and-response extension |
+| 7.C.4 | Where digital tools are available, use simple composition software to create or notate musical ideas. | MuseScore, BandLab, GarageBand, or equivalent; offline alternative: paper notation with classroom performance |
+
 E.4 Pedagogy Notes
 Continue the warm-up → core → reflection structure. Warm-ups should now include technical exercises (vocal, rhythmic) alongside repertoire review.
 Introduce reflective practice: after listening or performing, learners discuss what worked, what could improve, and why. Pair and small-group discussion before whole-class sharing.
@@ -248,50 +167,31 @@ F.2 Progression Focus
 From comparison to analysis and interpretation in listening. From developing technique to performing with stylistic awareness and interpretive intent. From structured composition to independent creation with quality criteria. From understanding Mongolian traditions to reflecting on cultural preservation and innovation.
 F.3 Learning Outcomes
 Strand 1: Listening and Understanding
-Code
-Learning Outcome
-Indicative Content
-8.L.1
-Analyse the structure, style, and expressive intent of musical works, explaining how composers or performers use musical elements to achieve particular effects.
-Extended analytical listening; focus on structure (rondo, theme and variations, verse-chorus); Mongolian and world examples
-8.L.2
-Evaluate musical works by articulating reasoned judgements about quality, effectiveness, and cultural significance, supported by musical evidence.
-Structured evaluation tasks; comparison of different performances of the same work; discussion of what makes music ‘good’ or ‘effective’
-8.L.3
-Explain how Mongolian music is changing in the contemporary world, identifying examples of traditional preservation, fusion, and innovation.
-Contemporary Mongolian pop-folk (The HU, Hanggai); hip-hop in Mongolian; electronic remixes of traditional music; Mongolian film scores
-8.L.4
-Identify and explain the concept of intangible cultural heritage as it applies to Mongolian music, with reference to UNESCO recognition of urtyn duu and khoomei.
-ICH concepts; UNESCO listing criteria; why preservation matters; living vs. museum traditions
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 8.L.1 | Analyse the structure, style, and expressive intent of musical works, explaining how composers or performers use musical elements to achieve particular effects. | Extended analytical listening; focus on structure (rondo, theme and variations, verse-chorus); Mongolian and world examples |
+| 8.L.2 | Evaluate musical works by articulating reasoned judgements about quality, effectiveness, and cultural significance, supported by musical evidence. | Structured evaluation tasks; comparison of different performances of the same work; discussion of what makes music ‘good’ or ‘effective’ |
+| 8.L.3 | Explain how Mongolian music is changing in the contemporary world, identifying examples of traditional preservation, fusion, and innovation. | Contemporary Mongolian pop-folk (The HU, Hanggai); hip-hop in Mongolian; electronic remixes of traditional music; Mongolian film scores |
+| 8.L.4 | Identify and explain the concept of intangible cultural heritage as it applies to Mongolian music, with reference to UNESCO recognition of urtyn duu and khoomei. | ICH concepts; UNESCO listing criteria; why preservation matters; living vs. museum traditions |
+
 Strand 2: Performance and Expression
-Code
-Learning Outcome
-Indicative Content
-8.P.1
-Perform vocal music in two or three parts with attention to style, period, and cultural appropriateness, demonstrating improving technique and interpretive expression.
-Stylistically varied repertoire: Mongolian folk songs, contemporary Mongolian songs, world music selections; attention to stylistic character in performance
-8.P.2
-Perform instrumental music in classroom ensembles with awareness of balance, blend, and musical interpretation, contributing to a musically satisfying group outcome.
-More complex ensemble arrangements; individual responsibility within the group; rehearsal discipline
-8.P.3
-Pursue developing competence on at least one instrument appropriate to school context, demonstrating improving technique through regular practice.
-Individual instrumental development; recorder, pianica, guitar, traditional instruments where available; self-directed practice encouraged
-8.P.4
-Perform with an awareness of audience, communicating musical ideas and emotions through deliberate expressive choices.
-Classroom performance with awareness of presentation; internal and external performance opportunities
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 8.P.1 | Perform vocal music in two or three parts with attention to style, period, and cultural appropriateness, demonstrating improving technique and interpretive expression. | Stylistically varied repertoire: Mongolian folk songs, contemporary Mongolian songs, world music selections; attention to stylistic character in performance |
+| 8.P.2 | Perform instrumental music in classroom ensembles with awareness of balance, blend, and musical interpretation, contributing to a musically satisfying group outcome. | More complex ensemble arrangements; individual responsibility within the group; rehearsal discipline |
+| 8.P.3 | Pursue developing competence on at least one instrument appropriate to school context, demonstrating improving technique through regular practice. | Individual instrumental development; recorder, pianica, guitar, traditional instruments where available; self-directed practice encouraged |
+| 8.P.4 | Perform with an awareness of audience, communicating musical ideas and emotions through deliberate expressive choices. | Classroom performance with awareness of presentation; internal and external performance opportunities |
+
 Strand 3: Creating and Composing
-Code
-Learning Outcome
-Indicative Content
-8.C.1
-Compose an original piece of music (16–32 bars) that demonstrates intentional use of musical concepts studied (melody, rhythm, form, dynamics, texture).
-Independent composition with quality criteria; notation or recording as documentation; self-revision process
-8.C.2
-Create an arrangement or remix of an existing work that transforms it through changes in instrumentation, style, tempo, or texture.
-Arrangement as creative reinterpretation; connection to contemporary remix culture; acoustic and/or digital means
-8.C.3
-Reflect on the creative process in writing or discussion, explaining compositional decisions and evaluating outcomes.
-Process journals; composer’s notes; oral presentations about creative work
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 8.C.1 | Compose an original piece of music (16–32 bars) that demonstrates intentional use of musical concepts studied (melody, rhythm, form, dynamics, texture). | Independent composition with quality criteria; notation or recording as documentation; self-revision process |
+| 8.C.2 | Create an arrangement or remix of an existing work that transforms it through changes in instrumentation, style, tempo, or texture. | Arrangement as creative reinterpretation; connection to contemporary remix culture; acoustic and/or digital means |
+| 8.C.3 | Reflect on the creative process in writing or discussion, explaining compositional decisions and evaluating outcomes. | Process journals; composer’s notes; oral presentations about creative work |
+
 F.4 Pedagogy Notes
 Increase learner autonomy: offer choices in repertoire, creative project topics, and modes of response. Grade 8 learners should increasingly self-direct within teacher-established frameworks.
 Analytical listening should now involve sustained engagement with longer works or movements, not just short excerpts. Learners should be able to track structural features across several minutes of music.
@@ -323,50 +223,31 @@ G.2 Progression Focus
 From analysis to independent evaluation and personal aesthetic positioning. From developing performance technique to performing with artistic intent and communicative depth. From independent composition to autonomous creative projects reflecting personal voice. From reflecting on Mongolian musical heritage to articulating a personal position on cultural identity and music’s role in society.
 G.3 Learning Outcomes
 Strand 1: Listening and Understanding
-Code
-Learning Outcome
-Indicative Content
-9.L.1
-Evaluate musical works independently, articulating personal aesthetic positions supported by detailed reference to musical features, structural analysis, and cultural context.
-Independent analytical evaluation; extended written or oral responses; engagement with complex works
-9.L.2
-Explain the role of music in Mongolian society, identity, and cultural life, drawing on knowledge of traditional and contemporary practices.
-Music and national identity; music in ceremony, celebration, and daily life; music as intangible cultural heritage; music and globalisation
-9.L.3
-Demonstrate understanding of how music reflects and shapes social, cultural, and historical contexts, with reference to both Mongolian and international examples.
-Music and social movements; protest songs; national anthems; music in film and media; music as cultural ambassador
-9.L.4
-Evaluate the impact of technology and globalisation on musical traditions, including Mongolian music, considering both opportunities and risks.
-Streaming, digital distribution, global audiences; risk of homogenisation; opportunities for cultural exchange; Mongolian musicians on global stage
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 9.L.1 | Evaluate musical works independently, articulating personal aesthetic positions supported by detailed reference to musical features, structural analysis, and cultural context. | Independent analytical evaluation; extended written or oral responses; engagement with complex works |
+| 9.L.2 | Explain the role of music in Mongolian society, identity, and cultural life, drawing on knowledge of traditional and contemporary practices. | Music and national identity; music in ceremony, celebration, and daily life; music as intangible cultural heritage; music and globalisation |
+| 9.L.3 | Demonstrate understanding of how music reflects and shapes social, cultural, and historical contexts, with reference to both Mongolian and international examples. | Music and social movements; protest songs; national anthems; music in film and media; music as cultural ambassador |
+| 9.L.4 | Evaluate the impact of technology and globalisation on musical traditions, including Mongolian music, considering both opportunities and risks. | Streaming, digital distribution, global audiences; risk of homogenisation; opportunities for cultural exchange; Mongolian musicians on global stage |
+
 Strand 2: Performance and Expression
-Code
-Learning Outcome
-Indicative Content
-9.P.1
-Perform with interpretive depth and communicative intent in both ensemble and solo contexts, demonstrating command of technique, expression, and stylistic awareness.
-Capstone performance: ensemble concert piece and/or solo/small group performance; repertoire chosen to demonstrate range and depth
-9.P.2
-Lead a musical activity (conducting a section, organising a rehearsal, teaching a song to peers), demonstrating musical leadership and collaborative skills.
-Student-led warm-ups, rehearsal segments, or peer-teaching moments; leadership within ensemble
-9.P.3
-Demonstrate understanding of vocal health and sustainable singing technique, particularly in the context of adolescent voice development.
-Vocal health principles; warm-up practices; recognition of strain; appropriate repertoire selection
-9.P.4
-Contribute to a public or school performance that demonstrates the musical development achieved across lower secondary.
-End-of-year concert, community performance, or recorded showcase; collaborative planning and execution
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 9.P.1 | Perform with interpretive depth and communicative intent in both ensemble and solo contexts, demonstrating command of technique, expression, and stylistic awareness. | Capstone performance: ensemble concert piece and/or solo/small group performance; repertoire chosen to demonstrate range and depth |
+| 9.P.2 | Lead a musical activity (conducting a section, organising a rehearsal, teaching a song to peers), demonstrating musical leadership and collaborative skills. | Student-led warm-ups, rehearsal segments, or peer-teaching moments; leadership within ensemble |
+| 9.P.3 | Demonstrate understanding of vocal health and sustainable singing technique, particularly in the context of adolescent voice development. | Vocal health principles; warm-up practices; recognition of strain; appropriate repertoire selection |
+| 9.P.4 | Contribute to a public or school performance that demonstrates the musical development achieved across lower secondary. | End-of-year concert, community performance, or recorded showcase; collaborative planning and execution |
+
 Strand 3: Creating and Composing
-Code
-Learning Outcome
-Indicative Content
-9.C.1
-Complete an independent creative project (original composition, arrangement, or multimedia musical work) that reflects personal expression, cultural awareness, and command of musical concepts.
-Extended creative project across multiple lessons; self-directed with teacher mentorship; presentation to class or wider audience
-9.C.2
-Present and explain creative work publicly, articulating compositional intent, creative process, and the musical and cultural influences that shaped the work.
-Composer’s statement; oral presentation; programme notes; portfolio documentation
-9.C.3
-Evaluate the creative work of peers constructively, offering specific, musically grounded feedback that supports improvement.
-Peer review sessions; structured feedback protocols; respectful critical dialogue
+
+| Code | Learning Outcome | Indicative Content |
+| --- | --- | --- |
+| 9.C.1 | Complete an independent creative project (original composition, arrangement, or multimedia musical work) that reflects personal expression, cultural awareness, and command of musical concepts. | Extended creative project across multiple lessons; self-directed with teacher mentorship; presentation to class or wider audience |
+| 9.C.2 | Present and explain creative work publicly, articulating compositional intent, creative process, and the musical and cultural influences that shaped the work. | Composer’s statement; oral presentation; programme notes; portfolio documentation |
+| 9.C.3 | Evaluate the creative work of peers constructively, offering specific, musically grounded feedback that supports improvement. | Peer review sessions; structured feedback protocols; respectful critical dialogue |
+
 G.4 Pedagogy Notes
 Grade 9 pedagogy should maximise learner autonomy. The teacher’s role shifts from direct instruction to mentorship, facilitation, and quality assurance.
 The capstone project (9.C.1) should be planned across the year: concept development in Semester 1, creation and refinement in Semester 2, presentation near year-end.
@@ -420,55 +301,25 @@ I. Whole-Subject Assessment Framework
 I.1 Assessment Philosophy
 Assessment in Music must reflect the subject’s nature as a performing, creating, and responding discipline. The primary evidence of musical learning is musical activity: singing, playing, creating, and articulating responses to music. Written examinations are inappropriate as the primary assessment mode and should have minimal or no role. Assessment should motivate continued engagement, not create anxiety that undermines the socio-emotional benefits music uniquely provides.
 I.2 Assessment Modes
-Assessment Mode
-What It Captures
-Applicable Strands
-Frequency
-Performance assessment
-Technical accuracy, expression, ensemble contribution, stylistic awareness, communicative impact
-Strand 2 (Performance)
-Every semester
-Creative project assessment
-Compositional coherence, imagination, use of musical concepts, process quality, presentation
-Strand 3 (Creating)
-At least once per year from Gr 7
-Listening response
-Analytical skills, musical vocabulary, cultural knowledge, evaluative reasoning
-Strand 1 (Listening)
-1–2 per year, oral or written
-Portfolio
-Cumulative musical development, reflective capacity, breadth of engagement
-All strands
-Ongoing from Gr 7; culminating in Gr 9
-Self-assessment
-Metacognitive awareness, honest self-evaluation, goal-setting
-All strands
-From Gr 7; increasingly central in Gr 8–9
-Peer assessment
-Ability to evaluate others constructively, musical judgement, communication
-All strands
-From Gr 7 onward
+
+| Assessment Mode | What It Captures | Applicable Strands | Frequency |
+| --- | --- | --- | --- |
+| Performance assessment | Technical accuracy, expression, ensemble contribution, stylistic awareness, communicative impact | Strand 2 (Performance) | Every semester |
+| Creative project assessment | Compositional coherence, imagination, use of musical concepts, process quality, presentation | Strand 3 (Creating) | At least once per year from Gr 7 |
+| Listening response | Analytical skills, musical vocabulary, cultural knowledge, evaluative reasoning | Strand 1 (Listening) | 1–2 per year, oral or written |
+| Portfolio | Cumulative musical development, reflective capacity, breadth of engagement | All strands | Ongoing from Gr 7; culminating in Gr 9 |
+| Self-assessment | Metacognitive awareness, honest self-evaluation, goal-setting | All strands | From Gr 7; increasingly central in Gr 8–9 |
+| Peer assessment | Ability to evaluate others constructively, musical judgement, communication | All strands | From Gr 7 onward |
+
 I.3 Assessment Progression
-Grade
-Summative Assessments
-Formative Assessment
-Assessment Character
-6
-Maximum 2 per year: group performance + creative/ensemble task
-Ongoing teacher observation; brief anecdotal records; diagnostic assessment in first weeks
-Teacher-led; low-stakes; emphasis on participation and growth
-7
-2–3 per year: performance + composition + optional listening response
-Portfolio begins; peer feedback introduced; structured observation criteria
-Criteria-based; portfolio development; peer assessment begins
-8
-2–3 per year: performance + creative project with reflection + optional listening
-Self-assessment introduced; portfolio continues; rubric-based evaluation
-Increasing self-direction; analytical depth; creative process documentation
-9
-2–3 per year: capstone creative project + capstone performance + optional analytical response
-Culminating portfolio; final reflective statement; peer review of creative work
-Summative synthesis; personal voice; autonomous evaluation
+
+| Grade | Summative Assessments | Formative Assessment | Assessment Character |
+| --- | --- | --- | --- |
+| 6 | Maximum 2 per year: group performance + creative/ensemble task | Ongoing teacher observation; brief anecdotal records; diagnostic assessment in first weeks | Teacher-led; low-stakes; emphasis on participation and growth |
+| 7 | 2–3 per year: performance + composition + optional listening response | Portfolio begins; peer feedback introduced; structured observation criteria | Criteria-based; portfolio development; peer assessment begins |
+| 8 | 2–3 per year: performance + creative project with reflection + optional listening | Self-assessment introduced; portfolio continues; rubric-based evaluation | Increasing self-direction; analytical depth; creative process documentation |
+| 9 | 2–3 per year: capstone creative project + capstone performance + optional analytical response | Culminating portfolio; final reflective statement; peer review of creative work | Summative synthesis; personal voice; autonomous evaluation |
+
 I.4 Assessment Constraints
 Maximum 2–3 summative assessment events per year per grade. With only 33 contact hours, assessment must not consume teaching time.
 No written theory examinations. Knowledge of musical concepts is assessed through application in performance, creation, and analytical response—not through recall tests.
