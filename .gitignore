@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.vite/
+*.txt
+!Figma-Web/src/data/documents/*.txt

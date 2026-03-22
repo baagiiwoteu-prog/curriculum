@@ -1,0 +1,299 @@
+FULL CURRICULUM DRAFT
+GEOGRAPHY (Газар зүй)
+Lower Secondary Curriculum — Grades 7–9
+Cross-Level Competence Analysis — Step 7
+Building on Steps 1–6 of the Upstream Design Architecture
+Working Document — March 2026
+Subject
+Газар зүй (Geography)
+Cluster
+Cluster 3: Scientific and Environmental Inquiry
+Weight category
+DELAYED-ENTRY — 99 total hrs, 0→1→1→1/wk
+Hours: Gr 6/7/8/9
+0 / 33 / 33 / 33
+Upstream brief
+Step 6: Geography Subject Design Brief
+A. Subject Purpose and Role in Lower Secondary Education
+Geography (Газар зүй) develops geographic literacy: the capacity to think spatially, understand places, analyse human–environment interactions, and make informed judgements about territorial, environmental, and resource issues. It is the only subject in the lower secondary curriculum that systematically integrates physical and human dimensions of the world through a spatial lens, connecting natural systems (climate, landforms, water, ecosystems) with human systems (settlement, livelihood, resource use, governance) through the organising concepts of place, space, scale, and interconnection.
+In Mongolia, Geography carries special significance. The country’s vast continental interior, extreme climate, rapid urbanisation, desertification pressures, mining-dependent economy, nomadic heritage, and sparse population distribution are not merely background context but substantive educational content. Geography is where learners develop the capacity to understand, analyse, and engage with these defining national realities.
+The subject serves five developmental purposes across Grades 7–9:
+Spatial thinking: perceiving, representing, and reasoning about location, distribution, and pattern at multiple scales.
+Place-based understanding: describing, explaining, and evaluating the distinctive physical, cultural, economic, and environmental characteristics of places.
+Systems thinking: understanding interconnections between natural systems and human systems at landscape, regional, and global scales.
+Environmental reasoning: analysing environmental challenges using evidence and ethical reflection, moving toward environmental citizenship.
+Geographic inquiry: asking geographic questions, gathering and interpreting spatial data, and communicating geographic understanding through maps, diagrams, and structured argument.
+Geography is absent from Grade 6 by official allocation. The curriculum therefore spans Grades 7–9 (99 hours total). Grade 6 learners encounter geographic content through other subjects (particularly the legacy of Байгаль шинжлэл), but no formal Geography instruction occurs until Grade 7.
+B. Curriculum Strands
+The curriculum is organised around three content strands and one integrating methodological thread, as established in the Step 6 Design Brief:
+Strand 1: Physical Geography and Natural Systems (Байгалийн газар зүй)
+Landforms and geomorphological processes; climate and weather systems; water systems (rivers, lakes, groundwater); soils and ecosystems at landscape scale; natural hazards. Mongolia’s physical geography is the primary context, with selective global comparison.
+Strand 2: Human Geography and Spatial Organisation (Нийгмийн газар зүй)
+Population distribution and change; settlement patterns (nomadic, rural, urban); economic activity and resource use; urbanisation and its spatial consequences; transport and connectivity. Mongolia’s spatial organisation—including Ulaanbaatar concentration, aimag-level disparities, and rural depopulation—is the primary context.
+Strand 3: Environment, Resources, and Sustainability (Орчин ба тогтвортой хөгжил)
+Human–environment interaction; environmental challenges (desertification, overgrazing, mining impacts, air pollution, climate change); resource management and sustainability; environmental governance. This strand integrates physical and human geography and is where environmental citizenship develops.
+Integrating Thread: Geographic Skills and Inquiry (Газар зүйн чадвар)
+Map reading and interpretation; spatial data analysis (climate graphs, population tables, resource maps); geographic questioning and investigation; geographic communication (sketch maps, annotated diagrams, structured writing). This is not a separate teaching strand but a methodological thread practised in every topic.
+The three strands are not independent. Strand 1 provides the physical foundation that Strand 2 builds upon, and Strand 3 integrates both. The progression moves from Strand 1 emphasis in Grade 7, through Strand 2 emphasis in Grade 8, to Strand 3 integration in Grade 9—though all strands are present in each year.
+C. Overall Progression Across Grades 6–9
+C.1 Grade 6: No Formal Geography
+Geography is absent from Grade 6. Geographic competences are sustained through other subjects (science, social studies). The Grade 7 curriculum assumes a Grade 5 Байгаль шинжлэл foundation with a one-year gap.
+C.2 Progression Summary
+Dimension
+Grade 7
+Grade 8
+Grade 9
+Role
+Foundation & orientation
+Analysis & connection
+Synthesis & engagement
+Cognitive mode
+Describe and explain
+Analyse and compare
+Evaluate and synthesise
+Strand emphasis
+Physical geography ~45%
+Human geography ~45%
+Environment/sustainability ~40%
+Scale focus
+Local → Mongolia
+Mongolia → comparative
+Mongolia → global systems
+Inquiry mode
+Teacher-guided
+Structured investigation
+Semi-independent research
+Map skills
+Reading & interpreting
+Analysing & constructing
+Evaluating & communicating
+Assessment peak
+Knowledge + basic skills
++ analytical tasks
++ evaluative tasks + investigation
+D. Grade 6 Curriculum
+D.1 Role of the Grade
+Geography does not appear in the Grade 6 timetable. This is a deliberate system-level decision to protect the primary-to-secondary transition year (Step 5A). Grade 6 carries 15 subjects at a lighter overall load (26 lessons/week) to allow adjustment, consolidation, and community-building.
+D.2 Geographic Continuity in Grade 6
+Although no formal Geography subject exists, geographic competences are sustained through:
+Science subjects: Biology and Physics in Grade 6 continue elements of the Байгаль шинжлэл tradition, including environmental observation, seasonal patterns, and basic Earth science.
+Social Studies: Includes local community orientation, map use, and initial engagement with Mongolia’s regions.
+Cross-curricular activities: Local environment observation, school-neighbourhood mapping, and seasonal weather recording can be embedded in advisory time or cross-curricular projects.
+D.3 Implication for Grade 7
+The Grade 7 Geography curriculum must assume that learners arrive with a Grade 5 Байгаль шинжлэл foundation—not a Grade 6 one. There has been a full year’s gap since their last structured geographic content. Grade 7 must therefore begin with brief diagnostic consolidation of inherited map skills and spatial concepts before progressing.
+E. Grade 7 Curriculum
+E.1 Role of the Grade
+Designation: The Geographic Foundation Year. Grade 7 is the first encounter with Geography as a named discipline. It must re-activate primary foundations, establish geographic vocabulary and concepts, and build the spatial skills that all subsequent learning depends upon.
+E.2 Progression Focus
+Cognitive mode: describe and explain. Learners identify geographic features, describe their characteristics, locate them on maps, and explain simple geographic processes. The dominant question forms are: What is this? Where is it? What is it like? How does this process work?
+E.3 Expected Learning
+By the end of Grade 7, learners should be able to:
+Read and interpret topographic and thematic maps of Mongolia using coordinates, scale, legend, and compass directions with confidence.
+Describe Mongolia’s major landform regions (Altai, Khangai, Khentii mountain systems; eastern steppe; Gobi), explaining how relief and altitude shape landscape character.
+Explain how Mongolia’s continental climate works: temperature extremes, precipitation patterns, seasonal cycles, and the role of latitude, altitude, and continentality.
+Describe the distribution and characteristics of Mongolia’s major river systems (Selenge, Tuul, Kherlen, Onon) and lakes (Khövsgöl, Uvs), explaining their importance for ecosystems and human activity.
+Identify Mongolia’s main natural zones (forest-steppe, steppe, semi-desert, desert) and explain how climate, altitude, and water availability shape vegetation patterns.
+Describe how Mongolian nomadic communities read landscapes and use geographic knowledge for seasonal movement, pasture management, and weather prediction.
+Draw simple sketch maps and annotated diagrams to communicate geographic information.
+Conduct a guided geographic investigation of their local environment, using observation, basic data collection, and map-based presentation.
+E.4 Indicative Content Direction
+Unit 1: Foundations of Geographic Thinking (~5 sessions)
+Diagnostic consolidation of primary map skills. Review of coordinates, scale, compass directions, and legend reading. Introduction to geographic vocabulary (place, location, distribution, pattern, region). What makes geography different from other subjects? Practice with maps of the school neighbourhood and local area.
+Mongolian grounding: Local area mapping; use of Mongolian geographic terms (нуруу, говь, тал, гол, нуур, даваа).
+Unit 2: Mongolia’s Physical Landscape (~8 sessions)
+Mongolia’s major landform regions: mountain systems, plateaus, steppe plains, Gobi lowlands. How landforms are shaped by geological and weathering processes (introductory level). Reading relief from contour maps and physical maps. Comparing landscapes across Mongolia’s regions.
+Mongolian grounding: Case study of a specific mountain or valley system familiar to learners. Traditional Mongolian landscape classification. Photographs and descriptions of diverse Mongolian landscapes.
+Unit 3: Mongolia’s Climate (~7 sessions)
+What creates Mongolia’s extreme continental climate: distance from oceans, latitude, altitude, Asian high-pressure system. Reading and interpreting climate graphs (temperature and precipitation). Seasonal patterns and their impact on daily life. The дзуд (severe winter) as a geographic and human phenomenon.
+Mongolian grounding: Local weather recording over several weeks. Traditional weather knowledge of nomadic herders. Comparison of climate data from different Mongolian stations (e.g. Ulaanbaatar vs. Dalanzadgad vs. Khövsgöl).
+Unit 4: Water and Natural Zones (~6 sessions)
+Mongolia’s river systems, lakes, and groundwater. The concept of watersheds and drainage basins. Mongolia’s natural vegetation zones and their relationship to climate and water. Introduction to ecosystem concepts at landscape scale.
+Mongolian grounding: Local water features. Khövsgöl as ‘Mongolia’s blue pearl.’ The Tuul River and Ulaanbaatar. Nomadic understanding of water sources and seasonal availability.
+Unit 5: Geographic Investigation (~4 sessions)
+Teacher-guided local investigation: What is the geography of our school’s neighbourhood? Learners observe, record, sketch-map, and present geographic features of their immediate environment. Develops observation, data recording, and geographic communication skills.
+Assessment note: This investigation serves as the major formative/summative assessment for the year.
+E.5 Pedagogy Notes
+Begin every lesson with 3–5 minutes of retrieval practice (map skill drill, vocabulary check, or previous-lesson recap) to compensate for the weekly gap.
+Use maps in every lesson. Wall maps of Mongolia should be a permanent classroom feature. Learners should handle atlases regularly.
+Emphasise Mongolian geographic terminology alongside any international terms.
+Use the case study approach: study selected places in depth rather than attempting comprehensive coverage.
+Include at least one outdoor observation activity (school surroundings, local landforms, weather observation).
+E.6 Digital Integration Notes
+One to two digital activities across the year, where technology is available:
+Satellite imagery viewing (Google Earth): Observe Mongolia’s landform regions from above. Compare mountain, steppe, and desert landscapes. Offline alternative: Large-format printed satellite images or aerial photographs.
+Climate data exploration: Access climate statistics from online databases for comparison tasks. Offline alternative: Printed climate data tables for Mongolian weather stations.
+E.7 Assessment Notes
+Three to four formal assessment events across the year:
+Map skills assessment (mid-year): Can the learner read coordinates, measure distances using scale, interpret a legend, and identify features on a map of Mongolia?
+Climate data interpretation task: Can the learner read a climate graph and describe Mongolia’s climate patterns in writing?
+Geographic investigation (end-of-year): The local environment investigation serves as the richest assessment, combining observation, mapping, data collection, and geographic writing.
+Ongoing formative: Quick retrieval checks, sketch map tasks, geographic vocabulary quizzes.
+F. Grade 8 Curriculum
+F.1 Role of the Grade
+Designation: The Analytical-Depth Year. Grade 8 deepens geographic understanding by introducing human geography and requiring learners to analyse connections between physical and human systems. The shift from description to analysis is the defining progression.
+F.2 Progression Focus
+Cognitive mode: analyse and compare. Learners explain why geographic patterns exist, compare places and regions, interpret data using multiple factors, and identify connections between physical geography and human activity. The dominant question forms are: Why is it here? How does it compare? What are the connections? What factors explain this pattern?
+F.3 Expected Learning
+By the end of Grade 8, learners should be able to:
+Analyse how Mongolia’s physical geography (climate, water, terrain) shapes population distribution, settlement patterns, and economic activity.
+Describe and explain Mongolia’s population distribution, including the concentration in Ulaanbaatar and the depopulation of rural aimags, using population data and maps.
+Compare nomadic, rural settled, and urban ways of life in Mongolia, explaining how geography influences each.
+Explain the geographic dimensions of Mongolia’s economy: pastoral herding, mining, agriculture, and services, and their spatial distribution.
+Interpret thematic maps (population density, economic activity, transport networks) and population data (tables, graphs) to identify and explain spatial patterns.
+Analyse the causes and consequences of urbanisation in Mongolia, particularly the growth of Ulaanbaatar and the challenges of ger districts.
+Compare a selected Mongolian region with a contrasting region elsewhere in Asia, identifying similarities and differences in geographic character.
+Conduct a structured geographic investigation comparing two places or analysing a geographic pattern, using data collection, map interpretation, and reasoned geographic writing.
+F.4 Indicative Content Direction
+Unit 1: Population and Settlement (~7 sessions)
+Mongolia’s population: size, distribution, density, growth trends. Why is Mongolia’s population so unevenly distributed? Reading population density maps and interpreting census data. Settlement types: nomadic camps (айл), rural centres (сум), aimag capitals, Ulaanbaatar. The pull and push factors driving internal migration.
+Mongolian grounding: Population data for learners’ own aimag/district. The concept of нүүдэл (nomadic movement) as a settlement form. Census data interpretation. Stories of rural-urban migration.
+Unit 2: Urbanisation and Ulaanbaatar (~6 sessions)
+Urbanisation as a global and Mongolian phenomenon. Ulaanbaatar’s growth: causes, spatial patterns, ger district expansion, infrastructure challenges, air pollution. Comparing Ulaanbaatar with another rapidly growing Asian city (case study). The geography of inequality within cities.
+Mongolian grounding: Map analysis of Ulaanbaatar’s growth over decades. Ger district geography. Air quality data. Comparison with learners’ own settlement experience.
+Unit 3: Economic Geography (~7 sessions)
+Mongolia’s economic sectors: pastoral herding, mining, agriculture, services, tourism. The spatial distribution of economic activity. The geography of Mongolia’s mining sector: Oyu Tolgoi, Tavan Tolgoi, Erdenet—where they are, why they are there, and what their geographic impacts are. Transport networks: roads, the Trans-Mongolian Railway, air routes. Mongolia’s landlocked position and its implications.
+Mongolian grounding: Economic map analysis. Local economic activities. The geography of мал аж ахуй (livestock husbandry) and its spatial patterns. Trade routes and border geography.
+Unit 4: Comparative Geography (~5 sessions)
+Comparing Mongolia with a contrasting Asian country or region (e.g. Bangladesh for population density contrast, Kazakhstan for similar landlocked steppe geography, or South Korea for urbanisation contrast). Developing skills in structured geographic comparison: identifying criteria, selecting evidence, drawing conclusions.
+Unit 5: Geographic Investigation (~5 sessions)
+Structured investigation comparing two places or analysing a geographic pattern. Learners define a question, collect data (maps, statistics, observation), analyse patterns, and present findings in a structured geographic report with maps and data displays.
+F.5 Pedagogy Notes
+Continue weekly consolidation routine (3–5 min retrieval at lesson start).
+Increase analytical demand: move from ‘what is here?’ to ‘why is it here?’ and ‘what are the connections?’
+Use real data: population statistics, economic data, thematic maps. Teach learners to read tables and graphs as geographic evidence.
+Introduce structured comparison as a geographic skill: using comparison frameworks (similarities/differences, physical/human factors).
+Use discussion and debate for topics like urbanisation and mining impacts—multiple perspectives are legitimate.
+F.6 Digital Integration Notes
+Satellite imagery comparison: Ulaanbaatar’s growth over time using Google Earth historical imagery or printed time-series images. Offline alternative: Printed maps showing Ulaanbaatar in different decades.
+Population/economic data: Online databases for Mongolian census and economic statistics. Offline alternative: Printed data tables from the National Statistics Office.
+F.7 Assessment Notes
+Thematic map interpretation test: Can the learner analyse a population density or economic activity map and explain the patterns?
+Structured comparison task: Can the learner systematically compare two places, using evidence from maps and data?
+Geographic investigation (end-of-year): Structured investigation report with maps, data, analysis, and conclusions.
+Ongoing formative: Data interpretation tasks, geographic vocabulary, analytical writing practice.
+G. Grade 9 Curriculum
+G.1 Role of the Grade
+Designation: The Synthesis and Engagement Year. Grade 9 consolidates geographic competence, integrates physical and human geography through environmental issues, and develops evaluative thinking about geographic decisions. It prepares learners for informed geographic citizenship and for upper secondary study.
+G.2 Progression Focus
+Cognitive mode: evaluate and synthesise. Learners assess competing perspectives on geographic issues, weigh evidence from multiple sources, make reasoned judgements about sustainability and resource use, and construct geographic arguments. The dominant question forms are: Is this sustainable? What should be done? What are the competing perspectives? What does the evidence support?
+G.3 Expected Learning
+By the end of Grade 9, learners should be able to:
+Analyse the causes, processes, and consequences of desertification in Mongolia, evaluating the relative contributions of climate change, overgrazing, and land management practices.
+Assess the environmental, economic, and social impacts of mining in Mongolia, using geographic evidence to evaluate competing perspectives.
+Explain Mongolia’s position within global systems: trade connections, climate change as a global-local phenomenon, and geopolitical position between Russia and China.
+Evaluate competing land-use proposals or environmental policies using geographic evidence, considering economic, environmental, and social dimensions.
+Explain how climate change manifests in Mongolia (permafrost thaw, glacier retreat, changing precipitation, increased дзуд frequency) and assess its implications.
+Analyse the relationship between water resources, human activity, and sustainability in Mongolia.
+Construct a geographic argument: presenting a reasoned position on a geographic issue with supporting evidence from maps, data, and case studies.
+Design and conduct a semi-independent geographic investigation on a local environmental or spatial issue, demonstrating the full geographic inquiry cycle.
+G.4 Indicative Content Direction
+Unit 1: Desertification and Land Degradation (~7 sessions)
+What is desertification? Physical processes of land degradation. Causes in Mongolia: climate change, overgrazing, mining disturbance, changing land use. Spatial patterns: mapping areas of degradation across Mongolia. Consequences for herders, communities, and ecosystems. Responses: traditional land management vs. modern approaches. Evaluating effectiveness.
+Mongolian grounding: Case study of a specific degraded area. Traditional rotational grazing (отор) as a sustainability practice. Interview data or accounts from herder communities. Comparison of historical and current vegetation maps.
+Unit 2: Mining, Resources, and Sustainability (~6 sessions)
+Mongolia’s mineral wealth: what, where, and why. The Oyu Tolgoi and Tavan Tolgoi cases: economic benefits, environmental costs, social impacts, governance challenges. The concept of the ‘resource curse.’ Evaluating mining proposals: balancing economic development with environmental protection. Water impacts of mining.
+Mongolian grounding: Map-based analysis of mining locations and environmental sensitivity. Data on mining revenue and employment. Perspectives of herders, mining communities, government, and environmental organisations.
+Unit 3: Climate Change and Mongolia (~6 sessions)
+Global climate change: basic mechanisms and geographic consequences. How climate change manifests in Mongolia: temperature rise, permafrost thaw, glacier retreat, changing precipitation patterns, increased дзуд frequency. Mongolia’s contribution to and vulnerability to climate change. Local and national responses. Connecting Mongolia to the global climate system.
+Mongolian grounding: Temperature and precipitation trend data for Mongolia. Permafrost maps. Glacier monitoring data. Local observations of change. Mongolia’s international climate commitments.
+Unit 4: Mongolia in Global Systems (~5 sessions)
+Mongolia’s geopolitical position: landlocked between two major powers. Trade geography: what Mongolia exports, imports, and through which routes. Global connections: migration, technology, media, investment. How global processes affect Mongolian places. Urbanisation as a global-local phenomenon.
+Unit 5: Geographic Investigation (~6 sessions)
+Semi-independent investigation on a local environmental or geographic issue. Learners formulate their own geographic question, design a data collection strategy, conduct fieldwork or desk-based research, analyse findings, and present a geographic argument with maps, data, and reasoned evaluation. This is the culminating assessment of the three-year programme.
+G.5 Pedagogy Notes
+Emphasise evaluative thinking: every major topic should involve weighing competing perspectives and making reasoned judgements.
+Use structured debate and discussion: mining vs. conservation, development vs. herder livelihoods, urban growth vs. environmental quality.
+Teach geographic argument construction: claim + evidence + reasoning structure.
+Support semi-independent investigation with clear scaffolding: question formulation guidance, data collection templates, writing frames for geographic argument.
+Continue the weekly consolidation routine, but expect learners to take more responsibility for their own review.
+G.6 Digital Integration Notes
+Satellite time-series analysis: Comparing images of a degraded area or mining site over time. Offline alternative: Printed historical and current photographs or maps.
+Climate trend data: Graphing temperature and precipitation changes from online climate databases. Offline alternative: Printed climate data tables for graphing by hand.
+Responsible digital practice: Evaluating the reliability and bias of geographic information found online. How do maps and data visualisations shape public understanding of environmental issues?
+G.7 Assessment Notes
+Environmental evaluation task: Can the learner assess a geographic issue (e.g. a mining proposal or land-use decision) using evidence from multiple sources?
+Geographic argument essay: Can the learner construct a reasoned geographic position with supporting evidence?
+Geographic investigation (culminating assessment): Semi-independent investigation demonstrating the full inquiry cycle, with geographic question, data collection, analysis, and evaluated conclusions.
+Ongoing formative: Discussion participation, data analysis tasks, map-based evaluation exercises.
+H. Whole-Subject Pedagogy Guidance
+H.1 Inquiry-Based Learning
+Geography inherits the five-step inquiry process from pre-primary and primary (Сонирхох, Судлах, Турших, Дүгнэлт хийх, Эргэцүүлэх). This is progressively formalised: teacher-guided in Grade 7, structured in Grade 8, semi-independent in Grade 9. Geographic inquiry always involves a spatial question, engagement with maps or spatial data, and communication of geographic understanding.
+H.2 Map-Centred Teaching
+Maps are the distinctive language of geography. Every lesson should involve maps in some form: reading, interpreting, annotating, comparing, or constructing. Wall maps of Mongolia should be permanent classroom features. Atlases should be available for every lesson. Map skills are developed through regular use, not through isolated exercises.
+H.3 Place-Based and Fieldwork Approaches
+Each year should include local observation activities: studying the school’s neighbourhood, local landforms, land use, or community geography. Formal field trips are valuable but not essential; structured observation tasks during daily life serve similar purposes. The school’s locality—whether urban, ger district, or rural—is the first geographic ‘laboratory.’
+H.4 Case Study Approach
+With only 33 sessions per year, comprehensive regional or global coverage is impossible. A case study approach—studying selected places, regions, or issues in depth—develops transferable geographic concepts and skills more effectively than superficial coverage of many places. Each case study should be chosen for its capacity to illustrate geographic principles, not merely for its interest.
+H.5 Weekly Consolidation
+With one lesson per week, the gap between sessions is substantial. Every lesson should begin with 3–5 minutes of retrieval practice or review. This is not wasted time; it is essential for retention. Key skills (especially map skills and geographic vocabulary) require deliberate spaced practice across the year.
+H.6 Graduated Cognitive Demand
+Following the developmental transformation logic (Step 2): Grade 7 emphasises description and structured explanation; Grade 8 emphasises analysis and comparison; Grade 9 emphasises evaluation and synthesis. The same topic approached at different grades should carry different cognitive demands. Teachers should use graduated question stems (describe → explain → analyse → evaluate) aligned to the grade level.
+H.7 Language-Conscious Teaching
+Geography develops disciplinary literacy in Mongolian. Teachers should explicitly teach geographic vocabulary, model geographic writing (description, explanation, argument), and provide writing frames or sentence starters for less confident writers. Key terms should be displayed, practised, and revisited regularly.
+I. Whole-Subject Assessment Framework
+I.1 What Should Be Assessed
+Geographic assessment captures five dimensions, all of which must be represented across the three years:
+Dimension
+What it means
+Grade progression
+Geographic knowledge
+Understanding of places, processes, patterns
+Gr7: recall & describe; Gr8: explain & connect; Gr9: apply & synthesise
+Map & data skills
+Reading, interpreting, creating geographic representations
+Gr7: read & interpret; Gr8: analyse & construct; Gr9: evaluate & communicate
+Geographic reasoning
+Explaining phenomena, analysing patterns, connecting systems
+Gr7: single-factor explanation; Gr8: multi-factor analysis; Gr9: evaluative reasoning
+Geographic inquiry
+Asking questions, gathering evidence, presenting findings
+Gr7: guided investigation; Gr8: structured investigation; Gr9: semi-independent research
+Geographic judgement
+Evaluating issues, making reasoned arguments
+Gr7: not assessed; Gr8: emerging; Gr9: central
+I.2 Assessment Methods
+With only 3–4 formal assessment opportunities per year, assessment must be efficient and aligned with the subject’s spatial and visual character:
+Map-based tasks: Annotating, interpreting, constructing maps. Must appear in every year’s assessment.
+Data interpretation tasks: Reading climate graphs, population tables, resource maps. Introduced in Grade 7, increasingly analytical in Grades 8–9.
+Structured geographic writing: Description (Gr7), explanation and comparison (Gr8), evaluation and argument (Gr9).
+Geographic investigation: One per year, progressively more independent. The richest single assessment format, combining inquiry, skills, and reasoning. Should count as a significant assessment component.
+I.3 Formative Assessment
+Given the weekly teaching pattern, formative assessment is more important than summative. Quick retrieval checks at lesson start, map skill application during lessons, geographic vocabulary quizzes, and brief written responses provide ongoing evidence of learning without consuming precious teaching time.
+I.4 Assessment Principles
+Assessment must include map-based and data-based tasks, not only text-based recall.
+The geographic investigation should count as at least 25–30% of the year’s assessment.
+Grade 9 assessment should include evaluative tasks that require learners to weigh evidence and make reasoned judgements.
+Assessment tasks must be deliverable in all school contexts, including those without digital technology.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed Learner Readiness
+Geography is inherently accessible because it connects to every learner’s lived experience of place. All learners live somewhere, experience weather, and can observe their local environment. The curriculum builds from familiar local contexts before extending to unfamiliar ones. Map skills progress from large-scale local maps (more concrete) to small-scale global maps (more abstract). Visual and spatial modes of representation—maps, diagrams, photographs, fieldwork—provide access points for learners who struggle with text-heavy subjects.
+J.2 Resource Variability
+The curriculum is designed for offline-first delivery. Core requirements are:
+Paper maps and a basic atlas of Mongolia (essential; must be specified in national resource lists).
+Locally available materials: the school’s immediate environment serves as the primary geographic resource.
+Printed data tables (climate, population, economic) for schools without internet access.
+All digital activities have named offline alternatives. No learning outcome depends on technology.
+J.3 Teacher Support Needs
+Many Geography teachers may lack specialist training. The curriculum must support non-specialist delivery by:
+Providing clear content guidance within the curriculum document itself, including key vocabulary and concepts for each unit.
+Including suggested teaching activities that do not require extensive geographic expertise.
+Emphasising local geography, which allows teachers to draw on their own knowledge of local places.
+Specifying core map skills explicitly so that even non-specialists can teach them systematically.
+J.4 Rural and Urban Differences
+The curriculum’s emphasis on local geography means it adapts naturally to different contexts. Rural learners study rural geography—pastoral livelihoods, landscape ecology, seasonal patterns, water access. Urban learners study urban geography—settlement patterns, transport, land use, air quality. Both contexts develop the same geographic skills and concepts. The investigation component is inherently local and therefore always relevant.
+J.5 Low-Connectivity Alternatives
+Every digital activity specifies an offline alternative. The curriculum is fully deliverable without technology. Schools with connectivity can use digital tools for enrichment (satellite imagery, online data), but these are supplementary. The core curriculum—map reading, data interpretation, geographic writing, fieldwork, investigation—requires no digital technology.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+The following risks, identified in the Step 6 Design Brief, must be actively guarded against in all subsequent work:
+Content overload within 99 hours. The most likely failure. Textbook writers must resist the temptation to cover every world region, every geographic concept, and every environmental issue. The curriculum specifies an essentialist design; implementation must honour this. If a topic cannot be taught and assessed within the available sessions, it must be cut.
+Reducing geography to memorisation. Geography is a skill-based, inquiry-driven subject. If textbooks present only factual content for memorisation (lists of mountains, rivers, population figures), the subject’s distinctive educational value is destroyed. Maps, data, investigation, and geographic reasoning must remain central.
+Treating Mongolian content as decoration. Mongolia’s geography is not an illustrative example for global geographic theory. It is the primary content. The curriculum is built from Mongolian realities outward. Global comparison is selective, not comprehensive.
+Digital dependency. No learning outcome, no assessment task, and no essential teaching activity should require technology that is unavailable in rural сум schools. Digital tools enrich but must never be required.
+Disconnection from primary learning. Grade 7 must acknowledge and build upon the Байгаль шинжлэл foundation. If textbooks treat Geography as an entirely new beginning, they waste existing competence and bore learners by repeating familiar content.
+Cluster fragmentation. Geography shares Cluster 3 with Biology, Physics, and Chemistry. Content boundaries must be agreed: climate processes belong primarily to Geography (not Physics); ecosystems belong primarily to Biology (not Geography); water chemistry belongs to Chemistry. Without coordination, content is duplicated and time is wasted.
+Neglecting environmental citizenship. Environment and sustainability is a structural strand, not an optional appendix. Geography is the primary curricular home for environmental systems thinking. If textbooks reduce environmental content to a final chapter, the subject fails its most important civic purpose.
+Assessment without maps. If examinations and tests consist only of text-based recall questions, they misrepresent the subject. Assessment must include map-based and data-based tasks in every year.
+Uniform cognitive demand across grades. Grade 7, 8, and 9 must not look alike. If all three grades ask learners only to describe and recall, the developmental progression is lost. Grade 8 must be demonstrably more analytical than Grade 7, and Grade 9 must be demonstrably more evaluative than Grade 8.
+Ignoring the weekly gap. Textbooks and teacher guides must build in consolidation structures. A lesson that assumes learners remember everything from the previous week will fail. Retrieval practice, spaced review, and skill reinforcement must be designed into every unit.
+This document constitutes the full draft curriculum for Газар зүй (Geography), Grades 7–9, with Grade 6 continuity addressed. All subsequent standards writing, textbook development, and teacher guide preparation must be demonstrably consistent with this curriculum’s structure, progression, time constraints, and pedagogical principles.
+— End of Document —

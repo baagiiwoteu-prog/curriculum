@@ -1,0 +1,539 @@
+FULL CURRICULUM DRAFT
+Үндэсний бичиг
+(National Script)
+Traditional Mongolian Script — Grades 6–9
+Lower Secondary Curriculum for Mongolia
+264 Total Hours | 66 Hours per Grade | 2 Lessons per Week
+Based on the Cross-Level Competence Analysis (Steps 1–6) and the Subject Design Brief
+Cluster 1: Language, Literacy, and Literary Formation
+Coordination partners: Монгол хэл • Уран зохиол
+Working Document — March 2026
+A. Subject Purpose and Role in Lower Secondary Education
+A.1 Educational purpose
+National Script (Үндэсний бичиг) develops functional literacy in the traditional Mongolian vertical script across Grades 6–9, enabling learners to read, write, and engage with Mongolia’s classical written heritage as a living cultural competence. The subject exists because the traditional script is Mongolia’s original and officially reinstated national script, and no other subject in the curriculum provides dedicated time for its systematic acquisition.
+The subject builds on learners’ existing Cyrillic Mongolian literacy, established through the Монгол хэл (Mongolian Language) subject in Grades 1–5 and the Хэл яриа (Language/Speech) strand in pre-primary education. It treats the traditional script not as a foreign writing system but as a second orthographic representation of a language learners already command. This transfer-based approach is the pedagogical spine of the entire curriculum.
+A.2 Systemic role
+Within the seventeen-subject lower secondary architecture, National Script serves three irreplaceable functions:
+Dual-script literacy: It is the only subject that develops the capacity to read and write Mongolian in the traditional vertical script, creating biliteracy within the mother tongue.
+Heritage access: It provides direct access to Mongolia’s classical literary, historical, and legal documents, inscriptions, and cultural artefacts that exist exclusively or primarily in the traditional script.
+Cultural identity formation: It is the primary curriculum vehicle for active heritage transmission—not knowing about the script, but possessing the practical competence to use it.
+The subject sits within Cluster 1 (Language, Literacy, and Literary Formation) alongside Монгол хэл and Уран зохиол (Literature). These three subjects share a single developmental root in primary education and must be coordinated to avoid overlap, exploit transfer, and maintain coherent progression. National Script’s distinctive contribution is orthographic: it teaches the script system itself, while Mongolian Language teaches grammar and composition in Cyrillic, and Literature teaches interpretive engagement with texts.
+A.3 Graduate outcome
+By the end of Grade 9, a learner who has completed the National Script curriculum should be able to: read connected prose of moderate complexity in the traditional script with reasonable fluency; compose coherent paragraphs and short texts in the traditional script; transliterate between Cyrillic and traditional script with accuracy; engage with heritage documents, inscriptions, and classical literary excerpts in the original script; and articulate the cultural and historical significance of the traditional script in Mongolian identity. This is functional dual-script literacy, not native-equivalent fluency—a realistic and valuable outcome within 264 hours.
+B. Curriculum Strands
+The curriculum is organised into four strands that operate in a developmental hierarchy. Each strand has a distinct focus, but all four are interconnected and mutually reinforcing.
+Strand
+Scope and focus
+Relationship to other strands
+Strand 1
+Script Literacy
+(Бичгийн чадвар)
+Letter forms and stroke order; positional variants; connected writing; orthographic rules; handwriting fluency and legibility; calligraphic awareness (not as art but as disciplined writing practice)
+Foundation for all other strands. Without script literacy, reading and composition are impossible. Dominates in Grades 6–7, reduces to maintenance in Grades 8–9.
+Strand 2
+Reading
+(Уншлага)
+Decoding traditional script texts; reading fluency (speed and accuracy); comprehension of adapted, graded, and authentic texts; reading classical and contemporary texts written in traditional script
+Depends on Strand 1 for decoding. Feeds into Strand 4 by providing access to heritage texts. Coordinates with Literature subject for shared texts.
+Strand 3
+Composition
+(Найруулга)
+Writing words, sentences, paragraphs, and extended texts in traditional script; transliteration (Cyrillic ↔ traditional); guided and independent composition; formal and creative writing
+Applies Strand 1 skills productively. Connects to Mongolian Language through shared compositional practices. Introduced gradually from Grade 7, expands through Grades 8–9.
+Strand 4
+Cultural and Heritage
+Engagement
+(Өв соёлын оролцоо)
+Historical significance of the script; reading inscriptions and classical documents; proverbs and literary excerpts in original script; script in contemporary public life; identity and heritage reflection
+Integrative strand drawing on Strands 1–3. Connects to History, Literature, Civic Education. Provides cultural purpose and meaning for script learning.
+B.1 Strand weighting across grades
+The relative weight of each strand shifts across the four-year progression to reflect developmental readiness and cumulative skill:
+Strand
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+1. Script Literacy
+~50%
+~35%
+~20%
+~15%
+2. Reading
+~25%
+~30%
+~30%
+~30%
+3. Composition
+~10%
+~15%
+~25%
+~30%
+4. Cultural Heritage
+~15%
+~20%
+~25%
+~25%
+Note: These are indicative proportions, not rigid time prescriptions. Teachers should adjust based on learner needs while maintaining the overall developmental trajectory: front-load script literacy, then progressively shift toward reading, composition, and cultural engagement.
+C. Overall Progression Across Grades 6–9
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade role
+Transition & foundation: bridging from Cyrillic-only literacy to dual-script awareness
+Consolidation: systematic mastery, word-to-sentence level fluency
+Expansion: paragraph-level competence, analytical engagement with heritage texts
+Integration: confident functional literacy, cultural-intellectual ownership
+Script literacy
+All 35 base letters; basic stroke order; isolated and initial-position forms; simple words
+All positional variants; connected writing; sentence-level handwriting; orthographic rules
+Fluent connected writing; accuracy and speed; calligraphic awareness; self-correction
+Maintenance and refinement; stylistic awareness; formal handwriting for presentation
+Reading
+Letter/word recognition; short familiar phrases; environmental print (signs, currency)
+Sentence-level reading; adapted short texts; proverbs; graded passages
+Paragraph-level reading; adapted classical excerpts; information texts; comparison reading
+Extended text reading; classical literary passages; formal documents; independent reading
+Composition
+Copying; dictation of words and short phrases; name and basic word writing
+Guided sentence writing; simple transliteration; dictation of sentences
+Paragraph composition; extended transliteration; guided creative writing
+Extended composition; formal writing; independent creative and analytical writing
+Cultural heritage
+Script in the environment; brief history; emotional connection to heritage
+Script history and significance; proverbs as cultural texts; heritage awareness
+Classical inscriptions; historical documents; heritage interpretation and discussion
+Script and national identity; contemporary revitalisation; reflective cultural engagement
+Cognitive mode
+(Step 2 aligned)
+Concrete-guided: imitative, pattern-based, teacher-led
+Structured practice: rule-applying, systematic, semi-independent
+Analytical: comparative, error-correcting, evidence-using
+Evaluative-synthetic: independent, reflective, self-directed
+Assessment mode
+Formative only: observation, portfolio
+Formative-dominant; 2–3 summative tasks
+Balanced formative/summative; 3–4 summative tasks
+Summative portfolio + assessment; 4–5 summative tasks
+The progression is cumulative: each grade builds on the previous. It is also non-linear: not all competences advance at the same pace, and individual learners will show variation. The logic provides developmental aspiration, not rigid gatekeeping.
+D. Grade 6 Curriculum
+D.1 Role of the grade
+Grade 6 is the transition and foundation year. It bridges learners from Cyrillic-only literacy to dual-script awareness. The primary task is to establish the foundational script literacy that supports all subsequent learning. Grade 6 must function as a continuation of primary learning—not as an abrupt disciplinary rupture—by explicitly connecting to learners’ existing Mongolian language competence and the reading-writing readiness established in pre-primary and primary.
+Learners enter Grade 6 with full Cyrillic literacy, oral Mongolian fluency, familiarity with Mongolian cultural heritage, fine motor skills from five years of handwriting practice, and at most introductory exposure to the traditional script. The curriculum must honour this foundation and build upon it.
+D.2 Progression focus
+The Grade 6 progression focus is: from encountering the traditional script to recognising and reproducing its basic elements with guided accuracy.
+Script Literacy (~50%): All 35 base letter forms; correct stroke order and direction; vertical writing orientation; basic positional variants (initial, medial, final); writing common words
+Reading (~25%): Letter recognition speed; reading familiar words; reading short phrases; environmental print (currency, signs, monuments)
+Composition (~10%): Copying accurately from model texts; writing own name; dictation of familiar words and short phrases
+Cultural Heritage (~15%): Where the script appears in daily life; brief history of the script; emotional connection to heritage through stories of the script’s survival
+D.3 Expected learning by end of Grade 6
+By the end of Grade 6, learners should be able to:
+Recognise and name all 35 base letters of the traditional Mongolian script
+Write all base letters with correct stroke order and direction in vertical orientation
+Identify basic positional variants (initial, medial, final forms) for the most common letters
+Read familiar words and short phrases written in the traditional script
+Copy short texts in the traditional script with reasonable accuracy
+Write their own name and common Mongolian words from memory
+Recognise the traditional script in environmental contexts (signs, currency, monuments)
+Explain in simple terms why the traditional script is important to Mongolia
+D.4 Indicative content direction
+Strand 1: Script Literacy
+The Mongolian alphabet: 35 base letters taught in pedagogically sequenced groups (beginning with the most common and visually distinct letters, not necessarily in traditional alphabetical order)
+Vertical writing orientation: top-to-bottom, left-to-right column progression
+Basic stroke types: heads, teeth, tails, stems, bows — the anatomical vocabulary of the script
+Stroke order principles: consistent top-to-bottom, left-to-right within each letter
+Positional variants: introduction to how letters change form at the beginning, middle, and end of words (focusing on the most frequent variants in Grade 6)
+Common words: 80–120 high-frequency Mongolian words practised in traditional script
+Strand 2: Reading
+Letter-recognition games and timed activities
+Reading familiar words: family terms, animal names, colour words, number words, place names
+Reading short phrases: greetings, proverbs (short ones), simple instructions
+Environmental print: reading traditional script on Mongolian banknotes, official seals, building signs, and monument inscriptions (using photographs or real objects)
+Strand 3: Composition
+Copying exercises: copying individual letters, words, and short phrases from models
+Writing own name in traditional script
+Dictation: teacher dictates familiar words; learners write in traditional script
+Simple labelling: writing Mongolian words for pictured objects
+Strand 4: Cultural and Heritage Engagement
+Where is the script? Guided discovery of traditional script in the learner’s environment
+Brief narrative history: how Chinggis Khaan adopted the script; its journey through centuries; the switch to Cyrillic; the contemporary revival
+Emotional engagement: stories of scholars who preserved the script; the script as a national treasure
+Comparison: looking at the same word in Cyrillic and traditional script—same language, two writing systems
+D.5 Pedagogy notes
+Modelling and guided practice: Every new letter or group of letters is introduced through teacher demonstration on the board or screen, followed by guided tracing, then independent practice. The teacher’s own handwriting is a primary teaching tool.
+Distributed practice: Each lesson begins with a 5–7 minute warm-up reviewing previously learned letters and words. Homework includes short daily practice (10–15 minutes).
+Cyrillic-script bridging: Every new letter is introduced alongside its Cyrillic equivalent. ‘You already know this sound and this letter in Cyrillic; now here is how it looks in our traditional script.’
+Multi-sensory approaches: Large-format writing on boards, tracing in sand or on textured surfaces, forming letters with playdough or sticks — particularly effective for the first term when letter forms are being established.
+Cultural embedding: Every reading or writing exercise uses culturally meaningful content: Mongolian names, places, animals, proverbs — never generic or foreign content.
+Low-anxiety environment: Grade 6 is a beginning year. Errors are expected and treated as learning opportunities. There are no summative examinations.
+D.6 Digital integration notes
+Stroke-order animations (where available) can be projected to demonstrate correct letter formation at the start of lessons
+Photograph activities: learners use phones (where permitted) to photograph traditional script in their environment and share/discuss in class
+Simple digital practice apps or websites for letter recognition can supplement homework (recommended, not required)
+Offline alternative: all digital activities have pen-and-paper equivalents; nothing in the Grade 6 curriculum requires technology
+D.7 Mongolian grounding notes
+All vocabulary drawn from Mongolian cultural domains: family (эцэг, эх, аав, ээж), animals (морь, тэмээ, хонь), nature (гол, уул, нар), greetings and respectful expressions
+Environmental print exercises use authentic Mongolian sources: banknotes (төгрөг), official stamps, public building signage
+Heritage stories draw from Mongolian history: the adoption of the Uyghur-Mongol script under Chinggis Khaan; its continuous use in Inner Mongolia; the post-1990 revival
+Local adaptation: teachers in rural areas can use local monuments, ovoo inscriptions, or elder family members’ knowledge of the script as teaching resources
+D.8 Assessment notes
+Assessment mode: Formative only. No summative examinations in Grade 6.
+Portfolio: each learner maintains a script portfolio showing handwriting development over the year (weekly samples of best work)
+Teacher observation: ongoing assessment of letter formation accuracy, stroke order, and writing posture during practice sessions
+Self-assessment: simple checklists (‘I can write these letters correctly’; ‘I can read these words’)
+Peer review: partners check each other’s letter formation against models
+End-of-year milestone: informal demonstration of ability to write all 35 base letters and read 50+ common words (not graded, but recorded)
+E. Grade 7 Curriculum
+E.1 Role of the grade
+Grade 7 is the consolidation year. Learners move from letter-level to word-level and sentence-level competence. The script system’s orthographic rules become the focus: positional variants, vowel harmony in writing, suffixes, and the conventions that govern how letters connect. This is the year where handwriting becomes genuinely connected writing, and reading moves from decoding individual words to processing sentences and short texts.
+E.2 Progression focus
+The Grade 7 progression focus is: from recognising letters to reading and writing connected Mongolian at the sentence level.
+Script Literacy (~35%): Complete positional variant system; vowel harmony rules in traditional orthography; suffix writing; connected handwriting fluency; speed development
+Reading (~30%): Sentence-level reading fluency; reading adapted short texts (proverbs, folk sayings, short narratives); graded reading passages
+Composition (~15%): Guided sentence writing; simple Cyrillic-to-traditional transliteration; dictation of sentences; basic independent sentence composition
+Cultural Heritage (~20%): History of the Mongolian script in more detail; the script’s role across centuries; proverbs as cultural-linguistic texts; the concept of the script as national heritage
+E.3 Expected learning by end of Grade 7
+Write all positional variants of the 35 base letters with consistent accuracy
+Apply vowel harmony rules in traditional script orthography
+Write connected sentences in the traditional script with legible handwriting
+Read adapted short texts (50–100 words) with sentence-level comprehension
+Transliterate simple sentences from Cyrillic to traditional script and vice versa
+Write short dictated passages (3–5 sentences) with reasonable accuracy
+Compose simple original sentences in the traditional script on familiar topics
+Explain the historical development and significance of the traditional Mongolian script
+Read and interpret at least 20 Mongolian proverbs in the traditional script
+E.4 Indicative content direction
+Strand 1: Script Literacy
+Systematic teaching of all positional variants (initial, medial, final, isolated) for all 35 letters
+Vowel harmony in traditional orthography: masculine, feminine, and neutral word classes and their orthographic implications
+Suffix writing: how common grammatical suffixes attach in the traditional script
+Connected writing practice: moving from letter-by-letter to fluid word-level writing
+Handwriting speed development: timed practice sessions building automaticity
+Common orthographic patterns: the 200–300 most frequent words in correct traditional script form
+Strand 2: Reading
+Graded reading passages: adapted texts of increasing length (20–50→ 50–100 words)
+Mongolian proverbs (зүйр үг) and folk sayings (цэцэн үг) in traditional script: reading, discussing meaning, memorising
+Short adapted narratives drawn from Mongolian folk tales or historical episodes
+Reading comprehension: answering questions about content read in traditional script
+Fluency practice: timed reading of familiar passages to build speed
+Strand 3: Composition
+Guided sentence writing: completing sentence frames, writing sentences from prompts
+Transliteration exercises: converting Cyrillic sentences to traditional script (and vice versa)
+Dictation: sentences and short passages dictated by the teacher
+Simple independent writing: ‘Write 3 sentences about your family / your aimag / your favourite animal in traditional script’
+Error identification and correction: reviewing own writing for common mistakes
+Strand 4: Cultural and Heritage Engagement
+Expanded script history: the Uyghur-Mongol script origins; adaptation for Mongolian; the clear script (todo bichig); the Cyrillic transition; the post-1990 revival and 2025 legislation
+Proverbs as cultural texts: studying 20+ proverbs in original script; discussing cultural values they express
+Script and identity: what does it mean to have a national script? Comparing with other nations’ writing systems
+Heritage encounters: visiting (or viewing photographs of) local inscriptions, monastery scripts, or museum artefacts
+E.5 Pedagogy notes
+Systematic instruction: Grade 7 is the most systematically instructional year. Orthographic rules require explicit teaching, clear examples, and structured practice. The teacher’s role shifts from pure modelling to explaining principles and guiding rule application.
+Reading aloud: Regular reading-aloud practice builds fluency and confidence. Paired reading (one learner reads, the other follows along and checks) is particularly effective.
+Transliteration as bridge: Transliteration tasks are not mere transcription—they require active engagement with orthographic systems and build metalinguistic awareness. The direction should go both ways: Cyrillic→traditional and traditional→Cyrillic.
+Error analysis: Learners begin to identify and correct common writing errors. This develops metacognitive awareness of their own script learning process.
+Spaced repetition: Vocabulary and orthographic patterns are reviewed cyclically, not taught once and assumed learned.
+E.6 Digital integration notes
+Traditional script keyboard introduction: learners explore how the script is typed on computers or phones (demonstration, not mastery)
+Digital font exploration: examining how the traditional script appears in different digital fonts—connecting handwriting to typography
+Online proverb collections (where available) as supplementary reading resources
+Audio recordings of classical texts read aloud in traditional script orthography (where available) support listening-reading coordination
+Offline alternative: all digital content has printed equivalents; keyboard exploration is optional enrichment
+E.7 Mongolian grounding notes
+Proverbs selected for cultural richness: values of hospitality, respect for elders, harmony with nature, perseverance
+Reading materials drawn from Mongolian folk tradition: Ардын аман зохиол (folk oral literature) adapted for script reading
+Historical content: the role of scribes in Mongolian governance; the script in the Secret History of the Mongols period; Buddhist textual transmission
+Regional variation: teachers may select proverbs and heritage texts relevant to their aimag or local tradition
+E.8 Assessment notes
+Assessment mode: Formative-dominant with introduction of summative tasks.
+Continuing portfolio: weekly handwriting and composition samples
+Summative task 1 (mid-year): Writing assessment — correctly write 20 dictated words and 5 sentences in traditional script
+Summative task 2 (end of first semester): Reading assessment — read a short adapted passage aloud and answer comprehension questions
+Summative task 3 (end of year): Integrated assessment — transliterate a Cyrillic passage to traditional script; write 5 original sentences; read and interpret 3 proverbs
+Self-assessment: expanded checklists covering positional variants, reading fluency, and composition confidence
+F. Grade 8 Curriculum
+F.1 Role of the grade
+Grade 8 is the expansion year. Learners move from sentence-level to paragraph-level competence in both reading and writing. The analytical dimension deepens: learners engage with heritage documents as sources of meaning, compare orthographic systems, and develop accuracy and fluency simultaneously. The cultural heritage strand becomes more substantive as learners now have the script competence to engage with authentic historical texts (in adapted form).
+F.2 Progression focus
+The Grade 8 progression focus is: from sentence-level competence to paragraph-level reading, writing, and cultural-textual interpretation.
+Script Literacy (~20%): Fluent connected writing maintenance; speed and accuracy development; self-correction strategies; calligraphic awareness as disciplined practice
+Reading (~30%): Paragraph-level reading; adapted classical texts; informational texts in traditional script; comparison reading (same text in both scripts)
+Composition (~25%): Paragraph composition; extended transliteration of connected text; guided creative writing; letter writing in traditional script
+Cultural Heritage (~25%): Classical inscriptions and historical documents; heritage interpretation; script evolution; connections between script and Mongolian intellectual history
+F.3 Expected learning by end of Grade 8
+Write connected paragraphs in the traditional script with consistent accuracy and reasonable speed
+Read adapted passages of 150–250 words with comprehension
+Read and interpret adapted classical text excerpts (inscriptions, official documents, literary passages)
+Compose original paragraphs (5–8 sentences) on given topics in the traditional script
+Transliterate connected passages of 100+ words accurately between Cyrillic and traditional script
+Identify and self-correct common orthographic errors in own writing
+Explain connections between the traditional script and key moments in Mongolian history
+Compare orthographic representations of Mongolian in the two script systems, identifying systematic differences
+F.4 Indicative content direction
+Strand 1: Script Literacy
+Fluency maintenance: regular timed writing practice to build automaticity
+Accuracy refinement: focused practice on commonly confused letter forms and positional variants
+Self-correction protocols: learners review their own writing against model texts and identify errors
+Calligraphic awareness: understanding the difference between functional handwriting and formal/decorative writing; introduction to traditional pen (qalam) techniques for motivated learners
+Word-building patterns: morphological awareness in script (how word roots and suffixes combine)
+Strand 2: Reading
+Graded reading passages: 150–250 word adapted texts from classical and contemporary sources
+Classical text excerpts: adapted passages from the Secret History of the Mongols, Chinggis Khaan’s stone inscriptions, Buddhist canonical translations
+Informational text: adapted versions of official documents, letters, genealogies in traditional script
+Comparison reading: reading the same passage in both Cyrillic and traditional script to develop flexible literacy
+Reading comprehension strategies: predicting, questioning, summarising, connecting to prior knowledge
+Strand 3: Composition
+Paragraph composition: writing 5–8 sentence paragraphs on given topics (My aimag; A Mongolian tradition I value; A famous Mongolian)
+Extended transliteration: converting Cyrillic passages of 100+ words to traditional script (and vice versa)
+Guided creative writing: completing a story begun in traditional script; writing a short letter to a historical figure
+Formal writing introduction: writing a simple formal message or announcement in traditional script
+Editing and revision: reviewing own compositions for orthographic accuracy, readability, and coherence
+Strand 4: Cultural and Heritage Engagement
+The Chinggis Stone and other inscriptions: reading adapted excerpts; discussing historical context
+Script and governance: how the script served the Mongolian Empire’s administrative needs
+Buddhist textual tradition: the script’s role in transmitting Buddhist learning across centuries
+Script evolution: from Uyghur origins through clear script (todo bichig) to modern revival
+Discussion and debate: Why does the script matter today? What would be lost without it?
+F.5 Pedagogy notes
+Analytical teaching: Grade 8 introduces more analytical engagement. Learners compare, evaluate, and reflect—not just practise. Teachers facilitate discussion alongside continued skill development.
+Text-based instruction: Reading and writing activities increasingly use extended texts as their medium, moving beyond isolated sentences to connected discourse.
+Process writing: Composition follows a process model: planning, drafting, reviewing, revising. This mirrors the approach used in the Mongolian Language subject.
+Differentiation: By Grade 8, learner variation is significant. Teachers must provide extension tasks for advanced learners (longer texts, more complex compositions) and continued scaffolding for those who need more time with foundational skills.
+Heritage as motivation: The cultural heritage strand provides purpose and engagement for the skill strands. Reading a classical inscription is more motivating than reading invented practice sentences.
+F.6 Digital integration notes
+Traditional script word processing: learners practise typing short passages in traditional script using appropriate keyboard layouts (where computers are available)
+Digital archive exploration: guided access to digitised classical Mongolian texts online (e.g., national library digital collections)
+Transliteration tools: using simple online transliteration tools to check accuracy of manual transliteration work
+Presentation skills: creating a simple digital poster or slide combining traditional script text with images for a heritage project
+Offline alternative: all typing and digital tasks have handwritten equivalents; archive exploration uses printed reproductions
+F.7 Mongolian grounding notes
+Classical text content reflects Mongolian history and philosophy: excerpts from historical chronicles, Buddhist wisdom texts, and imperial correspondence
+Composition topics drawn from Mongolian life: writing about aimag, family, traditions, nature, and national events
+Heritage engagement uses authentic Mongolian artefacts: photographs of inscriptions, museum objects, historical documents
+Contemporary connection: examining how the script appears in modern government documents, official communications, and cultural events
+F.8 Assessment notes
+Assessment mode: Balanced formative and summative assessment.
+Continuing portfolio: now includes paragraph compositions and transliteration samples
+Summative task 1: Reading assessment — read a 150-word adapted passage; answer comprehension questions; identify key vocabulary
+Summative task 2: Writing assessment — compose a paragraph of 5–8 sentences on a given topic in traditional script
+Summative task 3: Transliteration assessment — accurately convert a 100-word Cyrillic passage to traditional script
+Summative task 4 (optional): Heritage project — research and present (orally or in writing) on a heritage text or inscription
+Accuracy and fluency are both assessed from Grade 8: speed benchmarks for reading and writing are introduced alongside accuracy criteria
+G. Grade 9 Curriculum
+G.1 Role of the grade
+Grade 9 is the integration and ownership year. Learners consolidate their dual-script literacy into a personal and cultural competence. The subject culminates not in mastery equivalent to Cyrillic fluency—an unrealistic expectation within 264 total hours—but in confident, functional dual-script literacy that enables continued independent engagement with the traditional script beyond school. The cultural dimension reaches its most reflective level: learners position themselves as inheritors and potential carriers of the script tradition.
+G.2 Progression focus
+The Grade 9 progression focus is: from competent practice to confident, purposeful, and reflective dual-script literacy.
+Script Literacy (~15%): Maintenance and refinement; formal handwriting for presentation; stylistic awareness; independent self-correction
+Reading (~30%): Extended text reading (250–400 words); classical literary passages; formal documents; independent reading for understanding
+Composition (~30%): Extended composition (10+ sentences); formal writing (letters, announcements); creative writing; independent transliteration of substantial texts
+Cultural Heritage (~25%): Script and national identity; contemporary revitalisation movement; reflective cultural engagement; the script in Mongolia’s future
+G.3 Expected learning by end of Grade 9
+By the end of Grade 9 (and of the full Grades 6–9 National Script curriculum), learners should be able to:
+Read connected prose of 250–400 words in the traditional script with reasonable fluency and comprehension
+Compose coherent texts of 10+ sentences in the traditional script, including formal and creative genres
+Transliterate substantial passages (200+ words) accurately between Cyrillic and traditional script
+Write formal communications (letters, announcements, ceremonial texts) in the traditional script
+Read and engage with classical literary excerpts, historical documents, and inscriptions in adapted and semi-authentic form
+Explain the historical development, cultural significance, and contemporary relevance of the traditional Mongolian script
+Articulate a personal position on why the traditional script matters for Mongolia’s future
+Demonstrate independent engagement capacity: able to continue developing script competence beyond school
+G.4 Indicative content direction
+Strand 1: Script Literacy
+Maintenance practice: regular but shorter warm-ups maintaining handwriting quality and speed
+Formal handwriting: writing for presentation—developing the quality of script appropriate for display, ceremonial use, or formal documents
+Stylistic awareness: recognising different historical styles of the traditional script; understanding that handwriting carries aesthetic and cultural meaning
+Independent self-correction: learners proofread and correct their own extended texts without teacher prompts
+Strand 2: Reading
+Extended reading passages: 250–400 word texts from classical and contemporary sources
+Classical literary excerpts: adapted passages from Mongolian literary masterworks in traditional script
+Formal document reading: understanding the structure and content of official documents, certificates, and formal correspondence in traditional script
+Independent reading: learners select and read traditional script texts of their own choosing from a provided library
+Reading response: written or oral responses to reading that demonstrate comprehension and personal engagement
+Strand 3: Composition
+Extended composition: writing texts of 10+ sentences on assigned and self-selected topics
+Formal writing: composing letters, announcements, invitations, and ceremonial greetings in traditional script
+Creative writing: short narratives, descriptive passages, or personal reflections in traditional script
+Extended transliteration: converting substantial Cyrillic texts (200+ words) to traditional script and vice versa
+Portfolio selection: learners curate their best compositions for a final portfolio demonstrating growth from Grade 6 to Grade 9
+Strand 4: Cultural and Heritage Engagement
+The script and national identity: classroom discussion and reflective writing on what the script means for Mongolia today
+The contemporary revitalisation movement: examining current government policy, public signage, education reform, and media use of the traditional script
+Cross-cultural comparison: how other nations relate to their heritage scripts (Chinese characters, Arabic script, Korean Hangul) — comparative perspective on script as identity
+Future-oriented reflection: learners articulate their personal position on the script’s role in Mongolia’s future
+Capstone heritage project: a substantial individual or small-group project combining reading, writing, research, and cultural reflection on a self-selected aspect of the script tradition
+G.5 Pedagogy notes
+Learner autonomy: Grade 9 teaching should grant maximum appropriate autonomy. Learners choose reading materials, select composition topics, and manage their own practice schedules. The teacher facilitates and supports rather than directs every activity.
+Discussion and debate: The cultural heritage strand in Grade 9 relies heavily on structured discussion, reflective writing, and respectful debate. Teachers create space for diverse perspectives on the script’s contemporary relevance.
+Process and product: Both the writing process and the final product matter in Grade 9. The capstone project demonstrates both sustained engagement and quality output.
+Exam preparation balance: If external examinations include National Script, Grade 9 must include targeted preparation. However, examination preparation must not crowd out the reflective and creative dimensions that give the subject its deeper purpose.
+Celebration of achievement: The transition from Grade 6 (knowing no letters) to Grade 9 (reading classical texts) is a genuine achievement. The curriculum should create a culminating moment that celebrates this growth.
+G.6 Digital integration notes
+Traditional script digital communication: composing messages, formal emails, or social media posts in traditional script using digital tools
+Digital presentation: creating a multimedia heritage project combining traditional script text, images, and (where possible) audio
+Unicode and digital standards: understanding how the traditional script is represented in digital systems (introductory level)
+Online engagement: finding and using online resources for continued independent script learning beyond school
+Offline alternative: all digital products have handwritten/poster equivalents; the capstone project can be entirely paper-based
+G.7 Mongolian grounding notes
+Contemporary Mongolia: reading and writing about current events, social issues, and national aspirations in the traditional script
+The legal framework: understanding the laws and policies supporting the script’s revival (Government Resolution on traditional script implementation)
+Intergenerational connection: interviewing elders or community members about their experience with the traditional script; recording oral histories
+National celebrations: connecting script learning to Naadam, Tsagaan Sar, and other national occasions where the script has ceremonial presence
+Future citizenship: understanding that competence in the traditional script is increasingly relevant for government, cultural, and professional life
+G.8 Assessment notes
+Assessment mode: Summative-significant with culminating portfolio assessment.
+Continuing portfolio: final curation showing growth trajectory from Grade 6 to Grade 9
+Summative task 1: Reading assessment — read a 250-word text; answer comprehension and interpretation questions
+Summative task 2: Extended composition — write a coherent text of 10+ sentences on an assigned topic
+Summative task 3: Transliteration assessment — accurately convert a 200-word passage between scripts
+Summative task 4: Capstone heritage project — substantial individual or group project demonstrating integrated competence
+Summative task 5: Reflective writing — a personal essay on the significance of the traditional script (can be written in either or both scripts)
+Final portfolio review: external or peer assessment of the cumulative portfolio, demonstrating the four-year developmental arc
+H. Whole-Subject Pedagogy Guidance
+H.1 Core pedagogical principles
+The following principles govern teaching and learning across all four grades of National Script:
+1. Transfer-based instruction: The foundational pedagogical insight is that learners are not starting from zero. They are literate Mongolian speakers acquiring a second script for their own language. Every lesson should exploit this transfer: connecting traditional script forms to known Cyrillic equivalents, using familiar vocabulary, and building on established reading and writing strategies. The instruction is orthographic, not linguistic.
+2. Modelling before practice: Script learning is a motor and perceptual skill. The teacher must demonstrate correct stroke order, letter formation, and connected writing before learners attempt independent practice. Demonstration should be live (on board or paper) wherever possible, not only projected from digital sources. Learners learn handwriting by watching handwriting.
+3. Distributed practice over massed practice: Research on motor skill acquisition and orthographic learning consistently shows that short, frequent practice sessions produce better retention than long, infrequent sessions. The curriculum is designed for two 40-minute lessons per week, but effective learning also requires brief daily practice (5–15 minutes) outside class. Teachers should assign short, manageable homework that reinforces—not extends—classroom learning.
+4. Culturally purposeful content: Every reading, writing, and practice exercise should use content that is culturally meaningful in the Mongolian context. Learners should never practise writing meaningless letter strings or foreign-language content. Mongolian names, proverbs, place names, animal names, historical phrases, and literary excerpts provide the content base for all skill practice. This integration of culture and skill is not decorative—it is the subject’s core design principle.
+5. Progressive complexity with secure foundations: The curriculum follows a strict progression: letters before words, words before sentences, sentences before paragraphs, paragraphs before extended text. No stage should be rushed. Attempting connected text before letter forms are secure produces frustration and learned helplessness. The Grade 6 curriculum deliberately limits scope to ensure deep foundation-building.
+6. Formative assessment as pedagogy: In a skill-based subject, assessment is inseparable from teaching. The teacher observes, provides corrective feedback, adjusts instruction, and monitors progress continuously. Formal summative assessment is a secondary function; the primary assessment mode is ongoing, constructive feedback that helps learners improve.
+7. Inclusion by design: Learner variation is expected, not exceptional. Teachers must differentiate within each lesson: providing enlarged templates and adapted tools for learners with motor difficulties, additional time and scaffolding for slower learners, and extension tasks for advanced learners. The curriculum is designed to be accessible through pen and paper alone, ensuring that resource-poor settings are not excluded.
+H.2 Lesson structure recommendation
+A typical 40-minute National Script lesson in Grades 6–7 might follow this pattern:
+Warm-up (5–7 min): review of previously learned letters, words, or passages through quick writing or reading practice
+Introduction (8–10 min): teacher demonstrates new letter forms, orthographic rules, or reading strategies; explicit instruction with modelling
+Guided practice (10–12 min): learners practise the new skill with teacher support; paired or individual work with monitoring and feedback
+Independent practice (8–10 min): learners practise independently; teacher circulates for individual feedback
+Closure (3–5 min): review of what was learned; preview of next lesson; self-assessment moment
+In Grades 8–9, lessons become more varied: some are primarily reading sessions, some are writing workshops, some are discussion-based heritage sessions. The warm-up structure remains constant.
+H.3 Teaching the script’s orthographic system
+The traditional Mongolian script presents specific pedagogical challenges that teachers must address explicitly:
+Vertical orientation: learners accustomed to horizontal Cyrillic writing must reorient their spatial processing. Large-format vertical writing surfaces (boards, poster paper) help establish the new directionality.
+Positional variants: the same letter can look different depending on its position in a word (initial, medial, final). This must be taught systematically, not assumed to be self-evident. Colour-coding or highlighting positional differences is an effective technique.
+Connected writing: unlike printed Cyrillic, traditional script letters connect within words. The transition from isolated letter practice to connected writing is a critical pedagogical juncture, typically occurring in late Grade 6 or early Grade 7.
+Vowel harmony: the traditional script’s orthographic system reflects Mongolian vowel harmony more explicitly than Cyrillic. This is a feature, not a bug—it deepens learners’ understanding of their own language’s phonological structure.
+Ambiguity in letter forms: some traditional script letters are visually similar. Focused discrimination exercises (comparing confusable letters side by side) are essential.
+H.4 Cluster coordination
+National Script sits within Cluster 1 alongside Mongolian Language and Literature. Effective pedagogy requires active coordination:
+Shared vocabulary: words and phrases being studied in Mongolian Language can be practised in traditional script, reinforcing both subjects
+Shared texts: literary texts studied in Literature class can be encountered in traditional script form in National Script class (adapted as necessary)
+Shared assessment timing: avoid scheduling demanding assessments in all three subjects simultaneously
+Transliteration as bridge: the transliteration strand directly connects the two script systems and should be co-designed with the Mongolian Language teacher
+Joint projects: at least one cross-subject project per year (e.g., creating a bilingual poster, reading a literary excerpt in traditional script) strengthens cluster coherence
+I. Whole-Subject Assessment Framework
+I.1 What should be assessed
+Assessment in National Script must capture four dimensions of competence, aligned with the four curriculum strands:
+Script production accuracy: Can the learner write correctly formed, connected text in the traditional script? (Strand 1)
+Reading competence: Can the learner read and comprehend texts of appropriate complexity in the traditional script? (Strand 2)
+Composition competence: Can the learner compose original, coherent text in the traditional script? (Strand 3)
+Cultural understanding: Does the learner understand the significance, history, and contemporary relevance of the traditional script? (Strand 4)
+I.2 How assessment evolves across grades
+Assessment element
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Dominant mode
+Formative only
+Formative-dominant; 2–3 summative tasks
+Balanced; 3–4 summative tasks
+Summative-significant; 4–5 tasks + portfolio
+Script production
+Observation of letter formation; portfolio samples
+Dictation accuracy; sentence writing; timed practice
+Paragraph accuracy; speed + accuracy; self-correction
+Extended text quality; formal writing; stylistic control
+Reading
+Word recognition checks; environmental print identification
+Sentence reading fluency; short text comprehension
+Paragraph comprehension; adapted classical text interpretation
+Extended text comprehension; independent reading response
+Composition
+Copying accuracy; simple dictation
+Guided sentence writing; basic transliteration
+Paragraph composition; extended transliteration
+Extended composition; formal and creative writing
+Cultural understanding
+Oral responses about the script in daily life
+Explanation of script history and significance
+Heritage text interpretation and discussion
+Reflective essay; capstone heritage project
+Portfolio role
+Primary evidence: handwriting development
+Ongoing evidence + summative supplement
+Curated collection showing range and growth
+Culminating portfolio: best work from all 4 years
+I.3 Assessment principles
+Formative assessment is continuous and inseparable from teaching. Every practice session is an assessment opportunity.
+Summative assessment increases gradually across grades, reflecting learners’ developing capacity for formal demonstration of competence.
+Portfolio assessment is the backbone of the subject’s assessment system. The cumulative portfolio showing growth from Grade 6 to Grade 9 is the most authentic evidence of learning.
+Communicative competence takes priority over calligraphic perfection. Can the learner read it? Can the learner write something that others can read? These matter more than aesthetic excellence.
+Speed and fluency are assessed alongside accuracy from Grade 8 onward, recognising that functional literacy requires both.
+Cultural understanding is assessed through performance and reflection (interpreting a text, explaining significance, articulating a position), not through factual recall or multiple-choice tests.
+Self-assessment and peer-assessment are integral components from Grade 6 onward, developing metacognitive awareness and learning autonomy.
+Assessment must be achievable within the time allocation. With 66 lessons per year, no more than 15–20% of total time should be consumed by formal summative assessment.
+I.4 Portfolio specifications
+The National Script portfolio is a longitudinal collection maintained from Grade 6 through Grade 9:
+Grade 6 entries: weekly handwriting samples (best work); self-assessment checklists; photographs of environmental script encounters
+Grade 7 entries: handwriting samples showing connected writing development; transliteration exercises; 3–5 proverbs written from memory
+Grade 8 entries: paragraph compositions; heritage text responses; transliteration of connected passages; self-selected best work
+Grade 9 entries: extended compositions; formal writing samples; capstone project materials; reflective writing on personal growth
+Final curation: in the last weeks of Grade 9, learners select and annotate their best work from all four years, creating a visual narrative of their script learning journey
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed learner readiness
+By the nature of the subject, all Grade 6 learners begin at approximately the same starting point (little or no prior script instruction), which reduces initial variation. However, variation develops rapidly:
+Fast learners with strong Cyrillic literacy and fine motor skills may move ahead quickly. Provide extension tasks: more complex words, longer texts, creative composition challenges.
+Slower learners may need more time with letter forms and basic writing. Provide additional scaffolding: enlarged practice templates, individual feedback, peer support, and adapted assessment expectations.
+Learners with motor difficulties (fine motor control challenges, physical disabilities) require adaptive tools: thicker pens, enlarged writing surfaces, digital alternatives where available, and assessment that allows oral or digital demonstration of reading competence separately from handwriting.
+Learners from ethnic minority backgrounds who speak Mongolian as a second language face a compounded challenge. They may need additional language support within script instruction—vocabulary previewing, bilingual glossaries, and additional Cyrillic-to-script bridging.
+J.2 Resource variability
+The curriculum is designed to function at three resource levels:
+Minimum (all schools): Teacher who can demonstrate script on a board; paper and pens; printed alphabet chart and letter-form reference sheet; printed graded reading texts. This is sufficient for the core curriculum. Every learning outcome is achievable at this level.
+Standard (most urban and well-resourced schools): Minimum resources plus: printed textbook and workbook; heritage text reproductions; calligraphy supplies (bamboo pens, ink); audio recordings of texts read aloud.
+Enhanced (resource-rich schools): Standard resources plus: computers with traditional script keyboard support; digital projector for stroke-order demonstrations; access to online digitised classical text archives; multimedia production tools for heritage projects.
+The critical design principle is that no learning outcome requires technology. Technology enhances but never gates access.
+J.3 Teacher support needs
+Teacher preparedness is the single greatest implementation risk. The curriculum requires:
+Professional development: intensive training in traditional script for teachers who lack full proficiency. A minimum of 40 hours of script training before the curriculum begins, with ongoing support.
+Teacher’s guide: comprehensive guide including step-by-step stroke-order illustrations for every letter; model lesson plans; graded reading texts; assessment rubrics; common error analysis; differentiation strategies.
+Peer support networks: connecting National Script teachers across schools for shared resources, problem-solving, and moral support—this is a new subject area for many teachers.
+Progressive expectations: teachers are not expected to be calligraphy masters. They need to be competent, confident writers of the traditional script who stay ahead of their learners. The teacher’s guide should enable teachers to develop their own proficiency alongside their teaching.
+J.4 Rural and urban differences
+Rural advantages: rural communities often have closer connections to traditional culture and may include elders with script knowledge. Heritage engagement can be richer and more authentic in rural settings.
+Rural challenges: resource scarcity, teacher isolation, multi-grade classrooms, limited access to technology. The curriculum’s minimum-resource design addresses this directly.
+Urban advantages: better access to technology, printed resources, museums, and cultural institutions. Heritage engagement can include field visits to museums, libraries, and government buildings.
+Urban challenges: competing demands on learner time; potential perception that the traditional script is ‘old-fashioned’; need to establish contemporary relevance explicitly.
+Ger-district schools: face urban challenges without full urban advantages. Particular attention to resource provision and teacher support is required.
+J.5 Low-resource and low-connectivity alternatives
+For every digital integration element in the curriculum, the following low-tech alternatives are viable:
+Stroke-order animations → Teacher demonstration on board + printed stroke-order reference sheets
+Digital keyboard practice → Handwriting is the primary output; keyboard skills are enrichment, not core
+Online archive exploration → Printed reproductions of key heritage documents (can be produced centrally and distributed)
+Multimedia heritage projects → Handwritten poster projects, oral presentations, handmade books
+Digital transliteration tools → Manual transliteration with teacher or peer checking
+Online reading resources → Printed graded reading booklets (centrally produced, locally distributed)
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+The following risks have been identified in the Subject Design Brief and refined through the curriculum drafting process. They must be actively guarded against in all subsequent development work:
+K.1 The calligraphy trap
+The most dangerous risk. If textbooks emphasise beautiful letter-drawing over communicative competence, the subject becomes decorative art. Standards must specify that reading and composition outcomes carry equal or greater weight than handwriting aesthetics. Assessment rubrics must reward legibility and communicative effectiveness, not penmanship perfection.
+K.2 Curriculum overload
+With only 66 lessons per year, there is no room for excessive content. Standards writers must resist the temptation to include everything: every historical period, every classical text, every orthographic nuance. The time-feasibility audit is non-negotiable: total learning outcomes multiplied by estimated teaching time must not exceed available hours minus assessment time. The curriculum caps at 5–7 outcomes per grade for this reason.
+K.3 Disconnect from Cyrillic literacy
+If the subject is designed as though learners are starting from zero—ignoring their existing Mongolian literacy—it wastes time on concepts already understood and fails to exploit the most powerful learning resource available: transfer from Cyrillic. Textbooks must include systematic Cyrillic-to-traditional comparison and transliteration as core activities, not optional extras.
+K.4 Heritage as museum exhibit
+If cultural content becomes a passive history lesson about a dead script, the subject fails its identity-formation purpose. Heritage engagement must be active: reading heritage texts (not just reading about them), writing in the script (not just writing about the script), and reflecting on contemporary relevance (not just memorising historical dates).
+K.5 Technology dependency
+If textbooks or standards assume universal access to computers, apps, or internet, they exclude the schools that most need the curriculum. Every core outcome must be achievable with pen and paper. Digital integration is an enhancement layer, never a prerequisite.
+K.6 Cluster isolation
+If the National Script textbook is developed in isolation from the Mongolian Language and Literature textbooks, coordination opportunities are lost. Shared vocabulary lists, cross-referenced literary texts, and aligned assessment timing should be built into all three textbooks simultaneously.
+K.7 Uniform grade design
+If all four grades look the same—same strand weights, same activity types, same assessment modes—the developmental progression is lost. Each grade has a distinct role and character: Grade 6 is exploratory and foundational; Grade 7 is systematic and consolidating; Grade 8 is analytical and expanding; Grade 9 is reflective and integrative. Textbooks must reflect these qualitative differences.
+K.8 Assessment overload
+If standards require extensive formal testing, they consume the instructional time that a skill-based subject desperately needs. The portfolio-centred assessment approach protects instructional time while still providing robust evidence of learning. Standards should specify maximum (not minimum) numbers of summative assessments per year.
+K.9 Teacher-proof design fallacy
+No textbook or standard can compensate for an unprepared teacher. The most important implementation investment is teacher training: in script competence, in pedagogical technique for script teaching, and in assessment practice. Standards should specify teacher preparation requirements alongside learner expectations.
+K.10 Neglect of the reading strand
+There is a tendency in script education to focus almost exclusively on writing (production) while underemphasising reading (reception). The curriculum deliberately allocates 25–30% of time to reading across all grades because the ability to read the traditional script is at least as important as the ability to write it, and for most adult uses of the script (reading signs, documents, heritage texts), reading competence is the more frequently needed skill.
+End of Full Curriculum Draft for Үндэсний бичиг (National Script), Grades 6–9. This document serves as the working curriculum from which standards, textbooks, teacher guides, and assessment instruments will be developed.

@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "cd Figma-Web && npx vite --port 5173"
+  }
+}

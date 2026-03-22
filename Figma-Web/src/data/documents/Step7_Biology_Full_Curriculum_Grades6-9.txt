@@ -1,0 +1,409 @@
+FULL CURRICULUM DRAFT
+BIOLOGY (Биологи)
+Lower Secondary Education — Grades 6–9
+Mongolia Curriculum Reform — Working Document
+Cluster 3: Scientific and Environmental Inquiry
+Total: 231 hours | Grade 6 = 33 hrs (1/wk) | Grades 7–9 = 66 hrs each (2/wk)
+March 2026
+A. Subject Purpose and Role in Lower Secondary Education
+Biology develops learners’ systematic understanding of life: its structures, processes, diversity, interdependence, and vulnerability. Across Grades 6–9, the subject transforms primary-level curiosity about living things into disciplinary biological thinking—the capacity to explain how organisms function, analyse ecological relationships, evaluate evidence about the natural world, and take scientifically informed positions on environmental and health issues.
+In Mongolia’s educational context, Biology serves five interconnected purposes:
+Scientific literacy: developing the concepts, methods, and language of the life sciences as a foundation for upper secondary study and for lifelong understanding of biological processes.
+Inquiry competence: continuing and formalising the inquiry habits established across seven years of pre-primary and primary education (the five-step process: Сонирхох – Судлах – Турших – Дүгнэлт хийх – Эргэцүүлэх), progressively developing them into disciplined scientific investigation.
+Environmental citizenship: building the ecological understanding needed for responsible engagement with Mongolia’s pressing environmental challenges—desertification, mining impacts, climate change, water scarcity, and biodiversity loss.
+Health understanding: providing the biological knowledge that underpins informed decisions about personal and public health during the physically and emotionally transformative period of adolescence.
+Cultural-scientific integration: connecting modern biological science with Mongolia’s deep ecological heritage—the pastoral knowledge of the five animals (таван хошуу мал), traditional land management practices, and nomadic environmental awareness.
+Biology is one of four subjects in Cluster 3 (Scientific and Environmental Inquiry), alongside Physics, Chemistry, and Geography. All four split from a single primary subject (Байгаль шинжлэл). Biology’s specific contribution within this cluster is the study of living systems at all scales—from cells to ecosystems—and the development of ecological and human biological understanding. It depends on Mathematics for quantitative reasoning, on Mongolian Language for scientific communication, and on Chemistry for molecular understanding. It provides essential foundations for Health Education, Geography, and Civic/Ethics Education.
+B. Curriculum Strands
+The Biology curriculum is organised through four interconnected strands that run across all four grades. They are not taught in isolation; at every grade, learning within one strand informs and enriches the others.
+Strand 1: Diversity and Classification of Life (Амьд биеийн олон янз байдал)
+This strand develops understanding of the variety of living organisms and the methods used to organise and make sense of that variety. It progresses from observing and naming local organisms (Grade 6) through systematic classification (Grade 7), structural and functional comparison (Grade 8), to understanding adaptation and evolution as drivers of diversity (Grade 9). Mongolian biodiversity—steppe fauna, taiga forests, Gobi desert species, freshwater ecosystems, and domesticated livestock—provides the substantive content throughout.
+Strand 2: Life Processes and Biological Organisation (Амьд биеийн бүтэц, үйл ажиллагаа)
+This strand develops understanding of how living things are structured and how they function. It progresses from observable life processes (Grade 6) through organ-system-level study of plants and the human body (Grade 7), to cellular processes and system interdependence (Grade 8), to introductory genetics and heredity (Grade 9). Human biology content in this strand connects directly to adolescent self-understanding and supports Health Education.
+Strand 3: Ecology and Environmental Responsibility (Экологи, байгаль хамгаалал)
+This strand develops understanding of organisms within their environments and the consequences of human action on living systems. It progresses from habitat observation (Grade 6) through food chains and ecosystems (Grade 7), systems-level ecology (Grade 8), to human environmental impact, conservation science, and sustainability (Grade 9). This strand carries the primary environmental citizenship function, integrating Mongolian ecological contexts as core content, not illustrative decoration.
+Strand 4: Scientific Inquiry in Biology (Биологийн шинжлэх ухааны судалгаа)
+This strand is not a separate content area but a methodological thread woven through all content strands. It develops the practices of biological investigation: observation, questioning, hypothesis formation, experimental design, data collection and analysis, evidence-based conclusion, and scientific communication. It progresses from guided exploration (Grade 6) through structured investigation (Grade 7), controlled experimentation (Grade 8), to semi-independent research design (Grade 9). This strand is the primary carrier of the inherited inquiry competence and must be explicitly taught, practised, and assessed at every grade.
+Strand relationships
+Strand 4 (Inquiry) provides the methods through which Strands 1–3 are studied. Strand 1 (Diversity) provides the organisms that Strand 2 (Processes) analyses functionally. Strand 3 (Ecology) provides the environmental context in which Strand 1’s organisms live and Strand 2’s processes operate. By Grade 9, learners should perceive these connections as an integrated view of biological science.
+C. Overall Progression Across Grades 6–9
+The four-year progression follows the developmental transformation logic established in the upstream architecture. It is not simply ‘more content each year’ but a qualitative shift in how learners engage with biological knowledge.
+Dimension
+Grade 6 (33 hrs)
+Grade 7 (66 hrs)
+Grade 8 (66 hrs)
+Grade 9 (66 hrs)
+Role
+Bridging year
+Foundation year
+Analytical depth year
+Synthesis & readiness year
+Cognitive mode
+Observe → describe → classify
+Describe → explain
+Explain → analyse
+Analyse → evaluate → synthesise
+Inquiry mode
+Guided exploration
+Structured investigation
+Controlled experimentation
+Semi-independent research
+Learner agency
+Teacher-guided curiosity
+Structured choice
+Managed independence
+Responsible autonomy
+Content level
+Organisms, habitats, observable features
+Organ systems, classification, food chains
+Cells, system interactions, ecosystem dynamics
+Genetics, evolution, conservation science
+Assessment
+Entirely formative
+Formative-dominant + 2–3 summative
+Balanced formative-summative + project
+Evaluative tasks + extended project + portfolio
+Mongolian grounding
+Local organisms, five animals, seasonal nature
+Mongolian ecosystems, traditional knowledge
+Environmental challenges, pastoral ecology
+Conservation policy, sustainability, national issues
+This progression is cumulative: each grade builds on the previous. It is also non-linear: individual learners develop at different rates, and teachers must accommodate variation through differentiated scaffolding rather than by lowering expectations.
+D. Grade 6 Curriculum (33 Hours — 1 Lesson Per Week)
+D.1 Role of the Grade
+Grade 6 is the bridging year. It reconnects learners with biological knowledge from primary Байгаль шинжлэл and the pre-primary Байгаль, нийгмийн орчин domain in the new lower secondary context. It introduces biology not as a body of facts to memorise but as a way of asking questions about living things. With only 33 contact hours (approximately 28–30 actual lessons after school events), Grade 6 cannot sustain full disciplinary instruction. It is an orientation and curiosity-building year.
+D.2 Progression Focus
+From experiential familiarity with living things (primary legacy) toward systematic observation, classification, and the beginnings of biological questioning. The cognitive mode is describe–classify–wonder. The learner stance is guided curiosity.
+D.3 Expected Learning
+By the end of Grade 6, learners should be able to:
+Observe and describe local organisms using multiple senses and simple tools (hand lens, ruler).
+Classify organisms into broad groups (plants, animals, fungi, microorganisms) using observable features.
+Identify and describe the habitats of organisms found in their local environment.
+Recall and apply knowledge from primary science about living vs. non-living things, basic life processes, and the five animals.
+Keep a simple observation journal recording biological observations with sketches and notes.
+Participate actively in guided outdoor exploration and classroom investigation.
+Express curiosity about biological phenomena through questions.
+D.4 Indicative Content Direction
+Strand 1 focus: What lives here?
+Exploring the living things in and around the school, in the local district/soum, and across Mongolian seasonal landscapes. Naming, observing, grouping organisms by visible features. Connecting to primary knowledge of the five animals, domesticated plants, and wild organisms encountered in primary Байгаль шинжлэл.
+Strand 2 focus: What do living things need?
+Revisiting and extending primary-level understanding of life processes: nutrition, growth, reproduction, movement, sensitivity. Comparing what different organisms need to survive. Observing seasonal changes in organisms. Simple plant-growth investigations (light, water, soil).
+Strand 3 focus: Where do organisms live and why?
+Exploring habitats in the local environment. Identifying features of habitats that suit different organisms. Introducing the concept of interconnection: organisms depend on each other and on their environment. Connecting to Mongolian contexts: steppe, forest, river, urban environments.
+Strand 4 focus: How do biologists look at the world?
+Introduction to biological observation as a skill: looking carefully, recording accurately, asking questions. Keeping a nature journal. Simple guided investigations. What makes biology different from other ways of knowing?
+D.5 Time Allocation Guidance
+Approximate distribution across 28–30 lessons:
+Strand 1 (Diversity): ~8–9 lessons
+Strand 2 (Life processes): ~7–8 lessons
+Strand 3 (Ecology): ~7–8 lessons
+Strand 4 (Inquiry) is integrated throughout, with ~4–5 lessons having explicit inquiry-skill focus
+Review and consolidation: ~2–3 lessons
+At least one-third of all lessons should include outdoor observation, fieldwork, or work with real organisms.
+D.6 Pedagogy Notes
+Begin every unit by connecting to what learners already know from primary. Use diagnostic questioning, not testing.
+Emphasise sensory engagement: touching, smelling, observing, sketching real specimens.
+Use the nature journal as the primary learning tool—not worksheets or textbook reading.
+Conduct at least three outdoor sessions exploring school grounds, nearby green spaces, or the local environment.
+Use storytelling and discussion to connect biological observations to Mongolian pastoral and cultural knowledge.
+Avoid formal lecturing. Grade 6 biology should feel like guided exploration, not classroom instruction.
+D.7 Digital Integration Notes
+Grade 6 requires no digital technology. All core outcomes are achievable through direct observation, drawing, and oral discussion. Where technology is available, optional enhancements include: using a tablet camera to photograph organisms for a class collection; viewing short nature videos showing Mongolian wildlife in seasons not observable during the school year; using a simple digital thermometer for habitat temperature comparison. No digital assessment. No screen-based learning as default.
+D.8 Mongolian Grounding Notes
+The five animals (таван хошуу мал) serve as the entry point for animal classification and comparison of life processes.
+Seasonal changes in Mongolian nature (spring thaw, summer growth, autumn migration preparation, winter dormancy) provide the ecological observation framework.
+Local plants and animals—not generic textbook species—are the primary objects of study. Urban schools use park and garden species; rural schools use steppe, forest, or desert organisms.
+Traditional Mongolian knowledge about animals (herding practices, animal behaviour observation, weather prediction from animal signs) is validated as a form of ecological observation alongside scientific method.
+D.9 Assessment Notes
+Assessment in Grade 6 is entirely formative. There are no examinations, no graded tests. Assessment methods include:
+Nature journal quality: regularity of entries, detail of observation, quality of sketches, evidence of questioning.
+Oral participation: contributions to class discussion, questions asked, observations shared.
+Classification tasks: ability to sort and group organisms using observable features.
+Teacher observation of engagement in outdoor and practical activities.
+The purpose of assessment at this grade is diagnostic: identifying which learners have strong primary foundations and which need additional support, and orienting learners toward biological thinking.
+E. Grade 7 Curriculum (66 Hours — 2 Lessons Per Week)
+E.1 Role of the Grade
+Grade 7 is the foundation year for disciplinary biology. It is effectively the first real year of the subject: Grade 6 provided orientation, but Grade 7 establishes the strand architecture, introduces formal inquiry methods, and begins building the conceptual framework that will govern Grades 8–9. This grade carries the heaviest ‘establishment’ burden in the entire four-year sequence.
+E.2 Progression Focus
+From description to explanation. Learners move from observing what organisms are and where they live to understanding why they have particular features, how their bodies function, and what connects them to each other in ecosystems. The inquiry mode shifts from guided exploration to structured investigation.
+E.3 Expected Learning
+By the end of Grade 7, learners should be able to:
+Use a classification system to identify and group organisms based on structural features, distinguishing major groups (vertebrates/invertebrates, flowering/non-flowering plants, fungi, bacteria).
+Describe the structure and function of major organ systems in flowering plants (roots, stems, leaves, flowers) and explain how they work together for nutrition, transport, and reproduction.
+Describe the structure and function of major human body systems (skeletal-muscular, digestive, respiratory, circulatory) and explain their interdependence.
+Construct and interpret food chains and simple food webs for Mongolian ecosystems, identifying producers, consumers, and decomposers.
+Explain how energy flows through an ecosystem from sun to producers to consumers.
+Design and conduct a structured biological investigation with teacher guidance: formulate a testable question, identify variables, collect and record data, and write a structured conclusion.
+Communicate biological understanding through labelled diagrams, structured paragraphs, and data tables in Mongolian.
+Demonstrate safe and careful practice in laboratory and fieldwork settings.
+E.4 Indicative Content Direction
+Strand 1: Classification and diversity (~14–16 lessons)
+Why and how biologists classify organisms. Observable structural features as classification criteria. Major groupings: vertebrates (mammals, birds, reptiles, amphibians, fish) and invertebrates (insects, arachnids, worms, molluscs). Plant groups: flowering and non-flowering, mosses, ferns. Fungi and microorganisms as distinct groups. Mongolian species as primary examples throughout. Introduction to using a simple dichotomous key.
+Strand 2: Life processes and body systems (~20–22 lessons)
+Plant biology: structure and function of roots (absorption), stems (transport), leaves (photosynthesis—introduced at a descriptive level: plants make food from light, water, and air), flowers (reproduction). Practical: plant dissection, germination experiments, observing transport in celery/flower stems.
+Human biology: skeletal system (structure, protection, movement), muscular system (types of movement, connection to skeleton), digestive system (food journey from mouth to excretion, nutrients), respiratory system (breathing, gas exchange at a simple level), circulatory system (heart, blood vessels, blood’s transport role). Practical: pulse measurement, breathing rate investigation, modelling the digestive system.
+Strand 3: Ecosystems and food relationships (~14–16 lessons)
+What is an ecosystem? Components: living (biotic) and non-living (abiotic) factors. Habitats and microhabitats. Feeding relationships: food chains, food webs, producers, primary and secondary consumers, decomposers. Energy flow from sun through producers to consumers. Introduction to the concept of population within a habitat. Mongolian ecosystem case studies: steppe grassland, river/lake, forest-steppe, Gobi desert.
+Strand 4: Inquiry skills (integrated + ~6–8 dedicated lessons)
+Formulating testable biological questions. Identifying variables: independent, dependent, controlled. Planning a fair test. Recording data in tables. Drawing conclusions from data. Writing a structured investigation report: question, method, results, conclusion. Safety procedures in laboratory and field settings.
+E.5 Time Allocation Guidance
+Approximate distribution across ~56–60 contact lessons:
+Strand 1 (Classification): 14–16 lessons (~25%)
+Strand 2 (Life processes): 20–22 lessons (~37%)
+Strand 3 (Ecology): 14–16 lessons (~25%)
+Strand 4 (Inquiry): 6–8 dedicated lessons (~12%), plus integration throughout
+Review/assessment: ~4–5 lessons
+Approximately 8–10 structured practical activities across the year. At least 3–4 should be achievable without specialist laboratory equipment.
+E.6 Pedagogy Notes
+Begin each topic with a phenomenon or question, not a definition. Example: ‘Why can a camel survive in the Gobi but a fish cannot?’ leads to habitat and adaptation.
+Alternate between input sessions (teacher explanation with visual aids), practical investigation, and consolidation (discussion, writing, diagram work).
+Use real organisms wherever possible: classroom plants, preserved specimens, animal bones, insect collections, locally gathered materials.
+Introduce scientific vocabulary explicitly: Mongolian terms with their meaning, etymological connections where useful.
+Model structured scientific writing. Provide templates initially; gradually withdraw scaffolding.
+Use collaborative pair and small-group work for investigations, with defined roles.
+E.7 Digital Integration Notes
+Digital tools enhance approximately 10% of lessons in Grade 7. Examples:
+Digital microscope images (projected or on shared tablet) to see cell structures of plant stems and leaves.
+Short video clips of Mongolian ecosystems not directly observable (e.g., Gobi wildlife, underwater lake footage, winter animal behaviour).
+Simple digital data recording using a spreadsheet or table tool for investigation results.
+Online species identification guide for local biodiversity (where internet access exists).
+Offline alternatives for all: hand-drawn diagrams, printed images provided by teacher, paper data tables, teacher-prepared species cards.
+E.8 Mongolian Grounding Notes
+Classification uses Mongolian species as primary examples: argali sheep, Przewalski’s horse, Mongolian gazelle, snow leopard, steppe eagle, Gobi bear, marmot, various steppe grasses, larch, saxaul tree.
+Human body systems are studied with connection to Mongolian diet and lifestyle: the role of meat and dairy in nutrition, the physical demands of herding, altitude and respiratory function.
+Ecosystem study is grounded in Mongolian landscapes: steppe grassland food web, forest-steppe predator-prey relationships, river ecosystems (Tuul, Selenge, Onon).
+Traditional ecological knowledge: how herders read animal behaviour to predict weather, seasonal pasture rotation as ecosystem management, traditional use of medicinal plants.
+E.9 Assessment Notes
+Assessment is predominantly formative, with 2–3 summative assessment points:
+Formative: regular observation of practical work, questioning in class, checking of labelled diagrams and data tables, peer explanation tasks.
+Summative assessment 1 (mid-year): Short structured questions on classification and plant biology, including diagram labelling and simple data interpretation.
+Summative assessment 2 (year-end): Structured questions on human body systems and ecosystems, including food chain construction and explanation tasks.
+Practical assessment: At least one assessed investigation (e.g., plant growth experiment) evaluated using a simple rubric covering question formulation, data recording, and conclusion.
+No assessment should test only recall. Every summative task must include explanation, application, or interpretation.
+F. Grade 8 Curriculum (66 Hours — 2 Lessons Per Week)
+F.1 Role of the Grade
+Grade 8 is the analytical-depth year. Most learners now have sufficient abstract capacity to engage with genuinely analytical biological tasks. This grade deepens understanding to the cellular level, develops systems-level ecological analysis, and strengthens controlled investigation skills. Cross-curricular connections with Chemistry and Geography become explicit and productive.
+F.2 Progression Focus
+From explanation to analysis. Learners move from describing how body systems or ecosystems work to analysing interactions, interpreting data about processes, and beginning to understand biology at the cellular level. The inquiry mode shifts to controlled experimentation with identified variables.
+F.3 Expected Learning
+By the end of Grade 8, learners should be able to:
+Describe the structure of cells as the basic units of life and distinguish plant cells from animal cells.
+Explain the processes of photosynthesis and respiration at a functional level (inputs, outputs, where they occur, why they matter).
+Describe the structure and function of the nervous system and reproductive system at an introductory level appropriate to adolescent development.
+Explain how organ systems in the human body interact as interdependent systems (e.g., circulatory-respiratory connection, digestive-circulatory nutrient transport).
+Analyse ecosystem dynamics: energy flow through trophic levels, nutrient cycling (carbon, water), population change, and the effects of environmental disturbance.
+Design and carry out a controlled investigation: identify and manage variables, collect quantitative data, present data using graphs, and evaluate the reliability of results.
+Evaluate a biological claim by examining the evidence provided and identifying strengths and weaknesses in the reasoning.
+Communicate biological understanding through structured scientific writing, including extended explanations and data-supported arguments.
+F.4 Indicative Content Direction
+Strand 1: Cellular life and microscopic diversity (~10–12 lessons)
+The cell as the fundamental unit of life. Plant cell structure (cell wall, chloroplasts, vacuole, nucleus, cell membrane, cytoplasm). Animal cell structure (no cell wall, no chloroplasts). Introduction to unicellular organisms (amoeba, bacteria, yeast) as complete living things. Microscope use (where available) or detailed diagram study. Cell specialisation: different cells for different functions (red blood cells, nerve cells, root hair cells). Connecting microscopic structure to macroscopic function.
+Strand 2: Processes of life at cellular and system level (~20–22 lessons)
+Photosynthesis: plants convert light energy, water, and carbon dioxide into glucose and oxygen. Where it occurs (chloroplasts in leaves). Why it matters (basis of all food chains). Factors affecting photosynthesis (light, temperature, CO₂). Practical: testing leaves for starch, investigating the effect of light on photosynthesis.
+Respiration: all living things release energy from glucose. Aerobic respiration as the main process. Comparison with photosynthesis (complementary processes). Connection to breathing and gas exchange.
+Human biology deepening: nervous system (brain, spinal cord, nerves, reflexes, senses). Introduction to the reproductive system and human development, handled with sensitivity and connected to Health Education coordination. System interdependence: how the circulatory system serves the respiratory, digestive, and muscular systems.
+Strand 3: Ecosystem dynamics and environmental change (~16–18 lessons)
+Energy flow through ecosystems: trophic levels, energy pyramids, why food chains rarely exceed 4–5 links. Nutrient cycling: the water cycle as a biological-physical process, introduction to the carbon cycle. Population dynamics: what affects population size (food, predation, disease, habitat). Human impact on ecosystems: habitat destruction, pollution, overgrazing, mining. Mongolian case studies: desertification of steppe grasslands, impact of cashmere goat overgrazing, water pollution from mining, Ulaanbaatar air pollution effects on human and ecological health.
+Strand 4: Controlled investigation (integrated + ~6–8 dedicated lessons)
+Designing fair tests with identified independent, dependent, and controlled variables. Collecting quantitative data and presenting in line graphs or bar charts. Calculating simple averages. Evaluating reliability: ‘Are our results trustworthy? What could we improve?’ Peer review of investigation reports. Introduction to secondary sources: finding and evaluating biological information.
+F.5 Time Allocation Guidance
+Strand 1 (Cells): 10–12 lessons (~18%)
+Strand 2 (Life processes): 20–22 lessons (~37%)
+Strand 3 (Ecology): 16–18 lessons (~30%)
+Strand 4 (Inquiry): 6–8 dedicated lessons (~12%), plus integration throughout
+Review/assessment: ~4–6 lessons
+F.6 Pedagogy Notes
+Use models and analogies extensively to bridge from concrete to abstract: the cell as a factory, the circulatory system as a transport network, the ecosystem as a community with roles.
+Practical work shifts from demonstration to learner-designed: provide the question and equipment, have learners plan the procedure.
+Introduce cross-disciplinary connections explicitly: ‘In Chemistry you are learning about molecules—photosynthesis involves the same carbon dioxide and water molecules.’
+Handle human reproductive biology with sensitivity, age-appropriateness, and coordination with Health Education. Biological content (organs, processes, development) is taught scientifically; social and emotional dimensions are covered in Health Education.
+Use extended writing tasks: ‘Explain why…’, ‘Describe how… and how it connects to…’, ‘Using the data, what can you conclude?’
+One cross-curricular project per year: for example, a local ecosystem study combining Biology (species, food webs), Geography (physical features, land use), and Chemistry (water quality testing).
+F.7 Digital Integration Notes
+Virtual cell simulations or interactive diagrams (where available) to visualise cell structure and processes not visible to the naked eye.
+Digital data collection: temperature probes, light sensors for photosynthesis investigations (where equipment available).
+Spreadsheet-based data analysis and graph creation for investigation results.
+Access to satellite imagery showing environmental change in Mongolia (deforestation, desertification, urban expansion).
+Critical evaluation of online biological/health information: ‘How do you know this website’s claim about health is reliable?’
+Offline alternatives: printed cell diagrams with labels to complete, hand-drawn data graphs, teacher-provided before/after photographs of environmental change, printed information sheets for evaluation exercises.
+F.8 Mongolian Grounding Notes
+Photosynthesis and respiration studied in the context of Mongolian plant species: larch forests, steppe grasses, saxaul trees in the Gobi.
+Ecosystem dynamics grounded in Mongolian realities: the steppe grassland as a system under pressure from overgrazing and climate change; river ecosystems threatened by mining.
+Human biology connected to Mongolian health contexts: respiratory health in Ulaanbaatar’s winter air pollution, nutrition in traditional meat-and-dairy diet, the biological basis of altitude adaptation.
+Environmental case studies are Mongolian: desertification data, endangered species (snow leopard, Gobi bear, saiga antelope), protected areas system (Дархан цаазат газар).
+F.9 Assessment Notes
+Summative assessment 1 (Term 1): Structured questions on cells, photosynthesis, respiration, including diagram interpretation and data analysis.
+Summative assessment 2 (Term 2): Extended questions on ecosystem dynamics, human body system interactions, and environmental issues, requiring explanation and evidence use.
+Project-based assessment: Local ecosystem investigation (can be simplified to a school-ground habitat study). Assessed on investigation design, data quality, biological analysis, and conclusion.
+Practical skills assessment: At least one assessed practical (e.g., investigating a factor affecting photosynthesis) using rubric covering planning, execution, and evaluation.
+Assessment tasks must require analytical thinking. At least 40% of summative marks should come from tasks requiring explanation, data interpretation, or application to unfamiliar contexts.
+G. Grade 9 Curriculum (66 Hours — 2 Lessons Per Week)
+G.1 Role of the Grade
+Grade 9 is the synthesis-and-readiness year. It introduces the most abstract and integrative content (genetics, evolution, conservation science), requires learners to synthesise across strands, and consolidates biology as a foundation for upper secondary science and for scientifically informed citizenship. Grade 9 assessment should demonstrate not just knowledge but the capacity to use biological understanding for reasoned judgement.
+G.2 Progression Focus
+From analysis to evaluation and synthesis. Learners move from understanding biological systems to evaluating evidence, making connections across biological domains, and applying biological knowledge to complex real-world issues. The inquiry mode extends to semi-independent research design.
+G.3 Expected Learning
+By the end of Grade 9, learners should be able to:
+Explain the basic principles of inheritance: genes carry information, offspring inherit characteristics from both parents, variation exists within populations.
+Describe natural selection as a mechanism by which populations change over time in response to environmental pressures.
+Explain how adaptation connects to diversity: why different environments support different organisms.
+Analyse a complex environmental issue (e.g., desertification, biodiversity loss, climate change impact) using biological concepts and evidence.
+Evaluate competing claims about a biological or environmental issue by examining the quality and relevance of evidence.
+Design and carry out a semi-independent biological investigation: formulate the question, choose methods, collect and analyse data, and present findings.
+Construct a sustained evidence-based argument on a biological topic, presented in written or oral form.
+Demonstrate understanding of how biological science connects to personal health, community wellbeing, and national environmental policy.
+G.4 Indicative Content Direction
+Strand 1: Genetics, variation, and evolution (~16–18 lessons)
+Introduction to genetics: DNA as the carrier of genetic information (conceptual, not molecular detail). Genes and chromosomes (simplified). Inheritance patterns: why offspring resemble but are not identical to parents. Variation within species: continuous and discontinuous variation. Introduction to natural selection: organisms with features better suited to their environment are more likely to survive and reproduce. Adaptation as the result of selection over generations. Evolution as the explanation for the diversity of life. Selective breeding in Mongolian livestock as a concrete, culturally grounded example of selection.
+Strand 2: Human biology integration and health connections (~12–14 lessons)
+Integration of body systems studied in Grades 7–8: how the immune system defends the body; how homeostasis maintains internal conditions; how the endocrine system regulates growth and development. Connection to health: infectious disease (how pathogens spread, how the body fights infection, the role of vaccination); non-communicable disease (how lifestyle affects health). Coordination with Health Education: Biology provides the scientific understanding; Health Education addresses personal and social dimensions.
+Strand 3: Conservation, sustainability, and applied ecology (~18–20 lessons)
+Biodiversity: what it is, why it matters, how it is measured. Threats to biodiversity: habitat destruction, overexploitation, pollution, invasive species, climate change. Conservation strategies: protected areas, species recovery programmes, sustainable land management. Mongolian conservation case studies: the Strictly Protected Areas system, snow leopard conservation, Przewalski’s horse reintroduction, sustainable herding initiatives. Sustainability: what it means biologically (maintaining ecosystem functions over time). The role of biological science in environmental policy and decision-making. Student research project on a Mongolian environmental issue.
+Strand 4: Independent research and scientific argumentation (integrated + ~8–10 dedicated lessons)
+Designing a research question and investigation plan with minimal teacher direction. Collecting, analysing, and presenting data independently. Evaluating the strength of evidence and the validity of conclusions. Constructing a sustained written argument: claim, evidence, reasoning, counter-argument consideration. Presenting research findings to peers. Reflecting on the process of investigation and identifying improvements.
+G.5 Time Allocation Guidance
+Strand 1 (Genetics/evolution): 16–18 lessons (~28%)
+Strand 2 (Human biology/health): 12–14 lessons (~22%)
+Strand 3 (Conservation/sustainability): 18–20 lessons (~32%)
+Strand 4 (Research/argumentation): 8–10 dedicated lessons (~15%), plus integration
+Review/assessment: ~4–6 lessons
+G.6 Pedagogy Notes
+Use case-based learning: present real Mongolian environmental issues as cases requiring biological analysis. Example: ‘The cashmere goat population has tripled in 20 years. What biological and ecological consequences follow?’
+Structured debate and discussion: for topics like conservation vs. development, genetic modification in agriculture, or vaccination policy. Learners must use biological evidence, not just opinion.
+Extended project work: the Grade 9 research project (Mongolian environmental issue) should take 6–8 weeks, with dedicated class time for planning, data collection, and presentation.
+Peer review: learners evaluate each other’s investigation reports and arguments, developing critical analysis skills.
+Prepare for upper secondary: explicitly discuss how biology continues at Grades 10–12 and what thinking skills will be needed.
+G.7 Digital Integration Notes
+Database access for research: Mongolian Red List species data, environmental monitoring data, climate change datasets (where internet available).
+Digital presentation tools for research project findings.
+Critical evaluation of online sources: reliability, bias, distinguishing scientific evidence from opinion.
+Virtual genetics simulations: simple inheritance pattern simulators.
+Offline alternatives: printed data sets provided by teacher, poster-format presentation, teacher-prepared case study packs with data and source materials, Punnett square exercises on paper.
+G.8 Mongolian Grounding Notes
+Genetics and selective breeding: Mongolian horse breeds, cashmere goat breeding, yak adaptation to altitude—all as concrete examples of inheritance, variation, and selection.
+Evolution and adaptation: Mongolian species as exemplars—snow leopard adaptation to mountain environments, Bactrian camel adaptation to desert conditions, marmot hibernation, gazelle migration.
+Conservation and sustainability: Mongolian protected areas as case studies; the tension between mining development and biodiversity; community-based natural resource management initiatives; the role of herders as ecosystem stewards.
+Health connections: Mongolian public health challenges (air pollution, nutritional transition, emerging infectious diseases) as contexts for human biology application.
+G.9 Assessment Notes
+Summative assessment 1: Genetics and evolution—structured and extended questions requiring explanation of inheritance patterns, interpretation of variation data, and application of natural selection concepts.
+Summative assessment 2: Ecology and conservation—evaluative tasks requiring analysis of environmental data, construction of evidence-based arguments, and application of ecological concepts to Mongolian contexts.
+Research project: Semi-independent investigation of a Mongolian environmental issue, assessed on question formulation, method selection, data analysis, evidence-based conclusion, and quality of presentation. This should constitute a significant portion of the Grade 9 biology assessment.
+Portfolio element: Compilation of best investigation work from Grades 7–9, demonstrating progression in inquiry competence.
+Grade 9 assessment must be evaluative and synthetic. At least 50% of summative assessment should require extended reasoning, evidence evaluation, or synthesis across topics.
+H. Whole-Subject Pedagogy Guidance
+H.1 Core Pedagogical Principles
+Inquiry as default. Biology is learned through investigation, not information transmission. Every topic should begin with a question or phenomenon, not a definition. The inherited five-step inquiry process is continued and progressively formalised across four years.
+Concrete before abstract. Every concept is introduced through observable phenomena, real organisms, or tangible experience before moving to diagrams, models, or written explanations. This principle applies at every grade but is most critical in Grades 6–7.
+Field and outdoor learning. Mongolia’s natural environment is the richest biology laboratory available. The curriculum mandates outdoor observation and field study at every grade. School gardens, local waterways, steppe grassland, and even urban environments provide authentic biological contexts.
+Graduated autonomy. Grade 6 investigations are fully guided. Grade 7 investigations are structured with scaffolding. Grade 8 investigations provide questions and materials but require learner-designed procedures. Grade 9 learners design investigations from initial question through conclusion.
+Scientific communication as practice. Learners regularly communicate biological understanding through multiple modes: oral explanation, labelled diagrams, structured writing, data tables, graphs, and presentations. This is how biological understanding is consolidated.
+Collaborative learning. Practical work is designed for pair and small-group collaboration with defined roles, progressing from cooperative participation (Grade 6) to accountable contribution (Grade 8) to peer review and constructive critique (Grade 9).
+Differentiation by support, not by content. All learners encounter the same core biological ideas. Differentiation operates through scaffolding level, data complexity, investigation independence, and assessment mode—not through content tracking.
+H.2 The Biology Lesson Structure
+While not prescriptive, effective biology lessons typically include:
+Engagement: a phenomenon, question, image, or object that provokes curiosity (3–5 minutes).
+Investigation or input: practical work, observation, teacher explanation with visual aids, or guided reading (20–25 minutes).
+Processing: discussion, writing, diagram work, or group sense-making (10–15 minutes).
+Consolidation: summary, connection to bigger ideas, preview of next lesson, or formative check (3–5 minutes).
+Lessons that are entirely teacher-talk or entirely textbook-reading are inappropriate for biology at any grade.
+H.3 Practical Work Policy
+Practical activities are integral, not optional. Minimum targets:
+Grade 6: 8–10 outdoor observations or simple practical activities.
+Grade 7: 8–10 structured practical activities, at least half achievable without specialist equipment.
+Grade 8: 8–10 practical activities including at least 2 learner-designed investigations.
+Grade 9: 6–8 practical activities plus extended research project.
+Where laboratory facilities are unavailable, practical work uses outdoor environments, everyday materials, and teacher demonstrations. No school is exempt from practical biology; the methods adapt to conditions, but the principle is non-negotiable.
+H.4 Cross-Curricular Coordination
+Biology teachers should coordinate with:
+Physics, Chemistry, Geography (Cluster 3): shared inquiry methodology, complementary content sequencing, and at least one joint cross-science investigation per year.
+Mathematics: ensuring that graphing, measurement, ratio, and basic statistics skills are available when biology requires them.
+Health Education: complementary human body content (Biology provides scientific depth; Health Education provides personal/social application).
+Mongolian Language: scientific vocabulary development, structured writing instruction.
+Civic/Ethics Education: environmental ethics, bioethics, policy connections.
+I. Whole-Subject Assessment Framework
+I.1 What Assessment Should Capture
+Biology assessment captures four dimensions, weighted progressively toward higher-order thinking:
+Conceptual understanding: Can the learner explain biological processes and relationships?
+Inquiry competence: Can the learner design, conduct, and evaluate investigations?
+Scientific communication: Can the learner present biological understanding clearly using appropriate representations?
+Applied reasoning: Can the learner use biological knowledge to analyse real-world situations and make informed judgements?
+Assessment that rewards only factual recall is incompatible with this curriculum. Every summative task must include explanation, application, or evaluation.
+I.2 Assessment Progression
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Balance
+100% formative
+70% formative, 30% summative
+50% formative, 50% summative
+40% formative, 60% summative
+Summative events
+None
+2–3 per year
+2–3 per year + project
+2–3 per year + research project + portfolio
+Cognitive demand
+Describe, identify, classify
+Describe, explain, interpret data
+Explain, analyse, evaluate evidence
+Evaluate, synthesise, construct arguments
+Key formats
+Journal, oral, observation
+Structured questions, diagrams, practical rubric
+Extended questions, data analysis, project report
+Evaluative essays, research report, peer-reviewed portfolio
+I.3 Practical Assessment
+Inquiry competence is not adequately assessed through written tests alone. Each year from Grade 7, at least one summative assessment should evaluate practical investigation skills directly, using a rubric that covers: question formulation, procedure design, data quality, conclusion quality, and evaluation/reflection. In Grade 9, the extended research project serves this function comprehensively.
+I.4 Assessment Time Budget
+At 66 hours per year (Grades 7–9), no more than 6–8 hours should be consumed by summative assessment. This means short, focused assessments rather than lengthy examinations. Formative assessment is embedded in every lesson and does not consume separate time. High-stakes terminal examinations at the end of each year are inappropriate for a 2-hour-per-week subject; continuous and portfolio-based approaches give a more valid picture of biological competence.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed Learner Readiness
+Learners arrive at Grade 6 with highly variable primary science backgrounds. Some will have experienced rich inquiry-based primary science; others may have received minimal science education. The curriculum addresses this through:
+Grade 6 as explicit bridge: diagnostic reconnection with primary content, no assumption of uniform readiness.
+Multiple entry points for every topic: visual, tactile, oral, and written modes of engagement.
+Core outcomes achievable by all learners; extension activities for those ready for more challenge.
+Assessment through multiple modes: learners who struggle with writing can demonstrate understanding through oral explanation, diagrams, or practical demonstration.
+J.2 Resource Variability
+Mongolia’s school system spans well-equipped urban schools to basic soum-level facilities. The curriculum operates on a dual-track principle:
+Core track: All learning outcomes achievable with no specialist equipment. Uses outdoor environments, everyday materials (plastic bottles, food items, garden soil, local plants), teacher demonstrations, printed diagrams, and hand-drawn work.
+Enhanced track: Additional depth where laboratories, microscopes, digital tools, or internet access are available. These enrich learning but are never prerequisites for core outcomes.
+Field-based and outdoor learning is often more feasible in rural settings than laboratory work, and Mongolia’s natural environment provides exceptionally rich biological contexts. The curriculum exploits this advantage.
+J.3 Teacher Support Needs
+Many biology teachers in soum schools are generalists teaching across multiple science subjects. The curriculum requires:
+Teacher guides that are substantive, not pro-forma: step-by-step activity instructions, background content explanation, anticipated learner misconceptions, and troubleshooting for common problems.
+Simple equipment lists for every practical activity, with explicit alternatives for schools without laboratories.
+Professional development focused on inquiry pedagogy: how to facilitate investigation rather than just deliver information.
+Cluster 3 teacher collaboration: biology, physics, chemistry, and geography teachers in the same school should have structured time to coordinate content and share resources.
+J.4 Rural and Urban Differences
+Rural schools: advantage in outdoor and field biology (direct access to steppe, forest, river ecosystems, livestock); disadvantage in laboratory equipment and digital access. Curriculum emphasises field observation, organism collection, and environmental study.
+Urban schools: advantage in laboratory and digital resources; disadvantage in access to natural environments. Curriculum uses school gardens, parks, and urban ecology (what organisms live in the city?) as biological contexts.
+Boarding school learners (дотуур байр): limited access to home environments. Extended projects and investigation work should be designed to be completable at school.
+J.5 Kazakh and Minority Language Contexts
+In western aimags where Kazakh-medium instruction exists, biology materials must be available in Kazakh. Scientific terminology should be consistently rendered. The curriculum’s Mongolian grounding elements (steppe ecology, traditional pastoralism) are equally relevant to Kazakh-Mongolian communities; additional cultural connections to Kazakh traditions should be supported where appropriate.
+J.6 Low-Connectivity Alternatives
+All digital integration elements have specified offline alternatives. Additionally:
+Teacher resource packs should include printed images, data sets, and case study materials for schools without internet.
+National or aimag-level education centres should maintain lending libraries of simple science equipment, preserved specimens, and printed reference materials.
+Radio or broadcast-based supplementary content may reach remote schools where internet cannot.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+K.1 Content Overload
+The greatest risk. If standards writers or textbook authors attempt to include every biological topic (cell biology, genetics, evolution, anatomy of every organ system, detailed taxonomy, microbiology, biochemistry, ecology at every scale), the 231-hour budget will be overwhelmed. Learners will receive a superficial survey that develops no deep understanding. Every content item must be justified by its contribution to biological thinking, Mongolian relevance, or upper-secondary readiness. Topics that fail this test should be deferred to upper secondary.
+K.2 Recall-Dominant Assessment
+If examinations test primarily factual recall (‘Name the parts of a cell’, ‘List three characteristics of mammals’), teaching will follow assessment and become information-transmission. Assessment must drive the pedagogy this curriculum requires: explanation, investigation, evidence use, and application. Textbooks should model these assessment types; examination boards should be briefed accordingly.
+K.3 Laboratory Dependency
+If textbooks or standards assume that every school has an equipped laboratory, rural and ger-district schools will be unable to deliver the curriculum. Every practical activity must have a low-resource alternative specified in teacher guides. Field biology, outdoor observation, and everyday-materials investigation must be positioned as equal in validity to laboratory work, not as second-class substitutes.
+K.4 Generic Content Displacing Mongolian Context
+If textbook writers use international source materials without adaptation, learners will study African savanna food webs and European forest ecology while living on the Mongolian steppe. Mongolian ecosystems, species, and environmental challenges must be the primary content—not examples illustrating universal principles, but the substantive material through which principles are learned.
+K.5 Digital Utopianism
+If the curriculum assumes universal internet, tablets, and digital tools, the majority of Mongolian schools will be excluded. Digital elements are enrichment, not core. Every digital activity needs an offline alternative. Textbooks should not direct learners to websites without also providing the essential information in print.
+K.6 Breaking the Inquiry Tradition
+If textbooks are structured as read–memorise–test, the seven years of inquiry habit developed from pre-primary through primary will be destroyed. Textbooks must model inquiry: posing questions, presenting evidence, inviting investigation, and asking learners to construct understanding rather than simply receive it.
+K.7 Grade 6 as Compressed Grade 7
+If Grade 6 (33 hours) is designed as a thinner version of Grade 7 (66 hours), it will fail. Grade 6 is qualitatively different: orientation, reconnection, curiosity-building. It must not be assessed summatively, must not introduce formal disciplinary vocabulary prematurely, and must not attempt content coverage that the time allocation cannot sustain.
+K.8 Human Biology Without Sensitivity
+If the reproductive system and human development are handled as purely factual content without attention to adolescent sensitivity, cultural context, and coordination with Health Education, the result will be either discomfort-driven avoidance or inappropriate clinical detachment. Teacher guides must provide explicit guidance on handling these topics with respect, accuracy, and developmental awareness.
+K.9 Ignoring Cross-Science Coordination
+If the four Cluster 3 subjects (Biology, Physics, Chemistry, Geography) are designed and taught in complete isolation, learners will develop four separate ‘science’ identities instead of understanding science as a connected enterprise. Standards writers should include explicit cross-references between subjects. Textbooks should note where content connects. Schools should facilitate Cluster 3 teacher collaboration.
+— End of Full Curriculum Draft: Biology, Grades 6–9 —

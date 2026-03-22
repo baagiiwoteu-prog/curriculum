@@ -1,0 +1,536 @@
+FULL CURRICULUM DRAFT
+MATHEMATICS (МАТЕМАТИК)
+Lower Secondary Grades 6–9
+Mongolia Curriculum Reform — Step 7
+Working Document — March 2026
+Subject
+Математик / Mathematics
+Cluster
+Cluster 2: Mathematical and Computational Reasoning
+Weight
+FLAGSHIP — 561 total hours
+Weekly Pattern
+Grade 6: 5 lessons | Grades 7–9: 4 lessons
+Annual Hours
+Gr 6: 165 | Gr 7: 132 | Gr 8: 132 | Gr 9: 132
+Partner Subject
+Компьютерын ухаан (Computer Science)
+Upstream Docs
+Steps 1–6 of Cross-Level Competence Analysis
+A. Subject Purpose and Role in Lower Secondary Education
+A.1 Educational Purpose
+Mathematics in Grades 6–9 serves as the principal vehicle for developing quantitative reasoning, spatial-logical thinking, abstract symbolic representation, and systematic problem-solving across Mongolia’s lower secondary education. It accomplishes three interconnected purposes: (a) it transforms the concrete arithmetic and geometric competences built in pre-primary and primary into the algebraic, deductive, and statistical reasoning capacities required for further education and adult life; (b) it provides the quantitative language and analytical tools that all other lower secondary subjects depend upon—physics, chemistry, biology, geography, computer science, and social studies all require mathematical competences that this subject must develop; and (c) it cultivates the general cognitive capacities of logical reasoning, evidence-based argumentation, and critical evaluation of quantitative claims that are essential for informed citizenship in contemporary Mongolia.
+A.2 Systemic Role
+Mathematics occupies the flagship position in Mongolia’s lower secondary curriculum, receiving 561 hours of instruction—64% more than any other single subject. This allocation signals that mathematical development is the system’s highest-priority intellectual task for lower secondary. The front-loaded Grade 6 allocation (5 lessons/week versus 4 thereafter) further signals that the primary-to-lower-secondary mathematics bridge is the most critical curricular transition in the entire reform. Within Cluster 2 (Mathematical and Computational Reasoning), Mathematics provides the foundational reasoning architecture—logical sequencing, algorithmic thinking, pattern recognition, proof structures—while Computer Science (Компьютерын ухаан) extends these into computational implementation. Beyond Cluster 2, Mathematics serves as the quantitative backbone for scientific inquiry, social analysis, design work, and informed civic participation across all seventeen lower secondary subjects.
+A.3 Continuation from Prior Learning
+This curriculum is explicitly designed as a continuation of the mathematical development begun in pre-primary (ages 2–5, across four domains: Тоо тоолол / Number, Хэмжигдэхүүн / Measurement, Геометр / Geometry, and Цахим ертөнц ба алхам / Digital World and Steps) and extended through primary Grades 1–5 (arithmetic operations through hundreds of millions; fractions and decimals; two-step equations; geometry through coordinate plane Quadrant I; measurement with standard units; data handling through line graphs and measures of central tendency; probability through likelihood ranking; and structured five-step problem-solving). It does not begin afresh. It builds on eleven years of prior mathematical experience while acknowledging that PISA 2022 data shows approximately half of Mongolian 15-year-olds score below the mathematics baseline, requiring deliberate bridging and remediation alongside progression.
+B. Curriculum Strands
+The curriculum is organised around five strands: four content strands and one transversal process strand that operates across all content.
+#
+Strand
+Scope
+Primary Root
+Key Transition
+1
+Number and Algebra
+Rational numbers; integers; expressions and equations; inequalities; linear and quadratic functions; proportional reasoning; financial literacy
+Тоо тоолол
+Arithmetic → Algebraic thinking
+2
+Geometry
+Properties of figures; angle relationships; congruence and similarity; transformations; coordinate geometry; circles; introductory trigonometry
+Геометр
+Description → Deduction
+3
+Measurement
+Unit systems and conversion; perimeter, area, surface area, volume; compound measures; precision and estimation
+Хэмжигдэхүүн
+Measuring → Calculating → Modelling
+4
+Statistics and Probability
+Data collection and representation; central tendency and spread; experimental and theoretical probability; sampling; correlation
+Магадлал, статистик
+Recording → Analysing → Inferring
+5
+Mathematical Processes
+Problem-solving; reasoning and proof; modelling; communication; tool use and representation
+Cross-cutting
+Following → Selecting → Justifying methods
+B.1 Strand Relationships
+Number and Algebra provides the symbolic language and computational tools for all other strands. Geometry and Measurement are deeply interconnected: measurement quantifies geometric objects while geometry structures measurement contexts. Statistics and Probability draws on computation from Number and Algebra and on real-world data contexts. Mathematical Processes is not a separate content strand but a transversal competence strand describing how learners engage with content across all four content strands—it must be embedded in every unit, not taught in isolation.
+B.2 Indicative Strand Weighting
+Strand
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Number and Algebra
+~40%
+~38%
+~35%
+~35%
+Geometry
+~20%
+~22%
+~25%
+~25%
+Measurement
+~18%
+~15%
+~13%
+~10%
+Statistics & Probability
+~12%
+~15%
+~17%
+~20%
+Mathematical Processes
+~10%
+~10%
+~10%
+~10%
+Note: Mathematical Processes time is largely embedded within content strand teaching; the 10% represents dedicated investigation and modelling tasks. Actual process development permeates all instruction.
+C. Overall Progression Across Grades 6–9
+C.1 Progression Summary Table
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Role
+Bridging year
+Structured extension
+Analytical deepening
+Synthesis & preparation
+Hours
+165 (5/wk)
+132 (4/wk)
+132 (4/wk)
+132 (4/wk)
+Cognitive mode
+Concrete → bridging
+Structured abstract
+Analytical-integrative
+Evaluative-synthetic
+Algebraic level
+Patterns → expressions; variable as unknown; simple equations
+Integer operations; linear equations; rational number system
+Systems of equations; functions; inequalities
+Quadratics; function families; modelling
+Geometric level
+Property-based classification; angle basics; constructions
+Angle relationships; triangle properties; transformations
+Pythagorean theorem; congruence/similarity; deductive proof
+Circle theorems; trigonometry; coordinate proofs
+Statistical level
+Data collection; graphs; mean/median/mode
+Data comparison; experimental probability
+Spread; theoretical probability; sampling
+Correlation; inference; statistical projects
+Reasoning
+Describing & applying
+Explaining & justifying
+Proving & analysing
+Synthesising & evaluating
+Learner agency
+Guided practice
+Structured choice
+Managed independence
+Responsible autonomy
+C.2 The Three Critical Transitions
+The entire Grades 6–9 curriculum is organised around three intellectual transitions that must be explicitly scaffolded:
+Arithmetic to Algebra. Learners move from computing with known numbers to reasoning about unknowns and variables, expressing generalisations symbolically, and understanding functions as relationships. This begins in Grade 6 with variable-as-unknown in concrete contexts and culminates in Grade 9 with quadratic functions and mathematical modelling.
+Description to Deduction. Learners move from recognising geometric objects to reasoning deductively about properties, constructing logical arguments, and beginning to understand proof. This begins in Grade 6 with property-based classification and culminates in Grade 9 with circle theorems and coordinate proofs.
+Data Recording to Statistical Inference. Learners move from collecting and displaying data to analysing distributions, calculating probabilities, understanding sampling, and making evidence-based inferences. This begins in Grade 6 with consolidation of primary data skills and culminates in Grade 9 with correlation analysis and statistical project work.
+D. Grade 6 Curriculum
+Time allocation: 165 hours (5 lessons/week × 33 weeks)
+Developmental designation: The Bridging Year
+D.1 Role of the Grade
+Grade 6 is the most consequential year in the lower secondary mathematics cycle. It sits at the critical juncture between primary’s concrete, arithmetic-centred mathematics and lower secondary’s increasingly abstract, algebraic demands. Simultaneously, learners are adjusting to a new institutional environment (multiple teachers, subject rotation) and entering early adolescence. Grade 6 must prioritise security over ambition: a learner who is mathematically confident, arithmetically fluent, and oriented toward algebraic thinking is better prepared for Grades 7–9 than one who has been prematurely accelerated into abstract territory.
+D.2 Progression Focus
+Diagnose and remediate primary arithmetic gaps, particularly in fractions and decimal operations.
+Consolidate and secure the four primary content domains at a reliable level.
+Introduce algebraic thinking through the transition from arithmetic patterns to expressions and equations.
+Begin property-based geometric reasoning while maintaining concrete and visual support.
+Re-establish mathematical communication habits (explaining, justifying, discussing) in the new institutional setting.
+Build mathematical confidence through accessible entry points and visible success.
+D.3 Expected Learning by Strand
+Strand 1: Number and Algebra (~66 hours)
+Expected competences
+Consolidate whole number arithmetic fluency including multi-digit operations and order of operations.
+Deepen understanding of fractions: equivalent fractions, comparison, addition/subtraction with unlike denominators, multiplication and division. Use visual models (fraction strips, number lines, area models) extensively.
+Consolidate decimal arithmetic: all four operations with decimals; conversion between fractions, decimals, and percentages as a unified system.
+Extend understanding of integers: locate, compare, and order integers on the number line; add and subtract integers using concrete models (temperature, elevation, debt).
+Introduce ratio and proportion through practical Mongolian contexts (livestock ratios, recipe scaling, map scales of Mongolian terrain).
+Transition from arithmetic to algebra: use letters to represent unknowns; generalise arithmetic patterns into expressions; evaluate expressions by substitution.
+Solve one-step and two-step equations using inverse operations, connecting to primary’s equation-solving experience.
+Indicative content direction
+Diagnostic unit (first 4–6 weeks): review and secure whole number operations, fraction understanding, decimal computation, and problem-solving strategies inherited from primary.
+Fractions, decimals, and percentages as interconnected representations of rational numbers.
+Integers: meaning, ordering, addition, subtraction in real-world Mongolian contexts (winter temperatures of −30°C to −40°C, altitude variations across steppe and mountain).
+Ratio and proportion: simple ratios, equivalent ratios, proportional reasoning applied to Mongolian herding, cooking, and mapping contexts.
+Introduction to algebra: variables and expressions; evaluating expressions; writing equations from word problems; solving simple linear equations.
+Strand 2: Geometry (~33 hours)
+Expected competences
+Classify triangles and quadrilaterals by properties (sides, angles, symmetry), moving from recognition to property-based reasoning.
+Measure and classify angles; use protractor with precision. Identify angles on a straight line, at a point, and vertically opposite angles.
+Identify and apply line and rotational symmetry in geometric figures and traditional Mongolian decorative patterns (хээ).
+Perform basic constructions using compass and straightedge: perpendicular bisectors, angle bisectors.
+Extend coordinate geometry from Quadrant I to all four quadrants; plot and read points; recognise simple geometric relationships on the coordinate plane.
+Indicative content direction
+Angles: measuring, estimating, classifying; angle relationships (straight line, point, vertically opposite).
+Properties of triangles (angle sum property) and quadrilaterals; classification hierarchies.
+Symmetry exploration using Mongolian ornamental patterns, ger lattice structures, and traditional textile designs.
+Basic geometric constructions with compass and ruler.
+Four-quadrant coordinate plane: plotting, reading, and simple transformations (translations).
+Strand 3: Measurement (~30 hours)
+Expected competences
+Convert fluently between metric units of length, mass, capacity, and time.
+Calculate perimeter and area of triangles, parallelograms, and composite figures of rectangles and triangles.
+Estimate measurements in Mongolian contexts: distances on the steppe, pastureland area, volume of water containers.
+Understand surface area of rectangular prisms through nets and unfolding.
+Apply measurement to solve practical problems: ger dimensions, fence lengths for livestock enclosures, fabric for deel (traditional garment).
+Strand 4: Statistics and Probability (~20 hours)
+Expected competences
+Collect, organise, and represent data using frequency tables, bar charts, line graphs, and pie charts.
+Calculate and interpret mean, median, and mode; choose appropriate measures for given data sets.
+Describe data distributions in everyday language: spread, clustering, outliers.
+Conduct simple probability experiments (coin/dice, shagai games); record outcomes and compare experimental with expected results.
+Read and critically interpret data displays from Mongolian media and public information sources.
+Strand 5: Mathematical Processes (~16 hours dedicated; embedded throughout)
+Expected competences
+Apply the structured problem-solving approach from primary: understand → plan → solve → check → reflect.
+Explain mathematical reasoning orally and in writing using Mongolian language and mathematical notation.
+Work collaboratively on mathematical tasks, sharing strategies and comparing approaches.
+Use multiple representations (concrete, visual, verbal, symbolic, tabular) and translate between them.
+Complete at least two extended mathematical investigations connected to Mongolian life contexts during the year.
+D.4 Pedagogy Notes
+Diagnostic-first approach: Dedicate weeks 1–5 to structured diagnostic assessment of primary competences, followed by targeted remediation. Not review for its own sake but precise identification of gaps.
+Concrete before abstract: Every new concept begins with physical materials, visual models, or familiar contexts before symbolic representation. Fraction strips, integer number lines, pattern blocks, and shagai are standard classroom resources.
+Algebra from arithmetic: Algebraic thinking should emerge from arithmetic experience. ‘What number makes 3 × ? = 24 true?’ becomes ‘Solve 3x = 24.’ The transition should feel like natural extension, not a new subject.
+Mathematical talk: Every lesson includes structured mathematical discussion: pair sharing, group explanation, whole-class justification. This rebuilds the communication habits primary developed.
+Low-floor, high-ceiling tasks: Given wide ability range, tasks should have accessible entry points and challenging extensions. This avoids both boredom and overwhelm.
+D.5 Digital Integration Notes
+Tier 1 (full digital): Spreadsheet introduction for data organisation; GeoGebra for symmetry and coordinate exploration; online fraction/decimal visualisers.
+Tier 2 (basic digital): Calculator for checking computation; teacher-projected GeoGebra demonstrations; shared tablet for data entry.
+Tier 3 (offline): Graph paper for coordinates; physical manipulatives (fraction strips, integer chips, shagai); hand-drawn charts; compass and protractor constructions.
+All learning outcomes must be achievable without digital technology. Digital tools enhance and extend but never replace conceptual understanding.
+D.6 Mongolian Grounding Notes
+Integers: Mongolian winter temperatures (−30°C to −40°C in rural areas), altitude variations across Mongolian terrain (Altai mountains to Gobi depression).
+Ratio and proportion: livestock composition ratios in herder families (sheep:goats:cattle:horses:camels — the таван хошуу мал); recipe scaling for traditional foods (buuz, khuushuur).
+Measurement: ger construction dimensions (wall height, roof angle, floor diameter); fencing calculations for livestock enclosures; fabric estimation for deel.
+Statistics: local weather data collection over a term; class survey on family livestock holdings; Mongolian population distribution data.
+Geometry: symmetry in Mongolian хээ (traditional ornamental patterns); ger lattice (khana) geometry; traditional carpet designs.
+Probability: shagai (ankle-bone) games as natural probability contexts—four faces with different probabilities; traditional Mongolian dice games.
+D.7 Assessment Notes
+Begin with diagnostic assessment of primary competences (fractions, decimals, operations, problem-solving) to inform remediation planning.
+Emphasise formative assessment: short regular checks, observation of mathematical discussion, analysis of written explanations.
+Limit formal summative assessment to no more than 10–12% of instructional time.
+Include problem-solving portfolio: collect evidence of mathematical reasoning and communication across the year.
+Assessment tasks should use concrete and visual formats alongside symbolic ones, reflecting the bridging nature of the grade.
+E. Grade 7 Curriculum
+Time allocation: 132 hours (4 lessons/week × 33 weeks)
+Developmental designation: The Structured-Growth Year
+E.1 Role of the Grade
+By Grade 7, learners should be settled in the lower secondary environment. Cognitive capacity for abstract thinking is growing but still benefits from structured scaffolding. The developmental emphasis shifts from performing mathematical skills to understanding why methods work. Grade 7 formalises integer arithmetic, unifies rational numbers as a system, introduces linear equations and expressions systematically, develops angle reasoning and triangle properties, extends data comparison and probability, and begins to give learners structured choices in how they approach and present mathematical work.
+E.2 Progression Focus
+Extend from application to explanation: learners move from performing procedures to understanding and justifying why they work.
+Formalise integer arithmetic (all four operations) and unify rational numbers as a coherent number system.
+Develop systematic algebraic skills: simplifying expressions, solving linear equations, using formulas.
+Deepen geometric reasoning through angle relationships and triangle properties.
+Introduce formal probability language and experimental probability methods.
+Begin structured choice in mathematical approach and presentation.
+E.3 Expected Learning by Strand
+Strand 1: Number and Algebra (~50 hours)
+Expected competences
+Complete integer arithmetic: multiplication and division of integers; apply to multi-step calculations and real-world problems.
+Operate fluently with rational numbers (fractions, decimals, integers) as a unified system; understand rational number ordering on the number line.
+Apply percentage calculations: percentage increase/decrease, simple interest, comparison of quantities, discount and markup in Mongolian commerce contexts.
+Simplify algebraic expressions: collect like terms, apply distributive law, expand single brackets.
+Solve linear equations in one variable, including those with brackets and fractions; verify solutions.
+Represent and interpret linear relationships: tables, graphs, equations; identify rate of change as a constant.
+Introduce inequalities: represent on number line, solve simple linear inequalities.
+Apply proportional reasoning to more complex Mongolian contexts: map scales across regions, currency exchange, speed-distance-time problems on Mongolian roads.
+Indicative content direction
+Integer arithmetic: multiplication and division rules; order of operations with integers; problem-solving with integers.
+Rational numbers: operations with mixed numbers; conversion fluency; ordering across representations.
+Percentage applications: percentage change, simple financial calculations, comparison in Mongolian market contexts.
+Algebraic expressions: terms, coefficients, like terms; simplification; substitution; formulas.
+Linear equations: multi-step solutions; equations with variables on both sides (introduction); forming equations from problems.
+Linear relationships: plotting from tables; recognising linearity; gradient as rate of change (informal introduction).
+Simple inequalities: notation, number line representation, solving one-step inequalities.
+Strand 2: Geometry (~29 hours)
+Expected competences
+Understand and apply angle relationships: angles formed by parallel lines cut by a transversal (corresponding, alternate, co-interior angles).
+Apply angle sum properties: triangle (180°), quadrilateral (360°); exterior angle theorem for triangles.
+Classify triangles by sides and angles; understand triangle inequality.
+Perform and describe geometric transformations: reflections, rotations, and translations; identify transformation properties (preservation of size and shape).
+Construct geometric figures: angle and segment copies, perpendicular and parallel lines through a point.
+Use coordinate methods to describe transformations; connect geometry with algebra through coordinate plotting.
+Strand 3: Measurement (~20 hours)
+Expected competences
+Calculate area of trapezoids and circles (πr²); composite area problems.
+Calculate circumference of circles (2πr); apply to Mongolian contexts (ger floor circumference, wheel calculations).
+Calculate surface area and volume of prisms (rectangular and triangular).
+Understand and apply compound measures: speed (km/h applied to Mongolian distances), density (relating to mining and materials).
+Estimate and calculate with appropriate precision; understand significant figures in measurement contexts.
+Strand 4: Statistics and Probability (~20 hours)
+Expected competences
+Compare data sets using measures of central tendency; identify which measure best represents given data.
+Construct and interpret frequency diagrams, stem-and-leaf plots, and scatter diagrams (introduction).
+Understand the distinction between experimental and theoretical probability.
+Calculate theoretical probability for equally likely outcomes; list sample spaces for combined events.
+Design and conduct data collection projects using Mongolian community or environmental data; present findings clearly.
+Strand 5: Mathematical Processes (~13 hours dedicated; embedded throughout)
+Expected competences
+Explain and justify mathematical methods using logical language—moving beyond ‘showing working’ to ‘explaining reasoning.’
+Select appropriate strategies and representations for given problems; compare efficiency of different approaches.
+Formulate mathematical problems from Mongolian real-world situations; identify assumptions and constraints.
+Present mathematical findings in structured written format using Mongolian language with correct mathematical notation.
+Complete at least two mathematical investigation or modelling tasks using Mongolian regional data.
+E.4 Pedagogy Notes
+From procedure to understanding: Grade 7 consistently asks ‘Why does this work?’ alongside ‘How do you do this?’ Teachers should model mathematical reasoning aloud and expect learners to do the same.
+Structured choice: Offer learners options in how they approach problems (e.g., algebraic or graphical method), what data they investigate, and how they present findings. This develops mathematical agency.
+Collaborative investigation: Introduce sustained investigation tasks (2–3 lessons) where small groups explore a mathematical question, collect evidence, and present conclusions. This mirrors the inquiry skills developing across other subjects.
+Error analysis: Regularly present incorrect solutions for learners to identify, diagnose, and correct errors. This develops critical reasoning and deepens conceptual understanding.
+E.5 Digital Integration Notes
+Tier 1: Spreadsheets for linear relationships and data analysis; GeoGebra for transformation exploration and angle relationships; graphing tools for linear function visualisation.
+Tier 2: Scientific calculator for rational number operations; teacher-projected demonstrations with GeoGebra; shared devices for data projects.
+Tier 3: Graph paper for plotting and transformations; physical protractors for angle work; hand-calculated statistical measures; card-based probability experiments.
+E.6 Mongolian Grounding Notes
+Percentages: Mongolian market prices, livestock price fluctuations, school enrollment statistics by aimag.
+Linear relationships: temperature change over a Mongolian winter day; distance-time on Mongolian highways; cost scaling for family celebrations (Tsagaan Sar preparations).
+Geometry: parallel line patterns in Mongolian architecture and textile design; transformation symmetry in Buddhist temple ornamentation.
+Measurement: ger floor area (circular); Mongolian road distances between soum centres; volume of traditional water containers.
+Statistics: aimag-level population data; livestock census data; climate comparison between Mongolian regions.
+Probability: shagai game probabilities (systematic analysis of four-sided ankle bones); card games traditional in Mongolian families.
+E.7 Assessment Notes
+Assessment increasingly requires written explanation alongside correct computation—‘Show that’ and ‘Explain why’ questions become standard.
+Multi-step problems requiring sustained reasoning across 3–4 steps.
+Mathematical investigation reports as assessed products (at least one per semester).
+Introduction of peer assessment on investigation presentations, developing critical evaluation skills.
+Continued portfolio collection of problem-solving and reasoning evidence.
+F. Grade 8 Curriculum
+Time allocation: 132 hours (4 lessons/week × 33 weeks)
+Developmental designation: The Analytical-Depth Year
+F.1 Role of the Grade
+Grade 8 represents the deepening phase. Most learners now have sufficient abstract capacity to engage with genuinely analytical tasks. Peer relationships are maturing, and identity exploration is moving from questioning to testing. This is the grade where the curriculum makes its greatest demand for intellectual depth. Mathematical modelling becomes prominent, cross-curricular connections with science subjects become explicit, and deductive geometric reasoning develops systematically. The emphasis shifts from ‘Explain why’ to ‘Prove that’ and from ‘Apply the method’ to ‘Choose and justify the method.’
+F.2 Progression Focus
+Develop systematic algebra: expressions, equations, inequalities, and an introduction to functions as the central organising concept.
+Introduce deductive geometric reasoning and the concept of mathematical proof.
+Extend measurement into complex real-world modelling problems.
+Develop formal probability and more sophisticated statistical analysis.
+Make cross-curricular mathematical connections with physics, chemistry, and geography explicit and deliberate.
+Develop mathematical modelling as a core competence: using mathematics to represent real Mongolian scenarios.
+F.3 Expected Learning by Strand
+Strand 1: Number and Algebra (~46 hours)
+Expected competences
+Understand and apply powers (positive integer exponents) and roots (square roots); use scientific notation for very large and very small numbers (connecting to Mongolian geographic/scientific data).
+Factorise simple algebraic expressions: common factor, difference of squares.
+Solve linear equations with variables on both sides, with brackets, and with fractional coefficients.
+Solve systems of two linear equations in two unknowns using substitution and elimination methods.
+Understand and work with linear functions: slope-intercept form, graphing, interpreting gradient and y-intercept in context.
+Solve and graph linear inequalities in one variable; represent solution sets.
+Apply algebraic methods to solve real-world problems: Mongolian commercial scenarios, resource allocation, journey planning.
+Introduce the concept of function: input-output relationship, function notation f(x), domain and range.
+Strand 2: Geometry (~33 hours)
+Expected competences
+Understand and apply the Pythagorean theorem: prove using area methods; apply to find unknown sides; verify right angles; connect to Mongolian construction (ger frame, fencing diagonals).
+Understand congruence: identify congruent figures; apply congruence conditions (SSS, SAS, ASA, AAS) to justify geometric relationships.
+Understand similarity: identify similar figures; apply scale factors; use similarity to solve indirect measurement problems (height of objects, distance across rivers).
+Develop deductive geometric proof: construct simple proofs using angle relationships, congruence, and the Pythagorean theorem.
+Apply transformations (reflection, rotation, translation, enlargement) on the coordinate plane with algebraic descriptions.
+Strand 3: Measurement (~17 hours)
+Expected competences
+Calculate surface area and volume of cylinders; connect to Mongolian contexts (water tanks, grain storage).
+Apply Pythagorean theorem in measurement contexts: slant heights, diagonal distances, roof pitch calculations.
+Solve compound measure problems: speed/distance/time, density, population density (using Mongolian geographic data).
+Understand precision, accuracy, and the effect of rounding on calculated results.
+Apply measurement to extended modelling tasks: planning a ger camp, estimating material needs for construction, agricultural land calculations.
+Strand 4: Statistics and Probability (~23 hours)
+Expected competences
+Calculate and interpret measures of spread: range, interquartile range; construct box plots.
+Understand and calculate theoretical probability: combined events, probability diagrams (tree diagrams, tables).
+Understand sampling: random sampling concepts, bias, representativeness; connect to how Mongolian census and surveys are conducted.
+Compare distributions using graphical and numerical summaries.
+Design and carry out statistical investigations: formulate questions, collect data, analyse, and present conclusions using Mongolian social or environmental data.
+Strand 5: Mathematical Processes (~13 hours dedicated; embedded throughout)
+Expected competences
+Construct simple deductive arguments: ‘If... then...’ reasoning; counter-examples to disprove conjectures.
+Engage in mathematical modelling: identify a real-world Mongolian problem, formulate mathematically, solve, interpret, and evaluate the model.
+Critically evaluate mathematical claims and data-based arguments encountered in Mongolian media.
+Use algebraic, graphical, and numerical approaches and explain why one might be preferred over another for a given problem.
+Complete at least two extended modelling or investigation projects.
+F.4 Pedagogy Notes
+Proof and reasoning: Introduce deductive proof gradually: start with ‘convince yourself, convince a friend, convince a sceptic’ framework. Use angle chase proofs and Pythagorean theorem proofs as accessible entry points.
+Mathematical modelling cycle: Teach the modelling cycle explicitly (real-world problem → mathematical formulation → solution → interpretation → evaluation). Use Mongolian scenarios: livestock management, travel planning, resource allocation.
+Cross-curricular connections: Coordinate explicitly with physics (linear motion, density), chemistry (proportional reasoning, scientific notation), and geography (map scales, population density). Ensure mathematical skills are available before science subjects need them.
+Extended tasks: Include sustained 3–4 lesson investigation tasks where learners manage their own mathematical process with decreasing teacher scaffolding.
+F.5 Digital Integration Notes
+Tier 1: GeoGebra for function exploration and geometric proof visualisation; spreadsheets for data analysis and modelling; graphing software for systems of equations.
+Tier 2: Scientific calculator; teacher-projected dynamic geometry; shared devices for data projects.
+Tier 3: Graph paper for function plotting; geometric instruments for constructions and proof diagrams; hand-calculated statistics; physical probability experiments.
+F.6 Mongolian Grounding Notes
+Pythagorean theorem: ger construction (verifying right angles in the frame), fencing diagonal bracing, Mongolian traditional woodworking.
+Systems of equations: Mongolian market scenarios (buying combinations of goods), livestock management (feed allocation for different animals).
+Functions: temperature as a function of time across a Mongolian day; distance as a function of time on the road between Ulaanbaatar and aimag centres.
+Statistics: Mongolian census data analysis; environmental monitoring data (air quality in Ulaanbaatar, water quality in rivers); school enrollment trends.
+Modelling: planning a Naadam festival budget; calculating materials for community building projects; analysing livestock carrying capacity of pastureland.
+F.7 Assessment Notes
+Assessment includes extended tasks requiring sustained reasoning over multiple steps.
+Modelling tasks with real Mongolian data as assessed products (at least one per semester).
+Introduction of proof-based assessment: ‘Show that...’ and ‘Prove that...’ questions.
+Peer assessment and self-assessment become routine for investigation work.
+Assessment balance: approximately 40% procedural fluency, 30% conceptual understanding, 30% application and reasoning.
+G. Grade 9 Curriculum
+Time allocation: 132 hours (4 lessons/week × 33 weeks)
+Developmental designation: The Synthesis and Preparation Year
+G.1 Role of the Grade
+Grade 9 is the capstone year of суурь боловсрол (basic education). It must accomplish two tasks: (a) synthesise the mathematical competences developed across Grades 6–8 into confident, flexible mathematical thinking; and (b) prepare learners for two diverging pathways—upper secondary academic mathematics and vocational/technical applications. The developmental emphasis is on synthesis: selecting appropriate tools for unfamiliar problems, evaluating mathematical models, constructing sustained arguments, and applying mathematics to complex real-world Mongolian scenarios. Learners should experience genuine mathematical autonomy—the capacity to approach novel problems with confidence, persistence, and critical judgement.
+G.2 Progression Focus
+Introduce quadratic expressions and equations as the next function family beyond linear.
+Develop function understanding: comparing linear and quadratic functions, domain, range, graphical features.
+Extend geometric reasoning: circle properties, introductory trigonometry, coordinate geometry proofs.
+Deepen statistical analysis: correlation awareness, statistical inference concepts, capstone statistical projects.
+Emphasise mathematical modelling and autonomous problem-solving using complex Mongolian scenarios.
+Prepare for upper secondary pathways through both academic and applied mathematical competences.
+G.3 Expected Learning by Strand
+Strand 1: Number and Algebra (~46 hours)
+Expected competences
+Understand irrational numbers: recognise that √2, π are irrational; locate approximately on the number line; understand the real number system.
+Expand and factorise quadratic expressions: (ax + b)(cx + d); perfect squares; difference of squares; grouping.
+Solve quadratic equations by factorisation, completing the square, and the quadratic formula.
+Understand and analyse quadratic functions: parabola shape, vertex, axis of symmetry, roots; graph and interpret.
+Compare linear and quadratic functions: growth patterns, graphical features, real-world applications.
+Apply algebraic reasoning to complex real-world Mongolian problems: optimisation (maximising area with fixed perimeter for livestock enclosures), financial planning (compound growth awareness), and resource management.
+Understand and use index laws systematically; work with negative and zero exponents.
+Strand 2: Geometry (~33 hours)
+Expected competences
+Understand and apply circle properties: angle at centre vs angle at circumference, angles in same segment, cyclic quadrilateral properties, tangent properties.
+Introduce trigonometric ratios (sine, cosine, tangent) for right-angled triangles; apply to find unknown sides and angles.
+Apply trigonometry to practical Mongolian problems: height of structures, distance across terrain, slope calculations for road construction.
+Use coordinate geometry methods: distance between points, midpoint, gradient of parallel and perpendicular lines, equation of a line through two points.
+Construct extended geometric proofs involving circle theorems, similarity, and coordinate methods.
+Strand 3: Measurement (~13 hours)
+Expected competences
+Calculate surface area and volume of cones, spheres, and composite 3D shapes.
+Apply trigonometry to measurement: indirect height and distance measurement in Mongolian terrain.
+Understand and apply dimensional analysis: checking formulas for dimensional consistency.
+Solve complex composite measurement problems requiring integration of multiple mathematical skills.
+Strand 4: Statistics and Probability (~27 hours)
+Expected competences
+Understand correlation: construct and interpret scatter plots; describe correlations (positive, negative, none); distinguish correlation from causation.
+Understand the concept of statistical inference: what a sample tells us about a population; limitations of data.
+Calculate and compare probabilities for combined events; use tree diagrams and two-way tables systematically.
+Understand conditional probability through practical examples.
+Design, conduct, and present a capstone statistical investigation on a Mongolian social, economic, or environmental question.
+Strand 5: Mathematical Processes (~13 hours dedicated; embedded throughout)
+Expected competences
+Select and apply appropriate mathematical tools and methods for unfamiliar problems with increasing autonomy.
+Construct sustained mathematical arguments: chain of reasoning across multiple steps with clear logical structure.
+Evaluate mathematical models: assess whether a model fits reality, identify limitations, suggest improvements.
+Engage with mathematical problems relevant to career pathways: engineering, economics, environmental science, technology, public administration.
+Complete a major mathematical modelling or investigation project as a capstone task.
+G.4 Pedagogy Notes
+Autonomous problem-solving: Reduce scaffolding progressively. Present problems where learners must identify what mathematics is needed, not just apply a given method. Real-world Mongolian scenarios are the primary vehicle.
+Comparison and evaluation: Regularly ask learners to compare methods (algebraic vs graphical, exact vs approximate) and evaluate which is most appropriate for a given context.
+Career connections: Make explicit connections between mathematical competences and career pathways relevant to Mongolian students: engineering (measurement, trigonometry), banking/business (algebra, financial mathematics), environmental science (statistics, modelling), IT (computational thinking), public service (data analysis).
+Capstone project: The year should include a significant mathematical modelling project (4–6 lessons) where learners investigate a genuine Mongolian question using mathematical methods, write a structured report, and present findings.
+G.5 Digital Integration Notes
+Tier 1: GeoGebra for quadratic function exploration and circle geometry; spreadsheet modelling for statistical projects and financial scenarios; graphing calculators for comparing function families.
+Tier 2: Scientific calculator for trigonometry; teacher-projected demonstrations of dynamic software; shared devices for statistical analysis.
+Tier 3: Graph paper for parabola and circle plotting; trigonometric tables (printed); hand-drawn statistical displays; physical construction tools for geometric proofs.
+G.6 Mongolian Grounding Notes
+Quadratic functions: projectile motion in Mongolian archery (Naadam); optimisation of livestock enclosure area; parabolic shapes in traditional Mongolian bridge design.
+Trigonometry: calculating heights of mountains and structures across Mongolian terrain; slope analysis for road construction between aimags; angle of elevation for satellite dish orientation.
+Circle geometry: wheel mechanics in traditional Mongolian carts; circular ger floor plans and their properties; orbits and astronomical observations (connecting to Mongolia’s clear night skies).
+Statistics: analysis of real Mongolian datasets—air pollution in Ulaanbaatar, mining sector economic data, educational attainment across aimags, livestock census trends.
+Modelling projects: water resource allocation in the Gobi region; Tsagaan Sar household budget planning; tourism revenue analysis; population migration patterns.
+G.7 Assessment Notes
+Assessment reflects the full competence range: procedural fluency, conceptual understanding, application, reasoning, and modelling.
+Include a timed procedural assessment component alongside extended reasoning and modelling tasks.
+The capstone modelling project is a major assessed product, evaluated for mathematical content, reasoning quality, communication, and critical reflection.
+Grade 9 exit assessment must be constructively aligned with both upper secondary academic mathematics and vocational pathway expectations.
+Assessment balance: approximately 30% procedural fluency, 25% conceptual understanding, 25% application and modelling, 20% reasoning and proof.
+H. Whole-Subject Pedagogy Guidance
+H.1 Core Pedagogical Principles
+Concrete before abstract. Every new concept begins with a tangible anchor—a physical object, a visual model, a familiar context—before moving to symbolic representation. This principle applies throughout Grades 6–9 but with decreasing reliance on physical materials and increasing use of diagrammatic and mental models as learners mature.
+Active mathematical reasoning over passive reception. Mathematics is learned by doing mathematics, not by watching demonstrations. Lessons should centre on learner thinking: posing problems, exploring approaches, discussing strategies, and reflecting on results. The teacher facilitates mathematical activity rather than performing it.
+Multiple representations. Every concept should be developed through multiple representations: concrete/physical, visual/diagrammatic, verbal/narrative, symbolic/algebraic, and tabular/numerical. Learners should practise translating between representations, as this is where deep understanding develops.
+Mathematical communication. Speaking and writing about mathematics is a core part of learning mathematics. Pair discussion, group explanation, and written justification should be routine in every lesson. Mathematical communication in Mongolian language, using precise terminology, is both a mathematical and a linguistic competence.
+Productive struggle. Learners should regularly encounter problems they cannot immediately solve, with support for persisting rather than being told the method. This develops resilience, deepens understanding, and is essential for the transition from guided to autonomous mathematical thinking.
+Connection and coherence. Every mathematical topic should be connected to what came before, what comes next, and where it appears in other subjects and in Mongolian life. Mathematics must not feel like a collection of disconnected procedures but like a growing, interconnected body of knowledge.
+H.2 Grade-Differentiated Pedagogy
+Grade 6: High scaffolding; extensive concrete materials; diagnostic work; short tasks building to longer ones; emphasis on rebuilding confidence; frequent pair work and mathematical talk.
+Grade 7: Gradual scaffolding release; increasing expectation for written explanation; structured choice in approach; collaborative investigation tasks of 2–3 lessons; error analysis activities.
+Grade 8: Extended investigation and modelling tasks (3–4 lessons); explicit teaching of proof and justification; cross-curricular mathematical applications; student-led discussions; decreasing teacher direction.
+Grade 9: Autonomous problem-solving with minimal scaffolding; sustained projects (4–6 lessons); peer review of mathematical arguments; career-connected applications; capstone modelling project.
+H.3 Addressing Mathematics Anxiety
+The curriculum must include explicit guidance for teachers on: creating classroom cultures where errors are valued as learning opportunities; reducing performance pressure through formative rather than high-stakes assessment; providing multiple entry points for tasks (low-floor, high-ceiling design); celebrating diverse mathematical strategies rather than demanding only the ‘standard method’; and giving learners genuine agency and voice in mathematical discussion. Mathematics anxiety disproportionately affects girls and learners from disadvantaged backgrounds; the curriculum must actively work against this.
+H.4 The Role of Practice
+Procedural fluency requires practice, but practice must be purposeful: varied (not repetitive drill of identical exercises), distributed (spaced across time rather than massed in a single lesson), and interleaved (mixing different types of problems so learners must choose strategies, not just apply the most recent method). Practice should progressively include application and reasoning alongside procedural tasks.
+I. Whole-Subject Assessment Framework
+I.1 Five Dimensions of Mathematical Competence
+Good assessment in this subject captures five dimensions, following the framework established in the Step 6 Design Brief:
+Procedural fluency: Can the learner perform mathematical operations accurately and efficiently?
+Conceptual understanding: Does the learner understand why procedures work and how concepts relate to each other?
+Strategic competence: Can the learner formulate, represent, and solve non-routine mathematical problems?
+Adaptive reasoning: Can the learner think logically, explain, justify, and prove mathematical claims?
+Productive disposition: Does the learner see mathematics as sensible, useful, and worthwhile, and does the learner persist with mathematical challenges?
+Assessment that captures only procedural fluency fails to measure mathematical competence. The curriculum requires all five dimensions to be assessed, with increasing emphasis on reasoning and modelling as learners progress through the grades.
+I.2 Assessment Progression Across Grades
+Feature
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Primary mode
+Formative; frequent short checks
+Formative + periodic summative
+Balanced formative/summative
+Summative + portfolio + project
+Task types
+Concrete/visual + symbolic; short tasks
+Multi-step problems; investigation reports
+Extended reasoning; modelling; proof
+Capstone project; exam; portfolio
+Explanation expected
+Oral + brief written
+Written justification
+Structured argument
+Sustained proof/reasoning
+Competence balance
+50% procedural, 30% conceptual, 20% application
+40% procedural, 30% conceptual, 30% application
+40% procedural, 30% conceptual, 30% reasoning/modelling
+30% procedural, 25% conceptual, 25% modelling, 20% proof
+I.3 Formative Assessment Practices
+Ongoing formative assessment is the primary mechanism for managing the wide ability range in Mongolian classrooms. It should include: regular diagnostic checks at strand transitions (not just end-of-unit tests); structured observation of mathematical reasoning during collaborative tasks; analysis of written explanations for depth of understanding (not just answer correctness); exit tickets capturing conceptual understanding; and learner self-assessment of problem-solving processes. Formative assessment information must actively inform subsequent teaching, not merely be recorded.
+I.4 Summative Assessment Guidance
+Summative assessment should: include a mixture of short-answer procedural questions, multi-step reasoning problems, and extended application/modelling tasks; use Mongolian contexts that are familiar and meaningful to learners; include ‘Explain why’ and ‘Show that’ questions from Grade 7 onwards; assess mathematical communication (clarity, precision, logical structure) as well as mathematical content; and be time-proportionate—no more than 10–12% of instructional time across the year.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed Learner Readiness
+PISA 2022 data confirms a very wide attainment range among Mongolian mathematics learners. The curriculum addresses this through: a Grade 6 diagnostic-first design that identifies and remediates primary gaps before layering new content; core/extension/support differentiation within every unit (a ‘secure baseline’ that all learners should reach, alongside extension targets for those who are ready); low-floor, high-ceiling task design that provides accessible entry and challenging extension; and explicit guidance for teachers on grouping strategies, scaffolding techniques, and differentiation approaches.
+J.2 Resource Variability
+The three-tier digital design (Tier 1: full digital; Tier 2: basic digital; Tier 3: offline) ensures that no learning outcome depends on technology access. Core mathematical resources that must be available in every school include: graph paper, geometric instruments (ruler, compass, protractor), calculators (from Grade 7), and manipulatives for Grade 6 (fraction strips or equivalent, integer models). Traditional Mongolian resources (shagai for probability, Эв долоо for spatial reasoning) are available in every context and should be actively used.
+J.3 Teacher Support Needs
+The curriculum requires mathematical teaching that goes beyond lecture-and-exercise. Many teachers will need support in: facilitating mathematical discussion (not just explaining procedures); designing and managing investigative tasks; assessing reasoning and communication (not just answer correctness); using formative assessment to adapt instruction; and connecting mathematics to Mongolian contexts in authentic ways. The curriculum document itself must include pedagogical notes, common misconceptions, and differentiation strategies—recognising that for many teachers, the curriculum document is the primary (sometimes only) professional development resource.
+J.4 Rural and Urban Differences
+Mongolia’s school system spans well-equipped urban schools, adequate aimag-centre schools, basic soum-centre schools, and boarding schools serving nomadic communities. The curriculum is designed to function across all contexts by: specifying offline alternatives for every digital activity; using Mongolian contextual examples that are relevant to both rural and urban learners (livestock data and steppe geography for rural schools, market prices and urban planning for city schools); avoiding resource-intensive requirements; and recognising that class sizes, multi-grade teaching, and teacher isolation are realities in many schools.
+J.5 Language Considerations
+In western aimags, Kazakh and Tuvan minority students learn through both their mother tongue and Mongolian. The curriculum must ensure: clear, unambiguous Mongolian mathematical terminology; mathematical concepts explained through meaning rather than rote terminology; support for bilingual mathematical instruction; and assessment that does not penalise students whose mathematical understanding exceeds their Mongolian academic language proficiency.
+J.6 Gender Equity
+Mathematics anxiety and stereotype threat disproportionately affect girls in many educational contexts. The curriculum actively works against this by: using gender-balanced examples and contexts; ensuring collaborative structures give all learners voice; assessing through multiple formats (not only timed tests, which amplify anxiety effects); and including career connections that show mathematics as relevant to all pathways, not only stereotypically male-dominated fields.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+The following risks, if not actively guarded against, would undermine the design intentions of this curriculum:
+Content overload. The greatest risk. Standards writers and textbook authors must resist the temptation to add ‘just one more topic’ until the curriculum is impossibly dense. The time allocation is generous but not infinite. Every addition displaces consolidation, practice, or investigation time. If everything is covered but nothing is secured, the curriculum has failed.
+Premature formalisation. Introducing abstract symbolic methods before conceptual understanding is established. The concrete-to-abstract bridge must be honoured at every stage. A textbook that begins each chapter with definitions and formulas rather than situations and models violates the curriculum’s pedagogical intent.
+Assessment-driven narrowing. If assessment tests only procedural fluency, teaching will narrow to procedural fluency regardless of curriculum intentions. Assessment instruments must reflect all five competence dimensions—especially reasoning, modelling, and communication.
+Disconnection from Mongolian life. Using only international textbook contexts (shopping in dollars, measuring in unfamiliar units, examples from other countries’ lives) reinforces the perception that mathematics is foreign and irrelevant. Mongolian grounding must be structural, not cosmetic: at least 40% of applied contexts should be authentically Mongolian.
+Digital dependency. Designing activities that work only with full technology access creates a two-tier system. Every digital activity must have a functional offline equivalent. A rural soum school with no computers must be able to deliver the full curriculum.
+Uniform grade design. Making all four grades look and feel the same—same task types, same level of scaffolding, same assessment format. Each grade has a distinct developmental role, and the curriculum should look and feel different at Grade 6 (guided, concrete, diagnostic) versus Grade 9 (autonomous, abstract, synthesising).
+Process strand neglect. Treating Strand 5 (Mathematical Processes) as optional enrichment rather than a core requirement. Problem-solving, reasoning, modelling, and communication are not extras—they are the competences that distinguish mathematical education from mathematical training.
+Breaking the primary bridge. Starting Grade 6 as if primary never happened. The diagnostic unit and the deliberate connections to primary content, methodology, and classroom culture are essential. Equally dangerous is assuming all primary learning was achieved when national data shows otherwise.
+Ignoring the attainment gap. Designing a curriculum for the median learner while ignoring the substantial proportion who arrive below baseline. Built-in differentiation (core/extension/support) is a design requirement, not an afterthought.
+Procedural monotony in textbooks. Textbooks that consist entirely of worked examples followed by identical practice exercises will fail to develop the competences this curriculum demands. Textbooks must include investigative tasks, modelling problems, discussion prompts, and varied assessment formats.
+This curriculum draft provides the full analytical and pedagogical framework for Mathematics, Grades 6–9. It is designed to be read alongside the seven upstream design documents (Steps 1–6) and the official primary and pre-primary curricula. It establishes what learners should learn, in what sequence, through what approaches, assessed by what means, and grounded in what contexts—so that subsequent standards writing, textbook development, assessment design, and teacher professional development can proceed from a coherent, principled, and implementable foundation.

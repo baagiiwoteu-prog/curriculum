@@ -1,0 +1,322 @@
+FULL CURRICULUM DRAFT
+CHEMISTRY (ХИМИ)
+Lower Secondary Education — Grades 6–9
+Mongolia Curriculum Reform — Step 7
+Building on: Steps 1–6 of the Cross-Level Competence Analysis
+Working Document — March 2026
+Subject
+Хими (Chemistry)
+Cluster
+3 — Scientific and Environmental Inquiry
+Weight Category
+PROGRESSIVE-ENTRY MEDIUM — 231 total hours
+Hours (Gr 6 / 7 / 8 / 9)
+33 / 66 / 66 / 66
+Weekly Pattern
+1 → 2 → 2 → 2
+Coordination Partners
+Biology, Physics, Geography
+Primary Predecessor
+Байгаль шинжлэл (Natural Science)
+A. Subject Purpose and Role in Lower Secondary Education
+Chemistry in Grades 6–9 serves the educational purpose of transforming the intuitive, sensory, and observational understanding of matter acquired in pre-primary and primary education into a coherent, evidence-based, and increasingly abstract understanding of chemical composition, structure, and change—grounded in Mongolian material life and environmental realities.
+The subject fulfils three irreplaceable functions within the seventeen-subject lower secondary architecture. First, Chemistry is the discipline of matter and its transformations. While Physics addresses forces and energy and Biology addresses living systems, Chemistry addresses the substance-level reality that underlies both: what things are made of, how they interact, and why they change. Second, Chemistry is the gateway to understanding everyday material life. The cooking, cleaning, building, mining, manufacturing, and environmental processes that surround Mongolian learners are fundamentally chemical phenomena. Third, Chemistry provides the particulate and atomic framework that links observable macro-phenomena to the invisible world of atoms and molecules—a critical step in the concrete-to-abstract cognitive transition of early adolescence.
+Chemistry also carries four essential cross-curricular contributions mandated by the Step 3 framework: academic literacy (chemical vocabulary, laboratory report writing, scientific argumentation); inquiry and evidence use (experimental methodology, controlled variables, evidence-based reasoning about invisible processes); mathematical reasoning (ratio, proportion, graphing, measurement); and ethical-civic reasoning (environmental responsibility, chemical safety, informed citizenship regarding mining, pollution, and public health).
+By the end of Grade 9, a learner should be able to: identify and classify common substances by their chemical properties; explain observable phenomena using particle, atomic, and molecular models; design, conduct, and interpret simple chemical investigations; read and write chemical language including formulae and balanced equations; apply chemical understanding to personal, environmental, and societal decisions; and evaluate chemical claims encountered in everyday life and public discourse.
+B. Curriculum Strands
+The Chemistry curriculum is organised around four interwoven strands that run through all four grades with increasing depth and abstraction. These strands are not isolated teaching blocks; they are complementary perspectives on the same chemical reality, and every teaching sequence should integrate at least two strands.
+Strand 1: Substances, Properties, and Classification
+This strand develops the capacity to identify, describe, classify, and explain the properties of substances. It progresses from observable macro-properties (Grade 6) through the particle model and elements (Grade 7) to atomic structure, periodic patterns, and bonding (Grades 8–9). It answers the question: what is matter made of, and why does it have these properties?
+Strand 2: Chemical Reactions and Change
+This strand develops the capacity to recognise, describe, explain, and predict chemical change. It progresses from observing evidence of reactions (Grade 6) through reaction types and word equations (Grade 7) to balanced equations, conservation of mass, reaction rates, and energy changes (Grades 8–9). It answers the question: how and why does matter change?
+Strand 3: Chemistry in Context — Environment, Industry, and Daily Life
+This strand grounds chemical knowledge in Mongolian and global realities. It progresses from household chemistry and water (Grade 6) through environmental chemistry and mining (Grades 7–8) to climate, energy, and sustainability (Grade 9). It answers the question: why does chemistry matter for my life, my community, and my country?
+Strand 4: Chemical Inquiry and Laboratory Practice
+This strand develops the practical, methodological, and safety competences for chemical investigation. It progresses from safe handling and guided observation (Grade 6) through structured experiments with hypothesis and data recording (Grades 7–8) to independent experimental design and research communication (Grade 9). It provides the epistemic and procedural foundation that enables the other three strands.
+Strand relationships
+Strand 4 (Inquiry) provides the method by which Strands 1 and 2 are investigated. Strand 3 (Context) provides the motivation and application for Strands 1 and 2. Strands 1 and 2 together provide the conceptual substance of the discipline. In practice, a typical lesson or sequence will draw on two or three strands simultaneously. For example, investigating water quality in a local river (Strand 3) requires testing for dissolved substances (Strand 1) using filtration and indicator techniques (Strand 4) and understanding dissolution and pH (Strand 2).
+C. Overall Progression Across Grades 6–9
+The four-year progression follows the developmental transformation logic established in Step 2, moving from concrete to abstract, from guided to autonomous, and from description to evaluation.
+Dimension
+Grade 6 (33 hrs)
+Grade 7 (66 hrs)
+Grade 8 (66 hrs)
+Grade 9 (66 hrs)
+Grade designation
+Bridge and orientation year
+Foundation-building year
+Analytical depth year
+Synthesis and readiness year
+Cognitive mode
+Concrete observation → bridging
+Structured model-building
+Analytical and integrative
+Evaluative and synthetic
+Content focus
+Everyday substances, states of matter, simple changes
+Particles, elements, compounds, mixtures, reaction evidence
+Atomic structure, reaction types, rates, solutions, periodic table
+Carbon chemistry, energy in reactions, electrochemistry, sustainability
+Inquiry stance
+Guided observation and simple testing
+Structured investigation with hypothesis
+Semi-independent investigation with data analysis
+Independent research design and evaluation
+Chemical language
+Everyday descriptions; basic safety vocabulary
+Scientific terms; word equations; chemical symbols introduced
+Formulae; balanced equations; periodic table as tool
+Full symbolic language; quantitative reasoning; research communication
+Mongolian grounding
+Household substances, water, traditional dairy, seasonal changes
+Mining materials, water sources, ger-district fuel
+Air pollution chemistry, mineral resources, industrial processes
+Climate change, sustainable development, traditional ecological knowledge
+Assessment
+Formative only: journals, observation checklists
+Formative + 2–4 summative; guided lab reports
+4–6 summative; data interpretation; investigation assessment
+All types + extended research project; evaluation tasks
+Learner autonomy
+Fully guided
+Structured choice within parameters
+Managed independence with coaching
+Responsible autonomy
+Strand weighting across grades
+The relative emphasis of each strand shifts across the four years to reflect changing developmental priorities and time availability.
+Strand
+Grade 6 (33 hrs)
+Grade 7 (66 hrs)
+Grade 8 (66 hrs)
+Grade 9 (66 hrs)
+S1: Substances & Properties
+~35%
+~30%
+~25%
+~20%
+S2: Reactions & Change
+~20%
+~25%
+~30%
+~25%
+S3: Context & Application
+~20%
+~20%
+~20%
+~30%
+S4: Inquiry & Lab Practice
+~25%
+~25%
+~25%
+~25%
+These are indicative weightings, not rigid allocations. Strand 4 (Inquiry) maintains a constant ~25% because practical and investigative work is foundational at every grade. Strand 3 (Context) increases toward Grade 9 as the capstone year emphasises real-world application and synthesis.
+D. Grade 6 Curriculum — Bridge and Orientation Year
+D.1 Role of the Grade
+Grade 6 is the entry point into Chemistry as a named discipline. With only 33 contact hours (one lesson per week for 33 weeks), it is an orientation year—not an immersion year. Its primary function is to bridge the integrated primary science experience to disciplinary chemical thinking, re-engage primary knowledge about substances and changes, build curiosity about the chemical questions that will be explored in Grades 7–9, and establish laboratory safety and basic experimental habits. Grade 6 Chemistry must feel like a natural continuation of primary Байгаль шинжлэл, not an abrupt encounter with a foreign discipline.
+D.2 Progression Focus
+The cognitive focus is concrete-to-bridging: learners observe, describe, compare, and begin to ask ‘why?’ about matter and change. The shift from primary is one of depth of questioning, not of content type. Where primary asked ‘what happens?’ Grade 6 begins to ask ‘why does it happen?’ and ‘can we predict what will happen?’—but always anchored in observable, hands-on experience.
+D.3 Expected Learning
+By the end of Grade 6, learners should be able to:
+Classify common substances from their immediate environment by observable properties (state, colour, hardness, solubility, conductivity) and by material type.
+Describe the three states of matter using everyday and beginning scientific language, and explain state changes (melting, freezing, boiling, condensation, evaporation) by reference to energy input or removal.
+Distinguish between pure substances and mixtures using observable evidence, and demonstrate at least two separation techniques (filtration, evaporation).
+Recognise that some changes are reversible (physical) and others are irreversible (chemical), and identify simple evidence of chemical change (colour change, gas production, temperature change, new substance formed).
+Name and follow basic laboratory safety rules, handle simple equipment safely, and describe why safety matters in chemical work.
+Record observations systematically using tables, labelled diagrams, and short written descriptions.
+D.4 Indicative Content Direction
+Unit 1: What is Chemistry? Materials around us (~10 lessons)
+Reconnecting to primary knowledge of materials. Classifying substances from everyday Mongolian life (wood, metal, plastic, felt, leather, glass, stone, water, milk, salt). Properties of materials: state, flexibility, hardness, transparency, magnetism. Introduction to the idea that Chemistry asks ‘What are things made of, and why do they behave this way?’ Mongolian grounding: materials of the ger (felt, wood, canvas), traditional clothing materials, local building materials.
+Unit 2: States of matter and changes (~12 lessons)
+Deepening primary understanding of solid, liquid, and gas through hands-on activities. Observing and explaining state changes: melting ice, boiling water, condensation on cold surfaces, evaporation of water. Introduction to the particle idea: ‘matter is made of tiny particles that are always moving.’ Connecting to Mongolian life: water freezing in winter (-30°C and below), steam from cooking in the ger, drying meat (borts) by cold-air evaporation, seasonal state changes of rivers and lakes.
+Unit 3: Mixtures, pure substances, and simple changes (~11 lessons)
+Distinguishing mixtures from pure substances. Separation methods: filtration (cleaning muddy water), evaporation (recovering salt from solution). Recognising evidence of chemical change: burning wood, rusting metal, souring milk (making tarag). Reversible vs irreversible changes. Mongolian grounding: making airag (fermented mare’s milk) as a chemical change; making aaruul (dried curd) as physical and chemical change; ger stove as a combustion site.
+D.5 Pedagogy Notes
+Teaching should be hands-on, observation-rich, and discussion-based. Every lesson should include at least one activity where learners handle, observe, or test materials. Teacher demonstration supplements student activities for safety or equipment reasons. The five-step inquiry cycle from pre-primary (Сонирхох → Судлах → Турших → Дүгнэлт хийх → Эргэцүүлэх) should be explicitly used and named. Vocabulary should be introduced gradually: no more than 3–4 new terms per lesson, each defined in Mongolian, written on the board, and practised in context.
+D.6 Digital Integration Notes
+At 33 hours per year with one lesson per week, digital integration in Grade 6 should be light and enhancement-focused. Appropriate uses: short video clips showing phenomena that cannot be demonstrated in class (e.g., industrial processes, molecular animations); digital photographs of experiments for learning journals. Low-tech alternatives: all activities must be fully functional without digital tools. Wall charts, physical demonstration, and hand-drawn diagrams replace any digital element. Teacher use of projector where available enhances but does not define the experience.
+D.7 Mongolian Grounding Notes
+Grade 6 Chemistry should feel like a natural exploration of the Mongolian material world. Household substances (salt, baking soda, vinegar, milk, coal, water) form the primary investigative material. Seasonal changes experienced by all Mongolian learners (extreme cold, frozen rivers, summer heat, drying processes) provide state-change content. Traditional food preparation (dairy products, dried meat, fermentation) provides chemical change examples. The ger itself is a materials laboratory: felt, wood, canvas, metal stove, chimney, each with distinct chemical properties. Local building materials, fuel sources, and water quality connect learning to immediate environment.
+D.8 Assessment Notes
+Assessment in Grade 6 is entirely formative. There are no summative examinations. Assessment methods include: observation checklists (can the learner follow safety rules? handle equipment? make systematic observations?); learning journals with dated entries describing what was observed and what was learned; short descriptive tasks (‘Describe three differences between milk and water’); labelled diagrams of experimental setups; and oral questioning during practical work. The purpose of assessment is to identify learning progress and gaps, not to grade or rank learners.
+E. Grade 7 Curriculum — Foundation-Building Year
+E.1 Role of the Grade
+Grade 7 is the first year of substantive disciplinary development, with 66 contact hours (two lessons per week). Its role is to build the foundational chemical framework: the particle model, the distinction between elements, compounds, and mixtures, the periodic table as an organising tool, and the formal recognition and description of chemical reactions. Grade 7 transforms the ‘what happens?’ curiosity of Grade 6 into ‘how can we explain what happens using chemical models?’
+E.2 Progression Focus
+The cognitive focus is structured model-building: learners move from describing phenomena to explaining them using particle-level reasoning. The particle model of matter is developed more formally. Chemical language begins: element symbols, simple formulae, word equations. Inquiry shifts from guided observation to structured investigation with hypothesis, method, and recorded results. Assessment introduces summative elements alongside continuing formative practice.
+E.3 Expected Learning
+By the end of Grade 7, learners should be able to:
+Use the particle model to explain the properties of solids, liquids, and gases, including changes of state, diffusion, and gas pressure.
+Distinguish between elements, compounds, and mixtures, and provide examples of each from Mongolian life.
+Recognise and use chemical symbols for the first 20 elements and common additional elements (Fe, Cu, Au, Ag, C).
+Use the periodic table to find basic information about elements (symbol, atomic number, group) and recognise that elements in the same group share similar properties.
+Identify evidence of chemical reactions (colour change, gas production, temperature change, precipitate formation) and describe reactions using word equations.
+Classify common reactions as combustion, oxidation (rusting), or acid-base (neutralisation) using everyday examples.
+Design and conduct a structured investigation with a clear question, prediction, method, results table, and conclusion.
+Write a guided laboratory report with sections for aim, method, results, and conclusion.
+E.4 Indicative Content Direction
+Unit 1: The particle model of matter (~14 lessons)
+Developing the particle model: all matter is made of tiny particles; particles are in constant motion; particle arrangement and motion explain the properties of solids, liquids, and gases. Using the model to explain: expansion and contraction with temperature; diffusion (smell spreading, tea colouring); gas pressure (inflated tyres, sealed containers); state changes as changes in particle arrangement and energy, not particle identity. Mongolian grounding: why water pipes burst in Mongolian winter (expansion on freezing); steam from cooking pots in the ger; smell of burning dung or coal spreading through a settlement.
+Unit 2: Elements, compounds, and mixtures (~16 lessons)
+Atoms as the basic particles of elements. Elements as substances made of only one kind of atom. Introduction to chemical symbols and the periodic table as the organised catalogue of elements. Compounds as substances made of two or more elements chemically combined in fixed proportions. Mixtures as combinations not chemically bonded. Distinguishing elements, compounds, and mixtures through properties and separation. Common separation techniques revisited with greater precision: filtration, distillation, chromatography. Mongolian grounding: copper (Cu) and gold (Au) mining in Mongolia; salt (NaCl) from Mongolian salt lakes; carbon (C) in coal; iron (Fe) in local ores.
+Unit 3: Chemical reactions — evidence and description (~18 lessons)
+What is a chemical reaction? Recognising that new substances are formed. Evidence of reactions: colour change, gas bubbles, temperature change, precipitate, smell. Combustion reactions: burning fuels (coal, wood, dung—the primary Mongolian heating fuels). Oxidation: rusting of iron, tarnishing of metals. Acids, bases, and indicators: household acids (vinegar, citric acid) and bases (baking soda, soap); using indicators to test pH; neutralisation as an acid-base reaction. Word equations for familiar reactions. Introduction to the idea of conservation of mass: the total mass before and after a reaction stays the same. Mongolian grounding: why metal tools rust faster in spring (moisture); acid rain and its absence or presence in Mongolia; traditional uses of wood ash (a base) for cleaning.
+Unit 4: Chemistry and water (~8 lessons)
+Water as a chemical compound (H₂O). Dissolving and solutions: solute, solvent, solution. Factors affecting dissolving (temperature, stirring, particle size). Water quality: dissolved substances, water testing, water purification methods. Mongolian grounding: water sources in Mongolia (rivers, wells, springs, urban supply); water quality challenges in mining regions; the importance of clean water for nomadic and settled communities; traditional water respect practices.
+E.5 Pedagogy Notes
+Grade 7 teaching should balance hands-on investigation with model-based explanation. The lesson pattern should regularly follow: experience a phenomenon → describe it → explain it with the particle/atomic model → represent it in chemical language. Structured laboratory work should occur at least once per week where feasible (approximately 20–25 practicals across the year). Students should begin writing guided laboratory reports. Group work supports peer discussion of explanations. Chemical vocabulary expands significantly: approximately 50–60 new terms, each introduced in Mongolian, defined, practised in context, and regularly revisited.
+E.6 Digital Integration Notes
+Grade 7 can make productive use of molecular animations and simulations that make the invisible particle world visible. Appropriate digital tools: particle motion simulations (showing solid, liquid, gas arrangements); interactive periodic tables for element lookup; video of industrial chemistry processes. Students begin using simple spreadsheets or tables for recording experimental data where computers are available. Low-tech alternatives: physical ball-and-stick models for molecular structures; printed periodic tables; hand-drawn data tables. All core learning must be achievable without digital tools.
+E.7 Mongolian Grounding Notes
+Grade 7 Chemistry connects Mongolia’s mineral wealth to elemental chemistry (copper at Oyu Tolgoi, gold at Boroo, coal at Tavan Tolgoi, fluorspar at Bor-Undur). Water chemistry connects to Mongolia’s river systems and well-water quality. Combustion chemistry connects to the universal Mongolian experience of heating with coal, wood, or dung. Acid-base chemistry connects to food preparation (souring milk for tarag, using baking soda in cooking). The periodic table introduction can note elements named in connection with Mongolian geography or discovered in Central Asian contexts.
+E.8 Assessment Notes
+Grade 7 introduces summative assessment alongside continuing formative practice. Summative assessments: 2–4 per year, combining short-answer knowledge recall, structured explanation tasks (e.g., ‘Use the particle model to explain why perfume can be smelled across a room’), and practical skills assessment. Formative assessment continues: guided laboratory reports (scaffolded with templates), vocabulary quizzes, learning journal entries, and peer-explanation activities. Practical assessment evaluates safe handling, systematic observation, and accurate recording—not just final answers.
+F. Grade 8 Curriculum — Analytical Depth Year
+F.1 Role of the Grade
+Grade 8 is the deepening year, with 66 contact hours. Its role is to move from descriptive chemistry to analytical chemistry: understanding why reactions occur, how atomic structure explains chemical behaviour, and how chemical knowledge applies to Mongolian environmental and industrial challenges. This is the grade where the greatest demand for intellectual depth is appropriate, as most learners have developed sufficient abstract reasoning capacity.
+F.2 Progression Focus
+The cognitive focus is analytical and integrative: learners move from explanation to interpretation, from structured investigation to semi-independent inquiry, and from applying chemical models to using them to predict and analyse unfamiliar situations. Chemical language becomes more precise: formulae, balanced equations, and the periodic table as a predictive tool.
+F.3 Expected Learning
+By the end of Grade 8, learners should be able to:
+Describe basic atomic structure (protons, neutrons, electrons) and explain how electron arrangement relates to an element’s position in the periodic table and its chemical properties.
+Use the periodic table to predict general properties of elements based on their group (e.g., metals vs non-metals, reactivity trends in Groups 1 and 7).
+Write and balance simple chemical equations, demonstrating understanding of conservation of mass at the symbolic level.
+Classify reactions into types: combustion, decomposition, displacement, neutralisation, and oxidation-reduction (at introductory level).
+Describe factors that affect reaction rate (temperature, concentration, surface area, catalyst) and design an investigation to test one factor.
+Explain what solutions are, define concentration qualitatively, and distinguish between dilute, concentrated, and saturated solutions.
+Apply chemical knowledge to explain at least two Mongolian environmental issues (e.g., ger-district air pollution from coal combustion; heavy metal contamination from mining).
+Design and carry out a semi-independent investigation: formulate a question, plan a fair test, collect and analyse data, draw evidence-based conclusions, and evaluate the method.
+F.4 Indicative Content Direction
+Unit 1: Inside the atom and the periodic table (~16 lessons)
+Atomic structure: protons (positive, in nucleus), neutrons (neutral, in nucleus), electrons (negative, in shells). Atomic number and mass number. Electron arrangement for the first 20 elements (2, 8, 8 pattern). The periodic table as organised by atomic number; periods and groups. Group properties: Group 1 metals (soft, reactive with water); Group 7 non-metals (reactive, form salts); Group 0 noble gases (unreactive). Metals and non-metals: general properties and position in the table. Mongolian grounding: Mongolia’s mining economy connects to extracting specific elements; rare earth elements found in Mongolian deposits.
+Unit 2: Chemical reactions in depth (~18 lessons)
+Types of reactions: synthesis (combination), decomposition, single displacement, double displacement, combustion, neutralisation. Writing word equations and converting to balanced symbol equations (simple cases only: up to three different elements). Conservation of mass demonstrated experimentally and explained at atomic level. Acids and bases revisited: pH scale, strong and weak acids, common laboratory acids (HCl, H₂SO₄) and bases (NaOH, Ca(OH)₂). Neutralisation reactions and salt formation. Practical production of a salt. Oxidation-reduction introduced conceptually: oxygen gain/loss. Mongolian grounding: acid mine drainage and water contamination; lime (CaO/Ca(OH)₂) used in traditional construction and soil treatment.
+Unit 3: Rates of reaction and solutions (~16 lessons)
+Factors affecting reaction rate: temperature, concentration, surface area, catalyst. Investigating one factor through a fair test (e.g., effect of temperature on dissolving rate or on reaction between acid and metal). Collision theory as a simple explanatory model. Solutions: solute, solvent, solution. Concentration as amount of solute per volume of solvent (qualitative and semi-quantitative). Saturated and unsaturated solutions. Solubility and temperature. Mongolian grounding: why food cooks faster in a pressure cooker; why coal burns differently at different altitudes; salinity of Mongolian salt lakes; mineral content of hot spring waters.
+Unit 4: Chemistry and Mongolia’s environment (~10 lessons)
+Air pollution: combustion of coal and raw coal in ger districts produces CO₂, CO, SO₂, PM2.5—explained as chemical products of incomplete and complete combustion. Water pollution: heavy metals from mining operations; chemical testing for water quality. Soil chemistry: effects of mining, overgrazing, and desertification on soil composition. Student research project: investigating one local environmental chemistry issue using available data and chemical knowledge. Mongolian grounding: this entire unit is Mongolian-grounded—it applies the year’s chemical learning to Mongolia’s most pressing environmental challenges.
+F.5 Pedagogy Notes
+Grade 8 teaching should balance structured instruction with increasing student autonomy in investigation. The teacher’s role shifts from instructor to coach: setting up the conceptual framework, then supporting students as they apply it through investigation and analysis. Laboratory work should be semi-independent: students receive the question and some guidance but plan significant parts of the investigation themselves. Explanation and argumentation are central: students should regularly be asked not just ‘what happened?’ but ‘why did it happen?’ and ‘how do we know?’ Written communication demands increase: unscaffolded laboratory reports, extended explanations, and data interpretation tasks.
+F.6 Digital Integration Notes
+Grade 8 digital integration can be more substantial. Appropriate uses: simulations of atomic structure and electron arrangement; digital data logging for reaction-rate experiments where equipment is available; online databases for element properties; video documentaries on Mongolian environmental chemistry (air pollution monitoring, mining impacts). Students may use spreadsheets for graphing experimental data and calculating simple averages. Critical digital literacy: evaluating online information about chemical risks and environmental claims. Low-tech alternatives: physical periodic tables, hand-drawn graphs, teacher-provided data sets for analysis when digital collection is not available.
+F.7 Mongolian Grounding Notes
+Grade 8 is the most explicitly Mongolia-focused year. Atomic structure connects to Mongolia’s mineral resources. Reaction chemistry connects to combustion (heating, cooking, power generation), which is the dominant chemical process in Mongolian daily life. Environmental chemistry directly addresses Ulaanbaatar’s air quality crisis, mining impacts on water and soil, and the chemical dimensions of desertification. Students should engage with real Mongolian data (air quality indices, water quality reports, mining environmental assessments) wherever these are available.
+F.8 Assessment Notes
+Grade 8 assessment demands analytical thinking. Summative assessments: 4–6 per year, including short-answer recall, extended explanation (using models and equations), data interpretation (reading graphs, evaluating experimental results), and practical investigation assessment. The environmental research project (Unit 4) serves as both a learning activity and an assessment, evaluated for chemical accuracy, use of evidence, quality of reasoning, and communication. Formative assessment continues with unscaffolded laboratory reports, self-assessment checklists, and peer feedback on explanations.
+G. Grade 9 Curriculum — Synthesis and Readiness Year
+G.1 Role of the Grade
+Grade 9 is the culmination of lower secondary Chemistry, with 66 contact hours. Its role is threefold: to consolidate and integrate the chemical knowledge built across three years; to extend it into new domains (organic chemistry, energy in reactions, electrochemistry) that prepare for upper secondary; and to apply it to complex real-world problems through independent research. Grade 9 should leave learners with demonstrated capacity to use chemical knowledge responsibly, independently, and in the service of personal and civic decision-making.
+G.2 Progression Focus
+The cognitive focus is evaluative and synthetic: learners combine concepts from multiple units and years to address complex questions, evaluate competing explanations, critique experimental designs, and construct evidence-based arguments about chemical issues. Chemical language is used with full fluency: balanced equations, structural awareness, and quantitative reasoning. Inquiry reaches the level of independent research design with the teacher as consultant rather than director.
+G.3 Expected Learning
+By the end of Grade 9, learners should be able to:
+Describe simple covalent and ionic bonding models and use them to explain properties of common compounds (e.g., why salt dissolves in water, why metals conduct electricity).
+Recognise that carbon forms a vast family of compounds (organic chemistry) and identify hydrocarbons, alcohols, and carboxylic acids as major families with different properties and uses.
+Describe energy changes in chemical reactions (exothermic and endothermic) and provide examples of each from everyday life.
+Explain basic electrochemistry: simple electrochemical cells, electrolysis of simple solutions, and applications (batteries, electroplating).
+Evaluate the chemical dimensions of at least one major sustainability challenge (climate change, resource depletion, waste management, energy transition) using integrated chemical knowledge.
+Design, conduct, analyse, and communicate an independent chemistry research project on a question of personal or community relevance.
+Critically evaluate chemical claims in media, advertising, or public discourse, distinguishing evidence-based claims from unsubstantiated ones.
+Demonstrate safe, responsible, and ethical laboratory practice appropriate for independent work.
+G.4 Indicative Content Direction
+Unit 1: Bonding and structure (~14 lessons)
+Why atoms bond: achieving stable electron arrangements. Ionic bonding: transfer of electrons between metals and non-metals; properties of ionic compounds (high melting point, dissolve in water, conduct when dissolved). Covalent bonding: sharing of electrons between non-metals; properties of simple molecular substances (low melting point, poor conductors) and giant covalent structures (diamond, graphite—contrasting properties). Metallic bonding introduced simply: sea of electrons model; explains conductivity and malleability. Mongolian grounding: properties of common Mongolian minerals (fluorite/fluorspar CaF₂ as ionic; coal as largely covalent carbon; copper as metallic).
+Unit 2: Carbon chemistry and organic basics (~14 lessons)
+Carbon as the element of life and fuels. Hydrocarbons: methane, ethane (natural gas); structure, combustion, and products. Crude oil as a mixture of hydrocarbons: fractional distillation (principle, not industrial detail). Alcohols: ethanol as the simplest example (fermentation, fuel, solvent). Carboxylic acids: vinegar (ethanoic acid) as the simplest example. Polymers introduced: plastics as long-chain carbon molecules; environmental impact of plastic waste. Mongolian grounding: Mongolia’s fossil fuel resources; airag fermentation as ethanol production; plastic waste challenges in Ulaanbaatar and across the steppe; traditional alternatives to plastic (leather, felt, wood).
+Unit 3: Energy and electrochemistry (~14 lessons)
+Energy changes in reactions: exothermic (combustion, neutralisation, oxidation) and endothermic (thermal decomposition, dissolving ammonium nitrate). Measuring energy changes practically (temperature change in a simple calorimeter). Electrochemistry: simple cells (two different metals in a salt solution produce a voltage); batteries as portable chemical energy sources; electrolysis of brine or copper sulfate solution as industrial application. Mongolian grounding: heating fuel choices and energy efficiency; battery use in off-grid ger communities; potential for renewable energy storage.
+Unit 4: Chemistry for a sustainable future — Capstone project (~14 lessons)
+This unit serves as both content and capstone assessment. Students select a sustainability-related chemistry question and conduct an extended research project. Possible topics include: the chemistry of climate change (greenhouse gases, carbon cycle); sustainable materials (biodegradable alternatives to plastics); water purification for rural communities; air pollution reduction strategies for Ulaanbaatar; mining and environmental remediation chemistry; renewable energy chemistry (hydrogen fuel, solar cells). The project requires: a clear research question; chemical background research; data collection or analysis (experimental or secondary); evidence-based conclusions; a presentation to peers. Mongolian grounding: topics should connect to Mongolian challenges wherever possible.
+G.5 Pedagogy Notes
+Grade 9 teaching should maximise student autonomy and intellectual independence. The teacher functions primarily as a consultant, resource provider, and quality-assurance coach. Students should spend significant time on self-directed learning: research, investigation design, data analysis, and communication. Class discussion should involve genuine argumentation: presenting evidence, challenging reasoning, and refining conclusions. The capstone project is the signature pedagogical event of Grade 9—it integrates knowledge, inquiry skills, chemical communication, and Mongolian grounding into a single substantial piece of work.
+G.6 Digital Integration Notes
+Grade 9 digital integration should be the most sophisticated of the four years. Appropriate uses: independent online research for the capstone project (with critical evaluation of sources); digital presentation of research findings; spreadsheet analysis and graphing of experimental data; molecular visualisation software for bonding and structure; video production as a possible research output format. Critical digital literacy is paramount: students must evaluate online chemical information for reliability, bias, and commercial motivation. Low-tech alternatives: library-based research, poster presentations, hand-drawn molecular models, and oral presentations where digital tools are unavailable.
+G.7 Mongolian Grounding Notes
+Grade 9 Chemistry should leave learners feeling that chemical knowledge is directly relevant to understanding and shaping Mongolia’s future. Carbon chemistry connects to Mongolia’s energy transition challenge (from coal dependence to renewable alternatives). Organic chemistry connects to environmental challenges (plastic waste, industrial pollution). Electrochemistry connects to off-grid energy storage needs. The capstone project should ideally address a Mongolian question, using chemical reasoning to contribute to understanding a genuine national or local challenge.
+G.8 Assessment Notes
+Grade 9 assessment is the most demanding and diverse. Summative assessments include: knowledge and understanding tests requiring balanced equations, bonding explanations, and reaction-type identification; application tasks requiring chemical reasoning about unfamiliar contexts; data analysis tasks requiring graph interpretation, calculation, and evaluation; the capstone research project, assessed holistically for chemical accuracy, quality of inquiry, depth of analysis, and communication effectiveness. The capstone project should carry significant weight (approximately 25–30% of year’s summative assessment). Formative assessment continues: self-assessment of research progress, peer review of project drafts, and reflective evaluation of the year’s learning.
+H. Whole-Subject Pedagogy Guidance
+The following pedagogical principles apply across all four grades and should govern all Chemistry teaching in Grades 6–9.
+H.1 Concrete before abstract
+Every chemical concept must be introduced through observable, tangible phenomena before moving to particle-level or symbolic explanations. The invariant pedagogical sequence is: experience the phenomenon → describe it in everyday language → explain it with a model → represent it symbolically. Reversing this sequence (starting with theory and then demonstrating) consistently produces fragile, rote-learned understanding. This principle is non-negotiable at Grade 6 and remains essential through Grade 9.
+H.2 Inquiry as core methodology
+Chemistry is an experimental science. Inquiry—questioning, predicting, investigating, observing, recording, interpreting, and concluding—is the primary mode of learning, not an occasional enrichment activity. The five-step inquiry cycle inherited from pre-primary should be explicitly maintained and progressively formalised. By Grade 9, inquiry should resemble genuine scientific research in miniature: student-generated questions, designed methods, collected evidence, and reasoned conclusions.
+H.3 Laboratory work as essential practice
+Practical work should constitute approximately 25–30% of total instructional time across all four years. In Grade 6, this means simple, safe, desk-based activities using household materials. In Grades 7–8, structured and semi-independent laboratory investigations. In Grade 9, student-designed experiments and extended research. The tiered resource model ensures feasibility: Tier 1 activities (household materials, no laboratory) are accessible to all schools; Tier 2 (basic equipment: beakers, thermometers, indicators) to most schools; Tier 3 (specialised equipment: balances, burners, reagents) to schools with dedicated laboratories.
+H.4 Language-rich chemistry
+Every Chemistry lesson is also a literacy lesson. Chemical vocabulary should be introduced systematically in Mongolian, at a pace of approximately 3–4 new terms per lesson in Grade 6, rising to 5–6 per lesson by Grade 9. Cumulative vocabulary across four years totals approximately 180–220 essential terms. Students must regularly write explanations, reports, and arguments—not just answer multiple-choice questions. Oral explanation, discussion, and debate are standard classroom practices.
+H.5 Scaffolded autonomy
+Following the Step 2 graduated-autonomy model: Grade 6 uses fully guided activities; Grade 7 introduces structured choice within parameters; Grade 8 develops managed independence with coaching; Grade 9 expects responsible autonomy. The teacher’s role evolves from demonstrator (Grade 6) to facilitator (Grade 7) to coach (Grade 8) to consultant (Grade 9). Skipping stages produces either learned helplessness or chaotic independence.
+H.6 Contextualised and relevant teaching
+Every topic must connect to Mongolian life, environment, or industry. Decontextualised textbook chemistry without visible connection to learners’ experience will trigger the adolescent motivation dip identified in Step 2. Context is not a decorative addition; it is the entry point for learning and the demonstration of relevance. Where possible, local examples should precede international or generic textbook examples.
+H.7 Safety as chemical reasoning
+Chemical safety is not a bureaucratic constraint—it is a form of chemical knowledge. Understanding why a substance is hazardous (it is corrosive because it is a strong acid; it is flammable because it releases combustible gases) is itself chemistry. Safety rules should always be explained chemically, not just listed. Safety habits established in Grade 6 are maintained and deepened through Grade 9.
+H.8 Cross-science coordination
+Chemistry teachers must coordinate with Biology, Physics, and Geography teachers within Cluster 3 to ensure: shared inquiry methodology (common experimental framework adapted to each discipline); sequenced mathematical prerequisites (coordinated with Mathematics); prevention of content duplication; and at least one cross-science investigation per year (e.g., Grade 7: investigating local water quality—Chemistry tests for dissolved substances, Biology tests for microorganisms, Geography maps the water sources, Physics measures flow rate).
+I. Whole-Subject Assessment Framework
+Assessment in Chemistry must capture the full range of chemical competence and must evolve across grades in alignment with the Step 2 transformation logic.
+I.1 What should be assessed
+Assessment must cover five dimensions of chemical competence across all four years: knowledge and understanding (facts, concepts, models); application (using chemical knowledge in new contexts); inquiry skills (practical and investigative competence); chemical communication (writing, diagrams, equations, oral explanation); and chemical reasoning (explanation, analysis, evaluation, argumentation). No single assessment method can capture all five dimensions; multiple methods are required.
+I.2 How assessment evolves
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Mode
+Formative only
+Formative + 2–4 summative
+Formative + 4–6 summative
+Formative + summative + capstone project
+Cognitive demand
+Describe, identify, classify
+Explain using models, apply to familiar contexts
+Analyse, interpret data, predict, apply to unfamiliar contexts
+Evaluate, synthesise, argue, design, critique
+Practical assessment
+Observation checklists: safety, handling, recording
+Guided lab report + practical skills
+Semi-independent investigation + data analysis
+Independent research design, execution, and communication
+Written assessment
+Learning journals, short descriptions
+Short-answer + structured explanation
+Extended response, balanced equations, data interpretation
+Full range + research report + evaluation of chemical claims
+Self/peer assessment
+Simple reflection prompts
+Checklist-based self-assessment
+Peer feedback on lab reports
+Peer review of research drafts; reflective evaluation
+I.3 Assessment principles
+Assessment must be aligned with teaching: if the curriculum aims for explanation, analysis, and application, assessment must demand these—not just factual recall.
+Practical and investigative competence must be assessed through practical means, not written proxies. Observing a student conduct an experiment tells you what a written test cannot.
+Chemical communication (laboratory reports, diagrams, equations) is assessed as an integral part of chemical competence, not as a separate ‘writing’ criterion.
+The capstone project in Grade 9 should be the most valued assessment product of lower secondary Chemistry. It demonstrates integrated competence in a way that no single test can.
+Assessment should serve learning. Formative assessment that identifies gaps and guides next steps is more educationally valuable than summative assessment that merely ranks learners.
+Assessment load must not consume more than approximately 15% of available instructional time. In a 66-hour year, this means no more than approximately 10 hours devoted to formal summative assessment.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed learner readiness
+Learners arrive at Grade 6 with highly variable foundations due to uneven primary-school quality across Mongolia. The curriculum addresses this through: diagnostic informal assessment at the start of Grade 6 to identify gaps in primary-level understanding of states of matter, materials, and basic inquiry habits; a Grade 6 curriculum that consolidates primary knowledge rather than assuming it; differentiated pathways within each grade—all learners achieve core understanding through concrete, hands-on activities, while more advanced learners extend to greater abstraction and independence; and assessment that allows multiple ways to demonstrate understanding (oral, written, practical, visual).
+J.2 Resource variability
+Mongolian schools range from well-equipped urban institutions with dedicated laboratories to rural schools with minimal science equipment. The tiered resource model is essential. Tier 1 (all schools): household materials—water, salt, baking soda, vinegar, metals, candles, soil, food items. No laboratory required. This tier can deliver approximately 70% of core learning outcomes. Tier 2 (most schools): basic science kit—beakers, test tubes, thermometers, pH indicators/paper, filter paper, scales. This tier can deliver approximately 90% of core learning outcomes. Tier 3 (equipped schools): full laboratory—Bunsen burners, chemical reagents, distillation apparatus, electrochemistry equipment. This tier delivers 100% of learning outcomes including all extension activities. The core curriculum must be achievable at Tier 1–2.
+J.3 Teacher support needs
+Many lower secondary teachers, particularly in rural aimags and soums, may not have specialist chemistry training. The curriculum must be accompanied by: comprehensive teacher guides with detailed lesson plans, worked explanations at the appropriate level, and anticipated learner misconceptions; fully specified practical activities with equipment lists, safety protocols, expected results, and troubleshooting guidance; professional development modules on key chemistry content and pedagogy, deliverable through both face-to-face training and distance/digital formats; and a community of practice connecting Chemistry teachers across schools for peer support and resource sharing.
+J.4 Rural and urban differences
+Urban schools typically have better infrastructure but face larger class sizes; rural schools have smaller classes but fewer resources. The curriculum accommodates both by: providing Tier 1 activities that are equally relevant in urban and rural settings; including content grounded in both urban realities (air pollution, industrial chemistry, water treatment) and rural realities (water quality from wells, animal husbandry chemistry, soil and pasture, traditional dairy processing); and ensuring that digital integration is always enhancement, never requirement—rural schools without internet or devices can deliver the full core curriculum.
+J.5 Language considerations
+All chemical terminology must be established first in Mongolian, with international terms introduced as parallel vocabulary. For Kazakh-medium and Tuvan-medium schools, bilingual or trilingual glossaries should be provided. Technical chemical vocabulary that has no established Mongolian equivalent should be transliterated with a clear Mongolian definition provided alongside. Scientific literacy in the mother tongue is the priority; English chemical terminology is a secondary benefit, not a requirement.
+J.6 Low-resource and low-connectivity alternatives
+Every digital activity specified in this curriculum has a stated offline alternative. In schools without internet: printed periodic tables, wall charts, physical models, teacher-provided data sets, and library resources substitute for digital tools. In schools without reliable electricity: all Tier 1 activities function without electricity; experiments using candle flames or manual heating methods substitute for electric or gas burners. The fundamental principle is that no learner’s chemical education should be limited by infrastructure deficiencies—the curriculum adapts to the context, not the other way around.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+The following risks have been identified through the Step 1–6 analysis and must be actively guarded against during subsequent standards writing, textbook development, and teacher training.
+Risk 1 — Content overload: The most common failure in science curriculum development is attempting to cover too much. This 231-hour curriculum must not be treated as a compressed version of upper secondary or university chemistry. Fewer topics taught well, with deep understanding and genuine practical experience, produce better-prepared learners than many topics touched superficially. Standards writers should resist pressure to add content beyond what is specified here.
+Risk 2 — Premature abstraction: Introducing atomic orbitals, complex electron configuration, moles, stoichiometric calculations, or thermodynamics at Grades 6–8 would lose the majority of learners. The concrete-to-abstract progression must be honoured: macro-observation first, particle models second, atomic models third, symbolic representation fourth. Textbooks must not front-load abstract theory before concrete experience.
+Risk 3 — Textbook-dominated pedagogy: If textbooks are written as information-delivery devices to be read and memorised, the inquiry-based pedagogy central to this curriculum will be undermined. Textbooks should be designed as student workbooks that guide investigation, not as reference encyclopaedias to be passively absorbed. Teacher guides must model inquiry-based lesson structures.
+Risk 4 — Assessment-curriculum misalignment: If national or school-level examinations test only factual recall and symbolic manipulation, teachers will teach to those tests regardless of what the curriculum specifies. Assessment instruments must test explanation, application, investigation, and reasoning—not just memorisation of definitions and equations. This requires investment in assessment design capacity.
+Risk 5 — Decorative Mongolian grounding: If Mongolian context appears only in boxed sidebars (‘Did you know? Mongolia has copper mines!’) while the core teaching uses generic international examples, the grounding is decorative and educationally worthless. Mongolian context must be the entry point and primary investigative material for chemical concepts, not an afterthought.
+Risk 6 — Digital dependency: If textbooks, teacher training, or assessment systems assume constant digital access, schools without reliable internet or devices will be structurally disadvantaged. Digital integration must follow the enhancement-not-dependency principle rigorously.
+Risk 7 — Fragmented inquiry: If Chemistry, Biology, Physics, and Geography each develop their own uncoordinated inquiry frameworks, the unified inquiry competence built in primary will fragment. Standards writers for all four science subjects should meet and agree on a shared inquiry methodology framework before individual subject standards are finalised.
+Risk 8 — Neglecting Grade 6 as a bridge: If Grade 6 Chemistry is written as a scaled-down version of Grade 7 rather than a genuine transition year, learners will experience an abrupt rupture from primary instead of a supported bridge. The 33-hour Grade 6 curriculum must be qualitatively different: lighter, more concrete, more connected to primary experience, and focused on building curiosity and safety habits.
+Risk 9 — Ignoring teacher reality: The curriculum will fail if it assumes all teachers are specialist chemists with fully equipped laboratories. Teacher guides, practical activity specifications, and professional development must be designed for a competent general science teacher working with basic resources—not for an ideal-case urban laboratory specialist.
+Risk 10 — Losing the affective dimension: Chemistry at its best inspires wonder about the material world. If the curriculum is reduced to a list of concepts to be memorised and tested, it will lose the curiosity, engagement, and personal relevance that keep adolescent learners motivated. Every unit should begin with a question that matters to the learner, not with a definition to be copied.
+— End of Full Curriculum Draft —

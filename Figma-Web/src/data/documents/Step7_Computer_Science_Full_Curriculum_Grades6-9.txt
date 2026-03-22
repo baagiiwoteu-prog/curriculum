@@ -1,0 +1,366 @@
+FULL CURRICULUM DRAFT
+COMPUTER SCIENCE
+Мэдээллийн технологи / Компьютерын ухаан
+Lower Secondary Grades 6–9
+Official allocation: 33 hours per grade × 4 grades = 132 hours total
+Cluster 2: Mathematical and Computational Reasoning
+Step 5A Category: Light Continuous (1 lesson/week × 33 weeks × 4 years)
+Building on Steps 1–6 of the Cross-Level Competence Analysis
+Based on Mongolia's Pre-Primary (2025) and Primary (2025) Curricula
+Step 7 — Full Curriculum Draft
+Working Document — March 2026
+A. Subject Purpose and Role in Lower Secondary Education
+Computer Science in lower secondary education (Grades 6–9) develops learners' capacity to think computationally, solve problems algorithmically, understand and work with data, comprehend the digital systems that shape contemporary life, and exercise informed ethical judgement about technology. It is the sole dedicated disciplinary home for computational thinking and programming within Mongolia's eighteen-subject lower secondary architecture. No other subject provides structured instruction in how algorithms work, how data is structured and processed, or how artificial intelligence systems function.
+The subject serves three interconnected purposes. First, it develops computational thinking as a distinctive form of reasoning — the capacity to decompose problems, recognise patterns, abstract from particulars, and design step-by-step solutions. This reasoning capacity is transferable across all domains of learning and work. Second, it provides the conceptual foundations that make the cross-curricular digital layer meaningful: when learners use digital tools in Mathematics, Science, Social Studies, or other subjects, their understanding is deeper and more critical because Computer Science has taught them what happens beneath the interface. Third, it prepares learners — whether or not they pursue technology careers — to participate knowledgeably and ethically in a society increasingly shaped by algorithms, data, and artificial intelligence.
+The subject belongs to Cluster 2 (Mathematical and Computational Reasoning), paired with Mathematics. Both subjects share a reasoning architecture built from logical sequencing, pattern recognition, and abstract representation. The pre-primary curriculum linked them explicitly through the Цахим ертөнц ба алхам content domain, and the primary curriculum maintained a dedicated Компьютерын ухаан ба цахим технологи subject with three content strands. Lower secondary Computer Science continues this established trajectory — it is not a new beginning but a deepening and transformation of competences already under development since pre-primary.
+At 132 total hours (33 per year, one lesson per week), Computer Science operates within the most constrained time category in the system. This allocation demands essentialism: the curriculum focuses exclusively on what only this subject can teach, delegating application skills, general digital literacy, and digital ethics leadership to the cross-curricular layer and to Civic Ethics Education (Иргэний ёс зүйн боловсрол).
+What this subject does NOT cover
+To maintain disciplinary focus within 33 hours per year, this curriculum explicitly excludes: general office application skills (word processing, presentations, spreadsheets — these belong in the cross-curricular digital layer); digital information search and evaluation skills (shared responsibility across all subjects); primary responsibility for digital citizenship and online safety (led by Civic Ethics Education); hardware repair, networking configuration, or IT support skills; and comprehensive coverage of computer science as a university discipline. These exclusions are deliberate design decisions, not omissions.
+B. Curriculum Strands
+The curriculum is organised into two core strands, complemented by a cross-cutting dimension that is embedded within both strands.
+Strand 1: Computational Thinking and Programming (≈ 60% of time)
+This is the disciplinary core — content that no other subject provides. It develops: algorithmic reasoning (decomposition, pattern recognition, abstraction, algorithm design); programming skills progressing from block-based consolidation through text-based programming to independent project work; and systematic debugging and iterative improvement as a method of learning. This strand is essential and non-negotiable in all school contexts, including under-resourced settings where unplugged computational thinking activities replace device-dependent programming.
+Strand 2: Data, Digital Systems, and AI (≈ 40% of time)
+This strand builds understanding of how digital systems process, store, and transmit information; how data is structured, collected, analysed, and used to inform decisions; and how artificial intelligence systems work at a conceptual level — including their capabilities, limitations, and ethical implications. Without this strand, programming becomes a disconnected technical skill rather than a gateway to understanding the digital world. By Grades 8–9, this strand increasingly integrates with Strand 1 as learners write programmes that process real data.
+Cross-cutting dimension: Digital Responsibility
+Digital ethics, safety, and responsible practice are woven into both strands rather than taught as separate content. When programming, learners consider the effects of their code on users. When working with data, they address privacy, consent, and representation. When studying AI, they evaluate bias, fairness, and transparency. This embedded approach reflects the Step 5B architecture: Civic Ethics Education leads digital ethics across the curriculum; Computer Science contributes domain-specific ethical reasoning within its own practice.
+Strand weighting across grades
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Strand 1
+≈ 60% (block-based consolidation, problem decomposition)
+≈ 60% (Python introduction, basic programmes)
+≈ 55% (functions, data structures, multi-step programmes)
+≈ 50% (capstone project, code review)
+Strand 2
+≈ 40% (data classification, AI in daily life)
+≈ 40% (data collection/representation, how AI learns)
+≈ 45% (data analysis, digital systems, AI evaluation)
+≈ 50% (data-driven project, ethical AI reasoning, systems)
+The two strands converge across grades: by Grade 9, the capstone project integrates both strands, and the distinction becomes one of emphasis rather than separation.
+C. Overall Progression Across Grades 6–9
+The four-year progression follows the developmental transformation logic established in Steps 2 and 6: from consolidation through extension and analysis to synthesis and autonomy.
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Role
+Bridge and consolidate
+Extend and formalise
+Deepen and analyse
+Synthesise and create independently
+Programming
+Block-based: sequences, conditions, loops, variables; structured decomposition
+Text-based (Python): variables, input/output, conditionals, loops; simple programmes
+Functions, lists/dictionaries; 20–40 line programmes; systematic debugging
+Independent project; modular design; code review; 40–80 lines
+Data & AI
+Classify data; explore AI in daily life; data as information source
+Collect and represent data; how AI learns from data; patterns in datasets
+Analyse data critically; algorithmic bias; how the internet works; evaluate AI outputs
+Data-driven project; ethical AI reasoning; algorithms shaping society; digital systems
+Cognitive demand
+Recall and apply
+Explain and compare
+Analyse and interpret
+Synthesise and evaluate
+Autonomy
+Guided practice with scaffolding
+Structured choice within parameters
+Managed independence; teacher as coach
+Responsible autonomy; self-directed project
+Assessment focus
+Formative observation; completed activities
+Mini-projects; portfolio entries; code explanation
+Project assessment; code review; data analysis tasks
+Capstone project; portfolio review; reflective assessment
+The progression is cumulative: each grade builds explicitly on the previous year's achievements. Grade 6 consolidates primary foundations; Grade 7 introduces the key technical transition (block to text); Grade 8 develops genuine disciplinary depth; Grade 9 integrates everything into independent, contextually grounded computational work.
+D. Grade 6 Curriculum
+Annual allocation: 33 hours (1 lesson per week × 33 weeks). Effective teaching time: ≈ 25–28 hours.
+D.1 Role of the grade
+Grade 6 is the bridging year. Learners transition from primary's single-teacher, integrated environment into lower secondary's multi-subject structure. In Computer Science, Grade 6 consolidates and secures the computational competences built across primary (block-based programming with sequences, conditionals, loops, and variables; data classification; AI awareness) before any new technical complexity is introduced. It diagnoses actual competence levels — which will vary widely — and ensures all learners achieve confident foundational competence.
+D.2 Progression focus
+From primary's guided block-based activities to confident, independent block-based problem-solving. From following given algorithms to decomposing problems into algorithmic steps. From recognising data types to purposeful data classification. From knowing that AI exists to understanding how AI appears in daily life.
+D.3 Expected learning (6 outcomes)
+Strand 1: Computational Thinking and Programming (4 outcomes)
+6.1.1 Read, trace, and explain the operation of block-based programmes that use sequences, conditionals, loops, and variables — demonstrating understanding of what each construct does and why.
+6.1.2 Decompose a simple, familiar problem (from daily life or school context) into a sequence of clear, ordered steps, and represent the solution as an algorithm using a flowchart or block-based code.
+6.1.3 Create an original block-based programme of at least 10–15 blocks that solves a defined problem, incorporating at least two different constructs (e.g. a loop with a conditional, or a variable updated within a loop).
+6.1.4 Identify and correct errors in a given block-based programme by tracing the execution, describing the expected versus actual result, and modifying the code to produce the correct output.
+Strand 2: Data, Digital Systems, and AI (2 outcomes)
+6.2.1 Collect simple data from their environment (e.g. classroom survey, weather observations, daily activities), classify the data by type (number, text, image), and represent it using an appropriate format (table, bar chart) — explaining what the data shows.
+6.2.2 Identify at least three examples of AI in daily life (e.g. voice assistants, recommendation systems, image recognition), describe what they do, and explain that AI systems learn from data and can sometimes produce incorrect results.
+D.4 Indicative content direction
+Strand 1 content (≈ 18–20 hours)
+Review and consolidation of primary block-based programming skills using Scratch or equivalent environment. Diagnostic activities in the first two to three lessons to identify where each learner stands.
+Computational thinking vocabulary: algorithm, sequence, condition, loop, variable, input, output, debug. All terms introduced in Mongolian with English equivalents noted.
+Problem decomposition: breaking everyday tasks into steps (e.g. making süütei tsai — Mongolian milk tea — as an algorithm; planning a route across the classroom as a sequence of instructions).
+Block-based programming projects: interactive story featuring Mongolian folk tale characters; simple quiz about Mongolian geography or culture; animation of a traditional pattern (хээ угалз) using loops and variables.
+Debugging practice: given programmes with deliberate errors for learners to identify and fix, progressing from single errors to multiple errors.
+Strand 2 content (≈ 10–13 hours)
+Data types and classification: numbers, text, images, sounds as data. Practical data collection from the school or local environment.
+Simple data representation: tables and bar charts created by hand or with simple digital tools. Interpreting what data displays show.
+AI in daily life: exploration of familiar AI applications. Discussion: How does a recommendation system know what to suggest? Can AI make mistakes? What data does AI need?
+Digital responsibility (embedded): reviewing safe online practices from primary; discussing why data about people matters; introduction to the idea that algorithms shape what we see online.
+D.5 Pedagogy notes
+Begin every lesson with 3–5 minute retrieval practice (quick quiz, predict-the-output exercise, or vocabulary review) to counter the weekly gap between lessons.
+Pair programming throughout: one 'driver' (controlling the computer), one 'navigator' (thinking ahead, checking logic). Rotate roles regularly. This halves device requirements and builds collaboration.
+Unplugged activities for at least 30% of lessons: algorithm design with physical cards, human-robot games, sorting challenges, flowchart drawing. Essential for schools with limited devices; valuable for all schools as conceptual anchors.
+Use culturally familiar contexts for all examples: Mongolian food, family routines, seasonal activities, local geography, traditional games (shagai), Naadam festival events.
+Growth mindset emphasis: errors are expected, valued, and learned from. Every debugging session is a learning success, not a failure.
+D.6 Digital integration notes
+Primary tool: Scratch (or equivalent block-based environment). Offline version available for schools without internet.
+Data work: simple spreadsheet or even hand-drawn tables/charts where devices are limited.
+Offline alternatives: paper-based flowcharts, physical card-sorting for algorithms, group algorithm challenges using verbal instructions, printed Scratch block cards for planning before screen time.
+D.7 Mongolian grounding notes
+Problem decomposition uses Mongolian daily life: preparing traditional foods, setting up a ger, caring for livestock, planning for seasonal activities.
+Programming projects draw on Mongolian content: folk tales (e.g. animating a scene from a Mongolian legend), traditional patterns (хээ угалз as loop-generated designs), cultural quiz games.
+Data collection uses local context: school data, local weather, household activities, seasonal observations relevant to the school's aimag or soum.
+AI discussion connects to learners' actual digital lives: what apps and platforms do Mongolian students use? Where do they encounter AI?
+D.8 Assessment notes
+Predominantly formative: teacher observation of problem-solving process, peer review of programmes, self-assessment checklists.
+Maximum 2 summative assessments: (1) a block-based programming task (create a programme to solve a given problem) assessed against a clear rubric; (2) a data collection and representation activity.
+Portfolio: each learner begins a computational portfolio collecting their programmes, flowcharts, data displays, and reflections. This portfolio carries across all four grades.
+No written examinations. Assessment captures what learners can do and create, not what they can recall on paper.
+E. Grade 7 Curriculum
+Annual allocation: 33 hours (1 lesson per week × 33 weeks). Effective teaching time: ≈ 25–28 hours.
+E.1 Role of the grade
+Grade 7 is the structured-extension year. Its defining transition is the move from block-based to text-based programming — the most significant technical shift in the four-year sequence. This transition must be carefully scaffolded so that learners see conceptual continuity between the block-based logic they already understand and the text-based syntax they are learning. Grade 7 also extends data work from classification to active collection and representation, and deepens AI understanding from awareness to conceptual explanation.
+E.2 Progression focus
+From block-based to text-based programming. From applying known constructs to explaining how and why they work. From classifying data to collecting and representing it. From knowing AI exists to explaining how AI learns.
+E.3 Expected learning (6 outcomes)
+Strand 1: Computational Thinking and Programming (4 outcomes)
+7.1.1 Write simple Python programmes (5–15 lines) that use variables, input/output, and print statements to interact with a user — demonstrating understanding of variable assignment, data types (string, integer), and formatted output.
+7.1.2 Use conditional statements (if/elif/else) in Python to create programmes that make decisions based on user input or calculated values, explaining the logic of each branch.
+7.1.3 Use loops (for and while) in Python to create programmes that repeat actions a defined number of times or until a condition is met, including at least one programme that combines a loop with a conditional.
+7.1.4 Given a short Python programme containing errors (syntax errors, logic errors), systematically identify the type of error, explain why it occurs, and correct it.
+Strand 2: Data, Digital Systems, and AI (2 outcomes)
+7.2.1 Design and carry out a small data collection activity, organise the collected data in a structured format (table or spreadsheet), create at least two different representations (e.g. bar chart, pie chart), and explain what patterns or findings the data reveals.
+7.2.2 Explain, using specific examples, how AI systems learn from data (training data → pattern recognition → prediction), why the quality and quantity of training data matters, and give at least one example of how poor or biased data can lead to incorrect AI outputs.
+E.4 Indicative content direction
+Strand 1 content (≈ 18–20 hours)
+Bridge from blocks to text: first two to three lessons use side-by-side comparison of Scratch blocks and equivalent Python code to show conceptual continuity.
+Python fundamentals: print(), input(), variables (strings and integers), basic arithmetic operations, string concatenation. All introduced through practical mini-programmes, not abstract syntax lectures.
+Conditional logic: if/elif/else with comparison operators. Practical applications: Mongolian greeting programme (different greetings for different times of day); simple calculator with operation choice; quiz game.
+Loops: for loops with range(); while loops with a termination condition. Applications: counting sequences, generating multiplication tables, interactive guessing game, repetitive pattern generation.
+Debugging practice: reading error messages; distinguishing syntax errors from logic errors; systematic testing strategies (try specific inputs, check boundary cases).
+Semester project: a Python programme of 15–25 lines that combines variables, conditionals, and loops to solve a problem (e.g. a Mongolian vocabulary quiz, a simple livestock counting tool, a Naadam score tracker).
+Strand 2 content (≈ 10–13 hours)
+Data collection design: what question are we investigating? What data do we need? How will we collect it? Practical small-group data projects using school or local community data.
+Data representation: choosing appropriate chart types for different data. Creating representations digitally (spreadsheet) or by hand where devices are limited.
+How AI learns: simple explanation of training data, pattern recognition, and prediction. Demonstration using a classification activity (sorting images, recognising patterns) to show how humans and AI both learn from examples.
+Data quality: what happens when AI has too little data? Biased data? Incorrect data? Practical examples relevant to Mongolia (e.g. language translation AI performance in Mongolian versus English).
+Digital responsibility (embedded): responsible data collection (consent, privacy); questioning AI-generated content; understanding that algorithms on social platforms select what users see.
+E.5 Pedagogy notes
+The block-to-text transition is the critical pedagogical moment. Use visual mapping: show a Scratch programme, then the equivalent Python code, line by line. Learners should rewrite familiar Scratch projects in Python to experience continuity.
+Live coding: teacher writes and explains Python code in real time, thinking aloud about decisions. Learners then modify the demonstrated code.
+Pair programming continues. In Python, the navigator role becomes more cognitively demanding — reading code for errors while the driver types.
+Worked examples with commentary: provide complete, working programmes with Mongolian-language comments explaining each line. Learners modify and extend these before writing from scratch.
+Error normalisation: every lesson should include a moment where the teacher makes a deliberate error and models the debugging process aloud.
+E.6 Digital integration notes
+Primary tool: Python with Thonny IDE (free, simple, available offline) or an online environment (Repl.it, Trinket) where internet permits.
+Data work: spreadsheet application (LibreOffice Calc — free, offline-capable) or hand-drawn representations.
+AI exploration: teacher-led demonstrations of AI tools (translation, image recognition) followed by guided analysis. Not requiring individual student AI access.
+Offline alternatives: Python code written on paper and traced by hand ('desk checking'); algorithm design in flowcharts; data activities entirely paper-based. Programming on devices prioritised when access is limited.
+E.7 Mongolian grounding notes
+Programming projects use Mongolian contexts: greeting programme using Mongolian time conventions; quiz on Mongolian geography, history, or culture; simple tool relevant to local economic activities.
+Data projects investigate Mongolian realities: local weather patterns, school attendance data, family livelihood activities, seasonal migration patterns, local market prices.
+AI discussion includes Mongolian perspective: how well does AI work in Mongolian language? Why might AI systems perform differently for Mongolian users than for English-speaking users? What AI applications could help Mongolian communities?
+E.8 Assessment notes
+2–3 summative assessments: (1) a practical Python programming task (write a programme to specification); (2) a data collection and representation project; (3) optional: an explanation task where learner describes how AI learns from data.
+Portfolio continues: adding Python code samples with learner annotations, data projects, and reflections on the block-to-text transition experience.
+Formative: regular code-reading exercises, predict-the-output quizzes, peer code review of short programmes.
+Assessment rubrics should evaluate: correct functionality, code readability (meaningful variable names, comments), logical structure, and the learner's ability to explain their code in Mongolian.
+F. Grade 8 Curriculum
+Annual allocation: 33 hours (1 lesson per week × 33 weeks). Effective teaching time: ≈ 25–28 hours.
+F.1 Role of the grade
+Grade 8 is the analytical-depth year — the point of genuine disciplinary deepening. Programming advances to functions, data structures, and multi-step problem-solving. Data literacy develops into critical analysis and interpretation. Understanding of digital systems and AI extends to conceptual models of how the internet works, how algorithms shape information access, and how to evaluate AI-generated content. Learners operate with increasing independence, with the teacher shifting from instructor to coach.
+F.2 Progression focus
+From writing simple programmes to designing multi-step solutions using functions and data structures. From representing data to analysing it critically. From understanding that AI learns from data to evaluating AI outputs and recognising algorithmic bias. From using digital systems to understanding how they work.
+F.3 Expected learning (7 outcomes)
+Strand 1: Computational Thinking and Programming (4 outcomes)
+8.1.1 Define and use functions in Python to organise code into reusable, named blocks — demonstrating understanding of parameters, return values, and why functions improve programme structure and readability.
+8.1.2 Use lists (arrays) in Python to store, access, and manipulate collections of data — including adding, removing, and iterating through list items — in programmes that process multiple related values.
+8.1.3 Write Python programmes of 20–40 lines that combine functions, data structures, conditionals, and loops to solve a multi-step problem, demonstrating the ability to plan a solution before coding (using pseudocode or flowchart) and to test systematically.
+8.1.4 Apply systematic debugging strategies to identify and resolve errors in multi-step programmes: reading error messages, using print statements for tracing, testing with boundary values, and explaining the debugging process.
+Strand 2: Data, Digital Systems, and AI (3 outcomes)
+8.2.1 Analyse a real dataset (at least 20 records) by calculating basic statistics (count, average, maximum, minimum), identifying patterns or trends, and creating appropriate visualisations — while questioning the data source, collection method, and potential biases.
+8.2.2 Explain at a conceptual level how the internet works (devices, networks, servers, data packets, protocols) and how data is transmitted, stored, and retrieved — using diagrams and Mongolian-language explanations.
+8.2.3 Critically evaluate AI-generated content (text, images, recommendations) by identifying potential errors, biases, or limitations; explain what algorithmic bias means with at least two examples; and describe how algorithms shape what information people see on digital platforms.
+F.4 Indicative content direction
+Strand 1 content (≈ 16–18 hours)
+Functions: defining with def, parameters, return values. Why functions matter: reusability, readability, organisation. Practical: refactoring a previous programme to use functions.
+Lists: creating lists, indexing, len(), append(), iteration with for loops. Practical: storing and processing a collection of data (student names, test scores, daily temperatures).
+Dictionaries (introduction): key-value pairs for structured data. Practical: a simple Mongolian-English vocabulary lookup; a student grade record.
+Multi-step programme design: planning before coding using pseudocode or flowcharts. Designing programmes that combine multiple constructs to solve meaningful problems.
+Semester project: a Python programme of 20–40 lines addressing a Mongolian context problem. Examples: a livestock inventory tracker for herder families; a Mongolian historical date calculator; a weather data analyser using local temperature data; a traditional recipe scaling tool.
+Strand 2 content (≈ 12–14 hours)
+Working with real data: obtaining, cleaning, and analysing a structured dataset. Calculating basic statistics using Python or spreadsheet tools. Creating charts/visualisations.
+Critical data analysis: Who collected this data? How? What might be missing? Could the data be misleading? Practical exercises with real Mongolian data (census data, climate data, education statistics).
+How the internet works: client-server model, data packets, IP addresses, URLs, protocols — explained through analogies and diagrams, not technical specification. Practical: tracing the journey of a web request from a Mongolian school to a global server and back.
+Algorithmic bias and AI evaluation: what happens when training data is unrepresentative? Case studies relevant to Mongolia (AI language tools, facial recognition across ethnicities, recommendation algorithms). Evaluating AI-generated text for accuracy, bias, and appropriateness.
+Digital responsibility (embedded): privacy in an age of data collection; understanding digital footprints; responsible use of AI tools for schoolwork (AI as assistant, not replacement).
+F.5 Pedagogy notes
+Shift toward managed independence: teacher sets the problem, provides resources, and coaches — learners design their own solutions. Teacher intervention becomes diagnostic and responsive rather than directive.
+Code review practices introduced: learners read and evaluate each other's code for clarity, efficiency, and correctness. This develops critical reading skills and professional computational practice.
+Real data sets make learning tangible. Use data from Mongolian sources: National Statistics Office (1212.mn), school-collected data, local environmental observations.
+Collaborative projects: pairs or small groups tackling larger problems, with defined individual responsibilities. Develops accountability and coordination skills.
+Unplugged activities remain valuable: designing algorithms on paper before coding; tracing data flows through network diagrams; debating AI ethics without devices.
+F.6 Digital integration notes
+Python with more capable IDE features: simple text editor highlighting, or Thonny's debugger for stepping through code.
+Spreadsheet tools for data analysis; Python with basic file reading (open/read CSV) for schools with sufficient device access.
+AI demonstration tools: teacher-led exploration of AI text generators, image recognition, translation tools — with structured critical analysis framework.
+Offline: pseudocode and flowcharts on paper; printed datasets for hand analysis; network diagrams drawn and discussed; AI ethics discussions require no technology.
+F.7 Mongolian grounding notes
+Programming projects address genuine Mongolian challenges: livestock management tools, seasonal weather analysis, distance/travel calculators for vast Mongolian geography, traditional game simulations.
+Data analysis uses Mongolian datasets: population data across aimags, climate records, education statistics, economic indicators.
+Internet infrastructure discussion includes Mongolia's digital landscape: urban versus rural connectivity, national internet infrastructure development, challenges of serving remote communities.
+AI evaluation includes Mongolian language perspective: how well do AI systems work in Mongolian? Why? What would be needed to improve AI performance for Mongolian users?
+F.8 Assessment notes
+2–3 summative assessments: (1) a programming task requiring functions and data structures; (2) a data analysis and interpretation project using real data; (3) a critical evaluation task (analyse AI-generated content or evaluate a dataset for bias).
+Portfolio continues: Python programmes of increasing complexity, data analysis projects, reflective writing on debugging strategies and ethical questions.
+Formative: code review sessions, predict-the-output exercises with functions and lists, structured analysis of data displays, and classroom discussion of AI and digital systems concepts.
+Rubrics assess: programme functionality, code organisation (use of functions, meaningful names), systematic testing, data analysis quality, and the ability to articulate reasoning in Mongolian.
+G. Grade 9 Curriculum
+Annual allocation: 33 hours (1 lesson per week × 33 weeks). Effective teaching time: ≈ 25–28 hours.
+G.1 Role of the grade
+Grade 9 is the synthesis-and-autonomy year — the capstone of lower secondary Computer Science. Learners integrate programming, data literacy, and critical understanding of digital systems into an independent or small-group project that addresses a real problem. The year consolidates four years of computational learning into demonstrated competence: the ability to plan, build, test, improve, present, and reflect on a computational solution. Grade 9 should leave learners prepared for upper secondary study — whether or not they continue with Computer Science — and equipped with computational thinking skills transferable to any future pathway.
+G.2 Progression focus
+From teacher-set problems to learner-defined problems. From individual constructs to integrated programme design. From analysing given data to designing data collection and analysis. From understanding AI to articulating reasoned ethical positions on technology. From following assessment criteria to reflective self-evaluation.
+G.3 Expected learning (6 outcomes)
+Strand 1: Computational Thinking and Programming (3 outcomes)
+9.1.1 Plan, design, implement, test, and improve an independent Python programme of 40–80 lines (or equivalent complexity) that addresses a real problem relevant to the learner's context — demonstrating modular design (functions), appropriate data structures, user interaction, and systematic testing.
+9.1.2 Read, trace, and critically evaluate another person's code: identify its purpose, assess its clarity and efficiency, suggest at least two specific improvements, and provide constructive written feedback.
+9.1.3 Present their capstone project to an audience (class, teacher, or broader school community), explaining the problem, the computational approach, the design decisions made, the challenges encountered, and the lessons learned — using clear Mongolian-language technical communication.
+Strand 2: Data, Digital Systems, and AI (3 outcomes)
+9.2.1 Design and execute a data-driven investigation: formulate a question, identify appropriate data sources, collect or obtain data, analyse it using computational tools, visualise the findings, and present conclusions — with explicit attention to data quality, limitations, and ethical considerations.
+9.2.2 Explain how algorithms shape daily life — including social media content selection, search engine ranking, recommendation systems, and automated decision-making — and articulate at least two reasoned ethical positions on issues such as algorithmic transparency, data privacy, or AI governance.
+9.2.3 Describe the components and functioning of digital systems at a conceptual level (computing devices, networks, cloud services, data centres) and explain how digital infrastructure connects to real-world consequences including environmental impact, economic opportunity, and equity of access — with specific reference to Mongolian context.
+G.4 Indicative content direction
+Strand 1 content (≈ 14–16 hours)
+Capstone project (≈ 10–12 hours across the year): Learners define a problem, plan their solution (pseudocode/flowchart), implement in Python, test systematically, improve based on feedback, and present. The project should integrate both strands — ideally involving data processing. Examples: a Mongolian language quiz generator using file input; a local weather data analyser with statistics and visualisation; an inventory tool for a school or community need; a simple text-based game with scoring and data storage.
+Code review: formal sessions where learners read and evaluate each other's code. Focus on readability, logic, efficiency, and constructive feedback.
+Modular design principles: organising programmes into functions; planning programme architecture before coding; writing programmes that are easy for others to read and maintain.
+Consolidation: any gaps in previous programming skills (variables, conditionals, loops, functions, lists) are addressed through the project rather than as separate instruction.
+Strand 2 content (≈ 14–16 hours)
+Data-driven investigation (≈ 6–8 hours): a structured project investigating a real question using real data. Mongolian data sources: National Statistics Office (1212.mn), school data, local community surveys, environmental observations. Investigation includes: question formulation, data collection/obtaining, analysis, visualisation, conclusion, and critical reflection on limitations.
+Algorithms in society: how search engines rank results; how social media algorithms select content; how automated systems make decisions (loan approvals, content moderation, hiring). Discussion of transparency, fairness, and accountability.
+Digital systems and infrastructure: from personal devices to global networks. How cloud computing works. Data centres and energy consumption. Mongolia's digital infrastructure: national networks, satellite connectivity in remote areas, e-government initiatives.
+Ethical reasoning consolidation: structured discussion and position-taking on technology issues. Format: debate, written position paper, or presentation. Topics might include: Should AI be used to grade student work? Who is responsible when an algorithm makes a harmful decision? How should Mongolia develop its AI capacity?
+Digital responsibility (embedded): responsible AI use for academic work; digital legacy and long-term digital footprint; making informed personal choices about technology use.
+G.5 Pedagogy notes
+Responsible autonomy: the teacher's role is primarily facilitation, coaching, and quality assurance. Learners manage their own project timelines, seek resources independently, and make design decisions.
+Project management skills: learners maintain a project log documenting their planning, decisions, problems, and solutions. This develops metacognitive awareness and provides assessment evidence.
+Peer learning is central: code review, project feedback sessions, and collaborative problem-solving. Learners learn as much from examining others' approaches as from their own work.
+Public presentation of projects — even to the class — develops communication skills and provides authentic motivation for quality work.
+Structured ethical discussions require careful facilitation: establish norms for respectful disagreement, require evidence-based reasoning, and ensure multiple perspectives are heard.
+G.6 Digital integration notes
+Python environment with file handling capabilities for the capstone project. Learners should be able to read data from files (CSV) and produce output.
+Data analysis: spreadsheet tools and/or Python with simple data libraries. Visualisation using charts generated in spreadsheets or simple Python graphing.
+Presentation tools for capstone project presentation (digital or poster-based).
+Offline alternatives: capstone project can be planned, pseudocoded, and partially coded on paper where device time is severely limited. Data investigation can use printed datasets. Ethical discussions require no technology.
+G.7 Mongolian grounding notes
+Capstone projects should address genuine Mongolian problems or serve Mongolian communities: tools for herders, educational resources in Mongolian, local environmental monitoring, community information systems.
+Data investigations use Mongolian data to explore Mongolian questions: population distribution across aimags, educational access in rural areas, climate change effects on the Mongolian steppe, livestock census data, economic development patterns.
+Digital systems discussion includes Mongolia's specific digital development: challenges and achievements in connecting a vast, sparsely populated country; e-Mongolia initiatives; opportunities for Mongolian technology development.
+Ethical discussions include Mongolian perspective: What are Mongolia's priorities for AI development? How should traditional knowledge and digital innovation relate? What digital rights matter most for Mongolian citizens?
+G.8 Assessment notes
+2 major summative assessments: (1) Capstone programming project — assessed holistically on problem definition, programme design, code quality, testing, presentation, and reflection; (2) Data-driven investigation — assessed on question quality, data handling, analysis, visualisation, conclusions, and critical reflection.
+Final portfolio review: the four-year portfolio is reviewed as evidence of progression from block-based programming to independent Python projects, from simple data classification to critical data analysis, and from basic AI awareness to ethical reasoning about technology.
+Reflective self-assessment: learners write a reflective statement evaluating their own computational competence development across Grades 6–9, identifying strengths, areas for growth, and how computational thinking connects to their future learning.
+No written examinations. The capstone project is the primary summative instrument — it demonstrates integrated competence more authentically than any test could.
+H. Whole-Subject Pedagogy Guidance
+Computer Science is a practical discipline. Understanding computational concepts comes through doing — writing code, debugging programmes, analysing data, building projects. The pedagogical approaches below apply across all four grades, adapted to the developmental level described in each grade section.
+H.1 Core principles
+Active majority: At least 60% of total lesson time should be spent on hands-on activity — coding, debugging, data work, collaborative problem-solving, or unplugged computational challenges. Direct instruction should be concise (5–10 minutes per lesson) and immediately followed by application.
+Retrieval practice: Every lesson begins with 3–5 minutes of retrieval (quick-fire questions, predict-the-output, vocabulary recall) to counter the weekly gap between lessons. This is non-negotiable for a one-hour-per-week subject.
+Pair programming: The default working mode throughout Grades 6–9. One driver, one navigator, rotating regularly. This builds collaboration, halves device requirements, produces better code, and reduces the isolation that can cause learners to disengage when stuck.
+Error normalisation: Errors are the primary learning mechanism in programming. Every lesson should include a deliberate error for the class to find and fix. Teachers should model debugging aloud, showing that experts also make and correct mistakes.
+Graduated autonomy: From guided practice (Grade 6) through structured choice (Grade 7) to managed independence (Grade 8) to responsible autonomy (Grade 9). The teacher role shifts from instructor → demonstrator → coach → facilitator across the four years.
+H.2 Key pedagogical strategies
+Live coding: The teacher writes and explains code in real time, thinking aloud. More effective than presenting finished code because learners see the decision-making process.
+Worked examples with modification: Provide working, annotated programmes. Learners first understand them, then modify and extend them, then create from scratch. This scaffolding is essential for the block-to-text transition in Grade 7.
+Unplugged activities: Computational thinking without computers — physical sorting, human-robot instructions, pattern-building with cards, flowchart design, algorithm races. Valuable for all schools; essential for under-resourced schools. Should constitute at least 20–30% of Strand 1 time.
+Project-based learning: At least one extended project per semester from Grade 7 onwards, increasing in scope and autonomy. Projects should address real, contextually meaningful problems.
+Code review: From Grade 8, structured sessions where learners read, evaluate, and provide feedback on each other's code. Develops critical reading and professional practice.
+H.3 Lesson structure for weekly lessons
+Given the one-hour, once-per-week constraint, a consistent lesson structure supports retention:
+Minutes 1–5: Retrieval practice (quick review of previous lesson's key concepts or skills)
+Minutes 5–15: Direct instruction or demonstration (new concept, live coding, or worked example)
+Minutes 15–40: Active practice (programming, data work, collaborative problem-solving, project work)
+Minutes 40–45: Reflection and preview (what did we learn? what comes next? save portfolio evidence)
+H.4 Differentiation
+Programming produces wide ability ranges rapidly. Differentiation strategies include: open-ended tasks solvable at different sophistication levels; extension challenges for faster learners; scaffolded starter code and templates for those who need support; pair programming partnerships that balance strengths; and flexible grouping that allows learners to work at their own pace within structured projects.
+I. Whole-Subject Assessment Framework
+I.1 Assessment philosophy
+Assessment in Computer Science should capture what learners can do, create, and reason about — not what they can recall on paper. The subject's distinctive contribution is practical computational competence: the ability to solve problems through code, work with data, and think critically about digital systems. Assessment must reflect this practical orientation.
+I.2 Assessment modes
+Formative (dominant mode): Observation of problem-solving process; predict-the-output exercises; quick debugging challenges; peer code review; self-assessment checklists; exit tickets; retrieval quizzes.
+Summative (limited): Maximum 2–3 per year. Primarily project-based: assessed programme, data analysis project, or critical evaluation task. Rubric-assessed against clear, known criteria.
+Portfolio (continuous): Each learner maintains a computational portfolio across all four grades, collecting: programmes with annotations, data projects, flowcharts, reflections, and self-assessments. The portfolio is the primary evidence of progression and the basis for end-of-year summative judgement.
+I.3 Assessment progression
+Grade
+What is assessed
+How
+Summative events
+6
+Block-based programming competence; problem decomposition; data classification; basic AI awareness
+Observation; completed programmes; data displays; self-assessment
+1 programming task + 1 data activity (max 2)
+7
+Python basics (variables, conditionals, loops); debugging; data collection/representation; AI learning concepts
+Practical coding tasks; mini-projects; data project; code explanation
+1 programming task + 1 data project + optional AI explanation (max 3)
+8
+Functions, data structures, multi-step programmes; data analysis; digital systems understanding; AI evaluation
+Programming project; data analysis with real dataset; critical AI evaluation; code review
+1 programming project + 1 data analysis + 1 critical evaluation (max 3)
+9
+Independent project integrating both strands; data investigation; ethical reasoning; reflective self-evaluation
+Capstone project with presentation; data investigation; portfolio review; reflective statement
+Capstone project + data investigation (2 major assessments)
+I.4 What assessment must NOT do
+Must NOT rely on written examinations testing factual recall (name parts of a computer, define terms, list steps of a methodology).
+Must NOT assess only the final product — the process of problem-solving, debugging, and iteration is equally important.
+Must NOT penalise errors in programmes — errors that are identified and corrected demonstrate learning.
+Must NOT use assessment methods that require more time than the subject can afford — two to three summative events per year is the absolute maximum.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed learner readiness
+Learners will arrive at Grade 6 with widely varying computational experience — from confident block-based programmers to those with minimal primary-level computing exposure. The curriculum addresses this through: diagnostic activities in early Grade 6; pair programming that naturally supports mixed-ability working; open-ended tasks that can be completed at different sophistication levels; scaffolded entry points (starter code, templates) alongside extension challenges; and the consolidation design of Grade 6 that secures foundations before advancing.
+J.2 Resource variability
+The curriculum specifies three implementation tiers to ensure equity across Mongolia's diverse school conditions:
+Full implementation (well-resourced schools)
+Reliable computer lab with internet access. All programming done on devices. Full use of Python environment, spreadsheet tools, and online resources. Data projects use digital tools. AI demonstrations use live AI tools.
+Standard implementation (moderately resourced schools)
+Some computers, intermittent internet. Pair or group programming (2–3 learners per device). Offline Python environment (Thonny). Data work split between digital and paper methods. AI exploration teacher-led with single demonstration device. Downloaded resources rather than online access.
+Minimum viable implementation (under-resourced schools)
+Minimal or no computing devices. Strand 1 delivered primarily through unplugged computational thinking activities: paper-based algorithm design, flowcharts, human-robot exercises, card-sorting, logic puzzles. Programming concentrated in whatever device time is available (shared devices, mobile lab visits, or borrowed equipment). Strand 2 delivered entirely through discussion, paper-based activities, printed datasets, and drawings. AI understanding built through conversation and examples rather than digital tools.
+Essential outcomes achievable at minimum viable level: computational thinking (decomposition, algorithmic reasoning, debugging logic), data literacy (classification, interpretation, critical questioning), and AI/digital systems understanding (conceptual knowledge, ethical reasoning). Programming proficiency outcomes require device access and should be prioritised whenever devices are available.
+J.3 Teacher support needs
+Teacher capacity is the single greatest implementation risk. Many teachers currently assigned to Computer Science have ICT-skills training rather than computer science education. The curriculum must be supported by:
+Detailed teacher guide with lesson-by-lesson plans, including preparation notes, common student misconceptions, and troubleshooting guidance.
+Complete worked code examples with Mongolian-language commentary for every programming activity.
+Pre-built starter projects and templates that teachers can use directly while developing their own confidence.
+Full instructions for every unplugged activity, including materials lists and facilitation notes.
+Assessment rubrics with annotated exemplars showing what work at different quality levels looks like.
+Professional development priorities: (1) computational thinking as a reasoning approach, not just a technical skill; (2) basic Python confidence — teachers need to be approximately one year ahead of students; (3) pedagogical strategies for teaching programming (live coding, error normalisation, pair programming management).
+J.4 Rural and urban considerations
+Urban schools in Ulaanbaatar and aimag centres are more likely to have reliable computing infrastructure, internet access, and teachers with some computer science background. Rural soum and bag schools face greater device constraints, connectivity challenges, and may have teachers teaching Computer Science alongside multiple other subjects. The three-tier implementation model addresses this explicitly. Additionally: Mongolian grounding content should reflect rural and pastoral as well as urban contexts — herding, seasonal migration, local ecology, and community data are as valid as urban examples; teacher support materials should be available offline (printed or on USB) for schools without reliable internet; and peer networks among teachers across schools (facilitated by aimag education departments) can provide mutual support.
+J.5 Inclusion of diverse learners
+Computer Science must be accessible to all learners regardless of gender, ability, prior experience, or background. Specific inclusion strategies: use diverse project contexts that connect to varied interests (not only games and robots but also art, music, storytelling, community service); ensure pair programming partnerships rotate to prevent exclusion; provide scaffolded entry points for every task so that no learner faces a blank screen without support; use Mongolian language for all concept building while noting English technical terms; and ensure that assessment captures process and thinking, not just polished outputs — so that learners who struggle with syntax but demonstrate strong computational reasoning are recognised.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+The following risks would undermine this curriculum if they occur during the standards-writing or textbook-development phase:
+1. Content overload: Adding topics beyond the two-strand architecture (hardware components, networking details, web development, multiple programming languages, database design). At 33 hours per year, any addition forces a subtraction. Every proposed addition must answer: What will be removed to make room?
+2. Reversion to ICT skills: Replacing computational thinking and programming with application tutorials (how to format a document, how to make a slide deck). These skills belong in the cross-curricular layer, not in this subject.
+3. Textbook-dominated delivery: Producing textbooks that replace hands-on programming with reading about programming. The textbook should be a reference resource and activity guide, not the primary learning medium.
+4. Written examination pressure: Creating end-of-year or end-of-cycle written examinations that test factual recall. This would distort teaching toward memorisation and away from practical competence. Assessment must remain primarily practical and portfolio-based.
+5. Breaking the progression: Designing Grade 6 as a miniature version of Grade 9 rather than as a bridge from primary. Each grade has a distinct developmental role; flattening grades into identical structures destroys the progression logic.
+6. Ignoring primary inheritance: Starting from scratch in Grade 6 as if learners have no prior computational experience. The primary curriculum builds substantial competence in block-based programming, data awareness, and AI understanding. Grade 6 must build on this, not repeat it.
+7. Cultural surface treatment: Adding Mongolian examples as decorative wrappers around imported content rather than using Mongolian contexts as substantive sources of computational problems and data.
+8. Device dependency: Writing standards or textbooks that assume universal computer access. Every conceptual learning activity must have a specified offline pathway. Unplugged computational thinking is genuine computer science education, not a compromise.
+9. Losing the ethical dimension: Treating data ethics, AI evaluation, and digital responsibility as optional add-ons rather than embedded practice. Every programming and data activity should include a moment of ethical reflection — even briefly.
+10. Uniform pacing: Assuming all learners progress at the same rate. Standards should specify essential outcomes (achievable by all) and enrichment outcomes (extending the most capable), with clear guidance on differentiation strategies.
+— End of Document —

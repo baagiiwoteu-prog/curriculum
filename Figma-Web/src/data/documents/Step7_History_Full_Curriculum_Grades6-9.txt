@@ -1,0 +1,499 @@
+FULL CURRICULUM DRAFT
+HISTORY (ТӨӨХ)
+Grades 6–9 • Lower Secondary Education • Mongolia
+Step 7 • Full Curriculum Draft Series
+Based on Steps 1–6 Design Architecture and Subject Design Brief
+Official Lesson Allocation: Grade 6 = 33 | Grade 7 = 66 | Grade 8 = 66 | Grade 9 = 66 | Total = 231 hours
+Working Document — March 2026
+A. Subject Purpose and Role in Lower Secondary Education
+History at lower secondary (Grades 6–9) develops learners’ capacity to think historically about human experience across time. It is the primary curricular vehicle for temporal reasoning, evidence-based interpretation of the past, cultural identity formation, and civic understanding grounded in historical depth. The subject enables learners to understand how the present emerged from the past, why societies change, how evidence is used to construct knowledge about what happened, and how historical understanding informs responsible participation in contemporary life.
+In the Mongolian context, History serves a distinctive national purpose: it is the subject through which learners engage with Mongolia’s nomadic civilisational heritage, the Mongol Empire’s global significance, the complex modern transformation from empire through socialism to democracy, and the country’s evolving position in a globalised world. Mongolian history is not one strand among equals; it is the structural centre of the curriculum, with world history providing comparative and connective context.
+The subject continues and transforms competences established in pre-primary (Байгаль, нийгмийн орчин) and primary (Нийгмийн ухаан) education. It does not begin from zero. Learners enter Grade 6 with cultural familiarity, basic source-use skills, narrative understanding, and social awareness that must be deliberately deepened into disciplinary historical thinking across the four-year sequence.
+Five core disciplinary capacities are developed across Grades 6–9: temporal reasoning (understanding time, change, continuity, and periodisation); evidence-based interpretation (treating sources as evidence, recognising perspective, evaluating reliability); historical empathy and perspective-taking (understanding past people within their contexts); causal and structural reasoning (explaining why events occurred and what consequences followed); and identity and cultural reflection (using history to explore personal, national, and cultural identity).
+B. Curriculum Strands
+The History curriculum is organised around three content strands and one integrated methodological strand. The strands are not taught in weekly rotation but are interwoven within each unit: a topic in Strand 1 will typically involve comparative context from Strand 2 and thematic inquiry from Strand 3, all requiring the skills of the methodological strand.
+Strand 1: Mongolian History and Heritage (~50–55% of time)
+This is the anchor strand. It provides the primary content through which historical thinking is developed. It progresses from local and family history (Grade 6), through early statehood and the Mongol Empire (Grade 7), to modern transformation (Grade 8), and contemporary Mongolia in historical perspective (Grade 9). Mongolian history is treated as a sophisticated civilisational tradition—nomadic pastoralism, steppe governance, Silk Road connectivity, and modern nation-building—not as a preliminary to ‘real’ (sedentary) history.
+Strand 2: World History in Comparative Perspective (~25–30% of time)
+This strand provides the comparative, connective, and contrastive context that enriches understanding of Mongolian history and locates Mongolia within broader human experience. It is not a parallel world history survey. It selects world-historical themes and episodes that illuminate, contextualise, or provide contrast with Mongolian developments: other nomadic civilisations, settled empires that interacted with the steppe, the Silk Road as a system, industrialisation, colonialism, and globalisation.
+Strand 3: People, Society, and Change (~15–20% of time)
+This thematic strand addresses recurring human questions across time and place: how are societies organised? Why do they change? How does power work? How do ordinary people experience historical forces? How do environments shape human choices? It ensures that social, economic, environmental, and cultural dimensions of history are not subordinated to political and military narrative. It builds the comparative analytical skills that connect historical knowledge to present-day understanding.
+Integrated Methodological Strand: Historical Thinking and Inquiry
+This is not a separate content strand but a set of disciplinary practices embedded in all content: chronological reasoning, source analysis, causal explanation, perspective recognition, historical argumentation, and evidence-based writing. Skills are always taught through content, never as isolated exercises. The progression runs from guided observation and description (Grade 6) through structured analysis (Grades 7–8) to independent research and synthesis (Grade 9).
+C. Overall Progression Across Grades 6–9
+The four-year progression follows the developmental transformation logic established in Step 2, adapted for disciplinary History:
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Cognitive mode
+Describe: concrete, narrative, local
+Explain: structured, causal, scaffolded
+Analyse: multi-causal, evaluative, comparative
+Synthesise: independent, reflective, argumentative
+Content centre
+Family, local, and Mongolian heritage
+Early Mongolian statehood; Mongol Empire; comparative civilisations
+Modern Mongolia (Qing→independence→20th C.); global transformations
+Contemporary Mongolia in world context; democratic transition; globalisation
+Source work
+Observe and describe simple sources (images, objects, short texts)
+Extract, compare, and begin to evaluate sources
+Analyse reliability, perspective, and purpose of sources
+Independently evaluate and cross-reference sources; construct source-based arguments
+Writing demand
+Sentences, captions, short paragraphs with scaffolding
+Structured paragraphs with causal connectives
+Multi-paragraph responses; mini-essays
+Extended essays; research reports; reflective writing
+Cultural identity
+Familiarity: personal and family heritage
+Recognition: Mongolian civilisational achievements
+Understanding: modern transformation and its contexts
+Positioned identity: reflective engagement with heritage and present
+Learner agency
+Guided: teacher structures inquiry
+Structured choice: options within teacher framework
+Managed independence: learner-designed mini-projects
+Responsible autonomy: independent research with scaffolding
+Hours / lessons per week
+33 hrs / 1 per week
+66 hrs / 2 per week
+66 hrs / 2 per week
+66 hrs / 2 per week
+D. Grade 6 Curriculum: Discovering History
+D.1 Role of the Grade
+Grade 6 is a transition and orientation year. It bridges from the integrated Social Studies experience of primary to the disciplinary study of History. With only 33 hours (one lesson per week, approximately 25–27 effective teaching lessons), it cannot attempt content coverage. Its purpose is to build curiosity about the past, establish foundational historical thinking habits, and demonstrate that History is an active process of inquiry—not a fixed body of facts to memorise.
+D.2 Progression Focus
+The dominant cognitive mode is descriptive and concrete: learners describe what they observe in sources, sequence events on timelines, tell historical stories, and begin to distinguish the past from the present. The cultural identity orientation is familiarity: connecting personal and family heritage to broader Mongolian historical experience. Learner agency is guided: the teacher structures all inquiry, provides questions, and scaffolds every task.
+D.3 Unit Overview
+Grade 6 comprises four substantive units plus an opening orientation module. Each unit integrates content from all three strands, with Strand 1 (Mongolian History) dominant.
+Unit
+Title & Focus
+Core Content & Questions
+Key Skills
+Hours
+0
+What Is History? (Orientation)
+What is the past? How do we know about it? What are historical sources? How is History different from stories? Introduction to timelines.
+Asking historical questions; identifying sources; sequencing events
+3–4
+1
+My Family’s History
+Family trees and genealogical tradition (ургийн бичиг); how families remember the past; what objects tell us about family history; changes across generations.
+Oral history (interviewing family); reading family objects as sources; constructing simple timelines
+5–6
+2
+Our Nutag: Local History
+The history of our local area (nutag); place names as historical evidence; landmarks and monuments; how has our community changed? What was here before us?
+Reading landscape as evidence; comparing old and new photographs; describing change and continuity
+5–6
+3
+How Mongolians Have Lived: The Nomadic Way
+The Mongolian ger, the five animals, seasonal migration, dairy culture, traditional tools and clothing. Why did Mongolians live this way? How does environment shape life? Comparison: how people in other parts of the world have lived differently.
+Describing historical ways of life; reading objects and images; comparing different ways of living
+6–7
+4
+Stories from the Mongolian Past
+Selected stories of historical figures and events from Mongolian tradition (e.g. The Secret History, Chinggis Khaan’s childhood, a legendary Mongolian woman). What can stories tell us about the past? Are stories the same as history?
+Distinguishing story from historical evidence; retelling historical narratives; beginning to ask ‘how do we know?’
+5–6
+Total: approximately 25–29 lessons, fitting within the 33-hour allocation after accounting for assessment and school events.
+D.4 Expected Learning Outcomes — Grade 6
+Code
+Learning Outcome
+Evidence of Achievement
+H6.1
+Place events and experiences in chronological order and construct simple timelines
+Creates a timeline of family or local history with at least 5 correctly sequenced entries
+H6.2
+Ask simple historical questions about the past (who, what, when, where, why)
+Generates at least 2 meaningful questions when presented with a historical source or story
+H6.3
+Identify and describe different types of historical sources (objects, images, oral accounts, short texts)
+Names the type of source and describes what it shows or tells us about the past
+H6.4
+Describe how life in Mongolia has changed over time, using concrete examples
+Provides at least 2 specific examples of change and 1 example of continuity in Mongolian life
+H6.5
+Conduct a simple oral history interview with a family or community member
+Prepares questions, records responses, and reports findings to the class
+H6.6
+Explain that people in different times and places have lived differently, without judging
+Describes at least 1 non-Mongolian way of life with accuracy and respect
+H6.7
+Distinguish between a historical story and historical evidence
+Identifies at least 1 difference between a legend/story and a source-based historical account
+H6.8
+Connect personal and family heritage to broader Mongolian historical experience
+Explains 1–2 ways their family history connects to wider Mongolian traditions or events
+D.5 Pedagogy Notes — Grade 6
+Use storytelling and narrative as the primary engagement strategy. Compelling stories from the Mongolian past hook learners’ curiosity and build the emotional engagement that sustains disciplinary interest.
+Make every lesson source-based. Even when telling a story, show learners a related source (an image, an object, a short text) and ask: ‘What does this tell us?’
+Use the local environment as a classroom. Local landmarks, place names, community elders, family objects, and the physical landscape are all historical sources accessible in every school context.
+Prioritise oral work. Grade 6 learners may not yet write fluently about historical topics. Discussion, storytelling, and oral presentation should carry at least half the learning load.
+Keep written tasks short and scaffolded. Sentence starters, writing frames, and structured templates support learners who are new to historical writing.
+Connect explicitly to primary learning. Reference what learners know from Нийгмийн ухаан and pre-primary cultural activities. Do not treat Grade 6 as a fresh start.
+D.6 Digital Integration Notes — Grade 6
+Where devices are available: use photographs of local historical sites or family objects; display short video clips of traditional Mongolian life; explore a simple interactive timeline tool.
+Critical digital skill: begin to distinguish between a photograph (a source with a date and origin) and a general internet image (no clear provenance). This is the earliest digital literacy contribution.
+Offline alternatives: all outcomes achievable without devices. Printed photographs, physical objects, hand-drawn timelines, and oral interviews are fully sufficient. Teacher smartphone can be used to photograph student work for portfolio documentation.
+D.7 Mongolian Grounding Notes — Grade 6
+The entire Grade 6 curriculum is Mongolian-centred. Family history connects to ургийн бичиг tradition. Local history draws on нутаг identity. The nomadic way of life is studied as a sophisticated civilisational system, not a primitive stage.
+Mongolian terminology is introduced naturally: нутаг, айл, гэр, дээл, хаан, ноён. Learners begin building a historical vocabulary in their mother tongue.
+Oral tradition is positioned as a legitimate historical method, not an inferior alternative to written sources. This validates the heritage of rural and nomadic families whose historical knowledge is predominantly oral.
+D.8 Assessment Notes — Grade 6
+Assessment is predominantly formative and low-stakes. No formal written examination.
+Core assessment products: a family history timeline (Unit 1); an oral history report (Unit 1 or 2); a comparison poster or presentation (‘Then and Now’ for Unit 2 or 3); a source description task (any unit).
+The teacher assesses through observation, classroom dialogue, and review of student products. A simple portfolio collects evidence across the year.
+Maximum 2–3 assessed products across the year. The priority is building enthusiasm and foundational skills, not measuring performance.
+E. Grade 7 Curriculum: Establishing Historical Thinking
+E.1 Role of the Grade
+Grade 7 is the first full year of History as a discipline, with 66 hours (two lessons per week). It establishes the strand architecture, introduces formal source analysis, and builds the capacity for causal explanation. It is effectively the year in which learners discover what it means to think historically: to ask why, to examine evidence, and to construct warranted explanations of the past.
+E.2 Progression Focus
+The dominant cognitive mode shifts from description to explanation: learners are expected not just to describe what happened but to explain why, using evidence and causal reasoning. Source work moves from observation to structured analysis. Writing develops from short descriptions to structured paragraphs using causal language (because, therefore, as a result, this led to). Cultural identity moves from familiarity to recognition of Mongolian civilisational achievements. Learner agency involves structured choice within teacher-designed frameworks.
+E.3 Unit Overview
+Unit
+Title & Focus
+Core Content & Questions
+Key Skills
+Hours
+1
+The Steppe and Its Peoples: Mongolia Before Empire
+Early peoples of the Mongolian steppe; archaeological evidence; Xiongnu and Turkic confederations; how we know about peoples who left few written records. What can archaeology tell us?
+Reading archaeological evidence; basic source evaluation; chronological frameworks for early history
+8–9
+2
+The Rise of Chinggis Khaan and the Mongol Empire
+How did a nomadic people build the largest contiguous land empire? Political organisation, military innovation, the yasa, the postal system. Sources: The Secret History, Persian and Chinese accounts.
+Multi-source comparison; explaining causes of historical change; recognising different perspectives on the same events
+9–10
+3
+The Mongol Empire and the World: Connections Across Continents
+The Silk Road under Mongol rule; exchange of goods, ideas, technology, and disease; Pax Mongolica; how the Empire connected East and West. Comparison: other trade networks.
+Mapping connections; explaining consequences; using multiple sources from different cultural origins
+8–9
+4
+Life Under Empire: How Did Ordinary People Experience the Mongol World?
+What was daily life like in different parts of the empire? Merchants, herders, artisans, soldiers. Social hierarchy. Comparison: life in a contemporary European or Chinese society.
+Historical empathy; reading sources for social history; comparing different social structures
+7–8
+5
+After Empire: Mongolia Between Great Powers
+Fragmentation of the Mongol Empire; the Northern Yuan; Mongolia between Ming/Qing China and emerging Russia. Why do empires decline? What happened to the Mongol territories?
+Multi-causal explanation; reading political maps; understanding change over long periods
+7–8
+6
+How Other Civilisations Organised Themselves
+Selected comparison: one or two non-Mongolian civilisations (e.g. medieval Islamic world, medieval Europe, Song China). How did different societies solve similar problems of governance, trade, and culture?
+Structured comparison; identifying similarities and differences; avoiding anachronism
+7–8
+7
+Year Review and Skills Consolidation
+Review of key concepts, timelines, and skills. Source analysis practice. Preparation for summative assessment.
+Consolidation of all skills; self-assessment; reflection on learning
+4–5
+Total: approximately 55–58 lessons across the year, within the 66-hour allocation.
+E.4 Expected Learning Outcomes — Grade 7
+Code
+Learning Outcome
+Evidence of Achievement
+H7.1
+Explain why historical events occurred, identifying at least two causes
+Writes a structured paragraph explaining causes of a specific historical development (e.g. rise of the Mongol Empire) with evidence
+H7.2
+Analyse historical sources by identifying their origin, purpose, and perspective
+Completes a source-analysis framework (who made it, when, why, what perspective) for at least 2 different source types
+H7.3
+Compare two or more sources about the same event and explain why they may differ
+Identifies at least 2 specific differences between sources and offers a reasoned explanation
+H7.4
+Construct a structured historical narrative using chronological and causal connectives
+Writes a multi-paragraph account of a historical process (e.g. Mongol expansion) with clear chronology and cause-effect links
+H7.5
+Explain the significance of the Mongol Empire for both Mongolian and world history
+Identifies at least 3 specific ways the Empire affected Mongolia, Central Asia, or the wider world, supported by evidence
+H7.6
+Compare how different societies organised themselves, identifying similarities and differences without value judgement
+Produces a structured comparison of at least 2 societies using specific evidence
+H7.7
+Describe the experience of ordinary people in historical periods, using sources as evidence
+Uses at least 2 sources to reconstruct aspects of daily life in a historical period
+H7.8
+Construct and interpret complex timelines spanning centuries
+Creates a multi-event timeline with accurate dates and brief annotations
+E.5 Pedagogy Notes — Grade 7
+Source-based teaching becomes the default pedagogy. Every topic includes at least 2–3 source-analysis activities. The teacher’s guide should provide pre-selected source packs for each unit.
+Introduce structured comparison as a regular learning activity. Comparison tables, Venn diagrams, and structured writing frames help learners organise their thinking about similarities and differences.
+Historical storytelling remains important but is now supplemented by explanation. ‘What happened?’ is always followed by ‘Why did it happen?’ and ‘What were the consequences?’
+Build academic writing progressively. Introduce paragraph structure with topic sentence, evidence, explanation. Provide sentence starters and connective banks (because, therefore, however, as a result).
+Use collaborative tasks: paired source analysis, group presentations, jigsaw activities where different groups study different aspects of a topic and share findings.
+E.6 Digital Integration Notes — Grade 7
+Where available: digitised museum collections (e.g. National Museum of Mongolia online resources); interactive mapping of Mongol Empire expansion; digital timeline tools for student projects.
+Critical digital skill: begin evaluating online historical claims. When researching the Mongol Empire, learners encounter varying quality of information. Teach: who published this? Is it sourced? Does it match what other sources say?
+Offline alternatives: printed source packs, wall maps, hand-drawn timelines, photocopied images from textbooks and reference materials. All core outcomes achievable without devices.
+E.7 Mongolian Grounding Notes — Grade 7
+The Mongol Empire is taught as Mongolian history from Mongolian sources first, then enriched by external perspectives. The Secret History of the Mongols (Монголын нууц товчоо) is introduced as a foundational source—simplified extracts, not the full text.
+Nomadic political organisation is taught as a legitimate and sophisticated system: the decimal military structure, the yasa, the postal relay system, and steppe diplomacy. These are achievements, not curiosities.
+The Silk Road is taught as a system in which Mongolia was central, not peripheral. Mongolian geography (steppe corridors, mountain passes, river routes) is historical content.
+E.8 Assessment Notes — Grade 7
+Formative assessment: regular source-analysis tasks, short written responses, classroom discussion contributions, timeline construction.
+Summative assessment: 2–3 formal assessments per year. At least one should be a source-based analytical task; at least one should require structured historical writing. Factual recall alone must never constitute a summative assessment.
+One extended task per year: e.g. a mini-research project on an aspect of the Mongol Empire, a comparative poster, or a structured presentation.
+Assessment criteria should explicitly reward: use of evidence, identification of cause, comparison, and historical vocabulary.
+F. Grade 8 Curriculum: Analysing Transformation
+F.1 Role of the Grade
+Grade 8 deepens analytical capacity. Learners move from explaining single causes to analysing multiple, interacting causes; from accepting source content to evaluating source reliability; from describing change to analysing the structural factors that drive transformation. The content focus shifts to Mongolia’s modern period and its world-historical context, engaging learners with events their families lived through.
+F.2 Progression Focus
+The dominant cognitive mode is analytical-integrative. Source work advances to evaluation of reliability, purpose, and perspective. Writing extends to multi-paragraph analytical responses. Ethical reasoning deepens: learners engage with the moral complexity of empire, colonialism, revolution, and modernisation. Cultural identity moves from recognition to understanding: learners begin to comprehend why modern Mongolia is as it is. Learner agency increases: one research mini-project gives learners structured independence.
+F.3 Unit Overview
+Unit
+Title & Focus
+Core Content & Questions
+Key Skills
+Hours
+1
+Mongolia Under Qing Rule (17th–20th C.)
+How did Mongolia come under Qing control? What changed and what continued under Qing administration? Manchu policies, Buddhism’s political role, restricted autonomy. How did Mongolians experience and resist foreign rule?
+Analysing change and continuity; evaluating sources from different perspectives (Mongolian, Qing Chinese); understanding colonial/imperial structures
+8–9
+2
+Mongolia’s Independence and Early Modern State
+The 1911 revolution and Bogd Khaan’s theocracy; the 1921 revolution; Mongolian People’s Republic. Why did Mongolia seek independence? Who were the key actors? What were the competing visions for Mongolia’s future?
+Multi-causal explanation; evaluating competing accounts; understanding agency and constraint
+8–9
+3
+Mongolia in the 20th Century: Socialism, Change, and Memory
+Collectivisation, purges, modernisation, literacy campaigns, Soviet influence, loss of traditional structures. What was gained and what was lost? Oral history: how do families remember this period?
+Using oral history as evidence; analysing controversial/contested history; ethical reasoning about historical judgements
+9–10
+4
+A Comparative Age of Empires and Independence Movements
+Selected comparisons: colonialism in Asia and Africa; other independence movements; how did other peoples experience and resist imperial rule? What patterns can we identify?
+Structured comparison across cases; identifying patterns; understanding structural factors (imperialism, nationalism)
+7–8
+5
+Industrialisation, Urbanisation, and Social Change Worldwide
+How did industrialisation transform societies? Selected case studies (Britain, Japan, or another). How does Mongolia’s experience compare? Urbanisation: why did people move to cities? Environmental consequences.
+Analysing structural change; connecting economic, social, and environmental factors; using statistical evidence
+7–8
+6
+Two World Wars and Their Consequences
+Selected focus on how global conflicts affected Mongolia and its neighbours. Mongolia’s role in WWII (Khalkhin Gol). How did the wars reshape the world order?
+Analysing global interconnection; understanding how distant events affect local experience; reading propaganda as a source
+7–8
+7
+Year Review and Research Mini-Project
+Consolidation of skills and concepts. One learner-designed mini-research project on an approved topic from the year’s content.
+Independent research design; source selection and evaluation; structured writing; self-assessment
+6–8
+F.4 Expected Learning Outcomes — Grade 8
+Code
+Learning Outcome
+Evidence of Achievement
+H8.1
+Analyse historical events by identifying multiple interacting causes (political, economic, social, environmental)
+Writes an analytical response identifying at least 3 different types of cause for a specific event
+H8.2
+Evaluate the reliability and usefulness of historical sources, considering origin, purpose, context, and limitations
+Completes a structured evaluation of at least 2 sources, identifying strengths and limitations of each
+H8.3
+Explain how Mongolia’s modern history was shaped by both internal dynamics and external forces
+Produces an account of at least one modern Mongolian development showing interaction of internal and external factors
+H8.4
+Use oral history evidence to reconstruct aspects of 20th-century Mongolian experience
+Conducts an oral history interview, records findings, and integrates them into a written or oral account with source analysis
+H8.5
+Compare Mongolia’s experience of modernisation with at least one other country, identifying similarities and differences
+Writes a structured comparison identifying at least 3 points of comparison with supporting evidence
+H8.6
+Engage with contested or difficult historical events, acknowledging different perspectives and making reasoned judgements
+Discusses a contested event (e.g. collectivisation) showing awareness of at least 2 perspectives before stating a reasoned view
+H8.7
+Write a sustained analytical response of 3+ paragraphs with structured argumentation and evidence
+Produces an essay-length response with introduction, evidence-supported paragraphs, and conclusion
+H8.8
+Design and conduct a small-scale historical research project with guidance
+Completes a mini-project with a research question, selected sources, analysis, and presented findings
+F.5 Pedagogy Notes — Grade 8
+Oral history becomes a core pedagogical method. The 20th-century Mongolian content is living memory for many families. Learners should interview grandparents, older community members, or teachers about their experiences. This is both powerful pedagogy and a genuine historical method.
+Introduce debate and structured discussion of contested issues. Was Qing rule entirely negative for Mongolia? What were the trade-offs of socialist modernisation? These are genuine historical questions with multiple defensible answers.
+Extended writing is a regular activity. By Grade 8, learners should be able to produce multi-paragraph analytical responses. Provide model answers, peer review sessions, and iterative drafting opportunities.
+The research mini-project (Unit 7) should be scaffolded: teacher approves topic, helps formulate research question, provides source suggestions, reviews drafts, and assesses final product. Full independence is not expected; structured independence is.
+F.6 Digital Integration Notes — Grade 8
+Where available: access to online archives for 20th-century sources (photographs, newspaper clippings, government documents); collaborative document tools for research projects; digital presentation tools.
+Critical digital skill: evaluating online claims about contested historical events. The 20th-century history of Mongolia is subject to competing political narratives online. Learners should practice identifying bias and checking claims against multiple sources.
+Offline alternatives: printed source packs from teacher’s guide; family oral history (no technology needed); library books and school reference materials; student-created paper portfolios and wall displays.
+F.7 Mongolian Grounding Notes — Grade 8
+The 20th century is taught as Mongolian history first: learners encounter the Qing period, independence, and socialist era through Mongolian sources, family memory, and local evidence. External perspectives (Russian, Chinese, Western) are used for comparison and critical analysis, not as the primary framework.
+Buddhism’s historical role in Mongolia is treated analytically: as a political, cultural, and social force, not merely as a religious topic. The destruction of monasteries under socialism is taught as a significant historical event with lasting consequences.
+Urbanisation is connected to learners’ own experience. Many Grade 8 learners in Ulaanbaatar are children of first-generation urban families. The question ‘why did your family move to the city?’ is both a personal question and a historical one.
+F.8 Assessment Notes — Grade 8
+Summative assessment: 3–4 formal assessments per year. At least one source-based analytical task; at least one extended writing task; the research mini-project contributes to the grade.
+Assessment criteria explicitly reward: multi-causal analysis, source evaluation, structured argumentation, evidence use, and engagement with different perspectives.
+Peer assessment is introduced: learners provide structured feedback on each other’s written work using a shared rubric. This develops critical reading skills and metacognitive awareness.
+G. Grade 9 Curriculum: Synthesis, Reflection, and Identity
+G.1 Role of the Grade
+Grade 9 is the culminating year of lower secondary History. Its purpose is to synthesise the historical understanding developed across Grades 6–8, develop evaluative and reflective capacity, connect historical knowledge to contemporary life, and prepare learners for upper secondary History. Learners should leave Grade 9 able to construct independent historical arguments, evaluate competing interpretations, and use historical understanding to make sense of their own society.
+G.2 Progression Focus
+The dominant cognitive mode is evaluative-synthetic. Source work reaches full independence: learners select, evaluate, and cross-reference sources to build their own arguments. Writing includes extended essays and research reports. Ethical reasoning engages with contemporary dilemmas rooted in history. Cultural identity reaches the level of positioned identity: learners can articulate their own relationship to Mongolian heritage and contemporary reality. Learner agency approaches responsible autonomy.
+G.3 Unit Overview
+Unit
+Title & Focus
+Core Content & Questions
+Key Skills
+Hours
+1
+Mongolia’s Democratic Transition
+The 1990 democratic revolution; constitutional change; multi-party politics; economic transition. Why did socialism end? What kind of democracy did Mongolia build? How do Mongolians evaluate the transition today?
+Evaluating competing interpretations; using recent sources (newspapers, interviews, data); connecting history to the present
+8–9
+2
+Mongolia in the Global Economy: Mining, Environment, and Development
+The mining economy (Oyu Tolgoi, Tavan Tolgoi); environmental consequences (desertification, water, climate change); nomadic livelihoods under pressure. Historical roots of current dilemmas.
+Analysing present issues with historical depth; using economic and environmental data as evidence; ethical reasoning about development
+7–8
+3
+Human Rights, Democracy, and Justice in Historical Perspective
+How have ideas of rights, democracy, and justice developed over time? Selected case studies (Magna Carta, American/French revolutions, UN Declaration, Mongolia’s own constitutional rights). Why do rights matter?
+Evaluating the development of ideas over time; connecting historical ideas to present rights and responsibilities; argumentative writing
+7–8
+4
+Globalisation: How Did the World Become Interconnected?
+From Silk Road to internet: historical patterns of connection and exchange. Colonialism, trade, technology, migration. How does globalisation affect Mongolia today? Opportunities and challenges.
+Synthesising long-term patterns; evaluating costs and benefits; connecting historical processes to contemporary experience
+7–8
+5
+Contested Histories: How and Why Do People Disagree About the Past?
+Why do different people tell different stories about the same events? How do governments, communities, and individuals use history? Monuments, museums, textbooks as historical products. Case studies from Mongolia and the world.
+Evaluating historiographical perspectives; understanding the politics of memory; critical thinking about how history is used
+7–8
+6
+Who Am I in History? Identity, Heritage, and the Future
+Reflective unit: learners synthesise their learning across Grades 6–9. What has history taught me about who I am, where I come from, and where my society is going? Personal, family, and national identity in historical perspective.
+Reflective writing; constructing personal historical narratives; connecting personal experience to larger historical processes
+5–6
+7
+Independent Research Project and Course Synthesis
+Learner-designed research project on an approved topic. Sustained independent inquiry with structured checkpoints. Final presentation or essay.
+Independent research; source selection and evaluation; sustained argumentation; oral or written presentation
+8–10
+G.4 Expected Learning Outcomes — Grade 9
+Code
+Learning Outcome
+Evidence of Achievement
+H9.1
+Evaluate competing historical interpretations, explaining why historians or communities may disagree about the past
+Analyses at least 2 different interpretations of a Mongolian or world historical event, explaining the basis for each
+H9.2
+Construct an independent historical argument supported by evidence from multiple sources
+Writes an extended essay (5+ paragraphs) with a clear thesis, evidence from at least 3 sources, and a reasoned conclusion
+H9.3
+Analyse contemporary Mongolian issues (democracy, economy, environment, identity) using historical understanding
+Connects at least 1 contemporary issue to its historical roots with specific evidence
+H9.4
+Explain how ideas of rights, democracy, and justice have developed over time and why they matter today
+Traces the development of at least 1 concept (e.g. human rights) across time with specific historical examples
+H9.5
+Conduct an independent research project: formulate a question, select and evaluate sources, construct an argument, and present findings
+Completes a research project with clearly defined question, at least 4 sources, analytical discussion, and oral or written presentation
+H9.6
+Reflect on their own historical identity: how personal, family, and national heritage connects to historical processes
+Produces a reflective piece (written, oral, or portfolio) connecting personal experience to broader historical themes
+H9.7
+Critically evaluate how history is used in public life (monuments, museums, media, political discourse)
+Analyses at least 1 example of history being used or contested in contemporary Mongolia or the world
+H9.8
+Demonstrate sustained historical literacy: reading, analysing, writing, and debating about the past with disciplinary rigour
+Performs consistently across source analysis, extended writing, and oral discussion throughout the year
+G.5 Pedagogy Notes — Grade 9
+Learner autonomy is maximised. The independent research project (Unit 7) is the signature assessment: learners choose a topic (with teacher approval), design their inquiry, select sources, and present findings. Structured checkpoints (proposal, source list, first draft, final submission) ensure quality without removing independence.
+Discussion and debate become central. Units on democracy, human rights, and contested histories demand structured classroom debate, Socratic seminar, and deliberative discussion. These develop both historical understanding and civic competence.
+Reflective writing is introduced as a distinct mode. Unit 6 asks learners to connect historical knowledge to personal identity—this requires a different kind of writing from analytical essays, and should be modelled and scaffolded.
+Prepare for upper secondary transition. Grade 9 assessment should approximate the demands of upper secondary History: extended source-based analysis, essay writing, and independent inquiry.
+G.6 Digital Integration Notes — Grade 9
+Where available: independent online research for projects (with explicit source-evaluation protocols); digital presentation tools; access to news archives and government databases; collaborative writing platforms.
+Critical digital skill: evaluating how history is represented in digital media. Social media, YouTube, Wikipedia, and AI-generated content all present historical claims. Grade 9 learners should be able to critically assess digital historical content.
+Offline alternatives: library-based research; printed newspaper archives; community interviews; physical portfolio and poster presentations. The independent research project must be feasible without internet access.
+G.7 Mongolian Grounding Notes — Grade 9
+The democratic transition is taught as living, unfinished history. Learners’ parents lived through 1990. Family memory, newspaper archives, and constitutional documents are primary sources.
+The mining-environment-development nexus is a Mongolian question with global dimensions. Oyu Tolgoi and Tavan Tolgoi are not abstract case studies; they affect real communities. Environmental history connects to the science curriculum.
+The ‘Who Am I in History?’ unit (Unit 6) is the culmination of the cultural identity progression. Learners should be able to articulate what it means to be Mongolian in the 21st century—drawing on nomadic heritage, imperial legacy, socialist experience, democratic values, and global connectivity.
+G.8 Assessment Notes — Grade 9
+Summative assessment: 3–4 formal assessments. The independent research project (Unit 7) is the major summative assessment, weighted accordingly. At least one source-based analysis under timed conditions (preparation for upper secondary).
+The reflective portfolio (Unit 6) provides a qualitative assessment of identity development and personal engagement with history. It should be assessed for depth and authenticity, not for correct answers.
+Assessment criteria at Grade 9 explicitly reward: quality of argumentation, independence of thought, sophistication of source use, and ability to connect past and present.
+H. Whole-Subject Pedagogy Guidance
+The following pedagogical principles apply across all four grades, with differentiation in complexity and learner autonomy:
+H.1 Source-Based Teaching as the Default
+Every topic in every grade must involve learners working directly with historical sources. Sources include written texts (simplified for younger learners), images (photographs, paintings, maps, diagrams), objects (real or photographed), oral testimony, and data (tables, graphs, statistics). A History lesson that relies entirely on textbook narrative is not teaching the discipline. The teacher’s guide must provide pre-selected source packs for every unit.
+H.2 Inquiry as the Pedagogical Spine
+Historical questions drive learning. The inquiry cycle—question, investigate, interpret, communicate—structures every unit. In Grade 6, the teacher provides the questions; by Grade 9, learners formulate their own. The teacher’s role shifts from director to facilitator across the four years.
+H.3 Talk as a Learning Tool
+Historical understanding deepens through dialogue. Regular classroom discussion, paired talk, structured debate, Socratic questioning, and peer explanation are not optional extras; they are core pedagogy. Oral work is especially important for learners whose written literacy is developing, and for connecting to Mongolian oral tradition.
+H.4 Writing as Thinking
+Historical writing is a thinking process, not just a product. Writing tasks progress from sentences (Grade 6) through structured paragraphs (Grade 7) to multi-paragraph essays (Grade 8) and extended arguments (Grade 9). Scaffolding (writing frames, sentence starters, model answers, peer review) supports this progression. Every grade should include regular, low-stakes writing practice.
+H.5 Local and Experiential Learning
+Wherever possible, History connects to learners’ environments. Local historical sites, family oral history, community heritage, the physical landscape, regional museums, and locally significant events are all valid historical content and pedagogical resources. Rural schools have distinctive advantages: proximity to traditional culture, access to community elders, and direct experience of nomadic life. Urban schools can use built-environment history, family migration stories, and institutional history.
+H.6 Differentiation Strategies
+Within every class, learners vary in readiness, literacy, interest, and prior knowledge. Core differentiation strategies include: providing sources at different reading levels; offering choice in how to present findings (oral, written, visual); scaffolding writing tasks with frames for struggling learners and open prompts for advanced learners; using collaborative tasks where learners contribute at different levels; and assessing through multiple modes (not writing alone).
+I. Whole-Subject Assessment Framework
+I.1 Assessment Principles
+Assessment evaluates historical thinking, not just factual recall. Every summative assessment must require learners to work with sources, construct explanations, or build arguments—not merely reproduce memorised content.
+Formative assessment is continuous and low-stakes. It includes classroom observation, questioning, discussion contributions, short written tasks, self-assessment, and peer feedback.
+Summative assessment is proportionate to available time. Grade 6: 2–3 assessed products, no formal examination. Grades 7–9: 3–4 summative assessments per year, consuming no more than 12–15% of total lesson time.
+Assessment tasks must be achievable without digital devices. Where digital products are used (presentations, digital timelines), a non-digital equivalent must always be available.
+I.2 Assessment Progression
+Formative
+Summative
+Signature Task
+Grade 6
+Observation; oral questioning; source description; timeline drafts; portfolio building
+2–3 products: family timeline, oral history report, source description task. No exam.
+Family/local history oral presentation or poster
+Grade 7
+Source-analysis tasks; paragraph writing; peer discussion; timeline construction
+2–3 assessments: source-based task, structured writing, extended project. At least 1 per semester.
+Source-based investigation of Mongol Empire topic
+Grade 8
+Extended source evaluation; essay drafts; peer review; debate contributions; research planning
+3–4 assessments: source evaluation, analytical essay, mini-research project. Peer assessment included.
+Oral history research mini-project on 20th-century Mongolian experience
+Grade 9
+Independent research checkpoints; debate performance; reflective journal; draft essays
+3–4 assessments: source-based analysis (timed), extended essay, independent research project, reflective portfolio.
+Independent research project with oral or written presentation
+I.3 What Assessment Must Reward
+Use of evidence: citing, quoting, and interpreting specific sources
+Causal reasoning: explaining why, identifying multiple causes, connecting causes to consequences
+Structured argumentation: presenting a thesis, supporting it with evidence, considering counter-arguments
+Source evaluation: assessing reliability, perspective, and limitations
+Historical empathy: understanding past actors within their contexts
+Reflection: connecting historical learning to personal and civic identity
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Diverse Learners
+History is accessible to diverse learners through varied pedagogy. Source-based teaching using images, objects, and oral testimony provides entry points for learners with weaker literacy. Oral tasks (discussion, storytelling, debate, presentation) enable participation from all. Written tasks can be differentiated through scaffolding (writing frames for those who need them, open prompts for advanced learners). Learners from Kazakh, Tuvan, and Buryat communities should see their heritage reflected in the curriculum. Learners with disabilities can participate through oral, visual, and collaborative modes.
+J.2 Diverse Teacher Capacity
+The curriculum must support teachers trained in content transmission as well as those skilled in inquiry pedagogy. The teacher’s guide should provide: complete source packs for every unit (pre-selected, with guiding questions); structured lesson plans that scaffold source-based teaching step by step; assessment exemplars with marking criteria; differentiation suggestions; and model student responses. Teachers should not need to independently design inquiry lessons or find their own sources. Over time, professional development should build capacity for more independent pedagogical design.
+J.3 Diverse School Conditions
+The curriculum functions across all Mongolian school contexts:
+Tier 1 (offline, minimal resources): all core outcomes achievable with printed source packs, oral history, local environment, hand-drawn timelines, and classroom discussion. Oral history is particularly powerful in rural and nomadic contexts where community elders are accessible and oral tradition is strong.
+Tier 2 (basic connectivity, some devices): teacher can supplement with downloaded images, short video clips, and simple digital tools. Student work can be photographed for portfolios.
+Tier 3 (full connectivity): students can conduct online research, access digital archives, create digital presentations, and use interactive mapping and timeline tools. Digital source evaluation becomes a richer learning activity.
+J.4 Rural-Urban Differences
+Rural schools have distinctive advantages: proximity to historical landscapes, living nomadic culture, access to community elders with oral historical knowledge, and direct experience of environmental change. The curriculum leverages these advantages through oral history tasks, local history units, and environmental history connections. Urban schools can draw on: museum visits (where available), built-environment history, family migration narratives, and media analysis. Neither context is privileged; both are valid sites for historical learning.
+J.5 Time Protection
+With only 231 hours total (and 33 in Grade 6), the curriculum’s scope must be rigorously protected from expansion. Standards writers and textbook authors must not add topics, increase assessment requirements, or expand the scope beyond what this curriculum specifies. Every additional topic reduces the depth available for existing topics. The design principle is: fewer topics, greater depth, stronger skills.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+1. Content inflation. The most serious risk. If standards writers or textbook authors add topics beyond the curriculum’s specification, the time budget collapses and teaching reverts to surface-level content transmission. The specified number of units per grade (4–5 for Grade 6; 6–8 for Grades 7–9) is a ceiling, not a floor.
+2. Source removal. If textbooks provide narrative accounts without accompanying source materials, source-based teaching becomes impossible. Every textbook chapter must include at least 2–3 primary source extracts (texts, images, data) with guiding questions. The textbook is not the source; it is a guide to working with sources.
+3. Assessment regression. If examinations test factual recall (dates, names, events) rather than source analysis, causal reasoning, and argumentation, teachers will teach for recall regardless of curriculum intent. Assessment specifications must structurally require source work and analytical writing.
+4. Mongolian history marginalisation. If world history expands to become a parallel survey alongside Mongolian history, the time budget is halved for each. World history must remain comparative and selective—chosen to illuminate Mongolian experience, not to provide comprehensive global coverage.
+5. Digital over-specification. If learning outcomes require specific digital tools, schools without infrastructure cannot deliver the curriculum. Every outcome must be achievable offline. Digital tools are enhancements, not requirements.
+6. Grade 6 compression. If Grade 6 is treated as a miniature Grade 7 (same topics, half the time), it will fail. Grade 6 must remain qualitatively different: orientation-focused, concrete, local, narrative, and curiosity-driven.
+7. Loss of oral history. If the curriculum is implemented without the oral history components, the most powerful connection between school learning and family/community knowledge is lost. Oral history tasks must be preserved in every grade.
+8. Abstraction without anchoring. If concepts like ‘imperialism,’ ‘nationalism,’ or ‘globalisation’ are introduced as definitions to memorise rather than as explanatory tools applied to concrete cases, learning becomes superficial. Concepts must always be anchored in specific, studied examples.
+9. Ethical reasoning omission. If controversial or difficult historical topics (Qing colonialism, socialist purges, environmental destruction) are sanitised or avoided, the curriculum loses its ethical reasoning contribution. These topics should be taught with sensitivity but not avoided. Multiple perspectives should be presented; learners should be guided toward reasoned judgement, not predetermined conclusions.
+10. Uniformity across grades. If all four grades look the same in structure, pace, and demand, the developmental progression collapses. Each grade must feel qualitatively different: Grade 6 is discovery; Grade 7 is discipline-building; Grade 8 is analytical deepening; Grade 9 is synthesis and reflection.
+End of Full Curriculum Draft: History (Төөх) • Grades 6–9 • Step 7

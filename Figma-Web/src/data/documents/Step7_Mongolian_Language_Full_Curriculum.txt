@@ -1,0 +1,804 @@
+FULL SUBJECT CURRICULUM
+Mongolian Language  |  Монгол хэл
+Grades 6–9  |  Lower Secondary Curriculum
+Mongolia  |  March 2026  |  Step 7
+Field
+Detail
+Subject (Mongolian)
+Монгол хэл
+Subject cluster
+Cluster 1 — Language and Literary Formation
+Cluster partners
+Монгол бичиг (264 hrs)  |  Уран зохиол (264 hrs)
+Total lesson hours
+297 hrs  |  Grade 6: 99 hrs  |  Grades 7–9: 66 hrs each
+Lesson frequency
+Grade 6: 3 per week  |  Grades 7–9: 2 per week
+Curriculum strands
+(1) Oral Language & Listening  (2) Reading & Text Analysis  (3) Writing & Composition  (4) Language Knowledge & Use
+Document status
+Full draft curriculum — Step 7
+Upstream documents
+Steps 1–6: Inherited Competence Architecture, Developmental Transformation Logic, Cross-Curricular Framework, Subject-Cluster Architecture, Lesson-Time Architecture, Digital Integration Architecture, Subject Design Brief
+A.  Subject Purpose and Role in Lower Secondary Education
+Mongolian Language (Монгол хэл) at Grades 6–9 serves a purpose that is both deeper and wider than any other subject in the lower secondary curriculum. It is wider because it is the metacurricular subject: every other subject depends on students' capacity to read with comprehension, write with precision, listen critically, and speak with clarity in Mongolian. Weaknesses in Mongolian Language compound immediately and visibly across all seventeen other subjects. It is deeper because it is the subject through which students develop conscious command of their own language — transforming the intuitive linguistic competence they arrive with into a reflective, analytical, and creative capacity that will serve them across their lifetime.
+Mongolian Language at lower secondary is not a continuation of the primary literacy programme. It is a qualitative transformation of it. Primary Mongolian Language built the foundations: reading fluency, basic writing, phonological and grammatical awareness, vocabulary, and oral communication. Lower secondary Mongolian Language takes those foundations and builds something distinctly secondary on them: the capacity to analyse language, argue with evidence, read critically, write with sustained purpose, and engage consciously with the cultural heritage encoded in Mongolian itself.
+This subject is also the site of adolescent identity formation through language. Students at ages 11–15 are actively constructing who they are. The Mongolian Language curriculum creates structured, intellectually serious contexts for this work: engaging with the traditions, values, and questions that Mongolian culture has encoded in its literary and oral heritage; positioning themselves as readers and writers within a living language community; and developing the communicative capacities that participation in democratic Mongolian public life requires.
+The subject is designed as one of three differentiated lower secondary subjects that emerge from the unified primary Монгол хэл. In coordination with Монгол бичиг (National Script) and Уран зохиол (Literature), it forms Cluster 1 — Language and Literary Formation — carrying 825 combined hours across the four years: the largest collective allocation in the lower secondary curriculum. Монгол хэл is specifically responsible for: the language as a living system; communicative and analytical competence; contemporary and public register; academic writing; and functional grammar in service of communication.
+B.  Curriculum Strands
+Mongolian Language is organised around four integrated strands. These strands are not sequential units delivered in rotation — they are parallel, mutually reinforcing dimensions of language competence that should be present in every unit of work. The curriculum specifies approximate time weightings across the year, but these should be understood as orientations, not rigid allocations. The integration of strands within each unit is more important than precise time distribution.
+Strand
+Abbreviation
+Core focus
+Approx. % of instructional time
+Strand 1: Oral Language and Listening
+OL
+Structured speaking, formal presentation, academic discussion, argumentation, active listening, oral genre awareness
+20–25%
+Strand 2: Reading and Text Analysis
+RA
+Reading of diverse Mongolian text types; inferential and critical comprehension; vocabulary development in context; analytical response to text
+30–35%
+Strand 3: Writing and Composition
+WC
+Extended composition in multiple genres; writing as process (plan–draft–revise–edit); audience and purpose awareness; grammatical accuracy in service of communication
+30–35%
+Strand 4: Language Knowledge and Use
+LK
+Mongolian morphology, syntax and discourse; academic and specialist vocabulary; register and style awareness; metalinguistic reflection; grammar in service of reading and writing
+10–15%
+Strand integration principle: Each unit of work — typically lasting 3–4 weeks — should engage all four strands around a common Mongolian theme, text set, or communicative challenge. Students read about a topic, discuss it orally, write about it, and examine the language that makes both the source texts and their own responses work. No strand should be experienced in isolation for more than two consecutive lessons.
+C.  Overall Progression Across Grades 6–9
+The following table provides a comparative overview of how the curriculum develops across the four years. Each dimension shows the qualitative shift from the bridge year (Grade 6) to the exit year (Grade 9) — demonstrating that the curriculum is a genuine developmental progression, not four repetitions of the same content at increasing length.
+Dimension
+Grade 6  (99 hrs)
+Grade 7  (66 hrs)
+Grade 8  (66 hrs)
+Grade 9  (66 hrs)
+Grade role
+Bridge and consolidation
+Disciplinary expansion
+Analytical deepening
+Independent synthesis
+Reading mode
+Literal → inferential; single text; familiar genres
+Inferential + evaluative; author purpose; two-text comparison (intro)
+Comparative and critical; rhetorical analysis; digital texts
+Extended critical analysis; discourse and ideology; exam preparation
+Writing mode
+Structured paragraph and short narrative; guided process
+Multi-paragraph essay; opinion, formal letter; peer review introduced
+Analytical and argumentative essay; comparative writing; revision cycles
+Extended independent essay; minimal scaffolding; self-assessment
+Oral mode
+Prepared 3–4 min presentation; structured pair discussion
+Formal 5–6 min presentation; seminar participation; structured debate intro
+Structured academic debate; seminar on social/cultural topics; formal register
+Public-register oral performance; examination-style presentation; metacognitive reflection
+Grammar / language knowledge
+Functional grammar to serve reading and writing; morphology introduction; academic vocabulary launch
+Morphological analysis as reading strategy; register awareness; multi-clause sentences
+Complex syntax; nominalisation; comparative stylistic analysis; discourse markers
+Metalinguistic command; discourse analysis; grammar as craft in writing
+Cultural focus
+Mongolian folk oral tradition as textual content; contemporary daily texts as reading material
+Traditional and contemporary texts in dialogue; formal Mongolian public register
+Contemporary Mongolian public discourse; environmental and civic texts; media language
+Mongolian identity and language in context of change; critical engagement with cultural heritage
+Independence level
+High scaffolding → guided practice → structured independence
+Guided → shared → increasing independence
+Shared → independent with feedback
+Full independence with self-monitoring
+Time allocation across four years:
+Grade
+Total hours
+Lessons/week
+Cumulative hours
+Design role
+Grade 6
+99
+3 per week
+99
+Bridge and consolidation — most intensive teaching year
+Grade 7
+66
+2 per week
+165
+Disciplinary expansion — new genres, comparative reading, argumentation
+Grade 8
+66
+2 per week
+231
+Analytical deepening — rhetorical analysis, independent research writing
+Grade 9
+66
+2 per week
+297
+Independent synthesis — examination readiness, discourse analysis, metacognition
+Total
+297
+—
+297
+Full four-year lower secondary Mongolian Language programme
+GRADE 6 CURRICULUM — Монгол хэл
+99 hours total hours total  |  3 lessons per week lessons per week  |  45-minute lessons
+Grade role — The Bridge Year
+Grade 6 is the most structurally critical year in the four-year programme. Its function is explicitly transitional: to audit and consolidate the primary language foundations that national assessment data confirm are uneven across Mongolia's school system, to introduce the metalinguistic and analytical habits of secondary language study, and to do so without abandoning the safety of familiar genres and culturally grounded content. Nothing in Grade 6 should feel like an abrupt disciplinary rupture. Everything should feel like a deeper, more conscious version of language work already begun.
+6.1  Progression Focus
+Grade 6 works across three sequential phases within the year, though these overlap in practice:
+Phase 1 — Audit and bridge (approximately first 8 weeks): Diagnostic reading and writing tasks identify where individual students are relative to primary expectations. Oral work re-activates and validates prior knowledge. Writing begins with the structured paragraph — revising primary paragraph habits and building the evidence-reason chain that all secondary writing will depend on.
+Phase 2 — Metalinguistic awakening (middle of year): Students begin to name, analyse, and talk about language they already use. Grammatical awareness is developed through reading and writing — not as abstract rules but as tools that explain why some sentences are clearer or more powerful than others.
+Phase 3 — Consolidation and secondary launch (final 8 weeks): Students practise the analytical reading and structured writing habits established in Phases 1 and 2 with increasing independence. They complete one extended, process-supported writing project and one formal oral presentation, both serving as baseline evidence for Grade 7.
+6.2  Expected Learner Development
+By the end of Grade 6, students should be able to:
+Read an age-appropriate Mongolian text of 300–500 words and answer questions requiring both literal comprehension and basic inference (e.g. 'Why did the character make this decision? What evidence from the text supports your answer?')
+Write a structured multi-paragraph text of 200–300 words in at least two genres (narrative and descriptive or informational), using topic sentences, supporting evidence or detail, and a clear conclusion — with visible evidence of planning and at least one revision
+Deliver a prepared oral presentation of 3–4 minutes on a topic drawn from Mongolian life or literature, with clear organisation, appropriate vocabulary, and evidence of rehearsal
+Participate in structured class discussion with turn-taking, listening response, and basic challenge or agreement formulas
+Identify and explain the function of core grammatical structures (case marking, verb tense/aspect, noun phrases, connectives) in authentic texts they are reading
+Use a working set of 80–100 academic Mongolian vocabulary items across subjects
+Demonstrate awareness that formal and informal Mongolian differ — and use this awareness in both reading and writing
+6.3  Indicative Content Direction
+Strand 1 — Oral Language and Listening (20–22% of time, approx. 20–22 lessons)
+Text types and activities:
+Structured pair and small-group discussion on familiar Mongolian topics (family, school, community, nature, seasonal life) using scaffolded discussion protocols
+Prepared oral presentations on topics linked to reading texts — initially with visual or note-card support, moving toward more independent delivery
+Listening comprehension tasks using authentic Mongolian oral texts: folk narratives, proverb recitations, short public announcements — identifying main idea, key details, and speaker purpose
+Oral re-telling of read texts in own words — building the bridge between comprehension and production
+Introduction to the conventions of respectful academic discussion: how to agree, disagree, add to, or question another speaker's contribution in Mongolian
+Mongolian grounding: Folk oral forms — urtiin duu, magtaal, odsoo, shastir extract — are used as listening texts and as models of how oral Mongolian achieves meaning through rhythm, structure, and imagery. These are not treated as museum artefacts but as living communicative forms with architectural sophistication worth studying.
+Strand 2 — Reading and Text Analysis (32–34% of time, approx. 32–33 lessons)
+Text types and activities:
+Short folk narratives and fables from Mongolian oral tradition (300–500 words): reading for comprehension, sequencing events, identifying character motivation, making simple inferences
+Contemporary Mongolian descriptive texts: short newspaper human-interest articles, community reports, travel writing about Mongolian landscapes — reading for main idea, detail, vocabulary in context
+Simple factual texts from Mongolian contexts (e.g. an explanation of a traditional Mongolian custom, a description of a Mongolian ecological zone) — reading across subjects, finding key information
+Vocabulary development: pre-reading vocabulary building; context-based inference of unknown words; introduction to morphological analysis (recognising common suffixes and their meanings)
+Text structure awareness: identifying opening, development, and closing in narrative and informational texts; using this structure for reading prediction and comprehension
+Gradual introduction of inferential questions: beyond 'what happened?' to 'why?', 'how do you know?', 'what does the author want you to feel?'
+Diagnostic strand: Grade 6 reading work should begin with a structured diagnostic reading task — a 300-word text with comprehension questions at literal, inferential, and vocabulary levels — to map where each student is entering the secondary phase.
+Strand 3 — Writing and Composition (32–34% of time, approx. 32–33 lessons)
+Genre progression for Grade 6:
+The paragraph as the unit of thought: topic sentence, supporting detail/evidence, concluding or linking sentence. Students produce single well-structured paragraphs before moving to multi-paragraph texts.
+Narrative writing (200–300 words): structuring a story with clear beginning, complication, and resolution; developing a character; using dialogue and description appropriately. Initial tasks use Mongolian folk narrative structures as models.
+Descriptive writing (150–250 words): describing a person, place, or Mongolian landscape with precise vocabulary and sensory detail — building on the descriptive vocabulary work of Strand 4.
+Informational paragraph (150–200 words): organising known information clearly for a reader; using topic sentence, factual detail, and summary — foundation for all academic writing across subjects.
+Functional writing introduction: short personal letter format (to a friend, to a relative); simple list-based planning text. This introduces the concept of audience-awareness.
+Extended project: one 300–400 word text produced through full process (planning → draft → peer feedback → revision → final copy). This is the most significant writing task of Grade 6 and should receive the most instructional attention. Topic should be Mongolian in context.
+Process writing: Grade 6 is the year when the writing process must be established as a habit. Every writing task of more than a paragraph should require: a planning stage (graphic organiser or bullet-point plan), a draft stage, a feedback stage (teacher or peer), and a revision stage. Students should keep a writing folder showing the development of each piece.
+Strand 4 — Language Knowledge and Use (10–14% of time, approx. 12–14 lessons)
+Grammar and language concepts in Grade 6 are introduced functionally — always in service of reading and writing tasks, never as isolated exercises:
+Mongolian case system: revisiting and extending the understanding of case markers (nominative, accusative, genitive, dative, ablative, instrumental, comitative) as they appear in reading texts — why does this noun take this marker? What changes if you switch the marker?
+Verb morphology: tense, aspect, and evidentiality markers in Mongolian verbs — identifying these in texts and using them accurately in writing
+Adjective and modifier order: how Mongolian noun phrases are built — useful for expanding descriptive vocabulary
+Connectives and discourse markers: words that signal addition, contrast, cause, and sequence in Mongolian — explicitly mapped and practised in both reading identification and writing production
+Academic vocabulary: explicit introduction of 80–100 academic Mongolian words used across multiple subjects (e.g. words for analysis, description, comparison, explanation, evidence, opinion) — maintained in a class vocabulary notebook and personal vocabulary log
+Register awareness: initial exploration of the difference between spoken/informal Mongolian and written/formal Mongolian — through direct comparison of equivalent sentences in both registers
+6.4  Lesson Time Management
+Activity type
+Approximate time
+Notes
+Oral Language and Listening tasks
+20–22 lessons
+Integrated within reading and writing lessons as well as dedicated oral sessions
+Reading and Text Analysis
+32–33 lessons
+Includes pre-reading, during-reading, and post-reading phases
+Writing and Composition
+32–33 lessons
+Includes planning, drafting, feedback, revision — not only final writing time
+Language Knowledge (explicit)
+12–14 lessons
+Embedded within reading and writing lessons; not delivered as separate grammar periods
+Assessment (diagnostic + summative)
+8–10 lessons
+Diagnostic at start, 2 summative tasks per semester, 1 extended project
+Total
+~99 lessons
+Built to fit 99 available hours
+6.5  Pedagogy Notes for Grade 6
+The dominant pedagogical model for Grade 6 is scaffolded gradual release: 'I do' (teacher models the thinking process aloud) → 'We do' (teacher and students work together on shared text) → 'You do together' (paired or small-group practice) → 'You do alone' (supported independent task). This model applies to both reading and writing.
+Begin every reading lesson by activating prior knowledge of the Mongolian context of the text. Grade 6 students have rich cultural and experiential knowledge from primary — this is an asset, not a starting point to be bypassed.
+Oral discussion should use structured protocols (e.g. think-pair-share; circle discussion with sentence starters; 'add to, agree with, challenge' response frames) that make productive discussion achievable for all students, not only the most verbally confident.
+Writing lessons should begin with a short shared writing demonstration: the teacher writes a paragraph on the board, thinking aloud about choices of vocabulary, structure, and evidence. Students then attempt a parallel paragraph on their own topic.
+Never correct all errors in student writing. Focus feedback on the one or two most significant issues for each student at their current developmental point. Mark for meaning and development, then for accuracy.
+Grade 6 students need visible progress. Build in regular short reflection activities: 'compare your paragraph from Week 1 to your paragraph today — what has changed?'
+6.6  Digital Integration Notes for Grade 6
+Word processing for drafting and revision: students can use word processing tools for longer writing tasks — the ability to move text, delete and rewrite, and track changes is pedagogically valuable for learning the revision process. This requires computer lab access or shared devices.
+Digital reading: access to Mongolian online newspapers (Монголын мэдээ, Өдрийн сонин) provides authentic contemporary reading material. Even one lesson per term using a real online news article develops digital reading habits.
+Voice recording for oral presentations: students record a practice version of their oral presentation, listen back, and self-assess before the formal presentation. Smartphone recording is sufficient.
+Offline alternative — all tasks are equally functional with printed text extracts, handwritten drafts, paper planning sheets, and oral peer feedback. The curriculum is not dependent on technology.
+6.7  Mongolian Grounding Notes for Grade 6
+All four units of work in Grade 6 should be grounded in Mongolian contexts: texts from Mongolian oral tradition, contemporary Mongolian life, Mongolian landscape and seasonal experience, or Mongolian community life. Students should not be practising reading and writing with content that could apply anywhere.
+Folk narrative and oral literature: use authentic short Mongolian folk tales, fables, proverbs, and riddles as primary reading texts in the first half of Grade 6. These are familiar from primary, providing the continuity bridge needed, while offering rich analytical material — character motivation, moral reasoning, narrative architecture.
+Mongolian landscape and environmental writing: descriptive writing tasks should draw on Mongolia's distinctive geography — steppe, mountain, desert, river — as subject matter. This connects language learning to place and environmental awareness.
+Seasonal and nomadic life: the rhythms of Mongolian traditional life — spring lamb season, summer naadm, autumn migration, winter preparation — provide culturally authentic narrative content. Students from both nomadic-background and urban families should see their realities reflected.
+Contemporary Mongolia: one reading unit should include a contemporary Mongolian text about change — urbanisation, technological arrival in rural communities, environmental challenge — inviting students to respond in writing from their own experience and perspective.
+6.8  Assessment Notes for Grade 6
+Assessment task
+Mode
+When
+What it assesses
+Diagnostic reading task
+Reading + written response
+Week 2–3
+Establishes individual baseline in comprehension and vocabulary; informs differentiation
+Diagnostic oral task
+Oral — structured discussion participation
+Week 3–4
+Oral fluency, vocabulary, listening response at entry point
+Reading comprehension response 1
+Written — 2 paragraphs
+Mid-semester 1
+Literal and inferential comprehension; vocabulary in context; structured writing
+Short prepared presentation
+Oral — 3–4 minutes
+End semester 1
+Organisation, vocabulary, delivery, listening response
+Extended writing project
+Written process — full draft cycle
+Semesters 1–2 bridge
+Planning, drafting, revision, final copy — narrative or informational genre
+Reading comprehension response 2
+Written — 2–3 paragraphs
+Mid-semester 2
+Evaluative reading; inferential comprehension; increasing independence
+Oral presentation 2
+Oral — 4 minutes
+End semester 2
+Comparison with Presentation 1 — shows growth; register and organisation
+End-of-year language knowledge task
+Embedded in writing or reading response
+Final weeks
+Not a grammar test — grammar demonstrated through quality of writing and reading commentary
+Assessment principle for Grade 6: All assessments should be low-stakes by design. The purpose is to generate evidence of learning for the teacher and evidence of progress for the student — not to produce a ranking. Students should see assessment results alongside specific feedback that tells them one thing to do more and one thing to do differently.
+GRADE 7 CURRICULUM — Монгол хэл
+66 hours total hours total  |  2 lessons per week lessons per week  |  45-minute lessons
+Grade role — Disciplinary Expansion
+Grade 7 marks the transition from bridge-building to genuine secondary language study. The primary-to-secondary transition is complete; students have a working platform in analytical reading and structured writing from Grade 6. Grade 7 introduces new text genres, deepens analytical reading to include evaluative and comparative dimensions, requires multi-paragraph extended writing, and begins developing the oral argumentation capacity that characterises later secondary education. The 66-hour constraint demands that every unit carry substantial learning — no revision-for-its-own-sake, no filler content.
+7.1  Progression Focus
+Grade 7 works through four thematic-analytical units of approximately 15–16 lessons each, with assessment integrated within each unit:
+Unit 1 — The Mongolian natural environment: Reading informational and journalistic texts about Mongolia's ecology; writing an analytical description; oral report with visual support
+Unit 2 — Voices and perspectives: Reading opinion texts and editorials; identifying author stance; writing a structured opinion piece; seminar discussion of competing viewpoints
+Unit 3 — Mongolian community and tradition: Reading contemporary accounts of traditional practices alongside historical descriptions; introducing two-text comparison (same topic, different perspective); writing a formal letter to a public institution
+Unit 4 — Language and identity: Reading about the role of Mongolian language in national identity; exploring formal and academic register through authentic public texts; extended argumentative writing task; formal oral presentation
+7.2  Expected Learner Development
+By the end of Grade 7, students should be able to:
+Read a 500–700 word Mongolian text and produce an evaluative written response of 3–4 paragraphs that identifies the author's main argument, evaluates the evidence used, and states and justifies their own position
+Compare two short texts on the same topic, identifying how they present information or argument differently — noting differences in evidence, structure, and stance
+Write a structured multi-paragraph essay of 300–450 words in at least two genres (opinion piece and formal letter or analytical essay), demonstrating evidence of planning, drafting, and revision
+Deliver a prepared oral presentation of 5–6 minutes with visual support (poster, note-cards, or digital slide) and respond to one or two audience questions
+Participate effectively in a structured seminar discussion, making at least three substantive contributions and demonstrating evidence of listening to and responding to peers
+Use morphological analysis as a reading strategy: recognising unfamiliar words by breaking them into known morphemes
+Write with clear register awareness: distinguishing formal written Mongolian from informal or spoken register and choosing appropriately for each task
+7.3  Indicative Content Direction
+Strand 1 — Oral Language and Listening (20–22 lessons)
+Structured seminar discussions on Mongolian environmental, social, and cultural topics — using discussion protocols that require students to build on, challenge, and extend each other's contributions
+Formal presentations with visual support: students prepare and deliver a 5–6 minute oral presentation on a researched topic; audience questions are introduced
+Debate introduction: structured two-position debate on accessible Mongolian topics (e.g. 'Should traditional herding practices be supported by the government?') — with roles, preparation time, and structured argument format
+Listening analysis: students listen to short authentic Mongolian public addresses, news broadcasts, or community speeches and complete structured listening tasks identifying argument, evidence, and speaker purpose
+Strand 2 — Reading and Text Analysis (20–22 lessons)
+Opinion texts and editorials from Mongolian print and digital media: students read to identify main claim, supporting arguments, evidence types, and counter-arguments. Questions move beyond comprehension to evaluation: 'Is this argument convincing? Why or why not?'
+Informational and journalistic texts about Mongolia's environment, communities, and public life: reading for accuracy, evidence, and perspective
+Two-text comparison introduced: students read two texts on the same topic (e.g. two accounts of a traditional Mongolian festival — one written by a participant, one by an outside observer) and identify differences in perspective, evidence, and language use
+Historical texts and contemporary accounts in dialogue: a short extract from a classical Mongolian text alongside a contemporary account of the same cultural practice — developing the concept of historical and contemporary viewpoints on the same subject
+Vocabulary strategy: morphological analysis as a reading tool — students learn to recognise common Mongolian derivational suffixes and use them to decode unfamiliar vocabulary without dictionary dependence
+Strand 3 — Writing and Composition (20–22 lessons)
+Multi-paragraph opinion essay (350–450 words): introduction (claim + preview), body paragraphs with argument and evidence, conclusion with evaluation. Students produce one opinion essay per semester with full process support.
+Formal letter (250–300 words): writing to a public institution, organisation, or official in formal Mongolian register — introducing the conventions of formal address, structure, and closing. Topics drawn from Mongolian civic life.
+Analytical paragraph response (200–250 words): responding to a text with a structured analytical paragraph that includes a claim, textual evidence, and an evaluative comment. This is the core academic writing skill.
+Research-supported writing: students gather information from 2–3 sources (printed or digital) and synthesise it into a coherent informational text — with acknowledgement of sources. This is an introduction to research writing, not a full academic essay.
+Peer review introduced formally: students use a structured feedback protocol (2 specific strengths, 2 specific suggestions for development) to review a peer's draft before revision. This must be taught, not assumed.
+Strand 4 — Language Knowledge and Use (5–6 explicit lessons + embedded)
+Morphological analysis: derivational suffixes in Mongolian — how nouns become verbs, verbs become adjectives, adjectives become adverbs. Students build a personal morphological toolkit for vocabulary development.
+Register analysis: comparing authentic formal and informal Mongolian texts side by side — identifying specific features that mark register difference (sentence length, vocabulary choice, grammatical complexity, use of honorifics)
+Multi-clause sentence construction: subordination, relative clauses, and causal connectives in Mongolian — identified in reading texts and practised in writing tasks
+Argumentation language: the vocabulary of academic argument in Mongolian — words for claiming, conceding, challenging, qualifying, exemplifying — taught as a toolkit for both oral debate and written argumentation
+7.4  Lesson Time Management
+Activity type
+Approximate lessons
+Notes
+Oral Language and Listening
+13–14 lessons
+Includes seminar, presentation, debate, listening analysis
+Reading and Text Analysis
+20–22 lessons
+Four units with integrated vocabulary work
+Writing and Composition
+20–22 lessons
+Two extended essays + analytical paragraphs + formal letter
+Language Knowledge (explicit)
+5–6 lessons
+Embedded; not isolated grammar periods
+Assessment
+6–8 lessons
+Integrated within units; 2 summative per semester
+Total
+~66 lessons
+Within 66-hour constraint
+7.5  Pedagogy Notes for Grade 7
+Shift from scaffolded instruction toward genre-based pedagogy: students analyse the structure, language, and purpose of a text type before producing their own version. Genre exploration — understanding how opinion texts, formal letters, and informational essays work — is the main pedagogical approach.
+Introduce the concept of 'audience and purpose' as the governing question for all writing decisions. Before beginning any writing task, students should be able to answer: Who is reading this? What do I want them to think, know, or feel when they finish? What register is appropriate?
+Use think-alouds for reading: the teacher models the analytical reading process by thinking aloud while reading a text — demonstrating how a skilled reader makes inferences, identifies evidence, questions the author, and builds interpretation. Students then practise with structured reading frames.
+Peer review requires explicit instruction: students cannot give useful feedback without learning how to read analytically and communicate observations constructively. Dedicate 2–3 lessons to modelling peer review before students attempt it independently.
+Use structured discussion protocols consistently: 'Socratic seminar' (teacher poses a question, students discuss with minimal teacher intervention), 'jigsaw' (each group becomes expert on one text and teaches others), 'devil's advocate' (students argue the opposite position to their own to develop flexibility of thought).
+7.6  Digital Integration Notes for Grade 7
+Mongolian digital news reading: each unit includes at least one reading from a Mongolian digital source. Students practise evaluating the credibility of online sources — is this a reputable news outlet or social media post? What is the difference in how each presents information?
+Word processing with tracked revision: students use the comment or track-changes function to document their revision process — making their thinking visible and building metacognitive awareness of development
+Research using digital sources: the research-supported writing task introduces students to searching for information on Mongolian topics using Mongolian-language digital sources — with explicit guidance on how to evaluate, paraphrase, and acknowledge sources
+Voice/video recording for oral presentations: students record their presentation, review it, and identify 2 specific improvements before delivering the final version
+Offline alternative: printed newspaper extracts, handwritten research notes from teacher-provided source sheets, pen-and-paper drafting with physical revision marks, oral self-assessment using a checklist
+7.7  Mongolian Grounding Notes for Grade 7
+Unit 1 (Environment): Mongolian environmental texts — reports on steppe degradation, accounts of Mongolian wildlife, traditional ecological knowledge embedded in herder practices — ground the informational reading strand in Mongolia's distinctive ecological situation. Students write descriptive-analytical pieces about a specific Mongolian landscape or environmental issue.
+Unit 2 (Voices and perspectives): Mongolian opinion writing about social issues relevant to adolescents — urban-rural differences, language change, traditional values and contemporary pressures. Students engage with real Mongolian public debate as readers and beginning participants.
+Unit 3 (Community and tradition): The contrast between historical and contemporary accounts of Mongolian traditional practices (e.g. naadam, eagle hunting, ger-building) develops the capacity for historical perspective while deepening cultural knowledge. The formal letter task asks students to write to a real Mongolian institution — a museum, a cultural organisation, a government department — making the writing purposeful and authentic.
+Unit 4 (Language and identity): This unit explicitly foregrounds the Mongolian language itself as subject matter — its history, its current situation, the pressures of English and Russian borrowing, the significance of the script tradition. Students engage with their own language as an object of analysis and a carrier of identity — a developmentally appropriate and motivating focus for 12–13 year-olds building their own identities.
+7.8  Assessment Notes for Grade 7
+Assessment task
+Mode
+When
+What it assesses
+Unit 1 reading response
+Written analytical paragraph (200–250 words)
+End Unit 1
+Evaluative comprehension; evidence identification; structured response
+Oral presentation 1
+5–6 min prepared presentation with visual support
+End Unit 2
+Organisation, argument, vocabulary, delivery; question response
+Opinion essay (draft + final)
+350–450 words with revision
+Mid-year
+Multi-paragraph writing; argument structure; evidence use; revision quality
+Unit 3 two-text comparison
+Written response (250–300 words)
+End Unit 3
+Comparative reading; perspective identification; analytical writing
+Formal letter
+250–300 words
+End Unit 3
+Formal register; structure; purpose-driven writing; audience awareness
+Oral seminar participation
+Assessed over 2–3 seminars
+Semester 2
+Contribution quality; listening response; argumentation; interaction
+Extended argumentative essay
+400–450 words
+End of year
+Argument development; evidence use; independence; sustained formal register
+GRADE 8 CURRICULUM — Монгол хэл
+66 hours total hours total  |  2 lessons per week lessons per week  |  45-minute lessons
+Grade role — Analytical Deepening
+Grade 8 is the year of analytical intensification. Students at 13–14 years of age are neurologically and cognitively capable — with appropriate scaffolding — of sustained abstract reasoning about language and text. The shift from Grade 7 is from genre exploration to genre mastery: students move from learning what an opinion essay looks like to understanding why particular stylistic and rhetorical choices make it more or less effective. The dominant question of Grade 8 is: how does language make meaning — and how can you make it make the meaning you intend?
+8.1  Progression Focus
+Grade 8 is organised around four thematic units, each requiring comparative and analytical engagement with Mongolian texts and issues:
+Unit 1 — Language in the media: Reading Mongolian journalistic and media texts critically; identifying rhetorical strategies; writing a media analysis; oral analysis of a Mongolian public speech
+Unit 2 — Mongolia and the world: Reading texts that position Mongolia in a global context; comparative analysis (Mongolian source vs. international source on the same topic); writing a research-based analytical essay
+Unit 3 — Mongolian literature as cultural document: Reading contemporary short prose extracts (from Mongolian literature available at Grade 8 level) analytically — exploring how language creates character, setting, and theme; writing a literary analysis paragraph sequence
+Unit 4 — Language, power, and identity: Critical discourse introduction — how does language in public life reflect and reinforce particular values and power relationships? Reading political speeches, environmental advocacy texts, and youth voices; writing an extended argumentative essay
+8.2  Expected Learner Development
+By the end of Grade 8, students should be able to:
+Read a 600–800 word analytical or argumentative text and produce a comparative written analysis (2–3 texts) of 400–500 words identifying rhetorical strategies, evidence quality, and authorial stance — with a justified evaluative conclusion
+Write an analytical essay of 450–550 words that constructs a sustained, multi-paragraph argument with nuanced evidence use, awareness of counter-argument, and controlled formal register — with visible self-revision
+Deliver a formal oral presentation of 6–7 minutes on a researched topic with structured argument, evidence, and the ability to respond substantively to challenging questions
+Participate in a structured debate taking a position, building argument across multiple contributions, responding to counter-argument, and conceding where appropriate
+Perform a comparative stylistic analysis of two Mongolian texts at the sentence and discourse level — identifying how structural, lexical, and grammatical choices produce different effects
+Apply academic Mongolian vocabulary with precision and flexibility across reading and writing tasks
+Demonstrate grammatical command of complex Mongolian sentence structures (multi-clause, nominalisation, passive/impersonal constructions) in writing
+8.3  Indicative Content Direction
+Strand 1 — Oral Language and Listening (13–14 lessons)
+Academic seminar on significant Mongolian topics: students prepare individually, contribute substantively, and the teacher facilitates with minimal intervention — developing the near-independence of expression that Grade 9 will require
+Structured debate (formal format): prepared positions, timed argument rounds, rebuttal, and conclusion — with explicit attention to argument construction, counter-argument handling, and respectful disagreement in formal Mongolian
+Analysis of a Mongolian public speech or address: identifying argument structure, rhetorical devices (repetition, analogy, emotional appeal, appeal to authority), and evaluating effectiveness
+Oral literary analysis: students present a 5-minute oral analysis of a short Mongolian prose extract — connecting the analytical reading of Unit 3 to oral academic communication
+Strand 2 — Reading and Text Analysis (20–22 lessons)
+Mongolian journalistic texts — long-form articles, editorial analysis, feature writing: reading for argument structure, rhetorical strategy, evidence quality, and implicit bias
+Comparative text analysis: two or three texts on the same Mongolian topic from different sources, periods, or perspectives — students compare how each constructs its argument, what evidence it uses, what it omits, and what values it assumes in its reader
+Mongolian contemporary prose extract (literary): reading for how language creates effect — character voice, narrative perspective, descriptive precision, emotional register — developing the analytical vocabulary of literary analysis
+Critical reading of public language: political speech extracts, environmental advocacy writing, youth organisation publications — reading language as social and political act, not just as neutral information transfer
+Vocabulary at Grade 8: specialist academic vocabulary across domains; etymology and borrowed vocabulary in Mongolian (Russian, English, Chinese borrowings, and Mongolian neologisms); precision in word choice
+Strand 3 — Writing and Composition (20–22 lessons)
+Analytical essay (450–550 words): sustained multi-paragraph argument with introduction (claim + roadmap), developed body paragraphs (argument, evidence, explanation, evaluation), counter-argument acknowledgement, and conclusion with qualified judgment — this is the central writing challenge of Grade 8
+Comparative analytical response (400–500 words): responding to two texts by comparing their approaches — requires simultaneous command of analytical reading and comparative writing structure
+Literary analysis paragraph sequence: three to four connected analytical paragraphs about a prose extract — each paragraph developing one analytical point about how language creates a specific effect
+Research essay (500–600 words, with sources): selecting relevant information from multiple sources, synthesising it into a coherent argument, and acknowledging sources appropriately — foundational for upper secondary research writing
+Revision as a formal skill: Grade 8 students should be able to revise their own work at the level of argument structure (not only surface errors). Introducing 'revision questions': Does each paragraph have a clear analytical point? Is my evidence specific and relevant? Have I acknowledged any counter-argument?
+Strand 4 — Language Knowledge and Use (5–6 explicit lessons + embedded)
+Nominalisation in Mongolian: turning verb phrases into noun phrases to achieve formal, academic register — identified in authentic texts and practised in formal writing
+Impersonal and passive-equivalent constructions in Mongolian: used to achieve analytical objectivity in academic writing — how professional Mongolian writers avoid personal pronoun overuse in formal contexts
+Discourse markers of concession, qualification, and evaluation: the academic vocabulary of nuanced argument — 'although', 'however', 'it could be argued that', 'this suggests', 'on the other hand' — in formal Mongolian
+Stylistic analysis vocabulary: the metalanguage for discussing how language works (e.g. дүрслэлийн арга — descriptive method; баримт нотлох — substantiating evidence; дүгнэлт — conclusion/evaluation) — taught as a functional toolkit for literary and analytical writing
+8.4  Lesson Time Management
+Activity type
+Approximate lessons
+Notes
+Oral Language and Listening
+13–14 lessons
+Debate, seminar, speech analysis, oral literary analysis
+Reading and Text Analysis
+20–22 lessons
+Analytical, comparative, literary — four units
+Writing and Composition
+20–22 lessons
+Analytical essay, comparative response, literary analysis, research essay
+Language Knowledge (explicit)
+5–6 lessons
+Embedded — nominalisation, discourse markers, stylistic vocabulary
+Assessment
+6–8 lessons
+Two summative tasks per semester; integrated within units
+Total
+~66 lessons
+Within 66-hour constraint
+8.5  Pedagogy Notes for Grade 8
+Move from genre analysis to stylistic analysis: students now look not just at what a text does (it argues, it describes) but at how it does it — the specific lexical, grammatical, and structural choices that produce effects. This requires a shift in the analytical questions teachers ask: not 'what is the main idea?' but 'how does the author's word choice here affect the reader's response?'
+Sustained writing with revision cycles: Grade 8 students should experience writing as an iterative intellectual process. Each major essay should go through at minimum: planning + outline, first draft, teacher or peer feedback with specific analytical comments, revision, final copy. This cycle should occupy 8–10 lessons for each major essay — not be compressed into 2.
+Comparative reading as a pedagogy: all reading units in Grade 8 benefit from placing two or more texts side by side. Comparison deepens analysis because it forces students to notice what they otherwise take for granted in a single text. Use paired texts systematically.
+Socratic seminar at Grade 8 standard: the teacher poses one rich, open question drawn from the reading text or unit theme. Students lead the discussion. Teacher's role is to redirect, challenge assumptions, and ensure all voices are heard — not to provide answers.
+Explicit revision instruction: teach students to revise by asking analytical questions about their own drafts — not just to 'make it better'. Model revision: take a student paragraph (anonymised), display it, and demonstrate how to interrogate and improve it analytically.
+8.6  Digital Integration Notes for Grade 8
+Media literacy with Mongolian digital sources: Unit 1 uses actual Mongolian online news and social media content as critical reading material. Students analyse how the same event or issue is reported differently across platforms — developing practical digital literacy through authentic Mongolian examples.
+Research essay digital support: students conduct structured online research for the Grade 8 research essay, with explicit instruction in: evaluating Mongolian-language digital sources for reliability, distinguishing reporting from opinion, acknowledging digital sources appropriately
+Digital collaborative drafting: pairs or small groups draft and annotate comparative analysis tasks using shared documents — developing both analytical and collaborative skills
+Critical analysis of language in social media: one lesson per unit should examine language use in Mongolian social media — how does this compare to formal written Mongolian? What is lost or gained? This bridges academic language work to students' actual digital communication practices.
+Offline alternative: teacher-prepared printed source packages for research essay; physical annotation of printed texts; written revision journals; oral peer feedback protocols
+8.7  Mongolian Grounding Notes for Grade 8
+Unit 1 (Media language): Mongolian journalism and public discourse provide the content for critical language analysis. Students engage with real Mongolian media — examining how Mongolian reporters, opinion writers, and public figures use language. This positions students as active, critical participants in Mongolian public life.
+Unit 2 (Mongolia and the world): Texts that position Mongolia in global contexts — environmental international reporting on Mongolia, Mongolian scholars writing about their country for global audiences, international texts about Mongolia viewed from inside. This builds the capacity to see Mongolia from multiple perspectives — internal and external — which is developmentally appropriate for 13–14 year-olds questioning identity and place.
+Unit 3 (Mongolian literature as cultural document): Short prose extracts from contemporary Mongolian writers — D. Natsagdorj, S. Erdene, and others at appropriate level — read analytically. Students learn to see literary texts not only as stories but as cultural documents: what values does this text encode? Whose experience does it represent? What does its language reveal about its historical moment?
+Unit 4 (Language, power, identity): This unit explicitly addresses the politics of Mongolian language — its relationship to national identity, the pressure of globalisation and English, the script question, the diversity of Mongolian as spoken across regions. Students write their extended argumentative essay on a topic drawn from this domain — taking a genuine position and defending it with evidence.
+8.8  Assessment Notes for Grade 8
+Assessment task
+Mode
+When
+What it assesses
+Media text analysis
+Written response 350–400 words
+End Unit 1
+Rhetorical analysis; argument identification; evaluative stance; critical reading
+Formal debate
+Oral — structured format, team
+Mid-year
+Argument construction; rebuttal; evidence use; formal register; interaction
+Analytical essay (full process)
+450–550 words with revision cycle
+End semester 1
+Sustained argument; evidence; counter-argument; formal register; revision quality
+Comparative text analysis
+Written 400–500 words
+End Unit 2
+Comparative reading; analytical writing; structural and stylistic comparison
+Literary analysis paragraph sequence
+3–4 analytical paragraphs on prose extract
+End Unit 3
+Close reading; literary analysis vocabulary; analytical paragraph structure
+Seminar participation
+Assessed over 2 seminars
+Semester 2
+Intellectual contribution; listening response; argumentation quality; interaction
+Research essay (with sources)
+500–600 words
+End of year
+Research synthesis; argument; source acknowledgement; formal register; independence
+GRADE 9 CURRICULUM — Монгол хэл
+66 hours total hours total  |  2 lessons per week lessons per week  |  45-minute lessons
+Grade role — Independent Synthesis
+Grade 9 is the consolidation and exit year. Students at 14–15 are approaching the maturity of lower secondary and preparing for upper secondary, where Mongolian Language will carry examination weight and where language competence will be formally assessed. The dominant shift from Grade 8 is from supported analytical depth to genuine, self-monitored independence. Grade 9 students should be able to produce extended analytical writing with minimal scaffolding, deliver formal oral performances, engage in critical discourse analysis — and reflectively account for their own development as language users across the four years.
+9.1  Progression Focus
+Grade 9 works through three substantial units plus a final synthesis and examination-preparation phase:
+Unit 1 — Critical language and society: Extended engagement with Mongolian public discourse — political language, environmental advocacy, media framing — using discourse analysis tools developed in Grade 8. Writing: extended argumentative essay with full independence.
+Unit 2 — Mongolian literature and identity: Close reading of a sustained Mongolian literary text (short story or novel extract — teacher-selected for appropriate challenge level); literary analysis essay; oral literary seminar at examination standard.
+Unit 3 — Communication across contexts: Research and write on a topic of personal-public significance — connecting Mongolian Language competence to civic and social purpose. Formal presentation with extended Q&A.
+Final phase — Synthesis and reflection: Portfolio review, metacognitive reflection on four-year development, examination preparation — practising timed writing tasks and analytical reading under conditions approaching formal assessment.
+9.2  Expected Learner Development
+By the end of Grade 9, students should be able to:
+Read an unseen Mongolian text of 700–1000 words and produce an independent critical analysis of 500–600 words — without teacher prompts, discussion preparation, or scaffolded reading frames — demonstrating inferential, evaluative, and discourse-level analytical competence
+Write an extended analytical or argumentative essay of 600–750 words on a Mongolian cultural, social, or language topic — with a clear thesis, developed multi-paragraph argument, nuanced evidence use, acknowledgement of complexity and counter-argument, sustained formal register, and evidence of deliberate stylistic choice
+Deliver a formal oral presentation of 7–8 minutes, respond to extended questioning, and participate in a formal academic seminar — at a standard appropriate for upper secondary entry
+Analyse the discourse of Mongolian public texts — identifying how language encodes ideology, positions its reader, constructs identity, and exercises power — with specific textual evidence and evaluative commentary
+Produce a reflective account of their development as a Mongolian language user across Grades 6–9 — identifying specific areas of growth, areas of continued challenge, and setting learning goals for upper secondary
+Write comfortably in formal academic Mongolian register across multiple genres — essay, analysis, formal report, critical commentary — demonstrating command of the register conventions of educated Mongolian writing
+9.3  Indicative Content Direction
+Strand 1 — Oral Language and Listening (13–14 lessons)
+Formal academic seminar at examination standard: students prepare independently, lead the discussion collectively, and evaluate their own and peers' contributions using a shared criteria rubric
+Formal oral presentation (7–8 minutes) on a researched topic — with extended question-and-answer phase (3–4 minutes). Students prepare for genuinely challenging questions and practise substantive response.
+Discourse analysis of Mongolian public speeches and media broadcasts: identifying rhetorical structure, emotional appeal, appeal to authority, ideological framing — and evaluating their effectiveness and ethics
+Oral examination preparation: practising the oral presentation and discussion formats used in Mongolian upper secondary and university entrance contexts
+Strand 2 — Reading and Text Analysis (19–20 lessons)
+Discourse analysis of public texts: political speeches, environmental policy documents, editorial positions — reading for how language constructs reality, positions the reader, and serves particular interests. Students bring critical discourse analysis tools to authentic Mongolian texts.
+Sustained literary text: one complete short story or three to four connected novel chapters from Mongolian literature — read as a sustained analytical project over several weeks, with close reading tasks, journal responses, and literary essay preparation
+Unseen reading under timed conditions: preparation for upper secondary examination reading tasks — students practise reading an unfamiliar text and producing an analytical response within a defined time, developing the time-management and cold-analysis skills that formal assessment requires
+Comparative literary and non-literary analysis: reading a literary text alongside a historical or documentary account of the same period or event — comparing how literary and non-literary language construct different kinds of truth
+Reading for pleasure and breadth: students choose one additional Mongolian text (novel, essay collection, long-form journalism) for independent reading during the year — completing a structured reading journal and sharing a reading recommendation with the class
+Strand 3 — Writing and Composition (19–20 lessons)
+Extended independent argumentative essay (600–750 words): written with minimal scaffolding — students may use a planning frame but receive no genre modelling, text scaffolds, or sentence starters. This is the culminating writing challenge of the four-year programme.
+Literary analysis essay (500–600 words): sustained analytical engagement with the Mongolian literary text of Unit 2 — thesis-driven, evidence-rich, attentive to how language creates literary effect, written in formal academic Mongolian
+Critical commentary (400–500 words): analysis of a public language text — identifying rhetorical strategy, evaluating argument, and offering a justified critical judgement
+Timed writing under examination conditions: two to three timed writing tasks (35–45 minutes) practising the text production skills that upper secondary assessment will require — developed across the final phase of the year
+Metacognitive writing: a sustained reflective piece (400–500 words) in which students account for their development as a writer across Grades 6–9, using their writing portfolio as evidence. This is not assessed for writing quality but for honesty, specificity, and depth of self-awareness.
+Strand 4 — Language Knowledge and Use (5–6 explicit lessons + embedded)
+Discourse analysis metalanguage: the vocabulary for analysing how texts work at the level of argument, ideology, and power — applied to authentic Mongolian public texts
+Stylistic command in writing: students learn to make deliberate stylistic choices in their own writing — sentence length variation, strategic use of subordination, controlled use of rhetorical question, precise vocabulary selection — and to account for these choices in analytical commentary
+Mongolian as a living, changing language: the final language knowledge unit addresses Mongolian language change — loanwords and neologisms, script debates, dialect variation, digital Mongolian, the relationship between spoken and written norms — as both a linguistic and a cultural-political phenomenon. Students write an analytical response.
+Examination register: the specific vocabulary, syntax, and structural conventions of formal Mongolian examination writing — analysed from previous examination exemplars and practised in timed conditions
+9.4  Lesson Time Management
+Activity type
+Approximate lessons
+Notes
+Oral Language and Listening
+13–14 lessons
+Formal seminar, extended presentation + Q&A, discourse analysis of public speech
+Reading and Text Analysis
+19–20 lessons
+Discourse analysis, literary text, unseen reading, comparative reading
+Writing and Composition
+19–20 lessons
+Extended independent essays, literary analysis, critical commentary, timed writing
+Language Knowledge (explicit)
+5–6 lessons
+Discourse metalanguage, stylistic command, Mongolian language change
+Assessment and reflection
+6–8 lessons
+Summative tasks, portfolio review, metacognitive reflection, exam preparation
+Total
+~66 lessons
+Within 66-hour constraint
+9.5  Pedagogy Notes for Grade 9
+Shift to student-led inquiry: Grade 9 pedagogy should maximise student intellectual ownership. Socratic seminars are fully student-led. Writing tasks are self-directed. Reading tasks move from structured to cold (unseen, unscaffolded). The teacher's role shifts toward coach, questioner, and quality evaluator rather than task director.
+Metacognition as a pedagogical practice: students are regularly asked to reflect on their own thinking — 'What made this analysis stronger than your Grade 8 essay?', 'What strategies did you use when you encountered an unfamiliar text?', 'Which of your revision choices had the most impact, and why?' This prepares students for the self-regulated learning demands of upper secondary.
+Examination preparation as genuine learning: timed writing is not mere test practice — it is a genuine challenge that develops fluency, stamina, and flexibility. Treat examination preparation tasks as rich learning experiences with feedback, not as exercises to endure.
+Portfolio as a four-year learning record: the writing portfolio assembled across Grades 6–9 is used in Grade 9 as evidence for metacognitive reflection. Students need access to their Grade 6 and 7 writing — demonstrating growth is only possible if the trail is preserved.
+Respect student intellectual seriousness: Grade 9 students are capable of genuine critical engagement with complex ideas — Mongolian identity, language and power, environmental justice, cultural change. The curriculum must honour this capacity by offering intellectually serious content, not simplified or patronising versions.
+9.6  Digital Integration Notes for Grade 9
+Critical digital discourse analysis: students analyse Mongolian social media political discourse, online news comment sections, and digital public campaigns as language texts — examining how the digital environment changes the grammar, rhetoric, and ethics of public communication
+Digital portfolio: where technology is available, students compile their four-year writing portfolio digitally — with embedded self-reflective commentary. This demonstrates sophisticated digital composition skills alongside language development
+Research and citation at examination standard: students practise the conventions of formal digital source citation in Mongolian academic writing — developing intellectual property awareness as a language and ethical competence
+Examination simulation with word processing: timed writing tasks practised with word processors to develop the specific skills of timed digital composition — planning, drafting, and reviewing within a defined window
+Offline alternative: physical portfolio folders with annotated writing across four years; printed source packages; handwritten timed writing; oral discourse analysis discussion replacing digital analysis tasks
+9.7  Mongolian Grounding Notes for Grade 9
+Unit 1 (Language and society): Mongolian public discourse — political speeches, environmental advocacy, media framing of national issues — is the primary content for discourse analysis. Topics are chosen for genuine intellectual significance: Mongolia's environmental future, democratic development, cultural identity in globalisation. Students are invited to take substantive positions as emerging Mongolian citizens.
+Unit 2 (Literature and identity): The Mongolian literary text for Grade 9 should be selected for its capacity to raise questions of Mongolian identity, cultural continuity, and social change. Contemporary Mongolian writers whose work engages with post-1990 transformation, urban experience, or the tension between nomadic tradition and modern life are particularly appropriate. The text should be challenging enough to require sustained analytical engagement — not easily resolved into simple moral lessons.
+Unit 3 (Communication across contexts): Students choose a topic of personal-public significance from Mongolian life — a local environmental issue, a community cultural practice under pressure, a youth social concern — and develop it through research, analysis, and formal presentation. This connects Mongolian Language competence directly to civic agency.
+Final synthesis: The metacognitive reflection on four years of Mongolian Language development is itself a deeply Mongolian cultural act — the Mongolian tradition of thoughtful self-accounting, of locating oneself within a lineage of learning, of expressing gratitude and aspiration. This should be treated as a meaningful culminating act, not an administrative requirement.
+9.8  Assessment Notes for Grade 9
+Assessment task
+Mode
+When
+What it assesses
+Discourse analysis commentary
+Written 400–500 words — no scaffolding
+End Unit 1
+Critical reading of public language; ideological analysis; independent response
+Formal oral presentation + Q&A
+7–8 min + 3–4 min questions
+Mid-year
+Formal register; argument; research quality; response under challenge; exam readiness
+Literary analysis essay
+500–600 words — full independence
+End Unit 2
+Close reading; literary analysis; sustained argument; formal academic Mongolian
+Extended independent essay
+600–750 words — examination conditions
+End semester 1
+Culminating writing challenge; thesis development; complexity; register control; self-directed
+Academic seminar participation
+Over 2 formal seminars
+Semester 2
+Intellectual leadership; argumentation; listening quality; metacognitive awareness
+Timed writing tasks (×2–3)
+35–45 minutes each — unseen prompt
+Throughout year
+Examination readiness; fluency; time management; cold analytical performance
+Metacognitive portfolio reflection
+Written 400–500 words — on own development
+Final phase
+Self-awareness; use of evidence; intellectual honesty; four-year synthesis
+H.  Whole-Subject Pedagogy Guidance
+The following pedagogical principles govern teaching and learning across all four years of Mongolian Language, Grades 6–9. These are not optional preferences — they are the design conditions without which the curriculum cannot achieve its developmental purposes.
+H.1  Language is learned through authentic use, not through description
+The foundational principle of this curriculum is that language competence develops through meaningful engagement with real language — reading real texts, writing for genuine purposes, speaking to actual audiences — not through abstract rule-learning followed by decontextualised exercise. Every grammar concept, every vocabulary item, every structural principle should arise from a genuine communicative encounter and be tested by improving a genuine communicative act.
+H.2  Reading and writing are reciprocal practices
+The most powerful single pedagogical decision in a language curriculum is to teach reading and writing together. Students read text types before writing them. They analyse models before producing their own versions. They read each other's writing as critical readers, using the same analytical skills they apply to published texts. Every reading unit should produce a writing outcome; every writing task should grow from reading experience.
+H.3  Oral language is a full intellectual mode
+Mongolia's rich oral tradition is not a pedagogical asset to be mentioned in curriculum documents and then forgotten in lesson design. Structured academic discussion, oral argumentation, and formal presentation are demanding intellectual activities that develop reasoning, listening, and self-expression capacities that written language alone cannot build. Oral language should account for 20–25% of instructional time across all four years — not as a warm-up or transition activity but as a disciplinary practice with its own progression and assessment.
+H.4  Scaffolded gradual release
+The architecture of instruction across all four years follows a scaffolded release pattern: at Grade 6, the teacher models extensively; by Grade 9, students operate independently. Within each year, and within each unit, the same pattern applies: teacher demonstrates → shared practice → guided independent practice → independent application. Teachers must resist both extremes: doing too much for students (preventing development) and releasing too early (leaving students without the tools they need).
+H.5  Cultural heritage as intellectual content
+Mongolian folk literature, oral tradition, classical texts, and contemporary Mongolian writing must be treated as intellectually serious content — objects of analysis, interpretation, and critical evaluation — not as motivational illustrations or cultural decoration. Students should be expected to argue about texts, evaluate their cultural assumptions, and bring their own Mongolian knowledge and experience to bear as legitimate intellectual contributions.
+H.6  Writing as process, not product
+No significant writing task should be evaluated from a single first draft. The curriculum requires a writing process culture: planning, drafting, receiving and giving feedback, revising, editing, and producing a final version. This process must be taught, not assumed. Teachers need to demonstrate each stage of the process, allocate specific lesson time for revision and feedback, and value growth across the process — not only the quality of the final product.
+H.7  Assessment informs teaching
+Formative assessment should be continuous, low-stakes, and specific. The most effective formative assessment in a language curriculum takes the form of targeted written feedback on student work (not a grade, but a specific observation and a specific development target), oral questioning during reading and discussion, and structured peer feedback protocols. Summative assessments should be designed to reveal what students can do — not to catch what they cannot.
+H.8  Inclusion through differentiation, not reduction
+Differentiation in this curriculum means providing varied pathways to the same high expectations — not lowering expectations for some students. Tiered texts (same topic, different complexity), scaffolded discussion protocols, structured writing frames for early development — all are tools for inclusion that maintain academic integrity. No student should be told that they are not expected to develop analytical or argumentative competence.
+I.  Whole-Subject Assessment Framework
+I.1  Assessment principles
+Assess authentic communicative competence, not isolated knowledge: a grammar test that does not connect to reading or writing competence is not a valid assessment of language development
+Assess across all four strands over each year: a curriculum that only assesses writing produces assessment data on one quarter of its programme
+Use the full assessment cycle: diagnostic → formative → summative → reflective. Each phase serves a different purpose and must be present in each grade
+Progression must be visible: assessment criteria must become more demanding across grades, with the same dimensions assessed at increasing levels of complexity and independence
+Student self-assessment is an assessment outcome: developing the capacity for accurate self-evaluation is itself a curriculum goal, not a pedagogical extra
+I.2  What assessment must capture
+Strand
+What assessment captures
+Assessment mode
+Oral Language and Listening
+Quality of argument and reasoning in speech; listening comprehension accuracy; ability to respond to challenge; formal register command; interaction quality in discussion
+Observed and annotated performance tasks; structured discussion rubric; oral presentation rubric
+Reading and Text Analysis
+Inferential and evaluative comprehension; identification of author purpose, argument, evidence; comparative analysis across texts; vocabulary command in context; increasing independence from scaffolding
+Written analytical response; comprehension task with graded question types; vocabulary-in-context items
+Writing and Composition
+Argument development; evidence quality; structural coherence; genre control; register appropriateness; revision quality; independence from scaffolding; grammatical accuracy in service of communication
+Written products with process documentation (plan, draft, revision); analytical commentary on own writing
+Language Knowledge and Use
+Accuracy and flexibility of grammatical structures in writing; metalinguistic awareness in reading commentary; register control; vocabulary precision and range — all assessed through reading response and writing quality, not isolated tests
+Embedded in reading and writing assessment; explicit language analysis task (identifying and explaining function of grammatical structures in a text)
+I.3  Assessment progression table
+Assessment dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Reading task complexity
+300–500 word texts; literal + basic inferential questions; vocabulary in context
+500–700 words; evaluative comprehension; author purpose; two-text intro
+600–800 words; comparative and rhetorical analysis; 2–3 texts; critical stance
+700–1000 words; unseen; discourse-level analysis; independent — no scaffolding
+Writing length and independence
+200–300 words; 2–3 genres; fully scaffolded process with modelling
+300–450 words; 3–4 genres; peer review; guided process
+450–600 words; analytical and comparative; revision as analytical skill; increasing independence
+600–750 words; independent; timed conditions; multiple genres — examination standard
+Oral complexity
+3–4 min prepared; structured discussion participation
+5–6 min with visual; seminar; structured debate intro
+6–7 min; formal debate; seminar without teacher intervention; oral literary analysis
+7–8 min + extended Q&A; fully formal; self-evaluated; examination standard
+Grammar/language assessment
+Accuracy in writing; identification of named structures in text
+Register analysis task; morphological decoding evidence in reading
+Stylistic analysis — how do specific choices create effects?
+Discourse analysis; metalinguistic command; grammar as deliberate craft
+Independence level
+High scaffolding throughout
+Scaffolding for new genres; independence for known tasks
+Self-directed revision; independent analysis of familiar text types
+Full independence for all tasks; self-monitoring required
+Portfolio requirement
+Writing folder: plan + draft + revision for each major task
+Writing portfolio: 3–4 selected pieces with brief reflective note
+Portfolio with comparative self-assessment: 'how has this changed from Grade 7?'
+Four-year portfolio synthesis: metacognitive reflection on development
+I.4  Assessment modes
+Mode
+Description
+Grades where primary
+Analytical reading response
+Written response to one or more texts; graded question types from literal to evaluative; 200–600 words depending on grade
+6–9 (progressive complexity)
+Extended essay (process)
+Multi-paragraph essay produced through full process cycle (plan, draft, feedback, revise, final); 200–750 words by grade
+6–9 (increasing length and independence)
+Oral presentation + Q&A
+Prepared presentation with structured question response; 3–8 minutes by grade; assessed with shared criteria rubric
+6–9 (increasing formality and independence)
+Seminar participation
+Structured academic discussion; assessed over multiple contributions per session; shared criteria rubric given in advance
+7–9 (formal from Grade 7; examination standard by Grade 9)
+Diagnostic tasks
+Structured reading + writing tasks at start of year; not graded but produce individual learning profiles for teacher use
+Grade 6 primarily; repeated beginning of Grade 7 to track summer learning loss
+Timed writing tasks
+Writing under defined time conditions (35–45 minutes) on unseen or semi-prepared prompt; assessed for fluency, structure, register, and argument
+Grade 9 primarily; introduced at Grade 8 in final unit
+Portfolio and metacognitive reflection
+Collection of selected work across the year or four years; student-annotated with reflective commentary; assessed for quality of self-awareness, not only writing quality
+Portfolio maintained Gr 6–9; reflective writing assessed Gr 8–9
+I.5  Assessment exemplar requirement
+The full curriculum implementation requires annotated assessment exemplars at three performance levels (emerging, expected, advanced) for each major assessment type. These exemplars are as important as the curriculum content specification — without them, assessment validity and consistency across schools and teachers cannot be maintained. Assessment exemplar development should be treated as a mandatory accompanying task to the curriculum finalisation process.
+J.  Inclusion, Feasibility, and Implementation Considerations
+J.1  Mixed learner readiness
+Entry to Grade 6 will show significant variation in reading fluency, vocabulary breadth, writing automaticity, and oral confidence. This variation is a structural reality, not a teacher failure. The curriculum must be designed so that:
+Diagnostic tasks at the start of Grade 6 (and Grade 7) provide actionable individual profiles — not just whole-class averages — that teachers can use to differentiate instruction in the first weeks
+Tiered reading texts allow the same analytical task to be completed with texts of different complexity levels — same questions, different text, same learning outcome
+Scaffolded writing frames are available for students who need them, with explicit plans for removing the scaffold over time — not permanently
+Oral tasks use structured protocols (sentence starters, turn cards, discussion roles) that give all students an entry point into academic discussion — not only the most verbally confident
+Students with minority language backgrounds (particularly Kazakh-speaking students in western Mongolia) receive specific support in Mongolian register and vocabulary — acknowledging that formal written Mongolian may be genuinely more distant from their home language than it is for central Mongolian speakers
+J.2  Resource variability
+The curriculum must be fully deliverable using a single teacher guide, a single student textbook, and a library of printed text extracts — without additional materials. This requires:
+Text extract appendix: each grade's curriculum should be accompanied by a set of 20–25 authentic Mongolian texts of appropriate length and difficulty — pre-selected, edited for length where necessary, and annotated with reading guidance. This is the most important resource requirement for the curriculum.
+Reproducible planning and writing frames: graphic organisers, structured discussion protocols, and writing process templates that teachers can photocopy. These should be part of the teacher guide, not separate purchased materials.
+Assessment rubrics in the teacher guide: so teachers do not have to create their own — reducing assessment inconsistency and workload
+Peer review protocols: printed feedback cards or protocols that students use during peer review — removing the requirement for technology
+J.3  Teacher support needs
+The most significant implementation risk is a mismatch between what the curriculum requires pedagogically and what teachers have been prepared to deliver. Specific professional learning needs include:
+Professional learning area
+Specific need
+Implementation note
+Writing pedagogy
+Most Mongolian language teachers have been trained in grammar-centred pedagogy. This curriculum requires expertise in process writing, genre teaching, and analytical essay development.
+Priority professional learning — without this, the writing strand will default to grammar drills and single-draft marking
+Facilitation of academic discussion
+Socratic seminar and structured debate require facilitation skills that are different from traditional teacher-directed instruction.
+Teacher guide must include discussion protocols and facilitation scripts
+Analytical reading instruction
+Teaching inferential and critical reading through think-aloud and structured questioning requires specific instructional knowledge.
+Model lesson materials essential
+Portfolio and formative assessment
+Collecting and using evidence of learning over time; giving specific developmental feedback (not grades); developing student self-assessment
+Assessment professional learning integrated into curriculum rollout
+Text selection for cultural grounding
+Teachers need knowledge of contemporary Mongolian literature and journalism to select appropriate authentic texts beyond the textbook.
+Curated text list in teacher guide; annual update mechanism needed
+J.4  Rural and urban differences
+Access to authentic texts: Urban teachers can access daily Mongolian newspapers and digital content easily. Rural teachers may need the printed text extract appendix (see J.2) to be the primary source of authentic reading material. This is a design requirement, not an aspiration.
+School library: Urban schools typically have libraries with Mongolian literature; rural schools often do not. The curriculum should not depend on library access for any required task — all essential reading should be in the student textbook or teacher-distributed materials.
+Classroom diversity: Urban schools often have larger classes and more varied student backgrounds. Rural schools may have smaller classes but also multi-grade combinations. The curriculum should specify adaptations for multi-grade delivery of at least the Grade 6–7 combination.
+Community linguistic environment: Students in rural and nomadic communities may have richer oral Mongolian experience but less exposure to written formal Mongolian. The curriculum's emphasis on building from oral into written competence is particularly appropriate for these students — the progression should be celebrated, not treated as a deficit.
+J.5  Low-resource and low-connectivity alternatives
+Technology-dependent activity
+Low-resource/offline alternative
+Word processing for drafting
+Structured handwritten drafting with revision codes (cross out, insert mark, arrow for move) — teacher models in Grade 6
+Digital reading of online news
+Teacher-prepared printed extracts from recent Mongolian newspapers — updated termly
+Voice recording for oral self-assessment
+Peer oral feedback using a structured checklist: 'I could hear your main point clearly — yes/no'; 'One thing that would improve your delivery...'
+Digital research for essays
+Teacher-curated printed source packages (3–4 relevant extracts on the unit topic) distributed to students
+Digital collaborative drafting
+Physical partner drafting with one student as writer and one as annotator/reader
+Digital portfolio
+Physical writing folder with dated drafts, teacher feedback, and student self-annotation
+Online vocabulary tools
+Class vocabulary wall (posted in classroom) + personal vocabulary log notebook
+K.  Risks to Avoid in Later Standards Writing or Textbook Development
+K.1  Risks in standards writing
+Risk
+How it manifests
+How to prevent it
+Standards written as content lists, not competence descriptions
+Standards become lists of topics to cover ('students will learn about case markers') rather than descriptions of what students can do ('students can identify and explain the function of case markers in a text they have read')
+Write all standards in the form: 'Students can [do what] with [what complexity] in [what context] with [what degree of independence]'
+Grammar standards isolated from communicative function
+A separate, long section of grammar standards that implies grammar should be taught separately from reading and writing
+Grammar standards should be embedded within reading and writing standards — 'Students can use multi-clause sentences accurately in their own writing'
+Oral standards marginalised
+Speaking and listening receive one or two brief standards compared to many reading and writing standards, signalling that oral competence is a minor priority
+Oral standards should receive proportional weight — approximately 20–25% of all standards — with the same specificity and progression as written standards
+Cultural content reduced to examples
+Cultural grounding appears only as 'examples include Mongolian folk tales' at the end of otherwise universal standards
+Cultural grounding should be written into the standard itself: 'Students can analyse the narrative architecture and ethical argument of a Mongolian folk tale'
+Same standards across all grades
+Standards fail to show a clear progression — Grade 9 looks like Grade 6 with longer texts
+Each standard must have explicit grade-level descriptors showing increasing complexity, independence, and sophistication — not just word count
+K.2  Risks in textbook development
+Risk
+How it manifests
+How to prevent it
+Grammar-dominated structure
+Textbook organises each chapter around a grammar topic, with reading and writing tasks serving the grammar rather than the other way around
+Textbook chapters should be organised thematically, with grammar knowledge arising from reading texts and serving writing tasks
+Artificial texts replacing authentic ones
+All reading texts are written by the textbook team rather than drawn from actual Mongolian writing — resulting in simplified, culturally flattened, pedagogically thin reading material
+Require a minimum proportion (e.g. 60%) of reading texts to be authentic or lightly adapted authentic Mongolian texts, properly attributed
+Writing reduced to gap-fill and copying
+Writing tasks require students to fill in sentences or copy model texts rather than produce original writing
+Every unit should include at least one extended original writing task (150+ words by Grade 6, 300+ by Grade 9) that requires genuine composition
+Assessment chapters disconnected from learning
+A separate 'test prep' section at the end of each unit that assesses different content from what was taught in the unit
+Assessment tasks should be integrated within units and assess exactly what the unit taught
+Digital integration superficial
+One page per chapter titled 'Digital activity' with a task like 'Search for information about this topic online'
+Digital tasks should be substantively integrated into the learning sequence, with explicit instruction in the digital skill being used, and offline alternatives specified
+Uniform difficulty across grades
+Grade 6 and Grade 9 textbooks have the same level of analytical demand, just with longer texts
+Textbooks must demonstrate a genuine increase in analytical expectation across grades — questioning, task complexity, scaffolding withdrawal, independence requirement
+One cultural region only
+Texts, examples, and contexts reflect only central Mongolian (Ulaanbaatar or central steppe) experience
+Require texts and examples from at least three distinct Mongolian geographic and cultural contexts (e.g. western/Kazakh, Gobi, northern forest, urban)
+Final quality test for any standards or textbook draft
+Before accepting any standards or textbook draft for publication, apply this test: (1) Can a student achieve all the standards without reading a single authentic Mongolian text? If yes — revise. (2) Can a student receive the highest grade while only demonstrating written competence and never being assessed orally? If yes — revise. (3) Does the Grade 9 curriculum look genuinely more challenging than Grade 6 — in the complexity of thinking required, not merely the length of texts? If not — revise. (4) Is there a cultural context in every unit that could only belong to Mongolia — not any generic literacy curriculum? If not — revise. (5) Can the curriculum be taught without any technology by a teacher in a rural school with only a textbook and photocopier access? If not — revise.
+— End of Full Curriculum: Mongolian Language (Монгол хэл), Grades 6–9 —
+Mongolia Lower Secondary Curriculum Reform  |  March 2026  |  Step 7

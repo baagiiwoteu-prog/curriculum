@@ -1,0 +1,446 @@
+FULL CURRICULUM DRAFT
+PHYSICAL EDUCATION
+БИЕИЙН ТАМИР
+Lower Secondary Grades 6–9  |  Mongolia
+Curriculum Reform 2024–2036
+Official Lesson Allocation: 66 + 66 + 66 + 66 = 264 hours
+Working Document – March 2026
+Based on Steps 1–6 of the Cross-Level Competence Analysis
+A. Subject Purpose and Role in Lower Secondary Education
+A.1 Educational Purpose
+Physical Education (Биеийн тамир) develops the whole adolescent through purposeful physical activity. Across Grades 6–9 it serves a fourfold purpose: (a) to build movement competence and physical literacy so that every learner possesses the skills, knowledge, and confidence to be physically active for life; (b) to develop the physical fitness, body awareness, and health-related habits that prevent non-communicable disease and support mental wellbeing during the vulnerable period of early adolescence; (c) to transmit, practise, and critically engage with Mongolia’s rich traditional physical culture — including wrestling (бөх), archery (сур харваа), shagai games, and traditional movement games; and (d) to develop ethical participation — fair play, teamwork, resilience, and inclusive sportsmanship — through embodied experience that no desk-based subject can replicate.
+The subject receives 66 hours per year (two lessons per week) across all four grades, for a total of 264 hours. It belongs to Cluster 6: Health, Body, and Wellbeing, coordinating closely with Эрүүл мэнд (Health Education). It continues directly from the pre-primary Хөдөлгөөн, эрүүл мэнд (Movement and Health) strand and the primary Биеийн тамир subject (Grades 1–5).
+A.2 Systemic Role
+Physical Education is the only subject in the seventeen-subject architecture whose primary medium is the moving body. It is irreplaceable for: developing movement competence and physical literacy; addressing adolescent body image and physical self-concept through direct experience; connecting physical activity to mental health; and serving as the principal curricular home for Mongolia’s traditional physical heritage. In a system heavily weighted toward cognitive-academic subjects, it provides essential bodily engagement, emotional release, and sensory variety that demonstrably supports academic performance in other subjects.
+A.3 Continuation from Prior Learning
+This curriculum is explicitly designed as a continuation of earlier learning. Pre-primary established fundamental movement patterns (balance, locomotion, object control) and health/hygiene habits across four developmental levels. Primary (Grades 1–5) extended these into structured physical fitness routines, sport-specific introductions (basketball, volleyball, football, athletics), acrobatic combinations, traditional games (shagai, даам), and the beginnings of self-directed fitness planning. Grade 6 of this curriculum picks up precisely where Grade 5 ends, securing these foundations before extending them into the adolescent context.
+B. Curriculum Strands
+The curriculum is organised into three interconnected strands. These are not independent silos; in practice a single lesson frequently engages all three. The strands provide organisational clarity for curriculum design, teaching planning, and assessment, while their integration provides holistic learning experiences.
+Strand
+Scope
+Time %
+Lead Competence
+Strand 1: Movement and Sport Competence
+Refined fundamental movement; sport-specific techniques in athletics, gymnastics/acrobatics, and game sports (basketball, volleyball, football); modified and full game play; creative movement sequences
+55–60%
+Movement competence; tactical thinking; physical literacy
+Strand 2: Physical Fitness and Wellbeing
+Training principles (warm-up, overload, specificity, progression, recovery); fitness self-assessment and planning; body awareness and positive physical self-concept; physical activity for mental health; safety, injury prevention, and first aid for sport
+25–30%
+Health literacy; self-regulation; data literacy (fitness tracking)
+Strand 3: Traditional Physical Culture and Ethical Participation
+Mongolian traditional sports and games (wrestling/бөх, archery/сур харваа, shagai, traditional movement games); fair play and sportsmanship; inclusion and respect for difference; officiating and leadership; community and lifelong physical activity
+15–20%
+Cultural identity; ethical reasoning; citizenship
+B.1 Strand Relationships
+Strand 1 provides the activity base through which Strand 2 principles are experienced and applied. Strand 3 contributes specific movement content (wrestling techniques, archery, shagai) that enriches Strand 1, while its ethical participation dimension permeates all sport and fitness contexts. For example, a lesson on a traditional Mongolian running game engages Strand 1 (locomotor skill, game strategy), Strand 2 (cardiovascular fitness, warm-up principles), and Strand 3 (cultural heritage, fair play) simultaneously.
+B.2 Seasonal and Facility Adaptations
+Mongolia’s extreme continental climate (−40°C to +40°C) requires that each strand specify both indoor and outdoor delivery options. The curriculum assumes 4–5 months of indoor-only delivery per year in most regions. Indoor alternatives for schools without gymnasia (classroom-cleared-of-desks activities, corridor activities, dormitory-suitable activities for boarding schools) are indicated throughout. Winter months also offer unique outdoor opportunities: ice-based activities, cross-country movement in snow, and winter traditional games.
+C. Overall Progression Across Grades 6–9
+The four-year progression follows the developmental transformation logic established in Step 2 of the upstream architecture. Each grade carries a distinct developmental role, cognitive demand level, and learner agency expectation. The progression is cumulative: each grade builds on the previous. It is also non-linear: individual learners develop at different rates, and the logic provides the curriculum’s aspiration, not a rigid gate-keeping standard.
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade Role
+Transition and foundation securing
+Structured skill growth
+Analytical depth and strategy
+Synthesis and lifelong orientation
+Cognitive Mode
+Describe and apply
+Explain and justify
+Analyse and interpret
+Synthesise and evaluate
+Learner Agency
+Guided autonomy
+Structured choice
+Managed independence
+Responsible autonomy
+Movement Focus
+Refined fundamentals; bridge from primary
+Sport-specific technique; modified games
+Tactical play; performance analysis
+Strategic, adaptive movement; coaching
+Fitness Focus
+Diagnostic baseline; structured routines
+Training principles; guided self-assessment
+Programme design with teacher support
+Independent planning; lifelong orientation
+Cultural Focus
+Active participation in traditional games
+Cultural context of traditional sports
+Understanding cultural significance
+Reflective identity engagement
+Ethical Focus
+Rule-following; cooperation
+Understanding fair play principles
+Self-management; peer support
+Officiating; coaching; inclusion advocacy
+Assessment Mode
+Teacher observation; technique demos
+Peer and self-assessment with criteria
+Performance analysis; fitness data interpretation
+Portfolio; personal plan; reflective evaluation
+C.1 Time Budget Per Grade
+Each grade receives 66 nominal hours (two lessons per week across a 33-week year). After subtracting summative assessment periods (4–6 lessons), review and administration (2–3 lessons), and an approximate 10% disruption buffer (weather, school events, holidays), the effective teaching time is 50–55 lessons per year. All content design is calibrated to this effective figure.
+The recommended annual distribution across strands is: Strand 1 (Movement and Sport Competence) approximately 30–33 lessons; Strand 2 (Physical Fitness and Wellbeing) approximately 13–16 lessons; Strand 3 (Traditional Physical Culture and Ethical Participation) approximately 8–11 lessons. In practice, many lessons integrate two or three strands simultaneously.
+D. Grade 6 Curriculum
+The Bridging Year: Transition, Recalibration, and Foundation Securing
+D.1 Role of the Grade
+Grade 6 is the most consequential transition year in the Mongolian education system. Learners move from a self-contained primary classroom into a multi-subject, multi-teacher environment while simultaneously entering puberty. Grade 6 Physical Education must: (a) diagnose and secure the fundamental movement competences inherited from primary, adapting them to rapidly changing adolescent bodies; (b) re-establish physical activity habits and cooperative social behaviours in the new institutional setting; and (c) provide a psychologically safe, enjoyable physical activity experience that sustains motivation during a destabilising transition.
+Grade 6 prioritises security over ambition. A learner who is physically confident, socially integrated, and engaged in regular activity is better prepared for Grades 7–9 than one who has been prematurely pushed into sport specialisation.
+D.2 Progression Focus
+Cognitive demand: Describe and apply. Learners name, demonstrate, and practise movement skills. They follow rules and begin to explain why techniques work.
+Agency: Guided autonomy. Teacher-directed instruction with clear demonstrations and structured practice. Some choice in warm-up activities and game variations.
+Key transition from primary: Movement skills refined for changing bodies; play-centred games evolve toward structured activity; cooperative team tasks rebuild social connections; traditional games bridge familiar primary activities into the secondary context.
+D.3 Expected Learning
+Strand 1: Movement and Sport Competence
+Perform refined fundamental locomotor skills (running with varied pace/direction, jumping for distance and height, agility movements) adapted to adolescent body changes.
+Demonstrate basic sport-specific techniques in two to three sports (selected from: basketball passing/dribbling/shooting, volleyball underhand serve/forearm pass, football dribbling/passing, athletics running/jumping events).
+Perform acrobatic and gymnastic elements (forward/backward rolls, balance sequences, simple partner balances) building on primary combinations.
+Participate in modified game play with understanding of basic rules and positions.
+Use correct terminology in Mongolian to name and describe movement skills and sport techniques.
+Strand 2: Physical Fitness and Wellbeing
+Complete a diagnostic baseline fitness assessment (flexibility, endurance, speed, strength indicators) and record personal results.
+Perform structured warm-up and cool-down routines, explaining their purpose.
+Follow a teacher-designed fitness circuit and describe the targeted fitness component of each exercise.
+Demonstrate basic safety practices for physical activity: appropriate clothing and footwear, hydration, exercise in extreme weather conditions, injury reporting.
+Strand 3: Traditional Physical Culture and Ethical Participation
+Participate actively in at least four traditional Mongolian movement games (e.g., алчуур хаях, чоно тарвагацах, будаг авах, гагнасан гинж) and shagai games, naming each game and its basic rules.
+Follow rules consistently, demonstrate turn-taking, accept victory and defeat with composure, and cooperate with all classmates regardless of ability level.
+Identify and name Mongolia’s “three manly games” (эрийн гурван наадам) and describe their connection to Naadam.
+D.4 Indicative Content Direction
+Term Block
+Focus Content
+Strand Integration
+Autumn (Sep–Oct)
+Diagnostic fitness assessment; refined running, jumping, throwing (athletics focus); outdoor traditional movement games; cooperative team-building activities
+S1: Athletics fundamentals. S2: Baseline fitness. S3: Traditional games as bridge from primary
+Early Winter (Nov–Dec)
+Indoor: Gymnastics/acrobatics (rolls, balances, sequences); introduction to basketball (passing, dribbling, shooting); fitness circuit training; shagai games
+S1: Gymnastics + basketball. S2: Fitness circuits, warm-up/cool-down. S3: Shagai, fair play emphasis
+Winter (Jan–Mar)
+Indoor: Volleyball introduction (serve, forearm pass); continued basketball; body-management activities (balance, coordination challenges); winter outdoor activities where feasible (ice activities, snow games)
+S1: Volleyball + basketball. S2: Body awareness, safety in cold. S3: Winter traditional games
+Spring (Apr–May)
+Return to outdoor: Athletics (running events, long jump); football introduction; traditional movement games; repeat fitness assessment for progress comparison; modified game play festivals
+S1: Athletics + football. S2: Fitness re-test (ipsative comparison). S3: Traditional games festival, Naadam introduction
+D.5 Pedagogy Notes
+Teacher-directed instruction dominates, with clear demonstrations and structured practice sequences. Every lesson begins with an active warm-up (never passive standing).
+Traditional games serve as bridge activities — many are familiar from primary and provide a psychologically safe entry into the new environment.
+Group formation should prioritise social mixing, not friendship groups, to build new peer connections.
+Active movement time should comprise at least 70% of each lesson. Verbal instruction is brief, specific, and delivered during activity where possible.
+Differentiation: Vary task difficulty (distance, speed, target size) rather than excluding less skilled learners. All participate in all activities.
+D.6 Digital Integration Notes
+Tier 1 (all schools): No digital requirement. Fitness results recorded on paper cards. Teacher demonstrations replace video.
+Tier 2 (basic tech): Teacher may use smartphone to video a demonstration for slow-motion replay during technique teaching.
+Tier 3 (full tech): Learners use simple apps to record fitness data; short video clips of traditional games shown before activity.
+D.7 Mongolian Grounding Notes
+Traditional movement games (алчуур хаях, чоно тарвагацах, будаг авах, гагнасан гинж) are core content, not optional enrichment. They are scheduled in every term.
+Shagai games develop fine motor skills and connect to cultural heritage. They serve as excellent indoor activities during winter months.
+All PE terminology is taught and used in Mongolian: дасгал (exercise), хөдөлгөөн (movement), бие бялдар (physical fitness), тэнцвэр (balance), хурд (speed), тэсвэр (endurance), etc.
+Rural learners’ physical experience (herding, riding) is valued and connected to fitness concepts. Urban learners explore how to maintain active lifestyles in apartment and ger-district settings.
+D.8 Assessment Notes
+4–5 summative assessment points across the year: (1) Diagnostic fitness baseline (September — formative, not graded), (2) Technique demonstration in athletics or gymnastics (November), (3) Modified game play observation in basketball or volleyball (February), (4) End-of-year fitness re-test (ipsative comparison to baseline), (5) Traditional game participation and rule knowledge (oral, May).
+Formative assessment dominates: ongoing teacher observation, peer feedback during practice, self-assessment of effort and cooperation.
+No written tests. All assessment is performance-based or brief oral response.
+Fitness assessment uses ipsative (personal improvement) criteria. Learners are assessed on improvement from their own baseline, not against fixed norms.
+E. Grade 7 Curriculum
+The Structured-Growth Year: Skill Development and Sport Introduction
+E.1 Role of the Grade
+By Grade 7, learners should be settled in the lower secondary environment. Cognitive capacity for understanding “why” is growing. Peer relationships are increasingly important as learning contexts. Physical development is accelerating, creating both new capacities and new challenges (coordination disruption, body-image sensitivity). Grade 7 extends movement competence into more specialised sport contexts and introduces the “why” behind physical training.
+E.2 Progression Focus
+Cognitive demand: Explain and justify. Learners explain why certain training methods work, compare techniques, justify tactical choices, and evaluate their own performance with teacher-provided criteria.
+Agency: Structured choice. Learners select warm-up exercises from a menu, choose practice drills from options, and make decisions within modified games.
+Key advance from Grade 6: From performing skills to understanding technique principles; from following fitness routines to understanding training concepts (warm-up rationale, overload, recovery); from playing traditional games to learning their cultural context.
+E.3 Expected Learning
+Strand 1: Movement and Sport Competence
+Demonstrate sport-specific techniques with increasing consistency in three to four sports (extending Grade 6 introductions and adding depth): athletics (sprinting technique, standing long jump measurement, endurance running form), gymnastics (extended sequences, partner work), basketball (lay-up, defensive positioning), volleyball (overhand serve introduction, setting), football (passing combinations, positional play).
+Apply basic tactical concepts in modified game situations: creating and using space, supporting team-mates, maintaining defensive shape.
+Explain the technical principles behind at least two sport techniques (e.g., why follow-through improves throwing accuracy; why a low centre of gravity aids balance).
+Strand 2: Physical Fitness and Wellbeing
+Explain and apply training principles: purpose of warm-up and cool-down; overload principle (increasing intensity/duration); specificity (matching training to goals); rest and recovery.
+Conduct self-assessment of fitness with teacher-provided criteria and record results over time, identifying areas of improvement and areas for development.
+Explain the connection between regular physical activity and mental wellbeing (stress reduction, mood improvement, concentration enhancement).
+Demonstrate safe exercise practices including: correct lifting technique, appropriate intensity for age, recognising signs of overexertion, basic first aid for common sport injuries (sprains, bruises).
+Strand 3: Traditional Physical Culture and Ethical Participation
+Practise introductory wrestling (бөх) techniques: basic grips, balance and stance, simple take-downs — with emphasis on safety and respect. Discuss the cultural significance of wrestling in Mongolian society.
+Practise shagai games with increasing strategic sophistication. Explain the cultural role of shagai in Mongolian family and community life.
+Demonstrate understanding of fair play principles: explain why rules exist (not just what they are); describe what sportsmanship looks like beyond rule-following; give constructive feedback to peers.
+Discuss the “three manly games” in cultural context: their role in Naadam, their historical significance, and the question of gender participation.
+E.4 Indicative Content Direction
+Term Block
+Focus Content
+Strand Integration
+Autumn
+Outdoor: Athletics technique refinement (sprinting, long jump, endurance); outdoor traditional games with cultural discussion; fitness self-assessment using teacher criteria
+S1: Athletics depth. S2: Training principles (warm-up, overload). S3: Traditional games + cultural context
+Early Winter
+Indoor: Extended gymnastics sequences (partner work, creative combinations); basketball skill development (lay-up, defensive play); introduction to wrestling techniques and safety; fitness circuit design with student input
+S1: Gymnastics + basketball. S2: Overload/recovery principles. S3: Wrestling introduction + cultural significance
+Winter
+Indoor: Volleyball progression (overhand serve, setting, modified game); tactical concepts in game play (creating space, defensive shape); shagai games with strategic depth; mental health and physical activity connection
+S1: Volleyball + tactical games. S2: Mental health link, body awareness. S3: Shagai strategy + cultural role
+Spring
+Outdoor: Football skill combinations and positional play; athletics events (measurement, comparison); traditional game tournament; fitness re-assessment with self-reflection
+S1: Football + athletics. S2: Self-assessment, progress reflection. S3: Traditional game competition, Naadam preparation context
+E.5 Pedagogy Notes
+Teaching Games for Understanding (TGfU) approach introduced: modified games develop tactical awareness alongside technique. Technique is taught through the game context, not in isolation.
+Peer teaching begins: learners explain techniques to partners, provide feedback using simple criteria.
+Student choice increases: learners select warm-up exercises, choose from practice drill options, and propose game modifications.
+Wrestling requires careful safety protocols and respectful introduction. Begin with balance challenges and grip work before any take-down techniques. Gender-mixed groups for non-contact phases; offer choice for contact phases.
+E.6 Digital Integration Notes
+Tier 1: Paper-based fitness tracking logs with self-assessment columns. Peer observation feedback cards (written).
+Tier 2: Teacher uses phone video for technique analysis in slow motion during skill teaching (e.g., sprint technique, volleyball serve).
+Tier 3: Learners view clips of Naadam wrestling or archery competitions to discuss cultural significance; simple fitness tracking via apps.
+E.7 Mongolian Grounding Notes
+Wrestling (бөх) is introduced with explicit cultural contextualisation: the eagle dance (дэвээ), wrestler titles (начин, харцага, заан, арслан), and the values of respect and humility in competition.
+Gender equity discussion: traditional wrestling has been male-only; learners discuss whether and how this should change, connecting to contemporary Mongolian society.
+Endurance concepts connect to Mongolian values of тэсвэр (perseverance) and хатуужил (toughening) — discussed not as harsh discipline but as resilience-building.
+Rural-context connection: learners from herding families share how physical demands of pastoral life develop fitness; urban learners consider equivalent urban fitness strategies.
+E.8 Assessment Notes
+5–6 summative assessment points: (1) Athletics technique and performance, (2) Gymnastics sequence (individual or partner), (3) Game play observation in basketball or volleyball (tactical and technical), (4) Wrestling basic technique demonstration, (5) Fitness self-assessment with written reflection on training principles (brief — max 1 page), (6) Optional: Shagai tournament with cultural explanation.
+Peer assessment introduced: learners assess each other’s technique using teacher-provided rubrics.
+Self-assessment of effort, cooperation, and fair play using structured reflection prompts.
+Written component: brief (max 10–15% of assessment profile). May include: short explanation of a training principle, or a paragraph on the cultural significance of a traditional sport.
+F. Grade 8 Curriculum
+The Analytical-Depth Year: Strategy, Analysis, and Self-Direction
+F.1 Role of the Grade
+Grade 8 represents the deepening phase. Most learners now have sufficient abstract capacity to engage with genuinely analytical tasks. Peer relationships are maturing, and identity exploration is intensifying. This is the grade where Physical Education can make its greatest demand for understanding the principles behind physical performance. Learners move from performing techniques to analysing performance, from following training plans to designing them, and from playing games to thinking strategically within them.
+F.2 Progression Focus
+Cognitive demand: Analyse and interpret. Learners analyse performance (own and peers’), interpret fitness data, evaluate tactical effectiveness, and explain the cultural significance of traditional sports.
+Agency: Managed independence. Learners design portions of their own training, lead warm-ups for the class, organise practice sessions, and take responsibility for peer feedback.
+Key advance from Grade 7: From applying techniques to analysing what makes them effective or ineffective; from learning training principles to applying them in self-designed programmes; from knowing about traditional sports to understanding their deeper cultural meaning.
+F.3 Expected Learning
+Strand 1: Movement and Sport Competence
+Perform sport-specific techniques with effectiveness under game pressure (not just in isolated practice): apply shooting technique while defended in basketball; serve accurately under match conditions in volleyball; execute passing combinations against opposition in football.
+Demonstrate tactical understanding in game situations: read play, anticipate opponents’ actions, communicate with team-mates, adapt strategy during play.
+Analyse performance (own and peers’) using observational criteria: identify technical strengths and areas for improvement; provide specific, constructive feedback.
+Create a gymnastics/acrobatic group sequence incorporating at least four different elements, demonstrating creativity and coordination.
+Strand 2: Physical Fitness and Wellbeing
+Design a 4-week personal fitness improvement programme targeting one self-identified area (e.g., endurance, flexibility, upper-body strength), applying training principles of overload, specificity, and progression.
+Implement and evaluate the programme, recording data and interpreting results: Did fitness improve? Why or why not? What would be adjusted?
+Explain the connection between physical activity and mental health with specific examples relevant to adolescent life: stress management, concentration, sleep quality, body image.
+Demonstrate injury prevention practices and basic first aid responses for common sport injuries (RICE protocol, when to seek help).
+Strand 3: Traditional Physical Culture and Ethical Participation
+Practise wrestling (бөх) techniques with increasing sophistication, demonstrating both technical skill and the cultural values of respect, humility, and composure.
+Engage with archery (сур харваа) or adapted target sports where equipment is available; understand the role of archery in Naadam and Mongolian warrior tradition.
+Explain the cultural significance of at least two traditional Mongolian sports: their historical origins, social functions, connection to nomadic life, and role in contemporary Mongolian identity.
+Take responsibility for fair conduct: self-officiate in games, manage disagreements constructively, actively include less confident peers.
+Begin to take leadership roles: lead warm-up sessions, organise small-group practice, suggest game modifications for inclusion.
+F.4 Indicative Content Direction
+Term Block
+Focus Content
+Strand Integration
+Autumn
+Outdoor: Athletics with performance analysis (timing, measurement, peer feedback); football tactical play (positional awareness, combination play); fitness programme design begins; outdoor traditional games with cultural discussion
+S1: Athletics analysis + football tactics. S2: Programme design. S3: Cultural discussion through games
+Early Winter
+Indoor: Basketball game play with tactical emphasis; gymnastics group sequence creation; wrestling technique development; fitness programme implementation and tracking
+S1: Basketball tactics + gymnastics creativity. S2: Programme implementation. S3: Wrestling depth + values
+Winter
+Indoor: Volleyball match play with peer analysis; body image and mental health connection; archery/target sports (where possible); shagai tournaments; leadership skill development (leading warm-ups, organising practice)
+S1: Volleyball analysis. S2: Mental health + body image. S3: Archery cultural context + leadership
+Spring
+Outdoor: Multi-sport application (learner-choice sport focus); fitness programme evaluation and reflection; traditional sport cultural presentation (oral); inter-class modified game competitions
+S1: Applied game play. S2: Programme evaluation. S3: Cultural presentation + competition ethics
+F.5 Pedagogy Notes
+Reciprocal teaching: learners work in pairs where one performs, the other observes and provides feedback using criteria cards, then roles swap.
+Problem-solving approach to tactics: teacher sets a tactical problem (“How can your team create space against a zone defence?”) and learners experiment, discuss, and refine solutions through play.
+Learner-led warm-ups: rotating responsibility for planning and leading the warm-up develops leadership and applies training knowledge.
+Fitness programme design is a structured project: teacher provides a template, guides selection of exercises, and monitors implementation. This is applied learning, not classroom theory.
+F.6 Digital Integration Notes
+Tier 1: Paper-based fitness programme design using template worksheets. Peer observation feedback forms. Stopwatches and tape measures for performance data.
+Tier 2: Teacher records game play for post-lesson analysis discussion; learners use simple spreadsheets or tables to track fitness data over 4 weeks.
+Tier 3: Video analysis of own technique with peer discussion; digital fitness tracking; research on traditional sports using school library or internet resources.
+Critical digital literacy: Learners begin to evaluate online fitness advice (e.g., social media workout trends) — Is this safe? Is it evidence-based? Is it appropriate for adolescents?
+F.7 Mongolian Grounding Notes
+Cultural presentations: learners prepare brief oral presentations on the significance of a traditional Mongolian sport, connecting historical context to contemporary practice.
+Archery is introduced where possible. Even without full archery equipment, adapted target activities (throwing accuracy, precision challenges) can introduce the principles and cultural context.
+Body image discussion is culturally grounded: Mongolian traditional aesthetics, the impact of international media on Mongolian adolescents, the difference between fitness for health and appearance-driven exercise.
+Mongolian concepts of хүндэтгэл (respect) and даруу зан (humility) are explicitly connected to wrestling and sport conduct.
+F.8 Assessment Notes
+5–6 summative assessment points: (1) Performance analysis task (analyse own or peer’s technique using criteria), (2) Game play tactical assessment (teacher observation during match play), (3) Gymnastics group sequence (creative, cooperative, technically sound), (4) Fitness programme design and evaluation (written/oral — portfolio-style), (5) Cultural significance presentation (oral, on a traditional sport), (6) Optional: Leadership assessment (warm-up leading, practice organisation).
+Written component increases slightly but remains max 15%: fitness programme documentation and cultural presentation notes.
+Peer assessment is now substantive: learners assess each other’s game play using structured observation sheets.
+Self-assessment deepens: learners write brief reflections on their fitness programme results and identify next steps.
+G. Grade 9 Curriculum
+The Synthesis Year: Independence, Reflection, and Lifelong Orientation
+G.1 Role of the Grade
+Grade 9 is the capstone of lower secondary Physical Education. It prepares learners for continued physical activity beyond school — whether through sport, traditional movement culture, personal fitness, or recreational activity. The emphasis shifts from teacher-directed development to learner-managed physical activity, from performing to evaluating and coaching, and from participating in cultural traditions to reflecting on their contemporary significance. Grade 9 learners should leave lower secondary with a personal physical activity identity: they know what activities they enjoy, how to maintain their fitness, how to evaluate health information critically, and how their physical culture connects to their Mongolian identity.
+G.2 Progression Focus
+Cognitive demand: Synthesise and evaluate. Learners construct personal fitness plans, critically evaluate physical activity and health claims, articulate their own physical activity identity, and reflect on the role of traditional physical culture in contemporary Mongolia.
+Agency: Responsible autonomy. Learners manage significant portions of their own physical activity with the teacher as advisor rather than director. They officiate games, coach younger peers, and organise activity sessions.
+Key advance from Grade 8: From analysing performance to coaching others; from designing a short programme to constructing a long-term personal plan; from understanding cultural significance to reflective identity engagement; from participating in fair play to advocating for inclusion.
+G.3 Expected Learning
+Strand 1: Movement and Sport Competence
+Demonstrate adaptive, strategic movement in complex game situations: adjust technique and tactics in response to changing game dynamics; perform consistently under competitive pressure.
+Apply advanced tactical concepts in at least two game sports: set plays, positional rotation, transitional play (attack to defence), communication systems.
+Officiate modified games competently: apply rules, make decisions, manage disagreements, maintain game flow.
+Coach peers in basic technique: demonstrate, explain key teaching points, provide corrective feedback, modify tasks for different ability levels.
+Design and perform a creative movement sequence (gymnastics, dance-movement, or martial arts inspired) demonstrating fluency, control, and expression.
+Strand 2: Physical Fitness and Wellbeing
+Design, implement, and evaluate a personal long-term fitness plan (6–8 weeks) based on self-identified goals, incorporating appropriate training principles, monitoring methods, and adjustment strategies.
+Critically evaluate fitness and health claims encountered in media and online sources: Is this exercise safe? Is this diet claim evidence-based? How does social media affect body image?
+Articulate the role of physical activity in lifelong health and wellbeing, including: prevention of non-communicable diseases, mental health maintenance, social connection through sport and recreation.
+Apply comprehensive safety and first aid knowledge for physical activity contexts, including management of minor injuries and recognition of when professional help is needed.
+Strand 3: Traditional Physical Culture and Ethical Participation
+Demonstrate competence in at least one traditional Mongolian sport or game system (wrestling, archery, shagai) with both technical skill and cultural understanding.
+Reflect critically on the role of traditional physical culture in contemporary Mongolian identity: How do traditional sports connect nomadic heritage to urban contemporary life? How should gender equity be addressed in traditional sports? What is the role of Naadam in modern Mongolia?
+Advocate actively for inclusion in physical activity: propose and implement modifications that enable all peers to participate; challenge exclusionary practices constructively.
+Demonstrate leadership in sport and physical activity contexts: organise activity sessions, mentor less experienced peers, manage fair competition.
+G.4 Indicative Content Direction
+Term Block
+Focus Content
+Strand Integration
+Autumn
+Outdoor: Learner-choice sport focus (advanced game play in selected sport); personal fitness plan design begins; traditional sport practice with reflective discussion; officiating practice in peer games
+S1: Advanced game play + officiating. S2: Fitness plan design. S3: Traditional sport reflection
+Early Winter
+Indoor: Coaching practicum (learners teach technique to peers); creative movement/gymnastics sequence design and performance; wrestling or adapted martial arts with cultural reflection; fitness plan implementation and mid-point review
+S1: Coaching + creative movement. S2: Plan implementation. S3: Cultural reflection on physical heritage
+Winter
+Indoor: Critical evaluation of fitness/health information (media literacy through PE content); inter-class tournament with student officiating; shagai championship with cultural commentary; personal wellbeing plan integration
+S1: Tournament play. S2: Health literacy + plan continuation. S3: Inclusion advocacy + cultural commentary
+Spring
+Outdoor: Multi-activity festival (learner-organised); fitness plan evaluation and final reflection; traditional sport demonstration and presentation; physical activity identity reflection: “Who am I as a physically active person? What will I continue after school?”
+S1: Festival organisation. S2: Plan evaluation + lifelong orientation. S3: Identity reflection + presentation
+G.5 Pedagogy Notes
+Learner-managed activity: Significant portions of lessons are planned and led by learners. Teacher functions as advisor, safety monitor, and quality assurance.
+Coaching practicum: Each learner has opportunities to teach a skill to peers. This develops communication, empathy, and deep understanding of technique.
+Reflective practice: Regular brief reflections (oral or written) on performance, progress, and the role of physical activity in learners’ lives.
+Critical literacy through PE: Evaluating online fitness advice, social media body image content, and commercial health claims — practical, not theoretical.
+Learner choice maximised: Where possible, learners choose their sport focus, design their fitness plan, and select their traditional sport engagement.
+G.6 Digital Integration Notes
+Tier 1: Paper-based fitness plan and evaluation journal. Peer coaching observation notes. Oral presentations on traditional sports.
+Tier 2: Teacher-recorded video of learner coaching sessions for self-review; simple digital fitness tracking; printed articles on health/fitness claims for critical analysis.
+Tier 3: Learner-produced video analysis of their own performance or coaching; digital portfolio of fitness plan and results; online research on traditional sports for presentations; critical evaluation of fitness websites and social media accounts.
+Digital wellbeing: This is the grade where the connection between screen time, sedentary behaviour, and physical health is most explicitly addressed.
+G.7 Mongolian Grounding Notes
+Reflective identity work: Learners articulate how traditional physical culture connects to their own identity as Mongolians in the 21st century. This is personal reflection, not rote cultural knowledge.
+Gender equity in traditional sports: Critical, respectful discussion of how traditional gender roles in sport (e.g., wrestling as exclusively male) relate to contemporary values of equality. No prescribed answer — the goal is thoughtful engagement.
+Urban-rural connection: How can active lifestyles rooted in nomadic tradition be adapted for urban living? What can urban and rural Mongolians learn from each other about physical activity?
+Naadam as living culture: Learners consider Naadam not just as a historical festival but as a contemporary cultural event: its role in tourism, national identity, and community cohesion.
+G.8 Assessment Notes
+5–6 summative assessment points: (1) Advanced game play and tactical assessment (teacher observation), (2) Coaching practicum (peer teaching effectiveness), (3) Creative movement/gymnastics sequence (performance), (4) Personal fitness plan portfolio (design + implementation + evaluation — written/oral), (5) Reflective cultural presentation (oral: traditional sport significance + personal identity reflection), (6) Optional: Officiating competence assessment.
+Portfolio element: The personal fitness plan constitutes a mini-portfolio: goal-setting, programme design, data recording, and evaluative reflection. This is the most substantial written component but still practically oriented.
+Self-assessment culminates: Learners write a final reflection on their development across Grades 6–9 and articulate their personal physical activity plan for the future.
+Written component remains max 15% of assessment profile. The fitness plan portfolio and cultural reflection together constitute the written evidence.
+H. Whole-Subject Pedagogy Guidance
+H.1 Foundational Principles
+Activity-first: Every lesson involves substantial physical activity. The target is 70–80% active movement time per lesson. Verbal instruction is brief, specific, and delivered during activity where possible. Theory is taught through activity, not as separate classroom sessions.
+Progressive autonomy: A deliberate, visible shift from teacher-directed activity (Grade 6) through structured choice (Grade 7) and managed independence (Grade 8) to responsible autonomy (Grade 9). This parallels the Step 2 developmental transformation logic.
+Differentiation through task complexity, not exclusion: All learners participate in all activities. Challenge is varied by adjusting distance, speed, target size, tactical complexity, or equipment. No learner is sidelined as “not good enough.”
+Formative feedback as primary mechanism: Continuous feedback during activity — from teacher, peers, and self-observation — drives learning more effectively than summative assessment. Teachers circulate, observe, and give brief corrective cues during practice.
+Game-based learning: Particularly from Grade 7, teaching through modified games (Teaching Games for Understanding / TGfU) develops tactical awareness alongside technique. Skills are taught in game-like contexts, not as decontextualised drills.
+Cultural integration as practice: Traditional Mongolian sports and games are taught through active engagement, with cultural context woven into the activity. Culture is experienced physically, not lectured about.
+H.2 Lesson Structure
+A typical lesson follows this structure, adapted to context:
+Active warm-up (8–10 minutes): Movement-based, related to the lesson’s focus. May include traditional movement games. From Grade 8, learner-led.
+Skill development / activity core (25–30 minutes): The main learning phase. Structured practice, modified games, fitness activities, or traditional sport practice. Teacher circulates providing formative feedback.
+Application / game play (10–15 minutes): Applying skills in game or performance context. Modified rules to match learning focus.
+Cool-down and reflection (5 minutes): Physical cool-down plus brief structured reflection (oral question, self-assessment prompt, peer feedback exchange).
+H.3 Grouping Strategies
+Mixed-ability grouping is the default for most activities. Learners of different ability levels working together promotes inclusion and peer learning.
+Same-ability grouping is used selectively for specific skill practice where learners benefit from working at similar challenge levels.
+Gender-mixed grouping is the norm. Gender-separate grouping may be used for body-contact activities (wrestling, some gymnastics) where learners or families request it, but the principle of equal access to all activities is maintained.
+Rotating group formation ensures social mixing across the class, building new peer relationships and preventing clique formation.
+H.4 Teaching in Different Facility Contexts
+Full gymnasium: Standard delivery. Equipment-rich activities, game sports with full court markings, gymnastics with mats.
+Outdoor field: Athletics, football, traditional outdoor games, cross-country running, adapted volleyball (portable net). Seasonal: autumn and spring only in most regions.
+Classroom cleared of desks: Body-management activities (balance, flexibility, coordination challenges), fitness circuits using bodyweight exercises, shagai games, yoga-influenced flexibility work, creative movement sequences. Many core outcomes are achievable in this setting.
+Corridor or hallway: Running/agility activities in linear space, relay activities, skipping, balance challenges.
+Dormitory/boarding school: Bodyweight fitness routines, flexibility work, shagai games, small-space coordination activities. Designed for boarding schools serving nomadic families.
+I. Whole-Subject Assessment Framework
+I.1 What Assessment Captures
+Assessment in Physical Education captures five dimensions, weighted to reflect the practical nature of the subject:
+Dimension
+What Is Assessed
+Weight
+Method
+Movement competence
+Technique quality, consistency, adaptability under game/performance conditions
+35–40%
+Teacher observation; performance tasks
+Tactical understanding
+Decision-making in game play, strategic awareness, communication
+15–20%
+Game play observation; peer analysis
+Physical fitness
+Personal improvement from baseline (ipsative); application of training principles
+15–20%
+Fitness testing (ipsative); programme design
+Knowledge and understanding
+Training principles, safety, cultural significance of traditional sports
+10–15%
+Brief oral explanations; short written reflections
+Participation and ethics
+Consistent participation, genuine effort, cooperation, fair play, inclusion of peers
+10–15%
+Ongoing teacher observation; self-assessment
+I.2 Assessment Progression Across Grades
+Grade 6: Predominantly teacher observation. 4–5 summative points. No written tests. Fitness uses ipsative comparison (baseline to end-of-year). Assessment is supportive, never intimidating.
+Grade 7: Peer assessment introduced with teacher-provided rubrics. 5–6 summative points. Brief written element (max 10–15%): explanation of a training principle or cultural paragraph.
+Grade 8: Self-assessment deepens. Performance analysis tasks (observe and evaluate). Fitness programme design/evaluation as portfolio. 5–6 summative points. Written element includes programme documentation and cultural presentation notes (max 15%).
+Grade 9: Portfolio-style assessment for fitness plan. Coaching assessment. Reflective cultural presentation. Self-assessment of development across Grades 6–9. 5–6 summative points. Written element (max 15%) is practically oriented (fitness plan, reflection).
+I.3 Assessment Principles
+Predominantly practical: Written tests comprise no more than 10–15% of the assessment profile at any grade. The core of assessment is performance-based.
+Ipsative fitness assessment: Learners are assessed on personal improvement from their own baseline, not against fixed norms. This is developmentally essential because adolescent physical development varies enormously.
+No public humiliation: Assessment never creates conditions where less skilled learners are forced to perform individually before the class without adequate preparation and choice.
+Formative priority: Ongoing formative feedback (teacher cues, peer observation, self-reflection) is the primary driver of learning. Summative assessment confirms rather than discovers learning.
+Assessment tasks match the cognitive demand of the grade: describe/apply at Grade 6, explain/justify at Grade 7, analyse/interpret at Grade 8, synthesise/evaluate at Grade 9.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Diverse Learner Needs
+Physical disability: Modified participation options are specified for every major activity. The activity is adapted, not the learner’s participation removed. Examples: wheelchair-accessible tag games, seated volleyball, boccia-style target activities, adapted fitness circuits.
+Chronic health conditions (asthma, diabetes, heart conditions): Teachers receive basic protocols through teacher guidance materials. Coordination with Эрүүл мэнд (Health Education) and school health staff.
+Late and early physical developers: Ipsative assessment, flexible grouping, and task differentiation protect late developers from discouragement. Body-contact activities offer choice-based participation.
+Gender sensitivity: Mixed-gender is default for all activities. Gender-separate grouping available for body-contact activities (wrestling, some gymnastics) where culturally appropriate or requested. All activities are open to all genders.
+J.2 Resource Variability
+Essential Minimum Equipment (all schools must have)
+Balls: 10–15 assorted (mix of football, basketball, volleyball sizes). Cones/markers: 20–30. Jump ropes: 10–15. Stopwatch: 1–2. Tape measure: 1–2. Shagai sets: 5–10. Whistles: 2–3.
+Desirable Equipment (improve delivery but not required for core outcomes)
+Gymnastics mats (4–6). Basketball hoops (2). Volleyball net and posts. Football goals (portable). Athletics equipment (starting blocks, high-jump bar). Archery targets and basic equipment.
+All core learning outcomes are achievable with essential minimum equipment only. The curriculum specifies alternatives for every activity that typically requires specialised equipment.
+J.3 Teacher Support Needs
+Many PE teachers are trained as sport coaches rather than physical educators. Teacher guidance materials must be practical, specific, and activity-focused, not theoretical or academic.
+The curriculum provides: detailed lesson activity descriptions, safety protocols for each activity type, assessment rubrics with concrete criteria, modification options for inclusion, and cultural context notes for traditional sports.
+Non-specialist teachers (in schools without a PE specialist) can deliver the curriculum using the teacher guidance materials, focusing on traditional games, fitness activities, and modified sport that require less technical coaching expertise.
+J.4 Rural-Urban Differences
+Rural schools: May have extensive outdoor space but limited indoor facilities and equipment. The curriculum emphasises outdoor activities, traditional games, bodyweight fitness, and athletics that require minimal equipment. Rural learners’ pastoral physical experience is explicitly valued.
+Urban schools: May have gymnasium access but limited outdoor space. Indoor sport and fitness activities receive more time. Urban learners explore physical activity strategies for apartment and ger-district living.
+Boarding schools (дотуур байр): Activities suitable for dormitory and limited-space contexts are specified: bodyweight fitness, flexibility, shagai, coordination challenges.
+Nomadic-background learners: Their extensive physical competence (riding, herding, outdoor endurance) is recognised and valued as genuine physical fitness, not dismissed as “not sport.”
+J.5 Low-Connectivity and Low-Resource Alternatives
+Following the Step 5B three-tier design principle, all core learning outcomes are achievable without digital technology or specialised facilities. The curriculum is designed to function at Tier 1 (offline, minimal equipment, basic facility). Technology and specialised resources enhance but never define the curriculum.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+Risk
+What Goes Wrong
+How to Prevent It
+Content overload
+Standards specify too many sports, too many techniques, too many learning outcomes per grade. Teachers rush through content, learners never achieve depth, and lessons become stressful rather than enjoyable.
+Enforce the 50–55 effective lesson reality. Limit to 3–4 sport focuses per year. Count learning outcomes: approximately 12–18 per grade across all strands, not 30–40.
+Theory creep
+Textbooks fill with anatomy diagrams, training theory pages, and written exercises. PE lessons become classroom sessions. The subject loses its distinctive embodied learning value.
+Enforce the 70–80% active time principle. Limit written assessment to max 15%. Theory is taught through activity, not textbook chapters. Textbooks should be teacher resources, not student study books.
+Sport-specialisation bias
+Standards and textbooks focus on competitive sport at the expense of fitness, traditional culture, recreation, and inclusion. Non-sporty learners disengage. Gender gaps widen.
+Maintain the three-strand balance. Ensure Strand 2 (fitness/wellbeing) and Strand 3 (traditional culture/ethics) receive their time allocation. Assessment rewards participation and improvement, not just sport performance.
+Normative fitness testing
+Fixed fitness standards (e.g., “all Grade 8 boys must run 1 km in under 5 minutes”) replace ipsative assessment. Late developers are punished, early maturers are rewarded for biology, not effort.
+Mandate ipsative (self-referenced improvement) criteria for all fitness assessment. Normative data may be provided as context, not as pass/fail thresholds.
+Cultural tokenism
+Traditional sports appear once per year as a “cultural day” activity. The three-strand architecture collapses into a two-strand sport-and-fitness curriculum with decorative cultural additions.
+Strand 3 is permanent: 15–20% of time in every grade, every term. Traditional sports are practised regularly, not performed occasionally. Cultural understanding deepens across grades.
+Identical grade design
+All four grades look the same — same sports, same fitness tests, same activities repeated yearly. There is no developmental progression.
+Each grade has a distinct developmental role, cognitive demand, and agency level (Section C). Sport selection rotates across the four-year cycle. Assessment sophistication increases each year.
+Ignoring primary foundations
+Grade 6 jumps straight into sport specialisation, assuming movement competences that may not be secure. Learners with weak foundations fall behind immediately.
+Grade 6 begins with diagnostic assessment and foundation securing (Section D). Traditional games bridge primary to secondary. Sport introduction is gradual, not abrupt.
+Facility-dependent design
+Standards require a full gymnasium, sports hall, or running track. Schools without these facilities cannot deliver the curriculum. Rural and under-resourced schools are excluded.
+Every unit specifies gymnasium, outdoor, and classroom/limited-space alternatives. Core outcomes are achievable with essential minimum equipment in any indoor space.
+This curriculum is designed to be analytically justified, educationally meaningful, culturally grounded, and practically usable across the full range of Mongolian school contexts. It respects the upstream architecture established in Steps 1–6, the official lesson-time allocation, and the developmental realities of Mongolian adolescents. Subsequent standards writing, textbook development, and teacher guidance must preserve these design principles, particularly the three-strand balance, the grade-specific developmental roles, the ipsative assessment approach, and the commitment to cultural integration as practice rather than decoration.
+— End of Full Curriculum Draft —

@@ -1,0 +1,446 @@
+FULL CURRICULUM DRAFT
+DESIGN TECHNOLOGY
+Дизайн технологи
+Lower Secondary Grades 6–9 — Mongolia
+Based on the Curriculum Concept (2024–2036)
+Building on Steps 1–6 of the Cross-Level Competence Analysis
+Step 7 — Full Curriculum Draft — Working Document, March 2026
+Subject
+Дизайн технологи (Design Technology)
+Cluster
+Cluster 5: Creative, Aesthetic, and Design Formation
+Weight Category
+HIGH-WEIGHT CONTINUOUS — 264 total hours
+Hours per Grade
+Grade 6: 66 | Grade 7: 66 | Grade 8: 66 | Grade 9: 66
+Weekly Pattern
+2 → 2 → 2 → 2 (constant across all grades)
+Effective Periods/Year
+50–55 (after assessment, review, disruptions)
+Upstream Documents
+Steps 1–6 of Cross-Level Competence Analysis
+A. Subject Purpose and Role in Lower Secondary Education
+Design Technology exists in Mongolia’s lower secondary curriculum to develop learners’ capacity to identify human needs, generate purposeful solutions, work competently with materials and tools, communicate design intentions, and evaluate outcomes through iterative making. It is the subject where thinking and making converge—where abstract reasoning becomes tangible through the creation of functional and aesthetic objects, systems, and environments.
+The subject serves five interconnected educational purposes across Grades 6–9:
+1. Developing practical reasoning.
+While other subjects develop analytical reasoning (science), abstract reasoning (mathematics), or interpretive reasoning (literature), Design Technology develops practical reasoning—the capacity to think through making, to reason about function, materials, and human needs, and to solve real problems through material engagement. This is a distinctive intellectual contribution that no other subject provides.
+2. Carrying the applied dimension of creative thinking.
+Design Technology is the primary vehicle for the applied dimension of Бүтээлчээр сэтгэх (creative thinking)—one of the six ерөнхий чадамж (general competences) identified in Mongolia’s curriculum framework. While Visual Arts develops the expressive dimension and Music develops the performative dimension, Design Technology develops creativity as problem-solving: generating original solutions, iterating through improvement, tolerating ambiguity, and evaluating ideas against practical criteria.
+3. Building material and technical capability.
+Mongolia’s economy and culture require citizens who can work competently with their hands. Whether in traditional herding, construction, small enterprise, or modern industry, practical making skills are essential. Design Technology is the only subject that systematically develops material handling, tool use, construction technique, and quality judgement across a progressive four-year sequence.
+4. Connecting heritage with contemporary life.
+Mongolia possesses one of the world’s richest traditions of functional design—from the engineering elegance of the ger to the climate-responsive design of the deel, from the mathematical sophistication of хээ угалз patterns to the material intelligence of felt-making and leather-working. Design Technology is the curriculum space where these traditions can be studied not as museum exhibits but as living design practice, inspiring contemporary solutions to real Mongolian needs.
+5. Bridging arts and sciences.
+Design Technology occupies a unique position between the aesthetic domain (shared with Visual Arts and Music) and the analytical domain (shared with science and mathematics). It applies mathematical measurement, scientific understanding of material properties, and engineering principles within creative, human-centred design contexts. This bridging function makes it one of the most integrative subjects in the curriculum.
+Within the Step 4 subject-cluster architecture, Design Technology belongs to Cluster 5 (Creative, Aesthetic, and Design Formation) alongside Дүрслэх урлаг (Visual Arts) and Хөгжим (Music). The three subjects share the pre-primary Зураг, урлал root. Their complementarity is clear: Visual Arts asks “what does this express?”; Music asks “what does this sound and feel like?”; Design Technology asks “what does this do, and how can it be made better?” When Visual Arts exits at Grade 9, Design Technology and Music absorb its creative mandate—making the Grade 9 Design Technology programme particularly important as a carrier of creative competence.
+B. Curriculum Strands
+The curriculum is organised around three core strands and one cross-cutting theme. All three strands appear in every grade and are present in every design project. They provide analytical categories for planning and assessment but are fused in classroom practice through project-based work.
+Strand 1: Design Process and Thinking (Дизайны үйл явц ба сэтгэлгээ)
+This strand develops the intellectual spine of the subject: the capacity to identify human needs, research existing solutions, generate design ideas, plan and execute solutions, test and evaluate outcomes, and improve through iteration. It carries the design cycle as a transferable mode of thinking.
+Progression: Guided design process (Grade 6) → Structured multi-option design (Grade 7) → Independent full-cycle design (Grade 8) → Self-directed design thinking applied to real-world problems (Grade 9).
+Strand 2: Materials, Tools, and Techniques (Материал, багаж хэрэгсэл, арга техник)
+This strand develops practical capability: understanding material properties, selecting materials for purpose, using tools safely and accurately, applying construction techniques (cutting, shaping, joining, finishing), and achieving quality of execution. Safety awareness and responsible material use are embedded throughout.
+Progression: Familiar materials with increasing precision (Grade 6) → Extended material range with accuracy and finish (Grade 7) → Complex and mixed materials with technical precision (Grade 8) → Independent material selection and combined techniques with quality finish (Grade 9).
+Strand 3: Design Communication and Representation (Дизайны харилцаа ба дүрслэл)
+This strand develops the capacity to represent design ideas visually and verbally: freehand sketching, annotated design sheets, technical drawing, model-making, written specifications, and oral design presentations. It scaffolds the concrete-to-abstract cognitive transition and builds discipline-specific academic literacy.
+Progression: Freehand sketches and verbal descriptions (Grade 6) → Dimensioned working drawings and annotated design sheets (Grade 7) → Technical drawing conventions and digital tools where available (Grade 8) → Multi-format design portfolios and oral design defence (Grade 9).
+Cross-Cutting Theme: Mongolian Design Heritage (Монголын дизайны өв)
+Rather than a separate strand, Mongolian cultural design content is integrated throughout all three strands. In Strand 1, learners study how traditional Mongolian designs solve practical needs (the ger, the deel, nomadic tools). In Strand 2, they learn traditional Mongolian making techniques (felt-making, leather-working, wood-carving) alongside modern techniques. In Strand 3, they study Mongolian design representation (хээ угалз patterns, proportional systems). This ensures cultural content is substantive and functional—not decorative additions.
+Strand Relationship and Time Allocation
+Strand / Theme
+Gr 6
+Gr 7
+Gr 8
+Gr 9
+S1: Design Process & Thinking
+~30%
+~30%
+~35%
+~35%
+S2: Materials, Tools & Techniques
+~40%
+~35%
+~30%
+~25%
+S3: Design Communication
+~20%
+~25%
+~25%
+~30%
+Mongolian Heritage (embedded)
+~10%
+~10%
+~10%
+~10%
+Note: Percentages are indicative, not prescriptive. In project-based work, all strands are active simultaneously. The shift from Grade 6 to Grade 9 reflects the increasing emphasis on design thinking and communication relative to basic skill development.
+C. Overall Progression Across Grades 6–9
+The four-year progression follows the Step 2 Developmental Transformation Logic, adapted for Design Technology’s distinctive character as a practical, applied, creative subject. Each grade has a defined developmental role that builds cumulatively toward the Grade 9 outcome: a learner who can independently identify a real need, design a considered solution, make it competently, evaluate it critically, and present it with reasoned justification.
+Dimension
+Grade 6: Bridge
+Grade 7: Growth
+Grade 8: Depth
+Grade 9: Synthesis
+Grade role
+Transition and foundation
+Extension and structured application
+Analysis and integration
+Synthesis and readiness
+Design thinking
+Guided: identify need with support; one solution; make with familiar materials
+Structured: research need; 2–3 alternatives; select and justify
+Independent: analyse complex needs; specifications; prototype and iterate
+Self-directed: real-world problems; user research; justified solutions
+Materials
+Paper, card, clay, recycled. Accurate measurement, basic joining
+Add textiles, wood, simple mechanisms. Accuracy and finish quality
+Mixed materials, basic electronics/ circuits, mechanical parts. Precision
+Independent selection for purpose. Combined techniques. Quality finish
+Communication
+Freehand sketches. Simple labels. Verbal description
+Working drawings with dimensions. Annotated sheets. Templates
+Technical drawing basics. Exploded views. Digital tools where available
+Multi-format portfolios. Oral presentation/ defence. Drawing conventions
+Evaluation
+Say what works, what to change. Teacher-guided reflection
+Evaluate against criteria. Identify improvements. Peer comparison
+Evaluate against specifications. Test functionality. Analyse strengths
+Critical evaluation. Social, cultural, environmental impact considered
+Cultural grounding
+Explore Mongolian crafts (felt, ger). Recognise patterns
+Study traditional making. Apply хээ угалз in design
+Analyse traditional + modern Mongolian design. Material culture
+Design connecting heritage and contemporary needs. Identity reflection
+Learner role
+Guided maker with increasing independence
+Developing designer making choices within frameworks
+Independent practitioner managing own projects
+Reflective designer synthesising skills, knowledge, values
+Projects per year
+5–6 short projects (1–2 weeks each)
+4–5 projects (2–3 weeks each)
+3–4 projects (3–4 weeks each)
+2–3 projects including 1 extended capstone (4–6 weeks)
+The progression is cumulative: each grade builds on the previous. Individual learners will show variation. The logic provides developmental aspiration, not rigid gate-keeping.
+D. Grade 6 Curriculum: Transition and Foundation
+Grade designation
+The bridging year
+Developmental role
+Consolidate primary making competences in a new subject context; introduce the concept of designing for a purpose
+Effective periods
+~50–55 periods (from 66 nominal)
+Project count
+5–6 short design-make projects (1–2 weeks each)
+Practical time
+Minimum 60% of periods involve hands-on making
+D.1 Progression Focus
+Grade 6 transitions learners from the integrated arts-and-craft context of primary into a subject specifically focused on designing for human needs. The first priority is diagnostic: confirming that learners can measure, cut, join, plan a sequence, and work safely with basic tools. The second priority is conceptual: introducing the idea that making is not merely creative expression but purposeful problem-solving. Simple design briefs—“design a container that holds exactly three items for carrying to school”; “design a device that moves an object across a table”—introduce needs-based designing while using familiar materials.
+D.2 Expected Learning
+Strand 1: Design Process and Thinking
+Identify a simple need or problem when given a structured design brief
+Generate at least one design idea in response to a brief, using sketching and discussion
+Follow a simplified design process: need → idea → plan → make → evaluate
+Explain why they made particular design choices when asked
+Identify what works well in their finished product and what they would change
+Strand 2: Materials, Tools, and Techniques
+Demonstrate safe handling of basic tools: ruler, pencil, scissors, craft knife (with supervision), glue, tape
+Measure and mark materials with reasonable accuracy (within 5mm)
+Cut paper, card, and thin sheet materials along marked lines
+Join materials using at least three methods: gluing, taping, slotting/tabbing
+Work with clay or modelling material to create three-dimensional forms
+Use recycled and found materials creatively in design projects
+Clean up workspace and store tools and materials properly
+Strand 3: Design Communication
+Sketch design ideas freehand with reasonable clarity
+Label sketches to identify parts, materials, and features
+Describe their design verbally, explaining what it does and how it works
+Begin using simple templates for recording design ideas
+Mongolian Design Heritage
+Identify at least three examples of traditional Mongolian design (e.g., ger, deel, shagai)
+Describe what need or problem each traditional design solves
+Recognise basic хээ угалз patterns (алхан хээ, уулан хээ) and begin applying them in decoration
+D.3 Indicative Content Direction
+Term 1 (approx. 16–18 periods): Diagnostic Consolidation and Introduction
+Diagnostic making tasks to assess primary skills (measuring, cutting, joining, finishing). Introduction to the design workspace, safety rules, tool care. First structured mini-brief: design and make a name-plate or desk organiser using paper/card—simple enough to succeed, complex enough to involve choices. Introduction to Mongolian craft heritage through examining real objects (felt samples, miniature ger model).
+Term 2 (approx. 16–18 periods): Designing for a Need
+Two design-make projects using the simplified design cycle. Project examples: design a container for a specific purpose (pencil holder, gift box, seed storage); design a simple toy or game for a younger child. Focus on need-identification, sketching ideas, selecting materials, making, and evaluating. Introduction of хээ угалз as decorative elements applied to functional objects.
+Term 3 (approx. 16–18 periods): Making Things that Work
+Projects involving movement, structure, or mechanism. Project examples: design a device that moves an object (using simple mechanisms—lever, wheel, ramp); design a structure that supports a weight (bridge, tower). Focus on testing, evaluating function, and improving. End-of-year portfolio compilation and self-assessment.
+D.4 Pedagogy Notes
+Grade 6 pedagogy should be structured and confidence-building. The teacher provides clear briefs, demonstrates techniques, scaffolds the design process, and celebrates effort and completion alongside quality. Making activities should be broken into manageable steps. Whole-class demonstrations of techniques should precede individual making. Peer sharing (“show and tell” about your design) builds communication skills and design vocabulary. Cleanup routines must be established as non-negotiable expectations from the first lesson.
+D.5 Digital Integration Notes
+Digital integration in Grade 6 is minimal and optional. Where available: use digital cameras/phones to photograph design work for portfolios; use simple drawing tools for design sheets; use image search to research examples of designs. Offline alternatives: hand-drawn portfolios, physical samples, teacher-provided reference images. No learning outcome requires digital access.
+D.6 Mongolian Grounding Notes
+Grade 6 Mongolian grounding focuses on recognition and appreciation. Learners examine real traditional objects (or high-quality images) and discuss them as design solutions: What need does the ger solve? Why is it this shape? What materials is it made from? Why those materials? Similarly for the deel, traditional furniture, and everyday tools. This develops design analysis vocabulary while building cultural knowledge. Local craft practitioners can be invited as guest demonstrators where possible.
+D.7 Assessment Notes
+Grade 6 assessment is primarily formative: teacher observation during making, verbal questioning about design choices, and simple self-assessment checklists (“I measured before cutting — yes/no”; “I can explain my design to someone — yes/no”). Summative assessment occurs through 4–5 project evaluations across the year, using descriptive criteria (not numerical grades). Portfolio compilation at year-end provides evidence of progress. No written examinations.
+E. Grade 7 Curriculum: Extension and Structured Application
+Grade designation
+The structured-growth year
+Developmental role
+Extend material range, deepen the design process, introduce structured choice and quality criteria
+Effective periods
+~50–55 periods (from 66 nominal)
+Project count
+4–5 design-make projects (2–3 weeks each)
+Practical time
+Minimum 60% hands-on making
+E.1 Progression Focus
+Grade 7 extends the material range beyond primary-familiar materials and deepens the design cycle. Learners are introduced to textiles, wood, and simple mechanisms. The key cognitive shift is from producing a single solution to generating and evaluating alternatives. Learners begin to research existing designs before creating their own, compare their ideas against criteria, and justify their selections. Working drawings with dimensions are introduced, and quality of finish becomes an explicit assessment criterion.
+E.2 Expected Learning
+Strand 1: Design Process and Thinking
+Conduct simple research into a design need (asking users, examining existing solutions)
+Generate two or three alternative design ideas for a given brief
+Compare alternatives using simple criteria (cost, difficulty, suitability, appearance)
+Select and justify a preferred design solution
+Plan a making sequence with identified materials and tools
+Evaluate the finished product against the original brief and identify specific improvements
+Strand 2: Materials, Tools, and Techniques
+Work with textiles: basic cutting, hand-stitching, simple joining methods
+Work with wood: measure, mark, cut with hand saw (with supervision), sand, join with glue or simple fasteners
+Create simple mechanisms: levers, linkages, or wheel-and-axle assemblies
+Select materials based on purpose (strength, flexibility, appearance, availability)
+Achieve improved accuracy in measurement (within 2–3mm) and cleaner finishing
+Follow and maintain safety protocols independently
+Strand 3: Design Communication
+Create working drawings with dimensions and labels
+Produce annotated design sheets showing ideas, materials, and planned methods
+Use simple templates or frames for recording design development
+Present design work to peers with verbal explanation of choices
+Begin developing a design portfolio (physical or digital)
+Mongolian Design Heritage
+Study at least two traditional Mongolian making processes (e.g., felt-making, leather-working, wood-carving)
+Analyse the design thinking behind a traditional Mongolian object (materials, function, structure, decoration)
+Apply хээ угалз patterns as functional design elements (not just decoration) in at least one project
+Use Mongolian technical vocabulary for materials and processes
+E.3 Indicative Content Direction
+Term 1: Textiles and Functional Design
+Introduction to textile work through a functional project: design and make a simple bag, pouch, or protective cover for a specific item. Focus on: research (what does the user need?), generating alternatives (different shapes, closures, decorations), working drawings with dimensions, basic cutting and stitching, finishing quality. Mongolian connection: studying traditional Mongolian textile techniques and applying хээ угалз in textile decoration.
+Term 2: Wood and Structure
+Introduction to wood through a structural/functional project: design and make a small shelf, picture frame, simple tool, or storage item. Focus on: accurate measurement and marking, safe sawing, sanding, joining, and finishing. Design analysis of traditional Mongolian wooden objects (furniture, utensils, architectural elements). Collaborative project option: pairs design and make complementary items.
+Term 3: Mechanisms and Movement
+Project involving simple mechanisms: design a device with moving parts (toy with a lever, a simple machine, a display with moving elements). Focus on understanding how mechanisms transfer force and motion. Integration with science (forces) and mathematics (measurement, proportion). End-of-year portfolio review and self-evaluation using criteria-referenced rubrics.
+E.4 Pedagogy Notes
+Grade 7 pedagogy shifts toward structured autonomy. The teacher provides briefs with more open outcomes, introduces research as a design step, facilitates rather than directs the design process, and coaches technique during making. Peer feedback is formalised: structured critique sessions where learners explain their designs and receive constructive suggestions. Demonstration of new techniques (sawing, stitching) must be thorough and safety-focused before learners attempt them independently.
+E.5 Digital Integration Notes
+Where available: digital photography for documenting the design process; simple presentation tools for design sheets; internet research for existing designs and materials information; digital drawing tools for design development. Offline alternatives fully adequate. Enhanced option: creating a class blog or shared folder of design work.
+E.6 Mongolian Grounding Notes
+Grade 7 deepens from recognition to analysis. Learners study how traditional Mongolian makers select materials, use tools, and apply techniques—understanding these as sophisticated design processes. Where possible, visit local craftspeople or invite them to demonstrate. Study the design intelligence of traditional Mongolian objects: why traditional furniture folds flat (nomadic mobility), why the deel fastens to the side (warmth, ease of movement), why horse tack is designed as it is (function, rider safety).
+E.7 Assessment Notes
+Grade 7 introduces simple rubrics with three performance levels (developing, competent, excellent) shared with learners before each project. Assessment includes: design folder quality (ideas, research, working drawings), product quality (technique, accuracy, finish), and process quality (planning, problem-solving, evaluation). Self-assessment is introduced through structured reflection forms completed at the end of each project. Peer feedback is documented but not graded. 4–5 summative project assessments across the year.
+F. Grade 8 Curriculum: Analysis and Integration
+Grade designation
+The analytical-depth year
+Developmental role
+Develop full design-cycle independence; work with complex materials; integrate cross-curricular knowledge
+Effective periods
+~50–55 periods (from 66 nominal)
+Project count
+3–4 design-make projects (3–4 weeks each)
+Practical time
+Minimum 60% hands-on making
+F.1 Progression Focus
+Grade 8 is the depth year. Learners work through the full design cycle with genuine independence: analysing complex needs, developing detailed specifications, selecting and combining materials, constructing with precision, and evaluating outcomes critically against their original intentions. The material range widens to include mixed-material constructions and, where resources allow, basic electronics or mechanical systems. Technical drawing basics are introduced. Cross-curricular integration with science and mathematics becomes explicitly productive.
+F.2 Expected Learning
+Strand 1: Design Process and Thinking
+Analyse a design need in detail: identify users, context, constraints, and success criteria
+Develop a design specification listing requirements the solution must meet
+Generate multiple design ideas and evaluate them systematically against the specification
+Plan a detailed making sequence with materials list, tool requirements, and time estimates
+Prototype, test, and iterate—modifying designs based on testing evidence
+Evaluate the final product critically: does it meet the specification? What compromises were made? What would improve it?
+Strand 2: Materials, Tools, and Techniques
+Combine two or more different materials in a single product (e.g., wood and textile, card and mechanism)
+Where resources allow: assemble a simple electrical circuit (battery, switch, LED/buzzer) within a design project
+Where resources allow: create a simple mechanical system (gear train, cam mechanism, pulley)
+Achieve technical precision in cutting, shaping, joining, and finishing
+Select materials based on detailed analysis of properties (strength, flexibility, weight, cost, appearance, sustainability)
+Use tools with increasing independence and accuracy
+Strand 3: Design Communication
+Create technical drawings using basic conventions (plan, elevation, section)
+Produce exploded-view drawings showing how components fit together
+Write clear design specifications and evaluation reports
+Where available: use digital design tools (simple CAD, drawing software) for design development
+Present and defend design work in structured critique sessions
+Mongolian Design Heritage
+Analyse at least one traditional Mongolian design in depth (ger, deel, or traditional tool) as a complete design case: need, materials, structure, function, cultural meaning, sustainability
+Compare traditional and contemporary approaches to the same design challenge
+Investigate how traditional Mongolian design principles can inform contemporary solutions
+F.3 Indicative Content Direction
+Term 1: Mixed-Material Design Challenge
+A project requiring combination of materials: design and make a product that combines structure (card/wood) with covering/finishing (textile/paper) for a specific user need. Examples: a protective case for a fragile item, a display stand with textile elements, a storage solution combining rigid and flexible materials. Full design cycle from specification to evaluation.
+Term 2: Technology and Function
+A project involving technology integration (adapted to available resources). With electronics: design a product incorporating a simple circuit (e.g., a night light, an alarm, an interactive display). Without electronics: design a product with a complex mechanism (cam toy, automaton, wind-powered device). Focus on understanding how technology serves human needs. Mongolian connection: analysing traditional Mongolian technology (watermill, animal-powered mechanisms, ger assembly engineering).
+Term 3: Design for Community
+A design project addressing a real need in the school or local community. Learners identify a genuine problem, research it, develop a specification, design and make a solution, test it in context, and present results. Examples: a storage solution for the classroom, play equipment for younger students, a display system for school events. Emphasis on user-centred design, sustainability, and cultural appropriateness.
+F.4 Pedagogy Notes
+Grade 8 pedagogy emphasises coaching and independent problem-solving. The teacher sets broad briefs, provides technical support when requested, facilitates critique sessions, and guides self-evaluation. Learners manage their own time within project deadlines. Structured design critiques—where learners present work-in-progress and receive specific feedback from peers and teacher—become a regular feature. Mistakes and failures are explicitly valued as learning opportunities: the design process includes iteration precisely because first attempts rarely succeed.
+F.5 Digital Integration Notes
+Grade 8 increases digital integration where available: basic CAD or free online design tools for technical drawing; digital photography and presentation for design portfolios; internet research for materials, techniques, and existing solutions; spreadsheet tools for simple costing or specification tables. Introduction to responsible use of AI tools for design inspiration (understanding that AI suggestions require critical evaluation). Offline alternatives remain fully adequate for all core outcomes.
+F.6 Mongolian Grounding Notes
+Grade 8 moves from studying traditional designs to analysing them as sophisticated systems. The ger becomes a case study in structural engineering, thermal design, material selection, and cultural symbolism—integrated with science and mathematics. Contemporary Mongolian design challenges (ger-district insulation, urban apartment living, herding tools, food packaging) become authentic design brief contexts. The question shifts from “what did our ancestors make?” to “what can we learn from how they designed?”
+F.7 Assessment Notes
+Grade 8 uses detailed rubrics with four performance levels, aligned to the design specification. Assessment includes: specification quality, design development evidence, technical execution, evaluation depth, and cultural awareness. Portfolio assessment becomes the primary summative method. Structured peer critique is documented. Self-evaluation reports are assessed for depth and honesty. 4–6 summative assessments across the year, combining project portfolios and practical outcomes.
+G. Grade 9 Curriculum: Synthesis and Readiness
+Grade designation
+The consolidation-for-transition year
+Developmental role
+Synthesise all design capabilities into independent, reflective design practice; prepare for upper secondary
+Effective periods
+~50–55 periods (from 66 nominal)
+Project count
+2–3 projects including 1 extended capstone (4–6 weeks)
+Practical time
+Minimum 60% hands-on making
+Special note
+With Visual Arts exiting at Grade 9, Design Technology absorbs additional creative mandate
+G.1 Progression Focus
+Grade 9 is the capstone year. Learners demonstrate the full range of design capability through an extended independent project. They identify a real need from their community, school, or home; research it thoroughly; develop and evaluate alternative solutions; make a prototype; test it with intended users; and present their complete design process with reasoned justification. The programme includes explicit reflection on the social, cultural, and environmental dimensions of design—connecting technical capability with ethical reasoning and preparing learners for upper secondary applied studies, vocational pathways, or thoughtful, capable adult participation.
+G.2 Expected Learning
+Strand 1: Design Process and Thinking
+Independently identify a genuine design need from their own context (school, home, community)
+Conduct user research: interview potential users, observe the context, analyse existing solutions
+Develop a detailed design specification with prioritised criteria
+Generate, evaluate, and refine multiple design solutions with justified selection
+Manage an extended design project: plan timeline, allocate resources, monitor progress, solve problems
+Reflect critically on the social, cultural, and environmental implications of their design
+Strand 2: Materials, Tools, and Techniques
+Select materials independently for a self-defined project, justifying choices based on properties, availability, cost, and sustainability
+Combine multiple techniques and materials with competence and quality
+Achieve a quality finish appropriate to the product’s purpose and audience
+Demonstrate safe, independent working practices throughout an extended project
+Show resourcefulness in solving practical problems during making
+Strand 3: Design Communication
+Produce a complete design portfolio documenting the full design cycle: research, specification, ideas, development, making, testing, evaluation
+Use appropriate drawing conventions for the project (freehand, dimensioned, technical as needed)
+Write a clear, structured evaluation and reflection report
+Present and defend design work orally, responding to questions with reasoned argument
+Where available: create a digital design portfolio integrating photos, drawings, and written reflection
+Mongolian Design Heritage
+Demonstrate how Mongolian design traditions have informed their own design approach
+Reflect on how design connects personal identity with cultural heritage
+Address at least one contemporary Mongolian need or context in their capstone project
+Use Mongolian technical vocabulary naturally and accurately
+G.3 Indicative Content Direction
+Term 1 (approx. 16–18 periods): Focused Design Skills and Short Project
+A shorter project (2–3 weeks) that develops specific advanced skills needed for the capstone: advanced joining techniques, surface finishing, or mechanism construction depending on the capstone direction each learner is planning. This project also serves as a practice run for the full design cycle at Grade 9 level. Design analysis of contemporary Mongolian products and design innovations.
+Terms 2–3 (approx. 34–37 periods): Extended Capstone Project
+The centrepiece of Grade 9. Each learner (or pair) identifies a genuine need, conducts user research, develops a specification, generates and evaluates design ideas, plans and executes making, tests with users, evaluates outcomes, and presents their complete process. The capstone should address a real Mongolian context—a need in the school, the local community, or the learner’s own household. Final presentation includes oral defence of design decisions and written self-evaluation. This project provides the primary summative evidence for Grade 9 assessment.
+G.4 Pedagogy Notes
+Grade 9 pedagogy is mentorship-based. The teacher functions as a design consultant: available for technical advice, helping learners solve problems, providing feedback at key stages, but not directing the design. Regular check-in sessions (individual or small-group tutorials) replace whole-class instruction for much of Terms 2–3. The oral presentation/defence at the end is a significant learning experience—learners articulate and justify their thinking, respond to challenge, and reflect on their growth. Peer learning is natural: learners working on different projects share techniques, solve problems collaboratively, and learn from each other’s approaches.
+G.5 Digital Integration Notes
+Grade 9 maximises appropriate digital integration: digital portfolios combining photographs, scans, and written reflection; presentation software for oral defence; CAD tools where available for technical drawings; internet research for materials, techniques, and existing designs; responsible use of AI tools for exploring design options (with critical evaluation). Introduction to digital fabrication concepts (3D printing, laser cutting) as awareness content, even where equipment is unavailable. All core outcomes achievable without technology.
+G.6 Mongolian Grounding Notes
+Grade 9 Mongolian grounding is authentic and integrated: each learner’s capstone project should address a genuine Mongolian need or context. The reflective component asks learners to consider how their design connects to Mongolian culture, values, and contemporary challenges. This is identity work as much as design work: How does what I make reflect who I am and where I come from? How can design serve my community? The connection between traditional Mongolian design thinking and modern design practice should be made explicit—not as nostalgia, but as a living resource for contemporary problem-solving.
+G.7 Assessment Notes
+Grade 9 assessment is holistic, based primarily on the capstone project portfolio. Assessment evaluates: quality of need identification and research; specification clarity; design development and justified selection; making quality and resourcefulness; testing evidence and honest evaluation; reflection depth and cultural awareness; portfolio completeness and communication quality; oral presentation and defence. A detailed rubric with four performance levels is provided in advance. Self-evaluation is a required component. 2–3 summative assessments: the short project (Term 1) and the capstone (Terms 2–3), with the capstone carrying the greatest weight.
+H. Whole-Subject Pedagogy Guidance
+Design Technology requires a distinctive pedagogical approach. The primary mode is design-based learning—structured, extended tasks in which learners investigate needs, generate solutions, make products, and evaluate outcomes. This is not generic project-based learning; it is a specific pedagogy grounded in the design cycle.
+H.1 Pedagogical Time Allocation (Indicative)
+Approach
+Gr 6
+Gr 7
+Gr 8
+Gr 9
+Design-based learning (projects)
+35–40%
+40–45%
+45–50%
+55–60%
+Focused skill instruction
+30–35%
+25–30%
+20–25%
+10–15%
+Design analysis & appreciation
+15–20%
+15–20%
+15–20%
+15–20%
+Reflection & evaluation
+10%
+10–15%
+10–15%
+10–15%
+H.2 Core Principles
+Every project begins with a need, not a product.
+Learners should never start by being told “make a birdhouse.” They should start with “birds in our schoolyard need shelter in winter—how could we help?” This shift from instruction-following to problem-solving is the fundamental pedagogical identity of the subject.
+Skills are taught in context, just before they are needed.
+A sawing lesson happens the week before learners need to cut wood for their project—not in an isolated skills unit three months earlier. This contextualised instruction ensures transfer and motivation.
+Making is thinking.
+The hands-on activity is not a reward after theoretical learning—it is the learning. Material engagement generates understanding that cannot be achieved through reading or listening. Protect practical time fiercely: minimum 60% of all lessons must involve making.
+Failure is part of the process.
+A joint that fails, a measurement that is wrong, a design that does not work as intended—these are learning moments, not mistakes to avoid. The design cycle includes iteration precisely because first attempts rarely succeed. Teachers must model this attitude: “This didn’t work. What can we learn?”
+Cleanup is curriculum.
+Organising workspace, caring for tools, storing materials, managing waste—these are professional practices and self-regulation competences. Allocate 5 minutes at the end of every making session for cleanup. Make it non-negotiable and assess it.
+H.3 Teacher Role Across Grades
+The teacher’s role evolves: instructor-demonstrator (Grade 6) → coach-facilitator (Grade 7) → consultant-mentor (Grade 8) → design advisor (Grade 9). At every stage, the teacher is a practitioner who models good design and making practice. The teacher demonstrates techniques, coaches through difficulties, provides specific technical feedback, and facilitates reflective evaluation. The teacher is never merely a supervisor while learners work from textbooks.
+H.4 Classroom and Workshop Management
+Where a dedicated workshop exists, use it. Where it does not, organise the classroom for practical work: clear surfaces, accessible tools and materials, displayed safety rules, established routines. Essential routines: setup procedure (materials distributed, workspace prepared), making procedure (tools returned after use, waste managed), cleanup procedure (all tools accounted for, workspace clean, materials stored). A mobile tool kit (ruler, scissors, craft knife, cutting mat, glue, tape, pencils) can serve an entire class if managed systematically.
+I. Whole-Subject Assessment Framework
+Assessment in Design Technology captures both the design process and the design product. Both matter; neither alone is sufficient. A well-made product that resulted from copying instructions demonstrates technical skill but not design capability. A thoughtful design process that produced a flawed product demonstrates design thinking that can be developed.
+I.1 What Is Assessed
+Assessment Domain
+What It Captures
+Evidence Sources
+Design thinking
+Needs identification, idea generation, selection and justification, specification quality, evaluation depth
+Design folders, portfolios, verbal explanations, evaluation reports
+Planning & communication
+Design drawings, specifications, annotations, presentation quality, use of conventions
+Design sheets, technical drawings, presentations, portfolios
+Practical execution
+Material handling, technique accuracy, tool use, finishing quality, safety practice
+Completed products, teacher observation during making, photographic records
+Evaluation & reflection
+Testing evidence, self-critique, identification of improvements, honest reflection
+Evaluation reports, self-assessment forms, oral defence, peer critique records
+Cultural awareness
+Use of Mongolian traditions, understanding design in context, appropriate cultural integration
+Project content, design analysis tasks, portfolio evidence, verbal explanation
+I.2 Assessment Principles
+No high-stakes written examinations. The subject is assessed through practical work, portfolios, and presentations.
+Formative assessment (ongoing feedback during making) is the dominant mode at every grade.
+Summative assessments are limited to 4–6 per year, primarily through project portfolios and practical outcomes.
+Criteria are transparent: learners know what good design work looks like before they begin.
+Assessment never penalises learners for limited material resources: a well-designed product from recycled cardboard is as valid as one from purchased timber.
+Assessment criteria evolve across grades from simple binary (did/did not) to detailed rubrics (four levels).
+Self-assessment and peer feedback are progressive assessment competences developed across the four years.
+I.3 Portfolio as Primary Evidence
+From Grade 7 onward, the design portfolio is the primary assessment instrument. It documents the entire design process: research, specification, ideas, development, making (photographs), testing, evaluation, and reflection. The portfolio is cumulative across the year and provides the richest evidence of design capability. Physical portfolios are standard; digital portfolios are an enhanced option where technology is available. By Grade 9, the portfolio should be a substantial, coherent document that demonstrates independent design thinking.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Diverse Learners
+Design Technology is inherently inclusive: it allows multiple entry points and multiple modes of success. Learners who struggle with academic literacy may excel at practical making. Learners with physical disabilities can participate through adapted tools, modified tasks, or collaborative roles. Assessment allows diverse demonstration of capability: a learner who cannot draw can explain their design verbally; a learner who cannot write a specification can annotate a physical model. Differentiation operates through outcome (open briefs allow different levels of complexity), support (scaffolded templates for learners who need structure), and role (in collaborative projects, different team roles suit different strengths).
+J.2 Diverse Teacher Capacity
+The curriculum must be deliverable by teachers with varying levels of practical skill. For every project, the curriculum should provide: a complete materials list with budget alternatives; step-by-step making instructions with photographs or diagrams; safety protocols for every tool; common problems and their solutions; a simplified version for teachers with limited practical experience; and an enrichment version for specialist teachers. Video demonstrations (where schools have digital access) are highly recommended. Core projects should be achievable by a confident generalist teacher; extended projects are for specialist teachers.
+J.3 Diverse School Conditions
+All core projects must be achievable with basic tools (ruler, pencil, scissors, craft knife, glue, hand saw) and locally available materials (paper, card, recycled materials, clay, fabric scraps, wood offcuts). No learning outcome should require electric power tools, specialised equipment, or expensive materials. Seasonal variation should be anticipated: indoor projects during Mongolia’s harsh winter months (October–March), outdoor/environmental projects during warmer months. Schools in different regions should use locally available materials: felt and wool everywhere, wood in forested northern regions, leather in pastoral areas, recycled materials in urban areas.
+J.4 Rural-Urban Differences
+Rural schools often have fewer material resources but richer access to traditional craft practitioners and natural materials. Urban schools may have better technology access but less connection to traditional making. The curriculum should leverage both contexts: rural schools can emphasise traditional Mongolian materials and techniques with community craftspeople as resource persons; urban schools can emphasise recycled/repurposed materials and contemporary design challenges. Both produce valid, high-quality design learning.
+J.5 Low-Resource and Low-Connectivity Alternatives
+The entire curriculum can be delivered without electricity, digital technology, or purchased materials. Design drawing uses pencil and paper. Making uses hand tools and found/recycled materials. Portfolios are physical folders. Presentations are oral. Research is through examination of real objects, community knowledge, and teacher-provided resources. No learning outcome is inaccessible without technology. Digital tools are enhancements, clearly labelled as such throughout the curriculum.
+J.6 Workshop and Storage
+Many Mongolian schools lack dedicated workshops. The curriculum provides guidance on: organising a mobile tool kit for regular classrooms; managing materials storage in limited space; protecting in-progress work between sessions (labelled shelf space, stacking systems); and conducting practical work safely in non-specialist rooms (covering tables, floor protection, ventilation for gluing). Setup and cleanup routines are specified and timed (5 minutes each) as part of every practical lesson plan.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+The following risks, identified in the Step 6 Design Brief, must be explicitly guarded against in all subsequent development work:
+Risk 1: Content overload.
+Do not attempt to cover every material, technique, or design context. Three strands, 4–6 projects per year, 50–55 effective periods. If it does not fit, cut it. Depth over breadth, always.
+Risk 2: Craft without design thinking.
+Do not produce a curriculum where learners follow instructions to replicate prescribed objects. Every project must begin with a need or problem. Evaluation must assess design process, not just product.
+Risk 3: Design theory without making.
+Do not overload the curriculum with design history, theory, or drawing at the expense of practical making. Minimum 60% practical time is non-negotiable. No purely written assessment tasks.
+Risk 4: Digital dependency.
+Do not design around CAD software, 3D printers, or laser cutters that most schools cannot access. All core outcomes must be achievable without digital technology. Digital tools enhance; they do not define the subject.
+Risk 5: Textbook-driven delivery.
+Do not produce a textbook that becomes the primary teaching medium. Learning happens through making, not through reading about making. The textbook is a reference resource, not a lesson plan.
+Risk 6: Disconnection from prior learning.
+Do not ignore the seven years of making competence built in pre-primary and primary. Grade 6 must diagnose and build on existing skills. Do not repeat primary activities; do not assume skills that may be fragile.
+Risk 7: Tokenistic Mongolian grounding.
+Do not add Mongolian patterns as surface decoration on generic Western design projects. Study Mongolian design traditions as genuine, sophisticated design cases. Use authentic Mongolian contexts for design briefs. Use Mongolian technical vocabulary.
+Risk 8: Assessment reducing the subject.
+Do not assess through written tests about materials or design history. Do not reduce assessment to product quality alone. Assess the design process, the thinking, the communication, and the reflection—not just what came out at the end.
+Risk 9: Inequitable resource expectations.
+Do not specify projects that require expensive, imported, or specialised materials. A well-designed product from recycled cardboard demonstrates the same competences as one from purchased plywood. Design the curriculum for the least-resourced school first.
+Risk 10: Making all grades look the same.
+Do not produce four years of similar-looking project work. Each grade must represent a qualitative advance in design sophistication: from guided making (Grade 6) through structured designing (Grade 7) to independent practice (Grade 8) to reflective design thinking (Grade 9). The progression must be visible in the increasing complexity of thinking, not just the increasing difficulty of making.
+This curriculum draft is a working document for technical review, pilot testing, and iterative refinement. It provides the principled framework within which detailed standards, teacher guides, and assessment instruments should subsequently be developed. All development decisions should be traceable to this curriculum and to the upstream architecture documents (Steps 1–6).
+— End of Full Curriculum Draft —

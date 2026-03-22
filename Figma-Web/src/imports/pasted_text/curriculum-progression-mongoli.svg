@@ -1,0 +1,368 @@
+
+Design a professional Sankey-style curriculum flow visualization for education reform discussion in Mongolia.
+
+The visual should show how curriculum subjects progress across three education levels:
+    1.  Surguuliin Umnuh Bolovsrol
+    2.  Baga Bolovsrol
+    3.  Suuri Bolovsrol
+
+This is not a business dashboard, not a UI mockup, and not a process flowchart.
+It must look like a curriculum architecture visualization with Sankey-like flows showing how broad early domains continue, split, and differentiate into later subjects.
+
+The purpose is to support:
+    •   curriculum reform dialogue
+    •   ministry and technical working group discussions
+    •   analytical interpretation of subject progression
+    •   discussion of continuity from early childhood through lower secondary
+
+⸻
+
+CORE VISUAL IDEA
+
+Create a Sankey-like flow map with:
+    •   three vertical stages from left to right
+    •   subject nodes at each level
+    •   soft flowing bands or connectors between levels
+    •   visible branching where one domain expands into multiple later subjects
+    •   lighter or thinner flows for partial / indirect continuity
+    •   a strong sense of movement from integrated early domains to differentiated later subjects
+
+This must feel like a flow of curriculum architecture, not a list of boxes.
+
+⸻
+
+TITLE
+
+Curriculum Subject Progression Across Education Levels
+
+SUBTITLE
+
+From integrated early domains to differentiated lower secondary subjects
+
+⸻
+
+DESIGN DIRECTION
+
+Overall visual style
+
+The visual should resemble a refined Sankey diagram for policy and education reform, not a technical engineering chart.
+
+It should feel:
+    •   elegant
+    •   minimal
+    •   analytical
+    •   strategic
+    •   policy-facing
+    •   visually calm
+    •   publication-quality
+
+Avoid anything that feels like:
+    •   a SaaS dashboard
+    •   a wireframe
+    •   a website interface
+    •   a dense technical network map
+    •   a decorative infographic
+
+⸻
+
+LAYOUT
+
+Structure
+
+Use a single widescreen 16:9 canvas.
+
+Divide the page into three major vertical columns:
+
+Left column
+
+Surguuliin Umnuh Bolovsrol
+Small descriptor underneath: Integrated developmental domains
+
+Middle column
+
+Baga Bolovsrol
+Small descriptor underneath: Formalizing foundational subjects
+
+Right column
+
+Suuri Bolovsrol
+Small descriptor underneath: Differentiated disciplinary subjects
+
+Place nodes vertically in each column, but do not make them appear as rigid stacked cards. They should read as anchors for flows.
+
+The main visual emphasis should be on the flow connections, not on the boxes.
+
+⸻
+
+VISUAL LANGUAGE
+
+Nodes
+
+Represent subjects as clean compact labels or small rounded rectangles with subtle fills or outlines.
+
+Do not make them large pill-shaped bars.
+
+Flows
+
+Use Sankey-like curved bands or smooth flowing connectors between nodes.
+
+The connectors should:
+    •   widen or branch gently
+    •   visually communicate continuity and splitting
+    •   feel organic and fluid, not mechanical
+    •   be readable and uncluttered
+
+Weighting logic
+
+This is not a quantitative Sankey chart with numeric values, but it should borrow the Sankey aesthetic:
+    •   more important direct progressions can have slightly thicker flows
+    •   partial or indirect continuities can have thinner or lighter flows
+    •   distributed continuity can use dashed or semi-transparent flows
+
+The visual should communicate qualitative structural relationships, not statistical volume.
+
+⸻
+
+COLOR SYSTEM
+
+Use a restrained palette by broad domain family.
+
+Suggested domain colors:
+    •   Language and literacy = muted blue
+    •   Mathematics = muted amber
+    •   Science / environment = muted green
+    •   Society / life orientation = muted violet
+    •   Arts / music / design = muted rose
+    •   Physical / health = muted teal
+    •   Digital = slate gray
+    •   Additional languages = muted gold
+
+Apply the color mainly to the flows, with lighter node styling.
+
+This is important:
+The flow itself should carry much of the visual meaning.
+
+Do not overfill the page with colored boxes.
+
+⸻
+
+CONTENT TO MAP
+
+Stage 1 — Surguuliin Umnuh Bolovsrol
+    •   Нийгэм-сэтгэл хөдөлөл
+    •   Хөдөлгөөн, эрүүл мэнд
+    •   Хэл яриа
+    •   Байгаль, нийгмийн орчин
+    •   Математик
+    •   Зураг, урлал
+    •   Хөгжим
+
+Stage 2 — Baga Bolovsrol
+    •   Монгол хэл
+    •   Математик
+    •   Байгаль шинжлэл
+    •   Нийгмийн ухаан
+    •   Дүрслэх урлаг, дизайн
+    •   Хөгжим
+    •   Биеийн тамир
+    •   Эрүүл мэнд
+    •   Компьютерын ухаан
+    •   Тува хэл
+    •   Казах хэл
+    •   Нийгэм ахуйн баримжаа
+
+Stage 3 — Suuri Bolovsrol
+    •   Монгол хэл
+    •   Монгол бичиг
+    •   Уран зохиол
+    •   Математик
+    •   Биологи
+    •   Физик
+    •   Хими
+    •   Газарзүй
+    •   Нийгэм
+    •   Түүх
+    •   Дүрслэх урлаг
+    •   Хөгжим
+    •   Дизайн технологи
+    •   Компьютерын ухаан
+    •   Биеийн тамир
+    •   Эрүүл мэнд
+    •   Казах хэл
+    •   Тува хэл
+
+⸻
+
+REQUIRED FLOW RELATIONSHIPS
+
+Language flow
+    •   Хэл яриа → Монгол хэл
+    •   Монгол хэл → Монгол хэл
+    •   Монгол хэл → Монгол бичиг
+    •   Монгол хэл → Уран зохиол
+
+This should be shown as a strong flow that expands at lower secondary.
+
+Mathematics flow
+    •   Математик → Математик → Математик
+
+This should be a clean direct flow with no branching.
+
+Science / environment flow
+    •   Байгаль, нийгмийн орчин → Байгаль шинжлэл
+    •   Байгаль шинжлэл → Биологи
+    •   Байгаль шинжлэл → Физик
+    •   Байгаль шинжлэл → Хими
+    •   Байгаль шинжлэл → Газарзүй
+
+This should be one of the most visually important branching flows.
+
+Society / life orientation flow
+    •   Байгаль, нийгмийн орчин → Нийгмийн ухаан
+    •   Байгаль, нийгмийн орчин → Нийгэм ахуйн баримжаа
+    •   Нийгэм-сэтгэл хөдөлөл → Эрүүл мэнд
+    •   Нийгэм-сэтгэл хөдөлөл → Нийгэм ахуйн баримжаа
+    •   Нийгэм-сэтгэл хөдөлөл → Нийгмийн ухаан as lighter / partial flow
+    •   Нийгмийн ухаан → Нийгэм
+    •   Нийгмийн ухаан → Түүх
+    •   Нийгэм ахуйн баримжаа → Нийгэм as partial supporting flow
+    •   Нийгэм ахуйн баримжаа → Эрүүл мэнд as lighter / indirect flow
+
+This should show distributed continuity rather than neat one-to-one mapping.
+
+Arts / design flow
+    •   Зураг, урлал → Дүрслэх урлаг, дизайн
+    •   Дүрслэх урлаг, дизайн → Дүрслэх урлаг
+    •   Дүрслэх урлаг, дизайн → Дизайн технологи
+
+Music flow
+    •   Хөгжим → Хөгжим → Хөгжим
+
+This can be a separate simple flow parallel to arts/design.
+
+Physical / health flow
+    •   Хөдөлгөөн, эрүүл мэнд → Биеийн тамир
+    •   Хөдөлгөөн, эрүүл мэнд → Эрүүл мэнд
+    •   Биеийн тамир → Биеийн тамир
+    •   Эрүүл мэнд → Эрүүл мэнд
+
+This should clearly show one early integrated domain splitting into two stable later subjects.
+
+Digital flow
+    •   Компьютерын ухаан → Компьютерын ухаан
+
+Show this as beginning only at primary level, with no pre-primary predecessor.
+
+Additional language flow
+    •   Тува хэл → Тува хэл
+    •   Казах хэл → Казах хэл
+
+Show these as emerging in primary and continuing into lower secondary.
+
+⸻
+
+STRUCTURAL EMPHASIS
+
+The most important thing is to visually highlight these three reform insights:
+
+1. Integration to differentiation
+
+Early subjects are broad and integrated; lower secondary subjects are more differentiated and disciplinary.
+
+2. Branching
+
+Some foundational domains split significantly over time, especially:
+    •   language
+    •   science
+    •   arts/design
+    •   physical/health
+
+3. Distributed continuity
+
+Socio-emotional and life-orientation dimensions do not remain as one subject; they are distributed across several later areas.
+
+These insights should be visible from the flows themselves, not only from text.
+
+⸻
+
+ANNOTATIONS
+
+Add 3–4 very subtle annotation labels near major branching points:
+    •   expands
+    •   differentiates
+    •   splits
+    •   distributed continuity
+
+Keep these tiny and elegant. They should support interpretation without cluttering the visual.
+
+⸻
+
+LEGEND
+
+Include a small legend in one corner:
+    •   solid flow = direct continuation
+    •   split flow = subject differentiation
+    •   lighter / dashed flow = partial or indirect continuity
+    •   no incoming flow = subject introduced later
+
+Make the legend minimal and visually consistent with the rest of the design.
+
+⸻
+
+TYPOGRAPHY
+
+Use a clean modern sans-serif.
+The typography should be:
+    •   strong but not heavy
+    •   professional
+    •   readable from presentation distance
+
+Hierarchy:
+    •   large bold title
+    •   medium subtitle
+    •   clear level headings
+    •   small but readable node labels
+    •   tiny unobtrusive annotation labels
+
+⸻
+
+BACKGROUND
+
+Use a very light neutral background:
+    •   off-white
+    •   very pale gray
+    •   soft paper tone
+
+The background should feel like an analytical presentation document, not a web application.
+
+⸻
+
+COMPOSITION PRIORITIES
+
+The final composition should:
+    •   privilege flow over boxes
+    •   privilege structure over decoration
+    •   show progression clearly from left to right
+    •   maintain whitespace
+    •   avoid tangled overlapping connectors
+    •   use elegant curve routing
+
+The page should feel balanced, quiet, and highly intentional.
+
+⸻
+
+NEGATIVE INSTRUCTIONS
+
+Do NOT create:
+    •   three simple lists of subjects
+    •   a dashboard layout
+    •   a lane chart with arrows between boxes
+    •   a generic flowchart
+    •   oversized rounded pills
+    •   tabbed website navigation
+    •   a business analytics Sankey with numbers
+    •   bright saturated colors
+    •   cluttered crossing lines
+    •   unnecessary icons or illustrations
+
+This should be a policy-grade Sankey-inspired curriculum progression graphic.

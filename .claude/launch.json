@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "figma-web",
+      "runtimeExecutable": "C:/Program Files/nodejs/node.exe",
+      "runtimeArgs": ["Figma-Web/node_modules/vite/bin/vite.js", "serve", "Figma-Web", "--port", "5173"],
+      "port": 5173
+    }
+  ]
+}

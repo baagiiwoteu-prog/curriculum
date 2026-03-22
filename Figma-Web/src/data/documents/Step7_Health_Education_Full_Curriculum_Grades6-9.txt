@@ -1,0 +1,497 @@
+FULL CURRICULUM DRAFT
+HEALTH EDUCATION (ЭРҮҮЛ МЭНД)
+Lower Secondary Grades 6–9 • Mongolia
+Step 7 of the Cross-Level Competence Analysis • Building on Steps 1–6
+Working Document — March 2026
+Subject
+Эрүүл мэнд / Health Education
+Cluster
+Cluster 6: Health, Body, and Wellbeing
+Weight Category
+LIGHT CONTINUOUS — 132 total hours (33/year, 1 lesson/week)
+Annual Hours
+Gr 6: 33 | Gr 7: 33 | Gr 8: 33 | Gr 9: 33 | Total: 132
+Cluster Partner
+Биеийн тамир (Physical Education)
+Upstream Documents
+Steps 1–6 of Cross-Level Competence Analysis; Primary Эрүүл Мэнд Curriculum (2025); Pre-Primary Хөдөлгөөн, Эрүүл Мэнд (2025)
+A. Subject Purpose and Role in Lower Secondary Education
+Health Education (Эрүүл мэнд) is a developmental, practical subject that equips early adolescent learners (Grades 6–9, approximately ages 11–15) with the knowledge, skills, attitudes, and habits to manage their own physical, mental, social, and environmental health. It is not a biomedical science subject; it is a health-competence subject focused on decision-making, self-management, relationship skills, safety practice, and health advocacy.
+The subject exists because early adolescence is the period of greatest health-related developmental change—puberty, identity formation, intensified peer influence, emerging risk behaviours, and emotional volatility—yet learners at this stage are transitioning from adult-guided health behaviour to autonomous decision-making. No other subject in the seventeen-subject lower secondary architecture can substitute for this function.
+Health Education directly continues the pre-primary Хөдөлгөөн, Эрүүл Мэнд strand and the primary Эрүүл Мэнд subject. It transforms the inherited foundation of guided health habits, basic safety skills, initial puberty awareness, and elementary socio-emotional competence into critical health literacy, autonomous wellbeing management, analytical risk assessment, and health advocacy.
+The subject’s educational purpose is sixfold: (1) Health literacy—the ability to find, understand, evaluate, and use health information for informed decisions. (2) Socio-emotional competence—recognising, regulating, and constructively expressing emotions; building healthy relationships; managing conflict. (3) Personal safety—identifying risks, taking preventive action, and responding to harm. (4) Body literacy—understanding one’s changing body, maintaining appropriate hygiene and nutrition, developing positive body image. (5) Substance and risk awareness—understanding consequences and resisting pressure. (6) Health advocacy—promoting health in family, peer group, and community.
+Within the curriculum system, Health Education makes critical cross-curricular contributions: it develops the emotional regulation and interpersonal skills that underpin learning in all subjects; it builds critical evaluation of information (transferable to every discipline); and it addresses digital wellbeing and citizenship as content. It coordinates with its Cluster 6 partner, Physical Education, by addressing health knowledge, decision-making, and socio-emotional competence while Physical Education addresses physical fitness, sports skills, and active living.
+B. Curriculum Strands
+The curriculum is organised into three strands that directly continue the primary curriculum’s three content areas, transformed for adolescent developmental needs within the 132-hour time constraint.
+Strand 1: Personal Health and Wellbeing (Хувийн эрүүл мэнд, сайн сайхан байдал)
+Continues primary’s Хувийн эрүүл мэнд. Addresses: puberty and adolescent development; nutrition for growing bodies; hygiene adaptations; mental health literacy (stress, anxiety, depression, help-seeking); substance awareness and resistance; body image and media literacy; sexual and reproductive health awareness; personal health planning. Approximately 11 lessons per grade.
+Strand 2: Relationships and Social Wellbeing (Харилцаа, нийгмийн сайн сайхан байдал)
+Continues primary’s Нийгэмшиж аж төрөхүй. Addresses: emotional intelligence and regulation; communication and conflict resolution; family relationships in adolescence; friendship and peer dynamics; bullying and cyberbullying prevention; healthy and unhealthy relationships; consent and boundaries; gender equity and respect; diversity and inclusion. Approximately 10 lessons per grade.
+Strand 3: Safety and Environmental Health (Аюулгүй байдал, орчны эрүүл мэнд)
+Continues primary’s Эрсдэлээс сэргийлэх and Орчны эрүүл мэнд. Addresses: first aid progression; road and transport safety; disaster preparedness (earthquake, flood, dzud, fire); digital safety and responsible technology use; environmental health (air quality, water safety, seasonal health); personal safety. Approximately 9 lessons per grade (plus 3 for assessment/review).
+The three strands are interconnected, not isolated silos. Cross-strand connections are built into the learning outcomes: mental health (S1) links to relationship management (S2); digital safety (S3) links to cyberbullying (S2) and screen-time wellness (S1); personal safety (S3) links to consent and boundaries (S2). Teaching should make these connections explicit.
+C. Overall Progression Across Grades 6–9
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Role
+Bridging year: consolidation + personal grounding
+Explanation year: structured understanding
+Analysis year: critical depth
+Synthesis year: advocacy + autonomy
+Cognitive mode
+Concrete → bridging
+Structured explanation
+Analytical-integrative
+Evaluative-synthetic
+Health reasoning
+Identify + describe
+Explain + evaluate
+Analyse + critique
+Synthesise + advocate
+Emotional competence
+Name emotions; basic regulation
+Understand triggers; structured coping
+Manage complex emotions; support others
+Mature regulation; mediation skills
+Safety skills
+Minor injuries; hazard identification
+Sprains/fractures; digital wellness
+Recovery position; choking; bleeding
+CPR awareness; emergency planning
+Relationship focus
+New friendships; respectful communication
+Healthy vs. unhealthy friendships; bullying
+Consent; boundaries; intimate relationships
+Conflict resolution; health advocacy
+Learner agency
+Guided autonomy
+Structured choice
+Managed independence
+Responsible autonomy
+Learning outcomes
+7 outcomes
+7 outcomes
+7 outcomes
+7 outcomes
+Each grade carries 33 lessons (1/week × 33 weeks). Of these, approximately 30 are teaching lessons and 3 are assessment/review. Outcomes are distributed: Strand 1 receives 3 outcomes/grade, Strand 2 receives 2 outcomes/grade, and Strand 3 receives 2 outcomes/grade—totalling 7 per grade and 28 across the full programme. This is deliberately lean: every outcome must be achievable within 4–5 lessons of dedicated teaching time.
+D. Grade 6 Curriculum
+D.1 Role of the Grade
+Grade 6 is the bridging year for health autonomy. Learners are transitioning from primary to lower secondary (new school, multiple teachers, new peers) while simultaneously entering puberty. The grade’s primary function is threefold: consolidate inherited health competences from primary, provide foundational puberty education in a safe context, and re-establish socio-emotional support structures disrupted by the institutional transition.
+The cognitive mode is concrete-to-bridging: health knowledge is anchored in direct personal experience and practical application, not yet analytical. Grade 6 answers the question: ‘What is happening to me, and what should I do about it?’
+D.2 Indicative Time Distribution
+Strand
+Term 1
+Term 2
+Term 3
+Total
+S1: Personal Health & Wellbeing
+5
+4
+5
+14
+S2: Relationships & Social Wellbeing
+3
+4
+3
+10
+S3: Safety & Environmental Health
+2
+3
+4
+9
+Assessment & Review
+1
+1
+1
+3
+TOTAL
+11
+11
+11
+33
+D.3 Learning Outcomes
+Code
+Strand
+Learning Outcome
+Indicative Content Direction
+Mongolian Grounding
+6.1.1
+S1
+Describe the physical and emotional changes of puberty, recognising these as normal developmental processes, and identify personal hygiene adaptations needed for adolescent bodies.
+Puberty timeline (variation is normal); physical changes for boys and girls; emotional fluctuations; adapting hygiene routines (sweat, skin, menstrual hygiene); when and how to ask trusted adults questions.
+Use Mongolian terms for body changes; discuss hygiene adaptations in ger and apartment contexts; reference seasonal bathing challenges in rural areas.
+6.1.2
+S1
+Explain the importance of balanced nutrition for adolescent growth and evaluate their own daily eating patterns against basic healthy-eating principles.
+Macronutrient groups using Mongolian foods; breakfast importance; hydration; traditional vs. processed food comparison; simple food diary exercise.
+Use traditional Mongolian foods (tsagaan idee, makh, buuz, airag) alongside modern foods; discuss seasonal dietary patterns (winter high-fat, summer dairy-rich).
+6.1.3
+S1
+Identify sources of help for health concerns and demonstrate willingness to seek support from trusted adults when feeling unwell physically or emotionally.
+Who to talk to (family, teacher, school nurse, doctor, 108 hotline); overcoming embarrassment; the difference between minor discomfort and situations requiring adult help.
+Map local health resources (soum health centre, aimag hospital, UB clinics); discuss barriers to help-seeking in rural settings; cultural attitudes to asking for help.
+6.2.1
+S2
+Identify and name a range of emotions, describe how emotions affect behaviour, and practise at least two strategies for managing strong feelings constructively.
+Emotion vocabulary expansion; link between feelings and actions; breathing techniques; counting/pausing; physical activity as regulation; journaling feelings.
+Use rich Mongolian emotion vocabulary (setgel khodlol); reference Mongolian proverbs about patience and self-control; discuss cultural expectations around emotional expression.
+6.2.2
+S2
+Demonstrate respectful communication skills in new social settings, including active listening, expressing needs clearly, and responding to disagreements without aggression.
+Active listening practice; 'I-statements'; role-play of common school conflicts (sharing, exclusion, misunderstanding); building new friendships in lower secondary.
+Mongolian greeting customs and respectful address forms; ger-visit etiquette as communication model; discuss urban/rural differences in social interaction.
+6.3.1
+S3
+Demonstrate correct responses to common minor injuries (cuts, bruises, nosebleeds, minor burns) and explain when to call for adult help or emergency services.
+Practical first aid: cleaning wounds, applying pressure, burn cooling, recovery position awareness; emergency numbers (103, 105); when a situation is beyond self-help.
+First aid in countryside settings (distance from hospital); injuries common to Mongolian children (horse-related, cold-weather, stove burns in gers).
+6.3.2
+S3
+Identify potential hazards in home, school, and outdoor environments and explain preventive actions for at least three common risks relevant to their own context.
+Home hazards (electrical, heating, cooking); school safety (corridors, sports); outdoor risks (traffic, water, weather); ger-specific risks (stove, felt, animals); creating a personal safety map.
+Ger heating safety; Ulaanbaatar traffic and air pollution; countryside risks (rivers, horses, dogs, extreme cold); seasonal hazard variation.
+D.4 Pedagogy Notes
+Grade 6 pedagogy must prioritise emotional safety and gradual trust-building. Learners are new to the class group; discussion-based activities must begin with low-risk topics and structured formats (think-pair-share, anonymous question boxes) before moving to more personal health discussions. Puberty education should be introduced through normalising language and optional gender-separated sessions where culturally appropriate.
+First aid teaching must be practical: learners practise on each other or on dummies/props. Scenario-based activities should use familiar settings (school playground, home kitchen, ger interior). The backcasting method inherited from primary should continue: ‘What does the healthy, confident Grade 7 version of you look like? What can you do now to get there?’
+D.5 Digital Integration
+Grade 6 digital integration is minimal (2–3 activities total). Possible activities: (a) Watching a short, approved educational video on puberty or nutrition (with teacher-led discussion afterward). (b) Exploring the 108 hotline information page or equivalent health resource website. Offline alternative: Printed fact sheets and teacher-led explanation. Digital wellbeing is addressed as content (screen time, posture) in Strand 3, not as a tool.
+D.6 Mongolian Grounding
+Grade 6 content must be deeply contextualised. Nutrition discussions use Mongolian foods (tsagaan idee, makh, buuz, tsuivan) and seasonal eating patterns. Hygiene discussions address ger-specific challenges (water heating, bathing frequency, winter conditions). Safety education includes ger heating risks, Ulaanbaatar traffic, countryside animal and water hazards. Emotional vocabulary uses Mongolian expressions. First aid scenarios reflect Mongolian settings. Family discussion of health topics respects Mongolian communication norms.
+D.7 Assessment Notes
+Grade 6 assessment is entirely formative and light. Methods include: observation of participation in discussions and role-plays; brief reflective writing (1–2 paragraphs: ‘What is one new health habit I want to build this term?’); practical first-aid demonstration (can the learner clean and cover a wound correctly?); self-assessment checklists (‘I can name five emotions and one strategy for each’). No written tests. No grading of personal health disclosures. Assessment captures demonstrated health practices, not memorised facts.
+E. Grade 7 Curriculum
+E.1 Role of the Grade
+Grade 7 is the explanation and application year. Learners are now settled in lower secondary. Puberty continues; peer influence intensifies; cognitive capacity for understanding causal relationships is growing. The grade’s function is to shift from ‘what should I do?’ to ‘why does this matter?’—developing structured understanding of health mechanisms, evaluating health information, and building explicit strategies for peer-pressure resistance and emotional coping.
+Grade 7 introduces substance awareness in depth (building on primary’s Grade 3–5 introduction), extends digital wellbeing to address social media pressures, and advances first aid to musculoskeletal injuries. The cognitive mode is structured explanation: learners can articulate reasons for health behaviours.
+E.2 Indicative Time Distribution
+Strand
+Term 1
+Term 2
+Term 3
+Total
+S1: Personal Health & Wellbeing
+4
+5
+4
+13
+S2: Relationships & Social Wellbeing
+4
+3
+4
+11
+S3: Safety & Environmental Health
+3
+3
+3
+9
+Assessment & Review
+1
+1
+1
+3
+TOTAL
+11
+11
+11
+33
+E.3 Learning Outcomes
+Code
+Strand
+Learning Outcome
+Indicative Content Direction
+Mongolian Grounding
+7.1.1
+S1
+Explain why adolescent bodies have specific nutritional needs, evaluate common dietary choices against these needs, and plan a balanced day’s meals using locally available foods.
+Adolescent nutritional requirements (iron, calcium, protein); energy balance; processed food risks (sugar, salt, additives); food label reading deepened; meal planning exercise.
+Traditional Mongolian diet as nutritional model; dietary transition challenges (city fast food vs. countryside dairy/meat); seasonal food availability; vitamin D in Mongolian winters.
+7.1.2
+S1
+Describe the short- and long-term health effects of tobacco, alcohol, and common substances, and demonstrate at least two strategies for refusing offers in peer-pressure situations.
+How tobacco/alcohol/solvents affect adolescent bodies; addiction mechanisms (simplified); social pressure dynamics; refusal strategies (say no, suggest alternative, leave, seek support); role-play practice.
+Tobacco and alcohol use patterns in Mongolia; cultural attitudes to drinking; airag vs. arkhi distinction; local anti-substance campaigns; legal age restrictions.
+7.1.3
+S1
+Recognise common signs of stress in themselves and others, explain at least three healthy coping strategies, and identify when stress requires adult or professional support.
+Physical and emotional signs of stress; exam stress, family stress, social stress; coping strategies (talking, physical activity, breathing, creative expression, routine maintenance); when stress becomes a health concern.
+Mongolian attitudes to mental health; traditional approaches (nature, family support, spiritual practice); stigma reduction; local mental health resources.
+7.2.1
+S2
+Analyse the characteristics of healthy versus unhealthy friendships, explain the role of trust, reciprocity, and boundaries in peer relationships, and describe actions to take if a friendship becomes harmful.
+Characteristics of positive friendships; warning signs (control, manipulation, exclusion, pressure); setting boundaries; when and how to seek adult guidance; the right to leave a harmful relationship.
+Mongolian concepts of friendship and loyalty (naiz nokhod); balancing group loyalty with personal safety; urban vs. rural peer dynamics.
+7.2.2
+S2
+Explain what bullying and cyberbullying are, describe their effects on mental and physical health, and demonstrate strategies for responding as a target, bystander, or supporter.
+Types of bullying (physical, verbal, social, cyber); health impacts; bystander responsibility; response strategies (report, support, document, block); school policy awareness.
+Bullying patterns in Mongolian schools; cultural norms about standing up vs. enduring; cyberbullying through Mongolian social media platforms; school reporting mechanisms.
+7.3.1
+S3
+Perform basic first aid for sprains, strains, and suspected fractures, explain the principles of immobilisation, and describe how to manage a scene until professional help arrives.
+RICE method; recognising fracture signs; sling/splint improvisation; scene management (safety, calling help, reassurance); not moving a casualty with potential spinal injury.
+Injuries from horseback riding, wrestling (Naadam), winter falls on ice; distance from medical facilities in rural areas; improvising with available materials.
+7.3.2
+S3
+Evaluate their own and their family’s digital device habits, explain at least three health risks of excessive screen time, and create a realistic personal digital wellness plan.
+Screen time and sleep; posture and eye strain; social media and mood; gaming addiction risk; creating a digital schedule; family discussion about device use.
+Smartphone adoption patterns among Mongolian youth; winter indoor screen time increase; balancing digital engagement with outdoor activity in Mongolian climate.
+E.4 Pedagogy Notes
+Grade 7 pedagogy intensifies participatory methods. Substance-resistance skills require repeated role-play practice (not single exposure). Bullying scenarios should include bystander training. Nutrition activities can include meal-planning exercises with cost awareness (market prices for Mongolian foods). Stress-management strategies should be practised regularly, not just taught: begin each lesson with a one-minute breathing or grounding exercise.
+Guest speakers (a local nurse on substance effects; a school counsellor on bullying response) are valuable enhancements where available, but the curriculum must be fully deliverable without them.
+E.5 Digital Integration
+Grade 7 permits 3–4 digital activities. Recommended: (a) Critical comparison of two online health claims about nutrition or exercise (one reliable, one dubious)—learners use a checklist to evaluate credibility. (b) Creating a digital wellness plan using a simple template (digital or paper). (c) Optional: viewing a short video on bullying/cyberbullying with guided discussion. Offline alternatives: same activities using printed materials, newspaper health articles, or teacher-prepared examples.
+E.6 Mongolian Grounding
+Grade 7 deepens contextualisation. Nutrition addresses the tension between traditional Mongolian diet and modern processed food availability; learners compare a traditional winter meal with a convenience-store meal in terms of nutrition. Substance awareness uses Mongolian tobacco and alcohol consumption data and cultural attitudes (airag as cultural beverage vs. arkhi as health risk). Bullying discussion addresses specifically Mongolian school dynamics. Stress management references both modern techniques and traditional Mongolian approaches (time in nature, family support, horsemanship as mindfulness).
+E.7 Assessment Notes
+Grade 7 assessment remains predominantly formative with slight increase in complexity. Methods: scenario-based written responses (‘A friend offers you a cigarette at a party—what do you say and why?’); practical first-aid demonstration (applying RICE method); peer assessment of role-play participation; brief reflective journal entries (3–4 per year); digital wellness plan as a portfolio item. No high-stakes tests. Assessment rewards reasoning quality, not content recall.
+F. Grade 8 Curriculum
+F.1 Role of the Grade
+Grade 8 is the critical-analysis year. Most learners now possess sufficient abstract reasoning capacity for genuinely analytical health engagement. The grade’s function is to address the most intellectually and emotionally challenging health topics with appropriate depth: mental health literacy, body image, consent and boundaries, environmental health determinants, health misinformation, and gender-based violence awareness.
+This is the grade where the curriculum must not flinch from difficult content. Treating these topics superficially or avoiding them entirely would be the greatest design failure. The cognitive mode is analytical-integrative: learners connect personal health choices to social and environmental systems.
+F.2 Indicative Time Distribution
+Strand
+Term 1
+Term 2
+Term 3
+Total
+S1: Personal Health & Wellbeing
+5
+4
+4
+13
+S2: Relationships & Social Wellbeing
+3
+4
+4
+11
+S3: Safety & Environmental Health
+3
+3
+3
+9
+Assessment & Review
+1
+1
+1
+3
+TOTAL
+11
+11
+11
+33
+F.3 Learning Outcomes
+Code
+Strand
+Learning Outcome
+Indicative Content Direction
+Mongolian Grounding
+8.1.1
+S1
+Critically evaluate health claims from at least two different sources (media, advertising, social media, traditional belief), distinguishing evidence-based information from misinformation, and explain why health literacy matters.
+How to assess source credibility; advertising tactics in health/beauty products; social media health influencers; traditional remedies (what is supported, what is not); the cost of misinformation.
+Mongolian health advertising; traditional Mongolian medicine claims; social media health content popular among Mongolian youth; evaluating imported health products.
+8.1.2
+S1
+Describe common mental health challenges in adolescence (stress, anxiety, depression), explain how to recognise warning signs in oneself and others, and identify specific pathways for seeking professional help.
+Anxiety and depression literacy (not diagnosis); warning signs (withdrawal, sleep change, hopelessness, self-harm ideation); how to support a friend; professional help pathways (school counsellor, 108 hotline, community health centre); reducing stigma.
+Mental health stigma in Mongolian culture; available services (UB vs. rural); traditional support systems (family, community) alongside professional help; winter depression and isolation.
+8.1.3
+S1
+Explain the concept of body image, analyse how media representations influence body perceptions, and articulate a personal position on healthy body acceptance.
+What is body image; media manipulation of appearance; social media filters and comparison; connection between body image, eating, and mental health; diverse body types as normal; building body confidence.
+Mongolian beauty standards (traditional vs. modern); social media influence on Mongolian youth body image; connection to traditional values of strength and capability over appearance.
+8.2.1
+S2
+Explain the concepts of personal boundaries, consent, and bodily autonomy, describe how these apply in different relationship contexts, and demonstrate strategies for asserting and respecting boundaries.
+What consent means (ongoing, specific, reversible, informed); physical and emotional boundaries; recognising boundary violations; assertive communication; respecting others’ boundaries; cultural pressures vs. personal rights.
+Mongolian cultural norms around personal space and authority; balancing respect for elders with personal autonomy; gender equity in Mongolian context; legal protections for children and adolescents.
+8.2.2
+S2
+Analyse the characteristics of healthy and unhealthy intimate or close relationships, explain warning signs of controlling or abusive behaviour, and identify support pathways for those experiencing relationship harm.
+Continuum from healthy to harmful relationships; control, jealousy, isolation as warning signs; gender-based violence awareness; domestic violence impact on adolescents; where to get help; supporting a friend in a harmful relationship.
+Family violence statistics and awareness in Mongolia; cultural attitudes toward domestic relationships; legal protections; local support organisations (shelters, hotlines); role of extended family.
+8.3.1
+S3
+Explain how environmental factors (air quality, water safety, climate extremes) affect health, evaluate the environmental health risks in their own community, and propose at least one practical protective action.
+Air pollution and respiratory health; water contamination sources; extreme cold and heat health effects; climate change and health; indoor air quality (coal heating, ventilation); UV protection.
+Ulaanbaatar air pollution crisis; ger district heating and indoor air; rural water quality; dzud impacts on nutrition and mental health; seasonal health strategies (winter vitamin D, summer hydration).
+8.3.2
+S3
+Demonstrate the correct recovery position, explain the principles of emergency response for choking and severe bleeding, and describe how to activate emergency services effectively.
+Recovery position practice; choking response (back blows, abdominal thrusts); severe bleeding management (direct pressure, elevation); calling emergency services (clear communication of location, situation, needs); staying calm.
+Emergency response in remote areas (distance, communication challenges); local emergency numbers and systems; community mutual aid traditions in emergencies.
+F.4 Pedagogy Notes
+Grade 8 pedagogy requires the most careful facilitation. Mental health discussion demands normalising language and must never pressure disclosure. Body image activities should critique media representations analytically—not invite personal body comparison. Consent education uses scenario analysis and role-play, not lecture. Gender-based violence awareness requires sensitivity, trauma-informed approaches, and clear protocols for responding if learners disclose experiences.
+Case-study and problem-based approaches become central: present a realistic health scenario (anonymised) requiring analysis of competing considerations. Debate formats work well for topics like health misinformation: ‘Should traditional remedies be regulated?’ Environmental health lends itself to local investigation: ‘What are the air quality challenges in our community?’
+Teacher guidance notes for sensitive topics are essential at this grade. The curriculum must provide scripted opening and closing sequences for sensitive lessons, clear ground rules, and explicit protocols for managing disclosures.
+F.5 Digital Integration
+Grade 8 is the peak year for digital integration in Health Education (3–4 activities). Recommended: (a) Health misinformation evaluation exercise using real examples from Mongolian social media or websites (teacher-selected and screened). (b) Analysing body-image manipulation in advertising (before/after images, filter effects). (c) Optional: researching local environmental health data (air quality index, water quality reports) if internet access permits. Offline alternatives: teacher-prepared printed examples for all activities; newspaper advertisements for body-image analysis; local observation walks for environmental health.
+F.6 Mongolian Grounding
+Grade 8 contextualisation becomes explicitly analytical. Environmental health centres on Mongolia’s own challenges: Ulaanbaatar’s air pollution crisis (learners from UB experience it daily; rural learners learn about their capital’s challenge); ger-district heating and respiratory health; water quality in rural rivers and wells; dzud impacts on herder family nutrition and mental health. Mental health discussion addresses Mongolian cultural stigma openly and with respect, presenting seeking help as strength, not weakness. Consent education navigates Mongolian cultural norms around authority and personal autonomy honestly, affirming both cultural respect and individual rights. Body image discussion examines both traditional Mongolian values (strength, capability, resilience) and modern media pressures.
+F.7 Assessment Notes
+Grade 8 assessment increases analytical demand. Methods: extended scenario analysis (‘Read this health article—evaluate its claims using three criteria we have learned’); practical first-aid skills assessment (recovery position, bleeding management); reflective portfolio piece (selecting and analysing a health issue of personal importance); peer assessment of discussion contributions; brief oral presentation on an environmental health concern. Assessment criteria emphasise reasoning quality, evidence use, and perspective-taking—not fact reproduction.
+G. Grade 9 Curriculum
+G.1 Role of the Grade
+Grade 9 is the synthesis and readiness year. It consolidates all four years’ learning into demonstrated autonomous health competence. The grade’s function is to prepare learners for upper secondary and adult life through holistic health planning, health advocacy, advanced first aid, reproductive health awareness, and mature conflict resolution.
+Grade 9 completes the transformation from guided health behaviour (primary) through structured health understanding (Grades 6–8) to responsible health autonomy. Learners should emerge able to make and justify complex health decisions, manage their own wellbeing, support others’ health, and advocate for community health improvement. The cognitive mode is evaluative-synthetic.
+G.2 Indicative Time Distribution
+Strand
+Term 1
+Term 2
+Term 3
+Total
+S1: Personal Health & Wellbeing
+5
+5
+4
+14
+S2: Relationships & Social Wellbeing
+3
+3
+3
+9
+S3: Safety & Environmental Health
+3
+3
+4
+10
+Assessment & Review
+1
+1
+1
+3
+TOTAL
+11
+11
+11
+33
+G.3 Learning Outcomes
+Code
+Strand
+Learning Outcome
+Indicative Content Direction
+Mongolian Grounding
+9.1.1
+S1
+Design and justify a personal health management plan that integrates physical activity, nutrition, sleep, mental health maintenance, and substance avoidance, demonstrating autonomous health decision-making.
+Components of a holistic health plan; setting realistic goals; monitoring and adjusting; connecting daily habits to long-term outcomes; personal responsibility vs. external constraints; reviewing and updating the plan.
+Adapting health plans to Mongolian seasonal rhythms; rural vs. urban lifestyle considerations; traditional health wisdom integrated with modern knowledge; career-health connections in Mongolian context.
+9.1.2
+S1
+Explain the basic principles of reproductive health, describe how responsible decision-making applies to sexual health, and identify reliable sources of further information and support.
+Reproductive system basics (age-appropriate, building on primary puberty education); responsible relationships; contraception awareness; STI prevention awareness; accessing reproductive health services; the role of respect and communication in sexual health decisions.
+Reproductive health services available in Mongolia; cultural attitudes and open discussion challenges; legal frameworks; connecting to family values while enabling informed decision-making.
+9.1.3
+S1
+Evaluate the health impacts of common risk behaviours (substance use, dangerous driving, risky online behaviour) and construct reasoned arguments for healthy alternatives that could persuade peers.
+Long-term consequences of risk behaviours; making decisions under social pressure; persuasive communication for health; analysing why people take risks; peer influence as positive force.
+Risk behaviour patterns among Mongolian adolescents; road safety issues in Mongolia; Mongolian peer culture; positive role models in Mongolian public life.
+9.2.1
+S2
+Demonstrate the ability to manage interpersonal conflict through negotiation and mediation techniques, explaining when and how to involve appropriate third parties.
+Conflict resolution steps; negotiation principles (win-win); mediation role; when conflict requires adult involvement; de-escalation techniques; cultural approaches to conflict resolution.
+Mongolian traditions of elder mediation; community conflict resolution; balancing assertiveness with cultural respect norms; urban/rural differences in conflict contexts.
+9.2.2
+S2
+Create and deliver a health-promotion message for family or community on a self-selected health topic, demonstrating health advocacy and communication skills.
+Selecting a health issue of personal importance; researching reliable information; designing a clear message (poster, presentation, family discussion guide); delivering to an authentic audience; reflecting on impact.
+Community health challenges to address (air pollution, nutrition, mental health, substance use); communicating health messages within Mongolian family structures; using Mongolian language effectively for health advocacy.
+9.3.1
+S3
+Explain CPR principles and demonstrate the correct sequence of actions for an unconscious, non-breathing casualty (calling for help, chest compressions awareness, AED awareness), and create a household emergency response plan.
+Chain of survival concept; CPR awareness (hands-only, age-appropriate); AED existence and purpose; creating a family emergency plan (contacts, meeting points, kit contents); practising emergency communication.
+Emergency infrastructure in Mongolia (ambulance response times, rural challenges); household emergency planning for gers and apartments; earthquake and dzud preparedness specific to Mongolia.
+9.3.2
+S3
+Evaluate their own digital citizenship practices, explain the health dimensions of online privacy, misinformation, and digital reputation, and demonstrate responsible digital health behaviour.
+Digital footprint and health privacy; health misinformation detection; online manipulation and radicalisation awareness; balancing connectivity with wellbeing; modelling responsible digital behaviour for younger siblings/peers.
+Mongolian digital landscape; popular platforms among Mongolian youth; digital literacy gaps; balancing traditional community connections with digital social life.
+G.4 Pedagogy Notes
+Grade 9 pedagogy shifts toward learner-led activity. The health advocacy project (9.2.2) should be the centrepiece: learners select a health issue, research it, design a message, and deliver it to a real audience (family, class, school assembly, community group). This is an authentic assessment that synthesises all four years of health education.
+Reproductive health education requires particular sensitivity: content should be factual, age-appropriate, and respectful of diverse cultural and family values while ensuring all learners have access to accurate information. Gender-separated sessions should be offered for specific components. CPR awareness should include physical practice (compression technique on a pillow or mannequin if available). Emergency planning should produce an actual household plan that learners take home.
+The personal health management plan (9.1.1) is a reflective capstone: learners integrate physical, mental, social, and environmental health into a realistic personal plan, demonstrating the autonomous decision-making that is the ultimate goal of the subject.
+G.5 Digital Integration
+Grade 9 digital integration focuses on production and citizenship (3–4 activities). Recommended: (a) Creating a digital health-promotion product (infographic, short presentation, or poster) for the advocacy project—or hand-drawn equivalent. (b) Evaluating digital citizenship practices through a self-audit exercise. (c) Optional: researching reproductive health or emergency services information from reliable websites. Offline alternatives: hand-drawn health promotion materials; discussion-based digital citizenship audit; printed health service information sheets.
+G.6 Mongolian Grounding
+Grade 9 Mongolian grounding becomes forward-looking. Health planning integrates Mongolian seasonal rhythms, local food systems, and available health infrastructure. Reproductive health discussion respects Mongolian family values while ensuring informed decision-making. The health advocacy project should address a locally relevant health challenge (air pollution, nutrition transition, mental health, substance use, road safety, digital wellness). Conflict resolution draws on Mongolian traditions of elder mediation alongside modern negotiation skills. Emergency planning addresses Mongolian-specific scenarios (earthquake, dzud, remote-area emergencies). The capstone message is: a healthy, responsible Mongolian citizen (Хүнлэг иргэн) cares for their own health, supports others, and contributes to community wellbeing.
+G.7 Assessment Notes
+Grade 9 assessment is the most demanding and holistic. Methods: personal health management plan (written document demonstrating integration of all strands); health advocacy project (product + delivery + reflection); practical CPR/emergency-response assessment; reflective portfolio completion (selecting best work from across four years with self-commentary on development); scenario-based assessment (complex health situation requiring multi-factor analysis). Grade 9 assessment should produce evidence of health competence development, not a single test score.
+H. Whole-Subject Pedagogy Guidance
+Health Education demands distinctive pedagogy fundamentally different from content-transmission subjects. The following principles apply across all four grades, with increasing sophistication in implementation.
+Discussion-based learning is the primary method. Every lesson should include structured discussion: think-pair-share, small-group dialogue, whole-class guided conversation, or anonymous question-and-answer. Ground rules must be established and maintained: respect for different views, confidentiality of personal disclosures, right to pass on personal questions, no mockery or judgement.
+Scenario-based learning is the subject’s signature approach. Realistic health scenarios (a friend being pressured, a family member’s unhealthy behaviour, an accident, conflicting health advice) are presented, and learners work through decision-making processes. Scenarios should always use Mongolian settings and culturally recognisable situations.
+Role-play and skills practice are essential for safety, communication, and resistance skills. First aid, refusal skills, help-seeking, assertive communication, and conflict resolution all require physical practice, not just verbal understanding. Role-play should be voluntary and supported with clear debrief.
+Backcasting continues from primary: learners envision their healthy future selves and identify current actions to reach that goal. This provides intrinsic motivation and connects daily health behaviours to personal aspirations.
+Case study and problem-based learning becomes central in Grades 8–9: real (anonymised) health situations requiring analysis, evaluation, and justified decision-making develop the critical health reasoning that is the subject’s capstone competence.
+Sensitive topic management requires explicit protocols. For puberty, mental health, substance use, sexual health, consent, and family violence, the teacher must: establish safe discussion norms before the lesson; use normalising language (‘Many young people experience...’); never require personal disclosure; have a plan for managing distressed learners; know the school’s referral pathways; offer gender-separated sessions when appropriate.
+Guest expertise enhances but does not replace regular teaching. Where available, school nurses, doctors, psychologists, police officers, or community health workers can lead specific sessions. The curriculum must be fully deliverable by non-specialist teachers using the teacher’s guide.
+Physical practice is non-negotiable for first aid. Learners must physically perform wound care, recovery position, compression, and (at Grade 9) CPR technique. Reading about first aid does not create competence.
+Spiral reinforcement means key messages recur across grades: help-seeking, emotional regulation, personal safety, consent, and healthy decision-making appear in every grade with increasing sophistication. Each lesson begins with brief consolidation of previous learning (critical with once-per-week scheduling).
+I. Whole-Subject Assessment Framework
+I.1 Assessment Principles
+Assessment in Health Education is fundamentally formative. Its purpose is to support learning, monitor development, and provide evidence of growing health competence—not to rank, grade, or examine. The subject’s assessment challenge is capturing behavioural competence, reasoning quality, and attitudinal development—not knowledge recall.
+Assessment must never require personal health disclosures, penalise learners for family health circumstances, create anxiety around sensitive topics, or reduce health education to fact memorisation. All assessment methods must have clear ethical boundaries.
+I.2 Assessment Methods
+The following methods are recommended across all grades, with increasing sophistication:
+Method
+What It Captures
+Grades
+Observation of participation
+Engagement in discussion, respect for others, willingness to practise skills
+All grades (ongoing)
+Reflective writing
+Ability to connect health knowledge to personal experience and decisions
+All grades (2–3 per term, brief)
+Practical demonstration
+First aid skills, communication strategies, emotional regulation techniques
+All grades (1–2 per term)
+Scenario-based response
+Health reasoning quality, decision-making under uncertainty, perspective-taking
+Grades 7–9 (increasing complexity)
+Peer/self-assessment
+Self-awareness of health competence development; ability to evaluate own and others’ contributions
+All grades (light, structured)
+Portfolio
+Development over time; selection and reflection on best work
+Cumulative across Grades 6–9
+Health advocacy project
+Research, communication, application, synthesis
+Grade 9 (capstone)
+Personal health plan
+Integration, autonomous decision-making, realistic goal-setting
+Grade 9 (capstone)
+I.3 Progression in Assessment
+Grade 6: Assessment captures demonstrated health practices (can the learner do it?) and basic identification (can the learner name emotions, hazards, nutrients?). Methods are low-stakes, supportive, and primarily observational.
+Grade 7: Assessment adds explanation (can the learner say why?) and evaluation (can the learner assess a health claim or a friendship?). Scenario-based responses are introduced.
+Grade 8: Assessment expects analysis (can the learner examine a health issue from multiple perspectives?) and critical evaluation (can the learner distinguish reliable from unreliable health information?). Extended responses and portfolio contributions increase.
+Grade 9: Assessment requires synthesis (can the learner integrate health knowledge into a personal plan?) and advocacy (can the learner communicate health messages effectively?). The capstone products—health plan and advocacy project—are the primary Grade 9 assessments.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed Learner Readiness
+All learning outcomes are written to be achievable by learners with diverse abilities. Discussion-based pedagogy naturally differentiates: learners contribute at their own level. Reflective writing can be adapted (drawing, oral recording, shorter responses) for learners with literacy challenges. First aid is kinaesthetic and accessible to most learners. Sensitive topics require particular attention for learners who may have personal experience of the issues discussed: the teacher must be prepared to offer support without requiring disclosure.
+J.2 Resource Variability
+The curriculum is designed for delivery with minimal resources: a classroom, a teacher with a teacher’s guide, basic first-aid supplies (bandages, triangular bandage, antiseptic—or clean cloth alternatives), and a textbook or printed materials. Digital activities always have offline alternatives. Guest speakers are enhancements, not requirements. Specialised equipment (CPR mannequin, AED trainer) is desirable for Grade 9 but not essential—learners can practise compression technique on a pillow.
+J.3 Teacher Support Needs
+Most Health Education teachers will be non-specialists. The curriculum must be accompanied by: a detailed teacher’s guide with lesson-by-lesson structure; scripted guidance for sensitive topics (puberty, mental health, substance use, sexual health, consent, family violence); clear protocols for managing disclosures and making referrals; professional development modules (ideally 2–3 days pre-implementation); and a resource bank of approved materials, scenarios, and activities. Teachers need training in facilitation skills (discussion management, role-play debrief, safe-space creation), not just content knowledge.
+J.4 Rural and Urban Differences
+The curriculum accommodates rural-urban diversity through contextualised content rather than parallel curricula. Every topic includes both urban and rural examples. Health resources (who to contact, where to go) should be locally mapped by each school. Digital activities have offline alternatives for low-connectivity settings. Environmental health addresses both urban air pollution and rural water/animal/weather hazards. Nutrition uses both market-food and countryside-food examples. Safety scenarios include both traffic-dense and livestock-rich environments.
+J.5 Gender Sensitivity
+The curriculum provides guidance on when gender-separated sessions may be appropriate (puberty-specific hygiene, some aspects of sexual and reproductive health) while emphasising that most health topics benefit from mixed-gender learning. Teachers should be prepared to facilitate both formats. The curriculum explicitly addresses gender equity, challenges harmful gender stereotypes in health contexts, and ensures both boys and girls have equal access to all health information.
+J.6 Protection and Safeguarding
+Health Education creates contexts where learners may disclose abuse, self-harm, or other serious concerns. The teacher’s guide must include: recognition indicators for common harms; immediate response protocols (listen, reassure, do not promise unconditional confidentiality, report to designated person); referral pathways for each school; guidance on maintaining professional boundaries. This is a safeguarding requirement, not an optional add-on. Schools must ensure that a trained child-protection designee is identified before the curriculum is implemented.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+1. Overloading: Do not add more outcomes or content to the 28-outcome framework. With 33 lessons per year, every addition displaces essential participatory learning time. The discipline of selection is the most important design quality.
+2. Reducing to fact recall: Do not write textbooks that present health as information to be memorised. Every chapter should be structured around scenarios, activities, and decision-making exercises. A textbook that can be ‘covered’ through lecturing is a failed textbook for this subject.
+3. Avoiding sensitive content: Do not omit mental health, substance use, consent, sexual health, or family violence because they are culturally sensitive. These are the topics adolescents most urgently need. Address them with cultural sensitivity but without evasion. A Health Education curriculum that avoids the health topics that matter most is worse than no curriculum at all.
+4. Generic internationalisation: Do not use imported health education materials without thorough Mongolian contextualisation. Every scenario, example, food, setting, family structure, and climate reference must feel Mongolian to Mongolian learners.
+5. Digital dependence: Do not design digital activities that require reliable internet access. Mongolia’s digital equity gap means that digitally dependent content creates a two-tier curriculum. Every digital activity must have a fully functional offline alternative.
+6. Passive pedagogy: Do not write lesson plans that consist primarily of teacher explanation and learner note-taking. Health Education’s effectiveness depends on participation, practice, and personal processing. Standards and textbooks must specify participatory activities, not just content to be ‘taught.’
+7. Grade uniformity: Do not make all grades look alike. Each grade has a distinct developmental role (bridging, explanation, analysis, synthesis). Standards must reflect this progression in the verbs used, the complexity expected, and the autonomy assumed.
+8. Disconnection from primary: Do not write Grade 6 as if learners arrive with no health education. They have five years of primary Health Education. Grade 6 must build on, not repeat, this foundation. The most wasteful error would be re-teaching basic puberty content that was introduced in Grades 4–5.
+9. Assessment distortion: Do not introduce high-stakes written examinations. They would transform a participatory, skills-based subject into a memorisation exercise, undermining everything the curriculum is designed to achieve.
+10. Neglecting teacher support: Do not publish a curriculum without a comprehensive teacher’s guide. Non-specialist teachers cannot deliver sensitive health content from learning outcomes alone. The teacher’s guide is as essential as the curriculum itself.
+11. Ignoring cluster coordination: Do not develop Health Education in isolation from Physical Education. The two subjects share Cluster 6 and must avoid duplicating content (nutrition, body image, injury prevention) while creating synergies.
+12. Treating Mongolian grounding as decoration: Do not add Mongolian examples as surface illustrations on an imported framework. Mongolian context must shape the structure, not just the examples: family models, seasonal patterns, climate challenges, food systems, health infrastructure, and cultural values must be foundational, not decorative.
+— End of Full Curriculum Draft: Health Education (Эрүүл Мэнд), Grades 6–9 —

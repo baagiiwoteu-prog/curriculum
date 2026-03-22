@@ -1,0 +1,318 @@
+FULL CURRICULUM DRAFT
+PHYSICS (ФИЗИК)
+Lower Secondary Grades 6–9
+Mongolia Curriculum Reform
+Official Lesson Allocation: Grade 6 = 33h · Grade 7 = 66h · Grade 8 = 66h · Grade 9 = 66h · Total = 231h
+Building on Steps 1–6 of the Cross-Level Competence Analysis
+Step 7 — Full Curriculum Draft Series
+Working Document — March 2026
+A. Subject Purpose and Role in Lower Secondary Education
+Physics (Физик) exists in Mongolia’s lower secondary curriculum to develop learners’ capacity to understand, explain, and investigate the physical world through evidence-based reasoning. It is the primary curricular vehicle for building quantitative causal thinking—the ability to explain why physical phenomena occur by identifying underlying mechanisms and expressing relationships between measurable quantities.
+Across Grades 6–9, Physics serves four interconnected educational purposes. First, it develops scientific literacy: the capacity to understand and evaluate physical explanations of natural and technological phenomena encountered in everyday life and public discourse. Second, it builds disciplinary reasoning: the distinctive ways physicists think—through model construction, controlled experimentation, quantitative analysis, and evidence-based argument. Third, it cultivates practical competence: the ability to plan, conduct, and interpret investigations using physical science methods. Fourth, it develops contextual understanding: the capacity to apply physics reasoning to Mongolian realities—the extreme continental climate, energy infrastructure, mining, traditional technology, and the country’s contemporary development challenges.
+Physics emerges from the pre-primary Baygal, Niigmiin Orchin (Nature and Social Environment) domain and the primary Baygal Shinjlel (Natural Science) subject. It is one of four sciences that ‘split’ from a single primary subject at the lower secondary transition. Within the seventeen-subject architecture, it belongs to Cluster 3 (Scientific and Environmental Inquiry) alongside Biology, Chemistry, and Geography. It receives 231 total hours across four years under a progressive-entry allocation (33 → 66 → 66 → 66 hours), positioning it as a medium-weight discipline that must achieve depth through disciplined selection of essential content rather than encyclopaedic coverage.
+Physics is not a standalone intellectual enterprise. It depends on Mathematics for quantitative tools and contributes to Geography (atmospheric physics, earth systems), Chemistry (energy, molecular motion), Design Technology (mechanics, energy systems), and all subjects through its contribution to evidence-based reasoning. The subject’s design must honour this interdependence while developing its own distinctive epistemic identity.
+B. Curriculum Strands
+The Physics curriculum is organised through three content strands and one integrating strand that operates across all content areas. This structure reflects the inherited content from primary Natural Science, the available lesson time, and the developmental progression appropriate for early adolescence.
+Strand 1: Forces and Motion (Хүч ба хөдөлгөөн)
+This strand develops understanding of how forces cause changes in motion and shape. It progresses from the primary foundation of observing pushes, pulls, gravity, and friction (Grades 3–5 ‘Force and Motion’ sub-area) through qualitative force analysis toward Newton’s laws and quantitative mechanics. Content includes: types of forces, balanced and unbalanced forces, speed and velocity, acceleration, Newton’s three laws, pressure in solids and fluids, density, and simple machines. The strand connects to Mongolian contexts through horse-based transport, traditional sports mechanics (archery, wrestling, ankle-bone shooting), ger structural engineering, and infrastructure development across Mongolia’s vast territory.
+Strand 2: Energy and Heat (Эрчим хүч ба дулаан)
+This strand develops understanding of energy forms, transfers, transformations, and conservation, together with the particle model of matter and heat transfer. It progresses from primary-level recognition of energy sources and state changes (Grade 4–5 content on melting, freezing, evaporation, condensation) to formal energy concepts, specific heat, heat transfer mechanisms, and efficiency. The strand carries the heaviest environmental and contextual load: Mongolia’s extreme continental climate (-40°C to +40°C), heating systems (coal stoves, central heating, ger insulation), energy infrastructure, renewable energy potential, and the physics underlying Ulaanbaatar’s air pollution crisis.
+Strand 3: Electricity, Magnetism, and Waves (Цахилгаан, соронз, долгион)
+This strand unifies two primary-level content areas—electricity and magnetism (Grade 3–4 circuits and magnets) and sound and light (Grades 1–5)—into a coherent treatment of electromagnetic and wave phenomena. Content includes: electric circuits, current, voltage, resistance, series and parallel circuits, magnets and electromagnetism, properties of waves, sound, light, reflection, refraction, and the electromagnetic spectrum. The strand connects to Mongolian contexts through rural electrification challenges, solar energy, telecommunications across vast distances, traditional metalworking, and the optical phenomena visible in Mongolia’s clear skies.
+Integrating Strand: Scientific Inquiry and the Physical World (Шинжлэн судлал ба физик ертөнц)
+This strand is not a separate content block but an integrating dimension embedded across all three content strands. It ensures the continuity of the inquiry competence inherited from primary and develops it into disciplinary scientific method. It covers: asking investigable questions; planning controlled experiments; measuring accurately with appropriate instruments and units; recording, processing, and displaying data; drawing evidence-based conclusions; evaluating experimental reliability; communicating scientific findings; understanding the nature of scientific knowledge; and applying physics to real-world technological, environmental, and social contexts. This strand must be explicitly coordinated with Biology, Chemistry, and Geography to maintain shared inquiry language and methodology across the science cluster.
+Indicative Strand Weighting
+Strand
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Forces and Motion
+~30%
+~30%
+~30%
+~25%
+Energy and Heat
+~35%
+~30%
+~30%
+~30%
+Electricity, Magnetism, Waves
+~20%
+~25%
+~25%
+~25%
+Inquiry (integrated)
+~15%
+~15%
+~15%
+~20%
+Note: Percentages are indicative, not prescriptive. The integrating strand is embedded across content strands, not taught separately. Grade 9 increases the inquiry weighting to accommodate the culminating investigation.
+C. Overall Progression Across Grades 6–9
+The four-year Physics progression follows the developmental transformation logic established in Step 2: each grade carries a distinct developmental role, and competences transform qualitatively across the sequence. The progression is cumulative and spiral—each strand is revisited at increasing depth—not linear-block (one strand per year).
+Dimension
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Designation
+Curiosity and Bridging
+Foundation and Structure
+Analytical Depth
+Synthesis and Application
+Hours/week
+1 lesson (33h total)
+2 lessons (66h total)
+2 lessons (66h total)
+2 lessons (66h total)
+Cognitive mode
+Concrete → bridging
+Structured abstract
+Analytical-integrative
+Evaluative-synthetic
+Knowledge use
+Recall → describe
+Apply → explain
+Explain → analyse
+Interpret → evaluate
+Inquiry stance
+Guided observation
+Structured investigation
+Disciplined inquiry
+Independent research design
+Maths demand
+Qualitative; simple measurement
+Arithmetic; units; simple graphs
+Proportional reasoning; formulas
+Algebraic manipulation; multi-step
+Assessment
+Formative only
+Formative + 4–6 summative
+Formative + 4–6 summative
+Formative + 4–6 summative + project
+Practical work
+4–6 demos/guided
+8–10 structured
+8–10 with student design
+8–10 + independent investigation
+D. Grade 6 Curriculum: The Curiosity and Bridging Year
+D.1 Role of the Grade
+Grade 6 is the transition year from primary Natural Science to disciplinary Physics. With only 33 hours (1 lesson per week), it cannot function as a compressed introduction to the Grades 7–9 curriculum. Instead, it serves four purposes: consolidating and extending the physical-science foundations built in primary; awakening curiosity about the physical world through phenomena-driven exploration; introducing the idea that physics explains ‘why’ and ‘how’ through observation and experiment; and establishing safe, respectful, collaborative inquiry habits for subsequent years.
+D.2 Progression Focus
+The progression focus is concrete-to-bridging. All learning should begin with observable phenomena and hands-on experience. Students describe what they observe, begin to ask ‘why’ questions, and are introduced to the idea that physical phenomena have explainable causes. There is no expectation of formal abstract reasoning, mathematical treatment, or examination-level recall. The year builds the affective and cognitive foundation—curiosity, confidence, inquiry habits—upon which Grades 7–9 will build.
+D.3 Expected Learning
+By the end of Grade 6, learners should be able to:
+P6.1 — Identify and describe different types of forces observed in everyday life, including pushes, pulls, gravity, friction, and magnetic force, and demonstrate that forces can change the speed, direction, or shape of an object.
+P6.2 — Describe energy as something that is needed to make things happen, identify familiar energy sources (sun, food, fuel, electricity, wind), and give examples of energy being transferred or transformed in everyday situations.
+P6.3 — Observe and describe how heat moves from warmer to cooler objects, connect this to seasonal experience in Mongolia (winter heating, summer cooling), and explain why certain materials feel warmer or cooler to touch.
+P6.4 — Demonstrate that a complete circuit is needed for electricity to flow, identify conductors and insulators from everyday materials, and describe the safe use of electricity in daily life.
+P6.5 — Observe and describe the basic properties of light (travels in straight lines, reflects off surfaces, can be blocked to form shadows) and sound (produced by vibrations, travels through materials, varies in pitch and volume).
+P6.6 — Carry out simple guided investigations: make observations, record findings using words and simple drawings, and describe what was discovered, using the inquiry steps learned in primary.
+P6.7 — Explain why physics is useful for understanding the world we live in, giving at least two examples from Mongolian life where physical principles help explain everyday phenomena.
+D.4 Indicative Content Direction
+Theme A: Forces Around Us (~10 hours)
+Revisit and extend primary knowledge of forces. Explore pushes, pulls, gravity (why things fall), friction (why things slow down), and magnetic attraction/repulsion. Activities: pulling objects across different surfaces to feel friction; dropping objects of different mass to challenge the ‘heavier falls faster’ misconception; exploring magnets with everyday materials. Mongolian context: the forces acting on a horse and rider; friction on ice and dry ground; why the ger stays standing in wind (forces in balance).
+Theme B: Energy in Our Lives (~12 hours)
+Explore energy as the capacity to cause change. Identify energy sources relevant to Mongolian life: sun, wind, coal, wood, food, electricity. Observe energy transfers: a burning candle (chemical to heat and light), a hand-cranked torch (mechanical to electrical to light), heating water on a stove (fuel to heat). Discuss where Mongolia’s energy comes from. Connect to primary knowledge of state changes (ice melting, water boiling) as energy transfer. Mongolian context: the coal stove in the ger; why felt insulates; why winters are cold and summers warm; solar panels in the countryside.
+Theme C: Light, Sound, and Electricity (~8 hours)
+Consolidate primary knowledge of light (shadows, reflection) and sound (vibration, pitch, volume). Build a simple circuit with a battery, bulb, and switch; test materials for conductivity. Observe that light travels in straight lines (shadow formation); that sound needs a medium (bell-jar demonstration or equivalent). Mongolian context: echoes in mountain valleys; why traditional instruments sound different; electricity supply in urban vs. rural areas; safety around electrical equipment.
+Consolidation and Reflection (~3 hours)
+Review and connect: What have we learned about how physics helps us understand our world? Students share favourite discoveries. Introduction to what Grade 7 will bring.
+D.5 Pedagogy Notes
+Teaching should be predominantly experiential: demonstrations, guided hands-on activities, outdoor observations, group discussion, and storytelling about physical phenomena. The teacher’s role is facilitator and question-poser, not lecturer. Every lesson should begin with a phenomenon or question (‘Why does the ball stop rolling?’ ‘Why is the ger warm inside?’) and build toward an explanation through observation and discussion. Written work should be minimal—short observation notes, labelled drawings, brief descriptions. The emphasis is on talking about physics, not writing about it.
+D.6 Digital Integration Notes
+Digital integration at Grade 6 should be light and supplementary. Where available, short video clips can show phenomena not easily demonstrated in class (e.g., slow-motion footage of collisions, thermal imaging of heat loss from a building). Simple temperature sensors or digital thermometers can enhance measurement activities. Offline alternatives: all Grade 6 content is fully deliverable without any digital technology. Teacher-led demonstrations with everyday materials are sufficient. No learning outcome is technology-dependent.
+D.7 Mongolian Grounding Notes
+Grade 6 physics should feel culturally familiar, not foreign. Examples should draw primarily from Mongolian daily life: the physics of the ger (insulation, ventilation, structural stability), seasonal phenomena (ice formation, extreme cold, summer heat), traditional activities (riding, archery, herding), and the Mongolian energy landscape (coal, solar, wind). The language of instruction is Mongolian; all physics terminology introduced in this year should be established in Mongolian first, with the international term noted as supplementary. Students should recognise that physics helps explain things they already know from their own experience.
+D.8 Assessment Notes
+Assessment in Grade 6 is entirely formative. No formal examinations or graded summative tests. Assessment takes the form of: teacher observation of participation in practical activities; short oral explanations (‘Tell me what you noticed’); observation journals with drawings and brief descriptions; peer discussion during group activities. The purpose of assessment is diagnostic (what do students understand?) and motivational (recognising curiosity and effort), not evaluative. A simple portfolio of Grade 6 physics observations may be kept and carried into Grade 7.
+E. Grade 7 Curriculum: Foundation and Structured Inquiry
+E.1 Role of the Grade
+Grade 7 is the first full year of Physics as a discipline. With 66 hours (2 lessons per week), it establishes the strand architecture, introduces systematic experimental method, begins quantitative reasoning about physical quantities, and builds the foundational concepts in each strand. Grade 7 carries the weight of establishing Physics’ disciplinary identity: what questions physics asks, how physicists investigate, and what makes physics different from other sciences.
+E.2 Progression Focus
+The progression is from description to explanation, from qualitative to semi-quantitative. Students move from ‘what happens’ to ‘why it happens’ and begin to express physical relationships using measurements, units, and simple calculations. Scientific models are introduced as explanatory tools (force diagrams, energy bar charts, circuit diagrams). Experimental method becomes structured: identifying variables, fair testing, systematic recording, and evidence-based conclusions.
+E.3 Expected Learning
+Strand 1: Forces and Motion (~20 hours)
+P7.1 — Distinguish between contact forces (friction, air resistance, tension, normal force) and non-contact forces (gravity, magnetic force), and represent forces acting on an object using simple force diagrams.
+P7.2 — Explain the effect of balanced and unbalanced forces on the motion of an object, predicting whether an object will remain stationary, speed up, slow down, or change direction.
+P7.3 — Calculate speed using the relationship speed = distance ÷ time, using appropriate SI units (m/s, km/h), and interpret distance-time graphs for uniform motion.
+P7.4 — Describe friction as a force that opposes motion, explain factors that affect friction (surface type, weight), and discuss situations where friction is useful or problematic, including examples from Mongolian life.
+P7.5 — Describe how simple machines (lever, inclined plane, pulley, wheel and axle) change the size or direction of a force, connecting to primary learning on levers and mechanisms.
+Strand 2: Energy and Heat (~20 hours)
+P7.6 — Identify and describe different forms of energy (kinetic, potential, thermal, chemical, electrical, light, sound) and explain that energy can be transferred between stores and transformed from one form to another.
+P7.7 — State the principle of conservation of energy in everyday language: energy is not created or destroyed, only transferred or transformed. Illustrate with examples.
+P7.8 — Use the particle model of matter to explain the differences between solids, liquids, and gases, and to explain changes of state (melting, boiling, freezing, condensation) as energy transfers that affect particle arrangement and motion.
+P7.9 — Describe the three mechanisms of heat transfer (conduction, convection, radiation) and identify each in everyday situations, including insulation in the Mongolian ger and heating systems.
+P7.10 — Measure temperature changes during heating and cooling using thermometers, record data in tables, and plot simple temperature-time graphs.
+Strand 3: Electricity, Magnetism, and Waves (~18 hours)
+P7.11 — Build and test series circuits, identifying the roles of battery, switch, lamp, and connecting wires. Use standard circuit symbols to draw circuit diagrams.
+P7.12 — Describe electric current as the flow of charge, explain the role of voltage as the ‘push’ that drives current, and measure current using an ammeter and voltage using a voltmeter with teacher guidance.
+P7.13 — Investigate the properties of permanent magnets: poles, attraction, repulsion, and magnetic fields (using iron filings or a compass).
+P7.14 — Describe sound as a vibration that travels through a medium, and explain how pitch (frequency) and loudness (amplitude) relate to the source of sound. Investigate using everyday sound sources.
+P7.15 — Describe light as travelling in straight lines, explain reflection using the law of reflection, and investigate image formation in a plane mirror.
+Integrating Strand: Scientific Inquiry (~8 hours, embedded)
+P7.16 — Identify the independent variable, dependent variable, and control variables in a given investigation, and explain why controlling variables makes a test fair.
+P7.17 — Collect quantitative data using appropriate instruments (rulers, thermometers, stopwatches, ammeters), record data in tables with units, and present results using bar charts or line graphs.
+P7.18 — Write a structured practical report with sections: question, prediction, method, results, and conclusion.
+E.4 Indicative Content Direction and Time Allocation
+The 66 hours should be distributed approximately as follows: Forces and Motion (~20h), Energy and Heat (~20h), Electricity/Magnetism/Waves (~18h), with the remaining ~8h distributed across revision, assessment, and project work. Each strand should include at least 2–3 structured practicals. At least one cross-strand connection should be made explicit (e.g., energy in the context of forces doing work; energy in electrical circuits).
+E.5 Pedagogy Notes
+Grade 7 teaching should balance demonstration and student investigation. The predict-observe-explain (POE) approach is particularly effective: students predict what will happen, observe the phenomenon, then explain the result. This directly addresses common misconceptions (e.g., ‘a moving object has more force than a stationary one’). Teacher-led demonstrations should be used to introduce new concepts; student practicals should follow to consolidate and extend understanding. The introduction of scientific models (force diagrams, particle diagrams, circuit diagrams) requires explicit teaching—students do not spontaneously produce these representations.
+E.6 Digital Integration Notes
+Where available: PhET simulations (free, available offline once downloaded) for circuits, forces, and energy; digital data loggers for temperature experiments; spreadsheet software for graphing data. Offline alternatives: all outcomes achievable with physical equipment—batteries and bulbs for circuits, thermometers for heat experiments, spring balances for forces. Hand-drawn graphs on graph paper. The key digital competence developed is accurate data recording and graph construction—achievable digitally or by hand.
+E.7 Mongolian Grounding Notes
+Grade 7 Mongolian context examples include: friction on ice versus dry steppe (forces); the physics of wrestling and archery (forces and motion); ger insulation using felt (heat transfer); heating water for tea and cooking in different conditions (energy transfer and measurement); simple circuits related to solar-powered lights in rural gers (electricity); echoes in mountain valleys (sound); mirages on the summer steppe (light). All scientific vocabulary should be established in Mongolian with international notation as supplement.
+E.8 Assessment Notes
+Grade 7 introduces summative assessment alongside ongoing formative practice. Summative assessment (4–6 per year): short written tests combining factual recall, conceptual explanation, and simple calculations (~20–30 minutes each); at least one practical skills assessment (e.g., measuring and recording data accurately); one structured practical report assessed for quality of method, data presentation, and conclusion. Formative assessment: ongoing observation, questioning, peer explanation tasks, exit tickets after key lessons. Assessment should avoid pure memorisation tasks and always include application to familiar contexts.
+F. Grade 8 Curriculum: Analytical Depth
+F.1 Role of the Grade
+Grade 8 deepens each strand by introducing more formal physical relationships, developing the use of mathematical expressions, and increasing student independence in experimental design. This is the year of analytical rigour: students move from describing and explaining to analysing, calculating, and designing. Cross-strand connections become more explicit, with energy as the unifying thread.
+F.2 Progression Focus
+The progression is from explanation to analysis and from structured to independent inquiry. Students apply mathematical relationships (formulas, proportional reasoning, graph interpretation) to solve physics problems. They design their own investigations with increasing autonomy. They begin to connect concepts across strands (energy in mechanical, thermal, and electrical contexts).
+F.3 Expected Learning
+Strand 1: Forces and Motion (~20 hours)
+P8.1 — Describe acceleration as a change in speed over time, and use the relationship acceleration = change in speed ÷ time for simple calculations. Interpret speed-time graphs showing uniform acceleration.
+P8.2 — State Newton’s First Law (an object remains at rest or in uniform motion unless acted on by an unbalanced force) and apply it to explain everyday situations including the use of seat belts and the behaviour of objects in moving vehicles.
+P8.3 — State Newton’s Second Law qualitatively (greater force produces greater acceleration; greater mass requires greater force for the same acceleration) and use the relationship F = ma for simple calculations.
+P8.4 — Define pressure as force per unit area (P = F/A) and apply this to explain phenomena including why sharp objects cut, why wide tyres are used on soft ground, and the design of the Mongolian horse saddle.
+P8.5 — Describe pressure in fluids (liquids and gases) and explain how depth affects pressure in liquids, connecting to everyday examples.
+Strand 2: Energy and Heat (~20 hours)
+P8.6 — Calculate the work done by a force using the relationship W = F × d, and explain the connection between work, force, and energy transfer.
+P8.7 — Calculate kinetic energy (KE = ½mv²) and gravitational potential energy (GPE = mgh) for simple situations, and demonstrate that energy is conserved in energy transfers (e.g., a falling object converts GPE to KE).
+P8.8 — Explain the concept of specific heat capacity qualitatively: different materials require different amounts of energy to raise their temperature by the same amount. Relate this to Mongolia’s continental climate (land heats and cools faster than water).
+P8.9 — Explain the concept of thermal efficiency and calculate simple efficiency values (efficiency = useful energy output ÷ total energy input × 100%). Apply to heating systems and energy use in Mongolia.
+P8.10 — Describe the greenhouse effect and its connection to climate change, using physics principles (radiation absorption and re-emission). Discuss implications for Mongolia’s environment.
+Strand 3: Electricity, Magnetism, and Waves (~18 hours)
+P8.11 — Compare series and parallel circuits in terms of current and voltage distribution. Build and test both types of circuit, measuring current and voltage at different points.
+P8.12 — State Ohm’s Law (V = IR) and use it to calculate current, voltage, or resistance in simple circuits. Investigate how changing voltage or resistance affects current.
+P8.13 — Describe how an electromagnet works, explain factors affecting its strength, and give applications of electromagnets in everyday technology.
+P8.14 — Describe waves using the terms wavelength, frequency, amplitude, and wave speed. Use the wave equation (v = fλ) for simple calculations. Distinguish between transverse and longitudinal waves.
+P8.15 — Explain refraction of light as a change in speed and direction when light passes between different media. Describe the formation of a spectrum when white light passes through a prism.
+Integrating Strand: Scientific Inquiry (~8 hours, embedded)
+P8.16 — Design a controlled experiment to test a hypothesis, identifying all relevant variables and explaining how to ensure the test is fair and results are reliable.
+P8.17 — Process experimental data: calculate averages, identify anomalous results, plot line graphs with lines of best fit, and draw conclusions supported by data and physics principles.
+P8.18 — Evaluate the reliability of experimental results, suggesting improvements to method and identifying sources of error.
+F.4 Pedagogy Notes
+Grade 8 pedagogy shifts toward more student-led investigation. The teacher role moves from demonstrator to coach. Students should be given opportunities to design their own experiments (with scaffolding), solve multi-step problems, and explain physics using both words and mathematical relationships. Misconception work continues to be important—students often believe that force is needed to maintain constant motion (Newton’s First Law is counterintuitive). Group problem-solving and peer explanation are particularly effective at this stage.
+F.5 Digital Integration Notes
+Where available: spreadsheet software for data analysis and graph plotting; PhET simulations for circuits (Ohm’s Law investigation), waves, and energy; video analysis for motion studies. Offline alternatives: all calculations done by hand; graphs drawn on paper; circuit investigation using physical apparatus. The key digital competence developed is data analysis and presentation—using tools to process and display quantitative results.
+F.6 Mongolian Grounding Notes
+Grade 8 Mongolian context: Newton’s laws applied to horse riding and vehicle safety; pressure and the design of traditional footwear and saddles; specific heat capacity and Mongolia’s extreme temperature range; energy efficiency of traditional versus modern heating systems; the physics of Ulaanbaatar’s air pollution (combustion, particle emission, thermal inversion); parallel circuits in home wiring; electromagnets in mining equipment; refraction and mirages on the steppe.
+F.7 Assessment Notes
+Grade 8 assessment increases in demand. Summative (4–6 per year): tests include conceptual explanation, calculation problems, graph interpretation, and application to unfamiliar contexts; one extended practical investigation assessed against design, data quality, analysis, and evaluation criteria; one problem-solving task requiring multi-step reasoning. Formative: peer assessment of practical work; self-assessment checklists for experimental skills; regular retrieval practice of key concepts from Grade 7.
+G. Grade 9 Curriculum: Synthesis and Application
+G.1 Role of the Grade
+Grade 9 consolidates, integrates, and applies the physics developed across Grades 7–8. It prepares students for upper secondary by ensuring secure conceptual foundations and competent scientific reasoning. The distinctive feature of Grade 9 is a culminating investigation or project that integrates concepts from multiple strands and applies them to a real-world Mongolian context.
+G.2 Progression Focus
+The progression is toward synthesis, evaluation, and independent application. Students evaluate competing explanations, connect knowledge across strands, apply physics reasoning to unfamiliar problems, and communicate scientific arguments with supporting evidence. Mathematical treatment becomes more confident, and students are expected to select and apply appropriate formulas without step-by-step prompting.
+G.3 Expected Learning
+Strand 1: Forces and Motion (~16 hours)
+P9.1 — State Newton’s Third Law (for every action there is an equal and opposite reaction) and apply it to explain everyday phenomena including walking, swimming, rocket propulsion, and the recoil of a bow in archery.
+P9.2 — Define momentum (p = mv), explain the principle of conservation of momentum qualitatively, and apply it to collisions and interactions in everyday contexts.
+P9.3 — Define density (ρ = m/V), measure the density of regular and irregular objects, and apply density concepts to explain floating, sinking, and the selection of materials for different purposes.
+P9.4 — Apply all three Newton’s Laws to analyse complex real-world situations involving multiple forces, including vehicle safety, sports mechanics, and structural engineering.
+Strand 2: Energy and Heat (~20 hours)
+P9.5 — Calculate electrical energy consumption (E = P × t) and electrical power (P = IV), and apply these to domestic energy use, electricity bills, and energy-saving strategies relevant to Mongolian households.
+P9.6 — Describe and compare different energy resources (fossil fuels, nuclear, solar, wind, hydroelectric, geothermal) in terms of their advantages, disadvantages, and suitability for Mongolia’s energy needs.
+P9.7 — Explain the physics of climate and weather phenomena relevant to Mongolia: atmospheric pressure, convection in the atmosphere, radiation balance, and the formation of the Siberian High pressure system that governs Mongolia’s winter.
+P9.8 — Apply energy conservation and efficiency concepts to evaluate real-world systems (e.g., comparing the efficiency of a coal stove, a modern boiler, and a solar panel), making evidence-based recommendations.
+Strand 3: Electricity, Magnetism, and Waves (~18 hours)
+P9.9 — Describe the principle of electromagnetic induction qualitatively: a changing magnetic field can produce a voltage. Explain the basic principle of generators and transformers and their importance in electricity supply.
+P9.10 — Describe the main regions of the electromagnetic spectrum (radio, microwave, infrared, visible, ultraviolet, X-ray, gamma), and explain uses and hazards of each, including applications in telecommunications and medicine.
+P9.11 — Calculate electrical power and energy in circuits, and apply to household circuit analysis including fuse ratings, energy consumption, and electrical safety.
+P9.12 — Explain how information is transmitted using electromagnetic waves (radio, mobile phone signals, fibre optics), connecting to Mongolia’s telecommunications infrastructure challenges.
+Integrating Strand: Culminating Investigation (~12 hours)
+P9.13 — Plan, conduct, analyse, and report on an independent or small-group investigation that applies physics concepts from at least two strands to a real-world question relevant to Mongolian life (e.g., comparing insulation materials for ger improvement; investigating energy consumption in the school; measuring and mapping magnetic fields; investigating factors affecting solar panel output).
+P9.14 — Evaluate the strengths and limitations of their own investigation, including sources of error, reliability of data, and validity of conclusions.
+P9.15 — Communicate their investigation findings through a written report and oral presentation, using appropriate physics terminology, data displays, and evidence-based reasoning.
+G.4 Pedagogy Notes
+Grade 9 pedagogy emphasises student agency. Teachers should set challenging problems, provide resources, and coach rather than direct. Students should be expected to select appropriate methods, apply knowledge flexibly, and justify their reasoning. The culminating investigation is the centrepiece of the year—it should be allocated adequate time (at least 10–12 hours across the second semester), supported through structured milestones (topic selection, plan approval, data collection, analysis, presentation), and assessed using clear criteria shared in advance.
+G.5 Digital Integration Notes
+Grade 9 expands digital use: data analysis with spreadsheets or graphing software; research using online scientific databases (e.g., Mongolia’s energy statistics, climate data); presentation software for communicating investigation findings; simulation tools for exploring electromagnetic induction or wave phenomena. Offline alternatives remain essential: hand-drawn graphs, printed data sets, physical demonstrations. The culminating investigation may incorporate digital data collection and analysis where available, but must be achievable without digital technology.
+G.6 Mongolian Grounding Notes
+Grade 9 Mongolian contexts are central, not supplementary. Energy resources: Mongolia’s coal dependence, renewable energy potential (Gobi solar and wind), energy poverty in rural areas. Climate physics: why Mongolia has the world’s most extreme continental temperature range; atmospheric physics of the Siberian High; climate change impacts on permafrost, desertification, and pastoral livelihoods. Technology: telecommunications across vast distances; mining physics; infrastructure challenges. The culminating investigation should address a genuine Mongolian question, not an imported laboratory exercise.
+G.7 Assessment Notes
+Grade 9 assessment includes standard summative assessments (4–6 per year) at higher cognitive demand plus the culminating investigation. Summative tests should include: multi-step calculations, analysis of unfamiliar situations, evaluation of evidence, and extended scientific arguments. The culminating investigation is assessed holistically using published criteria covering: planning and design (15%), data collection and recording (20%), analysis and interpretation (25%), evaluation and reflection (15%), and communication (25%). This investigation represents the capstone assessment of the Physics curriculum—it should demonstrate the learner’s capacity to think, investigate, and communicate as a scientist.
+H. Whole-Subject Pedagogy Guidance
+H.1 Core Pedagogical Principles
+Principle 1: Phenomena first, formalism second.
+Every major concept should be introduced through an observable phenomenon, demonstration, or real-world question before formal definition or mathematical treatment. The sequence is: experience → describe → explain qualitatively → represent with models → express quantitatively. This applies at every grade level, though the balance shifts toward formalism as students progress.
+Principle 2: Inquiry as the core pedagogy.
+Physics is learned by doing physics. Practical work, investigation, and experiment are not supplements to the ‘real’ curriculum—they are the curriculum. At minimum, 30% of Grades 7–9 time should involve hands-on activity. Inquiry ranges from teacher-led demonstration (Grade 6) through guided investigation (Grade 7) to student-designed inquiry (Grades 8–9). The five-step inquiry cycle inherited from primary (Sonirkhokh—Sudlakh—Turshikh—Dügnelt khiikh—Ergetsüülekh) should be referenced and extended, not abandoned.
+Principle 3: Active misconception engagement.
+Physics is the discipline where students’ intuitive ideas most frequently conflict with scientific understanding. Common misconceptions must be anticipated and explicitly addressed through predict-observe-explain activities, cognitive conflict demonstrations, and structured argumentation—not through telling students they are wrong. Key misconceptions to address include: heavier objects fall faster; force is needed for constant motion; current is ‘used up’ in a circuit; heat and temperature are the same thing; cold is a substance that enters objects.
+Principle 4: Mathematical integration, not domination.
+Physics uses mathematics as a tool for expressing physical relationships. Mathematics should serve understanding, not replace it. Students should always be able to explain a concept in words before being asked to calculate with it. When mathematical formulas are introduced, they should be derived from physical reasoning and experimental evidence, not imposed as rules to memorise. Teachers should model thinking aloud through calculations, showing the reasoning behind each step.
+Principle 5: Collaborative learning as scientific practice.
+Science is a collaborative enterprise. Group investigations, peer explanation, scientific discussion, and collaborative problem-solving should be structured regularly. Effective group work requires explicit role allocation (measurer, recorder, analyser), shared accountability, and respectful disagreement. These collaborative competences connect to the inherited Khamtran Ajillakh competence from primary and develop it into structured scientific teamwork.
+H.2 Addressing Diverse Learners
+Physics pedagogy must accommodate the wide range of prior knowledge and mathematical confidence students bring. Strategies include: multiple representations (verbal, visual, mathematical, physical) for every concept; tiered tasks that allow entry at different levels; pre-teaching of necessary mathematical skills before physics demands them; use of concrete manipulatives and hands-on materials before abstract formalism; and formative assessment to identify gaps early. The progressive-entry design (Grade 6 as orientation) naturally supports differentiation by giving all students a common experiential foundation before formal demands begin.
+I. Whole-Subject Assessment Framework
+I.1 Assessment Principles
+Assessment in Physics should capture what matters: the ability to understand, explain, investigate, and apply physics—not merely to recall facts and substitute into formulas. All assessment should be constructively aligned with the learning outcomes and the pedagogical approach.
+I.2 Assessment Dimensions
+Physics assessment should capture four dimensions across Grades 7–9, with increasing sophistication:
+Dimension
+Grade 7
+Grade 8
+Grade 9
+Weight
+Conceptual understanding
+Describe and explain phenomena
+Analyse using physics principles
+Evaluate and synthesise
+~35%
+Scientific inquiry
+Follow structured method; record data
+Design experiments; evaluate reliability
+Independent investigation
+~25%
+Quantitative reasoning
+Simple calculations with given formula
+Select and apply formulas; graph analysis
+Multi-step problems; select method
+~20%
+Application and communication
+Apply to familiar contexts; brief reports
+Apply to new contexts; structured reports
+Evaluate real-world systems; full reports
+~20%
+I.3 Assessment Methods by Grade
+Grade 6: Formative only
+Teacher observation, oral questioning, observation journals, short descriptive writing, peer discussion. No grades, no examinations. Purpose: diagnostic and motivational.
+Grades 7–8: Formative + Summative
+4–6 summative assessments per year combining: short-answer conceptual questions, calculation problems, graph interpretation, practical skills tasks, and at least one structured investigation report. Formative assessment is continuous: exit tickets, retrieval practice, peer explanation, self-assessment checklists.
+Grade 9: Formative + Summative + Culminating Investigation
+Standard summative assessment at higher cognitive demand, plus the culminating investigation (assessed against published criteria covering planning, data collection, analysis, evaluation, and communication). The investigation constitutes approximately 20–25% of the Grade 9 assessment profile.
+I.4 Assessment Feasibility
+Assessment must be feasible for all schools. No assessment task should require: specialist laboratory equipment not universally available; internet access; digital devices; or materials that cannot be sourced locally. Practical assessment should be embedded in regular lessons (not conducted as separate formal examinations requiring additional setup). Teachers should be provided with assessment task banks, marking guides, and exemplar student responses in Mongolian.
+J. Inclusion, Feasibility, and Implementation Considerations
+J.1 Mixed Learner Readiness
+Students arrive at Grade 6 with widely varying prior knowledge, literacy levels, and mathematical confidence. PISA 2022 data shows that approximately half of Mongolian 15-year-olds perform below baseline in mathematics and reading. The Physics curriculum addresses this through: the Grade 6 orientation year (allowing diagnostic assessment and consolidation before formal demands begin); multiple-representation teaching (verbal, visual, practical, mathematical); tiered task design; and explicit pre-teaching of mathematical prerequisites. The curriculum never assumes that all students are uniformly ready for abstract reasoning at any grade—concrete anchors are provided at every level.
+J.2 Resource Variability
+The dual-track approach is built into the curriculum design. Core track (all schools): all learning outcomes achievable with everyday materials (water, ice, string, magnets, batteries, bulbs, rulers, thermometers, locally sourced objects), teacher-led demonstrations, outdoor investigations, and hand-drawn data representation. Enrichment track (well-resourced schools): laboratory apparatus, digital sensors, simulation software, internet access, and specialist equipment. The curriculum specifies which activities require specialist resources and always provides a core alternative. Field-based and outdoor physics (using the Mongolian environment itself as a laboratory) is promoted as a pedagogically superior approach, not a deficit accommodation.
+J.3 Teacher Support Needs
+In urban schools, Physics is typically taught by trained physics specialists. In soum and bag-level schools, it may be taught by general science teachers or non-specialists. The curriculum must be supported by: detailed teacher guidance materials in Mongolian explaining both the physics content and the recommended pedagogy; step-by-step practical activity instructions with materials lists; a misconception guide for each topic; assessment task banks with marking guides and exemplar responses; and differentiation suggestions for mixed-ability classes. Professional development should prioritise: inquiry-based pedagogy, practical work design with limited resources, formative assessment techniques, and the physics content knowledge needed for effective teaching.
+J.4 Rural and Urban Differences
+Rural students bring rich experiential knowledge of the physical world—weather, animal behaviour, heating, seasonal phenomena, traditional technology—that should be explicitly valued as a physics resource. Urban students bring familiarity with technology, infrastructure, and modern energy systems. The curriculum draws on both experiential worlds. Rural teachers may need more support with formal laboratory work; urban teachers may need prompting to use outdoor and environmental contexts. Cultural grounding ensures that neither context is privileged as the ‘default’.
+J.5 Low-Resource and Low-Connectivity Alternatives
+Every digital integration recommendation in this curriculum has an offline alternative. No learning outcome requires internet connectivity or a digital device. Schools without electricity can deliver the full core curriculum. Practical investigations use everyday materials available in any Mongolian community. Where the curriculum recommends simulations or digital tools, it simultaneously specifies the physical demonstration or hands-on activity that achieves the same learning outcome. The offline version is never described as inferior—it is the universal baseline from which digital enrichment extends.
+K. Risks to Avoid in Later Standards Writing or Textbook Development
+Risk 1: Content overload.
+The 231-hour allocation does not permit comprehensive physics coverage. Standards writers must resist adding topics beyond the scope specified here. Every additional topic displaces practical work, consolidation time, or depth of treatment. The curriculum is deliberately lean—this is a design feature, not a gap to be filled.
+Risk 2: Premature mathematisation.
+Textbooks must not introduce formulas before students have understood the underlying physical concepts qualitatively. The sequence phenomena → concept → formula is non-negotiable. A textbook that opens each chapter with definitions and equations has failed pedagogically regardless of its content accuracy.
+Risk 3: Grade uniformity.
+Grades 6, 7, 8, and 9 must look and feel different. Grade 6 should be curiosity-driven and experiential. Grade 7 should introduce systematic structure. Grade 8 should deepen analytical rigour. Grade 9 should synthesise and apply. Textbooks that treat all grades identically (same format, same cognitive demand, same proportion of theory to practice) will fail the developmental progression.
+Risk 4: Assessment-driven content compression.
+If high-stakes examinations drive curriculum delivery, practical work will be sacrificed to content coverage and exam preparation. Assessment formats must reinforce the pedagogy: inquiry-based tasks, practical assessment, and application problems should appear in any formal examination, not just recall and calculation.
+Risk 5: Cultural tokenism.
+Mongolian context must not be confined to ‘interesting examples’ in a sidebar. It must be the primary teaching context. A textbook that teaches all concepts using imported examples and adds a Mongolian example as decoration has failed the cultural grounding requirement.
+Risk 6: Digital dependency.
+Textbooks and teaching materials must not require digital devices for core content delivery. Digital tools should be recommended for enrichment, with physical alternatives always specified. A curriculum resource that only works with internet connectivity excludes the majority of Mongolian schools.
+Risk 7: Inquiry abandonment.
+The greatest single risk is that the inquiry competence inherited from primary—built over seven years through the five-step inquiry cycle—is abandoned in favour of information transmission. If Physics becomes a lecture-and-textbook subject, it has failed its most important developmental function. Standards writers must ensure that inquiry outcomes are not treated as optional extensions but as core, assessed competences at every grade level.
+Risk 8: Disconnection from the science cluster.
+Physics must not be designed as if it exists alone. Inquiry method, scientific vocabulary, data handling procedures, and environmental content must be coordinated with Biology, Chemistry, and Geography. Standards writers for all four sciences should meet regularly to ensure coherence, prevent duplication, and maintain the shared inquiry framework.
+Risk 9: Ignoring the primary foundation.
+Grade 6 and early Grade 7 must explicitly reference and build on what students learned in primary Natural Science. A curriculum that begins as if students have no prior knowledge of forces, energy, light, sound, magnets, and electricity wastes time, bores students, and signals that primary learning was worthless. Standards and textbooks should include explicit ‘building on primary’ references in the early units.
