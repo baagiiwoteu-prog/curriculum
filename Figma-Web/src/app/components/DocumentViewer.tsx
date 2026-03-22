@@ -13,17 +13,6 @@ export function DocumentViewer({ title, content, color, onClose }: DocumentViewe
   const contentRef = useRef<HTMLDivElement>(null);
   const [activeSection, setActiveSection] = useState<string>('');
 
-  // Extract document header (lines before first section)
-  const headerLines = useMemo(() => {
-    const lines = content.split('\n');
-    const result: string[] = [];
-    for (const line of lines) {
-      if (line.trim().match(/^[A-K]\.\d*\s/)) break;
-      if (line.trim()) result.push(line.trim());
-    }
-    return result;
-  }, [content]);
-
   const scrollToSection = (sectionId: string) => {
     const el = document.getElementById(`section-${sectionId}`);
     if (el) {
@@ -113,13 +102,6 @@ export function DocumentViewer({ title, content, color, onClose }: DocumentViewe
           >
             <div>
               <h2 className="text-xl font-bold text-gray-900">{title}</h2>
-              <div className="flex gap-3 mt-1">
-                {headerLines.slice(2).map((line, i) => (
-                  <span key={i} className="text-xs text-gray-500">
-                    {line}
-                  </span>
-                ))}
-              </div>
             </div>
             <button
               onClick={onClose}
