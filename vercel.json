@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd Figma-Web && npm install && npm run build",
+  "outputDirectory": "Figma-Web/dist"
+}
